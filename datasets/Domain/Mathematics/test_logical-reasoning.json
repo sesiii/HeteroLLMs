@@ -1,7 +1,7 @@
 [
   {
     "task_id": "LOG_0",
-    "domain": "Logic",
+    "domain": "Mathematics",
     "task_type": "Logical Reasoning",
     "prompt": "If all cats are mammals and some mammals are black, can we conclude that some cats are black?",
     "expected_answer": "Yes",
@@ -10,7 +10,7 @@
   },
   {
     "task_id": "LOG_1",
-    "domain": "Logic",
+    "domain": "Mathematics",
     "task_type": "Logical Reasoning",
     "prompt": "If today is Wednesday, what day will it be in 3 days?",
     "expected_answer": "Saturday",
@@ -19,7 +19,7 @@
   },
   {
     "task_id": "LOG_2",
-    "domain": "Logic",
+    "domain": "Mathematics",
     "task_type": "Logical Reasoning",
     "prompt": "In a sequence, each number is twice the previous number plus 1. If the first number is 1, what is the third number in the sequence?",
     "expected_answer": "7",
@@ -28,7 +28,7 @@
   },
   {
     "task_id": "LOG_3",
-    "domain": "Logic",
+    "domain": "Mathematics",
     "task_type": "Logical Reasoning",
     "prompt": "Three houses are in a row, numbered 1, 2, and 3 from left to right. Each house is painted a different color: red, blue, or green. House 1 is not red, house 2 is green, and house 3 is not blue. What is the color of each house?",
     "expected_answer": "House 1: blue, House 2: green, House 3: red",
@@ -37,7 +37,7 @@
   },
   {
     "task_id": "LOG_4",
-    "domain": "Logic",
+    "domain": "Mathematics",
     "task_type": "Logical Reasoning",
     "prompt": "If some A are B, and all B are C, which of the following is true? (a) All A are C, (b) Some A are C, (c) No A are C, (d) Some C are not A.",
     "expected_answer": "(b) Some A are C",
@@ -46,7 +46,7 @@
   },
   {
     "task_id": "LOG_5",
-    "domain": "Logic",
+    "domain": "Mathematics",
     "task_type": "Logical Reasoning",
     "prompt": "Four people—Alice, Bob, Charlie, and Dana—each have a different job: teacher, lawyer, doctor, and engineer. Alice is not the doctor, Bob is not the teacher, Charlie is not the engineer, and the lawyer is not Dana. Who is the doctor?",
     "expected_answer": "Charlie",
@@ -55,7 +55,7 @@
   },
   {
     "task_id": "LOG_6",
-    "domain": "Logic",
+    "domain": "Mathematics",
     "task_type": "Logical Reasoning",
     "prompt": "In a certain code, if 'CAT' is coded as 'DBU', how is 'DOG' coded?",
     "expected_answer": "EPH",
@@ -64,7 +64,7 @@
   },
   {
     "task_id": "LOG_7",
-    "domain": "Logic",
+    "domain": "Mathematics",
     "task_type": "Logical Reasoning",
     "prompt": "Five people—P, Q, R, S, and T—are seated in a row. P is next to Q, R is not next to S, T is on one end, and Q is not on an end. If S is in the middle, determine the seating arrangement.",
     "expected_answer": "T, P, Q, S, R or R, S, Q, P, T",

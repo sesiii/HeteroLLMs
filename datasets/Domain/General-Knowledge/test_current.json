@@ -1,7 +1,7 @@
 [
   {
     "task_id": "GEN_0",
-    "domain": "Factual Knowledge",
+    "domain": "General Knowledge",
     "task_type": "Current Affairs",
     "prompt": "What is the primary source of energy for Earth's climate system?",
     "expected_answer": "The Sun",
@@ -10,7 +10,7 @@
   },
   {
     "task_id": "GEN_1",
-    "domain": "Factual Knowledge",
+    "domain": "General Knowledge",
     "task_type": "Current Affairs",
     "prompt": "Who was the first human to walk on the moon, and in what year did this event occur?",
     "expected_answer": "Neil Armstrong, 1969",
@@ -19,7 +19,7 @@
   },
   {
     "task_id": "GEN_2",
-    "domain": "Factual Knowledge",
+    "domain": "General Knowledge",
     "task_type": "Current Affairs",
     "prompt": "If all cats are mammals, and some mammals are black, can we conclude that some cats are black? Explain your reasoning.",
     "expected_answer": "Yes, some cats can be black, as the statement 'some mammals are black' allows for the possibility that cats, being a subset of mammals, include black individuals. However, it is not guaranteed unless specified.",
@@ -28,7 +28,7 @@
   },
   {
     "task_id": "GEN_3",
-    "domain": "Factual Knowledge",
+    "domain": "General Knowledge",
     "task_type": "Current Affairs",
     "prompt": "Which river is the longest in the world?",
     "expected_answer": "The Nile",
@@ -37,7 +37,7 @@
   },
   {
     "task_id": "GEN_4",
-    "domain": "Factual Knowledge",
+    "domain": "General Knowledge",
     "task_type": "Current Affairs",
     "prompt": "Write a short poem (4-6 lines) about the beauty of the night sky.",
     "expected_answer": "A poem describing the night sky with imagery such as stars, moonlight, or constellations, evoking wonder or tranquility.",
@@ -46,7 +46,7 @@
   },
   {
     "task_id": "GEN_5",
-    "domain": "Factual Knowledge",
+    "domain": "General Knowledge",
     "task_type": "Mathematical Reasoning",
     "prompt": "A store offers a 20% discount on a $50 item. If an additional 10% tax is applied after the discount, what is the final price?",
     "expected_answer": "$44",
@@ -55,7 +55,7 @@
   },
   {
     "task_id": "GEN_6",
-    "domain": "Factual Knowledge",
+    "domain": "General Knowledge",
     "task_type": "Current Affairs",
     "prompt": "What does the acronym 'HTTP' stand for in the context of web technology?",
     "expected_answer": "HyperText Transfer Protocol",
@@ -64,7 +64,7 @@
   },
   {
     "task_id": "GEN_7",
-    "domain": "Factual Knowledge",
+    "domain": "General Knowledge",
     "task_type": "Current Affairs",
     "prompt": "Should autonomous vehicles prioritize the safety of passengers or pedestrians in a potential collision scenario? Provide a brief justification.",
     "expected_answer": "Answers may vary, but a valid response should weigh ethical principles, such as minimizing harm, and provide a clear rationale (e.g., prioritizing pedestrians to protect vulnerable parties).",
@@ -73,7 +73,7 @@
   },
   {
     "task_id": "GEN_8",
-    "domain": "Factual Knowledge",
+    "domain": "General Knowledge",
     "task_type": "Current Affairs",
     "prompt": "Which organization is responsible for maintaining international peace and security, as established by its charter in 1945?",
     "expected_answer": "United Nations",
@@ -82,7 +82,7 @@
   },
   {
     "task_id": "GEN_9",
-    "domain": "Factual Knowledge",
+    "domain": "General Knowledge",
     "task_type": "Current Affairs",
     "prompt": "Read the following sentence: 'The CEO decided to pivot the company's strategy to focus on sustainability.' What does 'pivot' mean in this context, and why might the CEO have made this decision?",
     "expected_answer": "'Pivot' means to shift or change direction. The CEO might have chosen sustainability due to market demand, regulatory pressures, or environmental concerns.",

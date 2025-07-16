@@ -1,7 +1,7 @@
 [
   {
     "task_id": "MMLU_047",
-    "domain": "Public Relations",
+    "domain": "Law",
     "task_type": "Public Relations",
     "prompt": "The following is a multiple-choice question:\nNo-Wait Weight Loss, a diet pill brand, promises its potential consumers that if they take one pill once a day they will lose weight without having to change their diet or start exercising. However, many people who have used the product have complained that they haven't lost weight, and some have even gained weight. No-Wait Weight Loss has been unsuccessful in the ________ stage of the advertising campaign.\n\nThe following choices are provided:\n(A) distribution\n(B) penetration\n(C) participation\n(D) identification\n\nPlease finish your answer with \"the answer is (X)\" where X is the correct letter choice.",
     "expected_answer": "The answer is (A) distribution",
@@ -10,7 +10,7 @@
   },
   {
     "task_id": "MMLU_604",
-    "domain": "Public Relations",
+    "domain": "Law",
     "task_type": "Public Relations",
     "prompt": "The following is a multiple-choice question:\nYou are the vice president of public relations for a corporation that produces a well-known brand of food products. In the Albany, New York, market, one of your products has recently been found to have some contamination. While apparently not fatal, it has given a large number of consumers severe stomach cramps and other intestinal problems. The cause has been traced back to your product, which is sold throughout the nation. Your CEO wants to know what you would advise to keep the situation from becoming a public relations disaster. What should you recommend?\n\nThe following choices are provided:\n(A) Conduct an internal investigation but do not publicly acknowledge the issue.\n(B) Issue a press release to the Albany, New York, market explaining how to treat the symptoms.\n(C) Stop all sales of the product throughout the nation and issue a recall for that product.\n(D) Quickly investigate to make certain your product is definitely the cause of the illness.\n(E) Only recall the product in stores where complaints have been received.\n(F) Continue sales but include warning labels on the product packaging.\n(G) Offer free product vouchers as compensation to affected consumers.\n(H) Deny any responsibility until more information is available.\n(I) Stop sales of the product in the Albany, New York, market and issue a recall for that product.\n(J) Issue a press release downplaying the severity of the illness.\n\nPlease finish your answer with \"the answer is (X)\" where X is the correct letter choice.",
     "expected_answer": "The answer is (C) Stop all sales of the product throughout the nation and issue a recall for that product.",
@@ -19,7 +19,7 @@
   },
   {
     "task_id": "MMLU_675",
-    "domain": "Public Relations",
+    "domain": "Law",
     "task_type": "Public Relations",
     "prompt": "The following is a multiple-choice question:\nWhich of the following is NOT one of the four categories of persuasive crisis communication strategies identified by W. Timothy Coombs?\n\nThe following choices are provided:\n(A) ingratiation\n(B) downplaying\n(C) distancing\n(D) nonexistence\n\nPlease finish your answer with \"the answer is (X)\" where X is the correct letter choice.",
     "expected_answer": "The answer is (B) downplaying",

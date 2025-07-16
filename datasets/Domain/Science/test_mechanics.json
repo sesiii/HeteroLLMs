@@ -1,7 +1,7 @@
 [
   {
     "task_id": "SCI_027",
-    "domain": "Physics",
+    "domain": "Science",
     "task_type": "Mechanics",
     "prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation.\nThe question is:An object is thrown horizontally at a speed and falls to the ground after 2 seconds. If the horizontal displacement of the object is 10m, then the initial velocity of the object when thrown horizontally is ( )\nA. 1m/s\nB. 3m/s\nC. 5m/s\nD. 7m/s",
     "expected_answer": "C. 5m/s",
@@ -10,7 +10,7 @@
   },
   {
     "task_id": "SCI_070",
-    "domain": "Physics",
+    "domain": "Science",
     "task_type": "Mechanics",
     "prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation.\nThe question is:If NA represents Avogadro's constant, the following statement is correct ( )\nA. At 1 standard atmospheric pressure, the number of molecules contained in 11.2L N2 at 20\u2103 is 0.5NA\nB. At 4\u2103, 9mL of water and 11.2L of nitrogen under standard conditions contain the same number of molecules\nC. At the same temperature and pressure, the volume of NA NO and NA N2 and O2 mixed gas is not equal\nD. At 0\u2103 and 1.01\u00d7104Pa, the number of atoms contained in 11.2L oxygen is NA",
     "expected_answer": "B. At 4\u2103, 9mL of water and 11.2L of nitrogen under standard conditions contain the same number of molecules",
@@ -19,7 +19,7 @@
   },
   {
     "task_id": "SCI_093",
-    "domain": "Physics",
+    "domain": "Science",
     "task_type": "Mechanics",
     "prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation.\nThe question is:A horizontal spring oscillator performs simple harmonic vibration with a period of T, then (\u3000\u3000)\nA. If the displacement of the oscillator at time t and time t+\u25b3t is equal in magnitude and direction, then \u25b3t must be an integer multiple of T\nB. If the displacement of the oscillator at time t and time t+\u25b3t is equal in magnitude and opposite in direction, then \u25b3t must be an integer multiple of\nC. If \u25b3t=T, then the acceleration of the oscillator at time t and time t+\u25b3t must be equal\nD. If \u25b3t=, then the length of the spring must be equal at time t and time t+\u25b3t",
     "expected_answer": "C. If \u25b3t=T, then the acceleration of the oscillator at time t and time t+\u25b3t must be equal",
@@ -28,7 +28,7 @@
   },
   {
     "task_id": "SCI_097",
-    "domain": "Physics",
+    "domain": "Science",
     "task_type": "Mechanics",
     "prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation.\nThe question is:A person paddles perpendicular to the river bank at a certain speed. When the water flows at a constant speed, the correct answer about the time required to cross the river, the displacement and the water speed is ( )\nA. When the water speed is low, the displacement is small and the time is short\nB. When the water speed is high, the displacement is large and the time is short\nC. When the water speed is high, the displacement is large and the time is constant\nD. Displacement and time have nothing to do with water speed",
     "expected_answer": "C. When the water speed is high, the displacement is large and the time is constant",
@@ -37,7 +37,7 @@
   },
   {
     "task_id": "SCI_105",
-    "domain": "Physics",
+    "domain": "Science",
     "task_type": "Mechanics",
     "prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation.\nThe question is:The two ends of a lightweight elastic rope are fixed on two points on a horizontal ceiling, which are $80 \\mathrm{~cm}$ apart. The original length of the elastic rope is also $80 \\mathrm{~cm}$. A hook is hung at the midpoint of the elastic rope. When the elastic rope is balanced, the total length of the elastic rope is $100 \\mathrm{~cm}$. Then the two ends of the elastic rope are slowly moved to the same point on the ceiling. The total length of the elastic rope becomes (the elongation of the elastic rope is always within the elastic limit)\nA. $86 \\mathrm{~cm}$\nB. $92 \\mathrm{~cm}$\nC. $98 \\mathrm{~cm}$\nD. $104 \\mathrm{~cm}$",
     "expected_answer": "B. $92 \\mathrm{~cm}$",
@@ -46,7 +46,7 @@
   },
   {
     "task_id": "SCI_213",
-    "domain": "Physics",
+    "domain": "Science",
     "task_type": "Mechanics",
     "prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation.\nThe question is:A particle is moving at a uniform speed in a straight line. A constant force is now applied to it, and the original force acting on the particle does not change. Then\nA. the direction of the particle's velocity is always the same as the direction of the constant force.\nB. The direction of the particle's velocity cannot always be perpendicular to the direction of the constant force.\nC. The direction of the particle's acceleration is always the same as the direction of the constant force.\nD. The amount of change in the particle's velocity per unit time is always constant.",
     "expected_answer": "B. The direction of the particle's velocity cannot always be perpendicular to the direction of the constant force.",
@@ -55,7 +55,7 @@
   },
   {
     "task_id": "SCI_246",
-    "domain": "Physics",
+    "domain": "Science",
     "task_type": "Mechanics",
     "prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation.\nThe question is:The sun releases huge amounts of energy due to nuclear fusion, while its mass is constantly decreasing. The sun radiates about $4 \\times 10^{26} \\mathrm{~J}$ of energy per second. According to Einstein's mass-energy equation, the sun's mass loss per second is closest to\nA. $10^{36} \\mathrm{~kg}$\nB. $10^{18} \\mathrm{~kg}$\nC. $10^{13} \\mathrm{~kg}$\nD. $10^{9} \\mathrm{~kg}$",
     "expected_answer": "D. $10^{9} \\mathrm{~kg}$",
@@ -64,7 +64,7 @@
   },
   {
     "task_id": "SCI_289",
-    "domain": "Physics",
+    "domain": "Science",
     "task_type": "Mechanics",
     "prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation.\nThe question is:A beam of light consisting of red and blue monochromatic light enters from the upper surface of a flat glass brick at an incident angle of $\\theta$, passes through the glass brick and exits from the lower surface. It is known that the refractive index of the glass for red light is 1.5. Suppose the time required for red light and blue light to pass through the glass brick is $\\mathrm{t}_{1}$ and $\\mathrm{t}_{2}$ respectively. In the process of $\\theta$ gradually increasing from $0^{\\circ}$ to $90^{\\circ}$,\nA. $\\mathrm{t}_{1}$ is always greater than $\\mathrm{t}_{2}$\nB. $\\mathrm{t}_{1}$ is always less than $\\mathrm{t}_{2}$\nC. $t_{1}$ is first greater than and then less than $t_{2}$\nD. $\\mathrm{t}_{1}$ First smaller than and then larger than $\\mathrm{t}_{2}$",
     "expected_answer": "B. $\\mathrm{t}_{1}$ is always less than $\\mathrm{t}_{2}$",
@@ -73,7 +73,7 @@
   },
   {
     "task_id": "SCI_374",
-    "domain": "Physics",
+    "domain": "Science",
     "task_type": "Mechanics",
     "prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation.\nThe question is:Assume that the value of Avogadro's constant is NA. Which of the following statements is correct: []( )\nA. The number of polar covalent bonds in 28g of ethylene molecules is 6NA\nB. Under certain conditions, 0.1molCu fully reacts with 0.1molI2, and the number of electrons transferred must be 0.2NA\nC. Under standard conditions, the number of atoms contained in 11.2L of a mixture of NO and O2 in any proportion is NA\nD. At 25\u2103, the number of OH- contained in 1.0LBa(OH)2 solution with pH=13 is 0.2NA",
     "expected_answer": "C. Under standard conditions, the number of atoms contained in 11.2L of a mixture of NO and O2 in any proportion is NA",
@@ -82,7 +82,7 @@
   },
   {
     "task_id": "SCI_406",
-    "domain": "Physics",
+    "domain": "Science",
     "task_type": "Mechanics",
     "prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation.\nThe question is:NA represents the value of Avogadro's constant. Which of the following statements is correct? (\u3000\u3000)\nA. Under standard conditions, the volume occupied by 0.05NA CO2 molecules is 1.12L\nB. 22gCO2 and 11.2LHCl have the same number of molecules\nC. 0.1mol/L sodium hydroxide solution contains 0.1NA Na+\nD. 20g NaOH solid dissolved in 500mL water can be made into 1mol/L NaOH solution",
     "expected_answer": "A. Under standard conditions, the volume occupied by 0.05NA CO2 molecules is 1.12L",
@@ -91,7 +91,7 @@
   },
   {
     "task_id": "SCI_533",
-    "domain": "Physics",
+    "domain": "Science",
     "task_type": "Mechanics",
     "prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation.\nThe question is:A particle performs simple harmonic motion. It reaches a certain point M for the first time after 0.3s from the maximum displacement, and then reaches point M for the second time after 0.2s. Then its vibration frequency is ( )\nA. 0.4Hz;\nB. 0.8Hz;\nC. 2.5Hz\nD. 1.25Hz",
     "expected_answer": "D. 1.25Hz",
@@ -100,7 +100,7 @@
   },
   {
     "task_id": "SCI_633",
-    "domain": "Physics",
+    "domain": "Science",
     "task_type": "Mechanics",
     "prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation.\nThe question is:After the molecular diameter D is measured using the oil film method, if the volume of a drop of oleic acid on the liquid surface is V, the area of \u200b\u200bthe oil film formed on the water surface is S, the number of oleic acid molecules in this drop of oleic acid is N, and the Avogadro constant is NA, then the following expression is approximately correct ( )\nA. V=N\u03c0D3\nB. S=N\u03c0D2\nC. V=NADS\nD. S=NA\u03c0D2",
     "expected_answer": "A. V=N\u03c0D3",
@@ -109,7 +109,7 @@
   },
   {
     "task_id": "SCI_687",
-    "domain": "Physics",
+    "domain": "Science",
     "task_type": "Mechanics",
     "prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation.\nThe question is:An object is stationary at the equator of a spherical celestial body with an average density of $\\rho$. Given the gravitational constant $G$, if the pressure of the object on the surface of the celestial body is exactly zero due to the rotation of the celestial body, then the rotation period of the celestial body is\nA. $\\left(\\frac{4 \\pi}{3 \\mathrm{G} \\rho}\\right)^{\\frac{1}{2}}$\nB. $\\left(\\frac{3}{4 \\pi G \\rho}\\right)^{\\frac{1}{2}}$\nC. $\\left(\\frac{\\pi}{G \\rho}\\right)^{\\frac{1}{2}}$\nD. $\\left(\\frac{3 \\pi}{G \\rho}\\right)^{\\frac{1}{2}}$",
     "expected_answer": "D. $\\left(\\frac{3 \\pi}{G \\rho}\\right)^{\\frac{1}{2}}$",
@@ -118,7 +118,7 @@
   },
   {
     "task_id": "SCI_721",
-    "domain": "Physics",
+    "domain": "Science",
     "task_type": "Mechanics",
     "prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation.\nThe question is:The same physical quantity at each point on a sphere with a point charge as the center and r as the radius is ( )\nA. Electric field strength\nB. Electric field experienced by the same charge\nC. Electric potential\nD. Electric potential energy of the same charge",
     "expected_answer": "D. Electric potential energy of the same charge",
@@ -127,7 +127,7 @@
   },
   {
     "task_id": "SCI_737",
-    "domain": "Physics",
+    "domain": "Science",
     "task_type": "Mechanics",
     "prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation.\nThe question is:On July 26, 2005, the US space shuttle \"Discovery\" was launched from the Kennedy Space Center. During the flight, a bird hit the external fuel tank of the space shuttle. Fortunately, the speed was not high at that time, and the space shuttle was safe. Assuming that the total mass of a spacecraft is 10 t, it is running at a high speed of 8 km/s and hits a large bird with a speed of 10 m/s and a mass of 5 kg head-on. The collision time is 1.0\u00d710-5s. The average force during the collision is about ( )\nA. 4\u00d7109N\nB. 8\u00d7109N\nC. 8\u00d71012N\nD. 5\u00d7106N",
     "expected_answer": "A. 4\u00d7109N",

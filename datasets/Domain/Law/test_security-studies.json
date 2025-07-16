@@ -1,7 +1,7 @@
 [
   {
     "task_id": "MMLU_082",
-    "domain": "Security Studies",
+    "domain": "Law",
     "task_type": "Security Studies",
     "prompt": "What role does the concept of 'human security' have in our understanding of security studies?\n\nFor this question, four choices are provided:\n(A) Human security as a concept has struggled to gain recognition amongst scholars of security studies, or in the policy-making community. There is a general failure to recognise the political and academic value of human security as a concept.\n(B) The concept of human security gained increasing currency in the mid-1990s, serving to highlight critical issues. In particular, the study of human society has focuses on the problem of intra-state violence, which has become the dominant issue for post-Cold War security studies.\n(C) The concept of human security does not challenge traditional state-centric arguments in so far as these concern the protection of the state from external military violence. However, it does show that state-centric realism is insufficient because it does not address the security of people within states.\n(D) Human security has become the dominant concept in understanding contemporary security studies. After the end of the Cold War, the state-centric security paradigm was made irrelevant and today there is a universal understanding that human beings and individuals within states should be the focal point of security.\n\nPlease choose the correct answer from the above choices.",
     "expected_answer": "(C) The concept of human security does not challenge traditional state-centric arguments in so far as these concern the protection of the state from external military violence. However, it does show that state-centric realism is insufficient because it does not address the security of people within states.",
@@ -10,7 +10,7 @@
   },
   {
     "task_id": "MMLU_120",
-    "domain": "Security Studies",
+    "domain": "Law",
     "task_type": "Security Studies",
     "prompt": "What is Critical Security Studies?\n\nFor this question, four choices are provided:\n(A) An approach to security that applies critical knowledge to established orthodoxies of security studies.\n(B) A specific theory of security that identifies clearly defined agents, threats, and processes.\n(C) A secondary term for the Copenhagen School of Security.\n(D) A study security in which the critical importance of the state, military and traditional security are maintained.\n\nPlease choose the correct answer from the above choices.",
     "expected_answer": "(A) An approach to security that applies critical knowledge to established orthodoxies of security studies.",
@@ -19,7 +19,7 @@
   },
   {
     "task_id": "MMLU_138",
-    "domain": "Security Studies",
+    "domain": "Law",
     "task_type": "Security Studies",
     "prompt": "What is the relationship between culture and social constructivism?\n\nFor this question, four choices are provided:\n(A) All of the below.\n(B) Culture is the product of shared identity and interaction, although it is important in understanding the dynamics of social identity, its wider reference to security studies is largely disputed.\n(C) Social constructivism does not regard culture as being an important feature to study, instead focusing on individualistic aspects of identity such as personal interests and ambition.\n(D) Culture is commonly regarded as a set of practices that give meaning to shared experiences and actions; it can impact on how states see security and is crucial in constructing the values and rules that inform identity.\n\nPlease choose the correct answer from the above choices.",
     "expected_answer": "(D) Culture is commonly regarded as a set of practices that give meaning to shared experiences and actions; it can impact on how states see security and is crucial in constructing the values and rules that inform identity.",
@@ -28,7 +28,7 @@
   },
   {
     "task_id": "MMLU_201",
-    "domain": "Security Studies",
+    "domain": "Law",
     "task_type": "Security Studies",
     "prompt": "Which statement best describes Booth's attitude toward constructivism and post-structuralism within Critical Security Studies?\n\nFor this question, four choices are provided:\n(A) Post-structuralism provides no basis for political action, being a dangerous mix of faux radicalism, relativism and obscurantism, whilst constructivism is an orientation to world politics rather than a specific political theory.\n(B) Constructivism offers a number of specific political theories applicable to Critical Security Studies but all of these lack the tenability required in security studies. Post-structuralist theories similarly lack the durability desired by CSS scholars.\n(C) Post-structuralism and constructivism are ill-defined theories that are better described as political orientations, applicable in vague terms but lacking the substance required by scholars in contemporary security studies.\n(D) Constructivism is too dangerous a mix of political ideologies, combining elements of radicalism and relativism. Post-structuralism is more of an orientation to world politics rather than a specific and applicable political theory.\n\nPlease choose the correct answer from the above choices.",
     "expected_answer": "(A) Post-structuralism provides no basis for political action, being a dangerous mix of faux radicalism, relativism and obscurantism, whilst constructivism is an orientation to world politics rather than a specific political theory.",
@@ -37,7 +37,7 @@
   },
   {
     "task_id": "MMLU_359",
-    "domain": "Security Studies",
+    "domain": "Law",
     "task_type": "Security Studies",
     "prompt": "In what ways may the security dimensions of infectious disease be considered in the national security framework?\n\nFor this question, four choices are provided:\n(A) The physical health of armed forces is a paramount concern within the traditional security paradigm, and the threat of disease is exacerbated by the physical and sociological conditions under which military personal operate, particularly during combat.\n(B) The innate human fear of microbes makes them particularly amenable to being portrayed not just as important health issues, but as national-security threats as well.\n(C) Diseases that traditionally affect certain regions of the world, due to their epidemiologic nature or for socio-economic reasons, are increasingly perceived by national governments as potential threats as a result of globalisation.\n(D) All of these options.\n\nPlease choose the correct answer from the above choices.",
     "expected_answer": "(D) All of these options.",
@@ -46,7 +46,7 @@
   },
   {
     "task_id": "MMLU_374",
-    "domain": "Security Studies",
+    "domain": "Law",
     "task_type": "Security Studies",
     "prompt": "In what ways has human security been significant as a concept?\n\nFor this question, four choices are provided:\n(A) Human security has put particular emphasis on the nexus between conflict and development, a concept which is very useful. The significance of the nexus between development and conflict is not just that it raises ethical issues about human suffering and inequalities, but that its frequent outcomes, so called state future, has dire local, regional, and global effects.\n(B) From a normative perspective, the concept serves to highlight good global norms. Human security often serves as an umbrella norm. Developing good global norms is not only important for moral and ethical reasons but also because they serve to enhance state and international society.\n(C) The development of the human security concept highlights the view that the threats to humans as well as to state entities are changing and increasing. These changes have spurred debates about the meaning of security and the arguments for its broadening and deepening. Like internal violence, these transnational issues have serious local, regional, and global effects.\n(D) All of these options.\n\nPlease choose the correct answer from the above choices.",
     "expected_answer": "(D) All of these options.",
@@ -55,7 +55,7 @@
   },
   {
     "task_id": "MMLU_375",
-    "domain": "Security Studies",
+    "domain": "Law",
     "task_type": "Security Studies",
     "prompt": "In what ways does gender shape the conceptualization of nationhood and conflict?\n\nFor this question, four choices are provided:\n(A) Although often missing from the traditional literature on war and security, women frequently serve the purposes of nationalise causes, with nationalism often presented in highly gendered and female terms, where women are symbols of statehood.\n(B) A sense of national identity can be developed through a variety of shared experiences, including war. The glorification of iconic national figures such as political leaders is not noticeably gendered and men and women generally perform the same types of roles within the public realm.\n(C) Measures of national pride and success are biased towards the glorification of female attributes such as the ability to bear children. The restriction of women to the domestic sphere creates a sense of national identity that is founded on a celebration of home life, feminine strength, and maternal characteristics.\n(D) When thinking about national identity, violence, physical strength, aggression, and the ability to use force are attributed as feminine characteristics. The male identity is imagined as being one of domesticity, nurturing, care, and child rearing.\n\nPlease choose the correct answer from the above choices.",
     "expected_answer": "(A) Although often missing from the traditional literature on war and security, women frequently serve the purposes of nationalise causes, with nationalism often presented in highly gendered and female terms, where women are symbols of statehood.",
@@ -64,7 +64,7 @@
   },
   {
     "task_id": "MMLU_497",
-    "domain": "Security Studies",
+    "domain": "Law",
     "task_type": "Security Studies",
     "prompt": "What is realism?\n\nFor this question, four choices are provided:\n(A) Realism is a set of approaches to Security Studies that focuses on states, and tries to determine which strategy a state should adopt to achieve security and other goals.\n(B) Realism is the broad term that can be applied to any traditional approach to Security Studies.\n(C) Realism is a set of approaches that encompasses any security threat that involves the military.\n(D) Realism is defined by the belief that the behaviour of states constructs the international arena and that this behaviour is established through the internal environment of the state.\n\nPlease choose the correct answer from the above choices.",
     "expected_answer": "(A) Realism is a set of approaches to Security Studies that focuses on states, and tries to determine which strategy a state should adopt to achieve security and other goals.",
@@ -73,7 +73,7 @@
   },
   {
     "task_id": "MMLU_576",
-    "domain": "Security Studies",
+    "domain": "Law",
     "task_type": "Security Studies",
     "prompt": "Which of the following is not a purported limitation of the liberalist approach?\n\nFor this question, four choices are provided:\n(A) Liberalism poses great difficulty in defining when the use of force would be justified or necessary.\n(B) Liberalism is often internally inconsistent, limiting its applicability for use as a guide.\n(C) A failure to address the importance of a wide range of actors in the decision-making processes of the international system.\n(D) Liberalist influence merely reflects Western dominance, potentially undermining its relevance in the future.\n\nPlease choose the correct answer from the above choices.",
     "expected_answer": "(C) A failure to address the importance of a wide range of actors in the decision-making processes of the international system.",
@@ -82,7 +82,7 @@
   },
   {
     "task_id": "MMLU_617",
-    "domain": "Security Studies",
+    "domain": "Law",
     "task_type": "Security Studies",
     "prompt": "How has coercive diplomacy featured in contemporary security studies?\n\nFor this question, four choices are provided:\n(A) Compellence and coercion through diplomacy are linked with the 'pre-emptive use of force'.\n(B) Coercive diplomacy is a softly-softly approach to international power bargaining, that has been side-lined in recent years.\n(C) Deterrence as a strategy has dominated contemporary instances of coercive diplomacy.\n(D) All of these options.\n\nPlease choose the correct answer from the above choices.",
     "expected_answer": "(A) Compellence and coercion through diplomacy are linked with the 'pre-emptive use of force'.",
@@ -91,7 +91,7 @@
   },
   {
     "task_id": "MMLU_630",
-    "domain": "Security Studies",
+    "domain": "Law",
     "task_type": "Security Studies",
     "prompt": "What is the function of sanctions?\n\nFor this question, four choices are provided:\n(A) As a means of exerting economic power to advance peace and freedom.\n(B) To end economic support for morally unacceptable regimes.\n(C) To isolate dangerous regimes and weaken threats to regional or global security.\n(D) All of these options.\n\nPlease choose the correct answer from the above choices.",
     "expected_answer": "(D) All of these options.",
@@ -100,7 +100,7 @@
   },
   {
     "task_id": "MMLU_703",
-    "domain": "Security Studies",
+    "domain": "Law",
     "task_type": "Security Studies",
     "prompt": "When considering economic tools for security policy, which of the following is the odd one out?\n\nFor this question, four choices are provided:\n(A) Withdrawal of economic trade rights with the domestic market.\n(B) Export controls protecting technological advantage and further foreign policy objectives.\n(C) Control of munitions and arms sales.\n(D) Import restrictions to protect a domestic market from foreign goods.\n\nPlease choose the correct answer from the above choices.",
     "expected_answer": "(A) Withdrawal of economic trade rights with the domestic market.",
@@ -109,7 +109,7 @@
   },
   {
     "task_id": "MMLU_740",
-    "domain": "Security Studies",
+    "domain": "Law",
     "task_type": "Security Studies",
     "prompt": "What problems has the post-Cold War security literature revealed on women, war, development, and security?\n\nFor this question, four choices are provided:\n(A) Technological advancements have to some extent rendered the battlefield gender-neutral. 'Virtual' warfare has resolved the historical tension between the citizen and the state security apparatus; if actual combat could be avoided then male and female soldiers could wage war on equal terms. However, technological advancement remains unequal and so the gender situation is different in different contexts, depending on development and security issues.\n(B) The technological capacity to wage war with minimal civilian costs has abolished the threat of physical and biological gender victimization. The contemporary gender divide is structured on 'soft' issues associated with socio-economic hardship.\n(C) Conflict in warfare and the gender divide between men and women is centred on the historical contract between the individual and the state. The 'right to fight' debate has equal meaning and saliency across the globe, and is universally applicable in all situations.\n(D) Nuclear armaments and the threat of mass destruction have rendered the battlefield gender neutral in terms of its destructive capabilities. Whilst historically conventional warfare was conducted on the battlefield in which women were particularly vulnerable to violence, and post-conflict sexual violence, these threats no longer exist.\n\nPlease choose the correct answer from the above choices.",
     "expected_answer": "(A) Technological advancements have to some extent rendered the battlefield gender-neutral. 'Virtual' warfare has resolved the historical tension between the citizen and the state security apparatus; if actual combat could be avoided then male and female soldiers could wage war on equal terms. However, technological advancement remains unequal and so the gender situation is different in different contexts, depending on development and security issues.",
@@ -118,7 +118,7 @@
   },
   {
     "task_id": "MMLU_853",
-    "domain": "Security Studies",
+    "domain": "Law",
     "task_type": "Security Studies",
     "prompt": "What has been the impact of nuclear deterrence on international politics post-Cold War?\n\nFor this question, four choices are provided:\n(A) There is a developing scholarly trend toward proliferation pessimism, a pattern which has gained momentum rather than subsided with the end of the Cold War. There is concern that accidental war may occur, either through misperception, psychological or technical problems that can lead to spiralling tensions which result in a failure of deterrence policy. In addition, normal accidents resulting from the inability of a state to capably anticipate human-machine interactions in the complexities of the international (and anarchical) system may also occur.\n(B) Proliferation optimists dispute the claim that nuclear technology leads to a propensity of the holding actor towards war. They do concede that there is the risk that terrorists acquiring the weapon could create an existential threat to the international system, although the threat is not yet a reality. Furthermore, the ability to retaliate can eliminate an opponent's potential gain.\n(C) Despite the recognition that the ability to retaliate (the secure second-strike capability) produces a situation known as crisis stability, there is no consensus on the impact of nuclear capabilities, whether a source of stabilization or an existential threat. However there is agreement that the spread of WMD capacity to non-state actors would be fundamentally detrimental to international security based on the recognition that existing deterrence strategies and capabilities do not address the use of nuclear weapons. Indeed whilst the possibility exists, states will have to heighten security efforts.\n(D) Deterrence has proved to have been a source of stabilization during the Cold War but proliferation pessimists contend that new states' development programs do not provide sufficient guarantees that the state sponsors will act as good custodians. Weak state structures might result in sabotage, accidental use, or even theft. There is also the problem of states developing technology under the guise of deterrence whilst having ulterior motives. Domestic pressures may result in a regime gravitating towards nuclear war fighting strategies to win a rapid victory and strengthen status.\n\nPlease choose the correct answer from the above choices.",
     "expected_answer": "(C) Despite the recognition that the ability to retaliate (the secure second-strike capability) produces a situation known as crisis stability, there is no consensus on the impact of nuclear capabilities, whether a source of stabilization or an existential threat. However there is agreement that the spread of WMD capacity to non-state actors would be fundamentally detrimental to international security based on the recognition that existing deterrence strategies and capabilities do not address the use of nuclear weapons. Indeed whilst the possibility exists, states will have to heighten security efforts.",
@@ -127,7 +127,7 @@
   },
   {
     "task_id": "MMLU_898",
-    "domain": "Security Studies",
+    "domain": "Law",
     "task_type": "Security Studies",
     "prompt": "What factors enabled the expansion of transnational crime (TNC) in the 1990s?\n\nFor this question, four choices are provided:\n(A) Transnational crime developed as a result of the declining expenditure on defence and the standing down of armies, which reduced the risk of activities.\n(B) TNC as a concept emerged in the academic sphere as linked to human security concerns and developmental opportunities in weak states as a means of conflict resolution and peace building in Europe.\n(C) Transnational criminal activities have always been a feature of the international system. In the policy community, the growth of interest in TNC is due to the increasing sophistication of intelligence and communications technology, which has enabled the true representation of the scale and the scope of the problem to be known.\n(D) International trends such as globalization may have had the unintentional consequence of opening up new spaces for the development of transnational crime.\n\nPlease choose the correct answer from the above choices.",
     "expected_answer": "(D) International trends such as globalization may have had the unintentional consequence of opening up new spaces for the development of transnational crime.",
@@ -136,7 +136,7 @@
   },
   {
     "task_id": "MMLU_978",
-    "domain": "Security Studies",
+    "domain": "Law",
     "task_type": "Security Studies",
     "prompt": "Which of the following is not an economic tool of security policy?\n\nFor this question, four choices are provided:\n(A) Sanctions\n(B) Diplomacy\n(C) Trade\n(D) Aid\n\nPlease choose the correct answer from the above choices.",
     "expected_answer": "(B) Diplomacy",

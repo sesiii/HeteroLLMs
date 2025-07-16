@@ -1,7 +1,7 @@
 [
   {
     "task_id": "MMLU_042",
-    "domain": "Public Relations",
+    "domain": "General Knowledge",
     "task_type": "Human Sexuality",
     "prompt": "The following is a multiple-choice question:\nThe follicular phase is to the __________ as the luteal phase is to the secretory phase.\n\nThe following choices are provided:\n(A) secretory\n(B) ovulatory\n(C) menstrual cycle\n(D) proliferative\n(E) postovulatory\n(F) preovulatory\n(G) menstrual\n(H) premenstrual\n(I) endometrial\n(J) myometrial\n\nPlease finish your answer with \"the answer is (X)\" where X is the correct letter choice.",
     "expected_answer": "The answer is (D) proliferative",
@@ -10,7 +10,7 @@
   },
   {
     "task_id": "MMLU_261",
-    "domain": "Public Relations",
+    "domain": "General Knowledge",
     "task_type": "Human Sexuality",
     "prompt": "The following is a multiple-choice question:\nErection in the male and vaginal lubrication in the female mark the __________ stage of sexual response.\n\nThe following choices are provided:\n(A) resolution\n(B) relaxation\n(C) refractory\n(D) orgasm\n(E) pre-plateau\n(F) arousal\n(G) excitement\n(H) post-orgasm\n(I) recovery\n(J) plateau\n\nPlease finish your answer with \"the answer is (X)\" where X is the correct letter choice.",
     "expected_answer": "The answer is (G) excitement",
@@ -19,7 +19,7 @@
   },
   {
     "task_id": "MMLU_507",
-    "domain": "Public Relations",
+    "domain": "General Knowledge",
     "task_type": "Human Sexuality",
     "prompt": "The following is a multiple-choice question:\nMenstruation is triggered by...\n\nThe following choices are provided:\n(A) ...a sharp increase in testosterone levels\n(B) ...a sharp increase in estrogen levels\n(C) ...a sharp decrease in testosterone levels\n(D) ...a steady increase in estrogen and progesterone levels\n(E) ...a steady decrease in progesterone levels\n(F) ...a sharp increase in estrogen and progesterone levels\n(G) ...a sharp increase in progesterone levels\n(H) ...a steady decrease in estrogen and progesterone levels\n(I) ...a steady increase in estrogen levels\n(J) ...a sharp decrease in estrogen and progesterone levels\n\nPlease finish your answer with \"the answer is (X)\" where X is the correct letter choice.",
     "expected_answer": "The answer is (J) ...a sharp decrease in estrogen and progesterone levels",
@@ -28,7 +28,7 @@
   },
   {
     "task_id": "MMLU_552",
-    "domain": "Public Relations",
+    "domain": "General Knowledge",
     "task_type": "Human Sexuality",
     "prompt": "The following is a multiple-choice question:\nWhat sexual act is prohibited in most societies?\n\nThe following choices are provided:\n(A) sex without consent\n(B) sex during menstruation\n(C) sex with an animal\n(D) sex in public places\n(E) sex with a minor\n(F) sex with a dead person\n(G) sex for money\n(H) incest\n(I) masturbation\n(J) sex with a non-spouse if the person is married.\n\nPlease finish your answer with \"the answer is (X)\" where X is the correct letter choice.",
     "expected_answer": "The answer is (H) incest",
@@ -37,7 +37,7 @@
   },
   {
     "task_id": "MMLU_587",
-    "domain": "Public Relations",
+    "domain": "General Knowledge",
     "task_type": "Human Sexuality",
     "prompt": "The following is a multiple-choice question:\nRomulo is on a crowded bus and he sees a woman near the door. Feeling a little saucy Romulo proceeds to rub up against the woman and is immediately aroused. Romulo's inappropriate behavior would be characterized as:\n\nThe following choices are provided:\n(A) Narcissism\n(B) Voyeurism\n(C) Fetishism\n(D) Pedophilic Disorder\n(E) Transvestic Disorder\n(F) Sexual Sadism Disorder\n(G) Exhibitionism\n(H) Frotteurism\n(I) Sadomasochism\n(J) Masochism\n\nPlease finish your answer with \"the answer is (X)\" where X is the correct letter choice.",
     "expected_answer": "The answer is (H) Frotteurism",
@@ -46,7 +46,7 @@
   },
   {
     "task_id": "MMLU_608",
-    "domain": "Public Relations",
+    "domain": "General Knowledge",
     "task_type": "Human Sexuality",
     "prompt": "The following is a multiple-choice question:\nThe two principles that deal with questions of values are:\n\nThe following choices are provided:\n(A) faith and science\n(B) faith and legal\n(C) religion and science\n(D) religion and ethics\n(E) legal and ethics\n(F) science and legal\n(G) faith and religion\n(H) legal and religion\n(I) ethics and science\n\nPlease finish your answer with \"the answer is (X)\" where X is the correct letter choice.",
     "expected_answer": "The answer is (D) religion and ethics",
@@ -55,7 +55,7 @@
   },
   {
     "task_id": "MMLU_705",
-    "domain": "Public Relations",
+    "domain": "General Knowledge",
     "task_type": "Human Sexuality",
     "prompt": "The following is a multiple-choice question:\nAccording to a study by Sprecher, Barbee, and Schwartz (1995), women were more likely than men to have ________ following their first act of intercourse.\n\nThe following choices are provided:\n(A) experienced relief\n(B) felt excitement\n(C) felt disappointment\n(D) experienced regret\n(E) experienced confusion\n(F) felt fear\n(G) felt glad\n(H) experienced guilt\n(I) felt shame\n(J) felt indifference\n\nPlease finish your answer with \"the answer is (X)\" where X is the correct letter choice.",
     "expected_answer": "The answer is (H) experienced guilt",
@@ -64,7 +64,7 @@
   },
   {
     "task_id": "MMLU_955",
-    "domain": "Public Relations",
+    "domain": "General Knowledge",
     "task_type": "Human Sexuality",
     "prompt": "The following is a multiple-choice question:\nWhich of the following is/are true of gonorrhea?\n\nThe following choices are provided:\n(A) always causes severe pain and discomfort\n(B) can be treated with antibiotics\n(C) can be completely prevented with the use of condoms\n(D) only affects men\n(E) infections are limited to genital areas\n(F) is a viral infection\n(G) is a form of herpes\n(H) is asymptomatic (without symptoms) in only a small percentage of those infected\n(I) can be cured with over-the-counter medication\n\nPlease finish your answer with \"the answer is (X)\" where X is the correct letter choice.",
     "expected_answer": "The answer is (B) can be treated with antibiotics",

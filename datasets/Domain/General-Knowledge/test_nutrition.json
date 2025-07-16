@@ -1,7 +1,7 @@
 [
   {
     "task_id": "MMLU_018",
-    "domain": "Health",
+    "domain": "General Knowledge",
     "task_type": "Nutrition",
     "prompt": "The following is a multiple-choice question:\nIn a healthy person maintaining energy balance in equilibrium (i.e. mathematical equality of energy intake and energy expenditure) is generally achieved on a:\n\n\nThe following choices are provided:\n(A) 4-5 day basis\n(B) 3-4 day basis\n(C) 5-6 day basis\n(D) Hourly basis\n(E) Monthly basis\n(F) 1-2 week basis\n(G) Weekly basis\n(H) 1-2 month basis\n(I) 2-3 day basis\n(J) day-to-day basis\n\nPlease finish your answer with \"the answer is (X)\" where X is the correct letter choice.",
     "expected_answer": "The answer is (F) 1-2 week basis",
@@ -10,7 +10,7 @@
   },
   {
     "task_id": "MMLU_038",
-    "domain": "Health",
+    "domain": "General Knowledge",
     "task_type": "Nutrition",
     "prompt": "The following is a multiple-choice question:\nWhich of the following is true about dietary calcium:\n\n\nThe following choices are provided:\n(A) Typical calcium intake in most adults is between 0.5mg and 2.0mg per day\n(B) Activated Vitamin D decreases absorption of dietary calcium\n(C) There is clear evidence that people who consume more than the average amount of calcium have a lower risk of bone fractures.\n(D) Absorption efficiency is inversely related to calcium intake, so that a higher proportion is absorbed when calcium intake is low\n\nPlease finish your answer with \"the answer is (X)\" where X is the correct letter choice.",
     "expected_answer": "The answer is (D) Absorption efficiency is inversely related to calcium intake, so that a higher proportion is absorbed when calcium intake is low",
@@ -19,7 +19,7 @@
   },
   {
     "task_id": "MMLU_079",
-    "domain": "Health",
+    "domain": "General Knowledge",
     "task_type": "Nutrition",
     "prompt": "The following is a multiple-choice question:\nOn an average daily basis, the gross energy intake of a healthy woman is 9279 kJ, the energy content of her faeces and urine are 647 kJ and 318 kJ, respectively. Her average daily digestible energy intake and metabolisable energy intake would be, respectively,:\n\n\nThe following choices are provided:\n(A) 9279-318 kJ and 9279-647 kJ\n(B) 9279-318 kJ and 9279-318 kJ\n(C) 9279-(318+647) kJ and 9279-647 kJ\n(D) 9279+647 kJ and 9279-(318+647) kJ\n(E) 9279+318 kJ and 9279-(318+318) kJ\n(F) 9279-647 kJ and 9279-(647+318) kJ\n(G) 9279-318 kJ and 9279-(318+318) kJ\n(H) 9279+318 kJ and 9279+647 kJ\n(I) 9279 kJ and 9279-(318+318) kJ\n(J) 647 kJ and 318 kJ\n\nPlease finish your answer with \"the answer is (X)\" where X is the correct letter choice.",
     "expected_answer": "The answer is (F) 9279-647 kJ and 9279-(647+318) kJ",
@@ -28,7 +28,7 @@
   },
   {
     "task_id": "MMLU_095",
-    "domain": "Health",
+    "domain": "General Knowledge",
     "task_type": "Nutrition",
     "prompt": "The following is a multiple-choice question:\nWhich of the following rules regarding the interconversion of fuels are central to the integration of metabolic pathways?\n\n\nThe following choices are provided:\n(A) Fatty acids can be made from and converted to carbohydrates and amino acids\n(B) Carbohydrates can be made from and converted to amino acids and fatty acids\n(C) Fatty acids can be made from but not converted to carbohydrates and amino acids\n(D) Amino acids can be made from and converted to fatty acids\n\nPlease finish your answer with \"the answer is (X)\" where X is the correct letter choice.",
     "expected_answer": "The answer is (C) Fatty acids can be made from but not converted to carbohydrates and amino acids",
@@ -37,7 +37,7 @@
   },
   {
     "task_id": "MMLU_270",
-    "domain": "Health",
+    "domain": "General Knowledge",
     "task_type": "Nutrition",
     "prompt": "The following is a multiple-choice question:\nWhich of the following foods do not contain free sugars\n\n\nThe following choices are provided:\n(A) White bread\n(B) Canned fruit in syrup\n(C) Maple syrup\n(D) Honey\n(E) Natural unsweetened orange juice\n(F) Cows' milk\n(G) Agave nectar\n(H) Fruit flavored yogurt\n(I) Unsweetened iced tea\n\nPlease finish your answer with \"the answer is (X)\" where X is the correct letter choice.",
     "expected_answer": "The answer is (F) Cows' milk",
@@ -46,7 +46,7 @@
   },
   {
     "task_id": "MMLU_336",
-    "domain": "Health",
+    "domain": "General Knowledge",
     "task_type": "Nutrition",
     "prompt": "The following is a multiple-choice question:\nWhich of these factors increases the risk for cancer of the oesophagus?\n\n\nThe following choices are provided:\n(A) Vitamin D supplements\n(B) Fruit and vegetables\n(C) Salt\n(D) Red meat\n(E) Dairy products\n(F) Alcohol\n(G) Whole grains\n(H) Physical activity\n(I) Drinking water\n\nPlease finish your answer with \"the answer is (X)\" where X is the correct letter choice.",
     "expected_answer": "The answer is (F) Alcohol",
@@ -55,7 +55,7 @@
   },
   {
     "task_id": "MMLU_362",
-    "domain": "Health",
+    "domain": "General Knowledge",
     "task_type": "Nutrition",
     "prompt": "The following is a multiple-choice question:\nWhen using bioelectrical impedance for measuring body composition, why does an electrical current travel faster through muscle than it does through fat?\n\n\nThe following choices are provided:\n(A) Fat conducts electricity better than muscle\n(B) Fat is denser than muscle\n(C) Fat contains less water than muscle\n(D) Muscle weighs more than fat\n(E) Muscle contains less water than fat\n(F) Muscle is denser than fat\n(G) Muscle contains more water than fat\n(H) Fat contains more electrolytes than muscle\n(I) Muscle contains more electrolytes than fat\n(J) Muscle weighs less than fat\n\nPlease finish your answer with \"the answer is (X)\" where X is the correct letter choice.",
     "expected_answer": "The answer is (G) Muscle contains more water than fat",
@@ -64,7 +64,7 @@
   },
   {
     "task_id": "MMLU_436",
-    "domain": "Health",
+    "domain": "General Knowledge",
     "task_type": "Nutrition",
     "prompt": "The following is a multiple-choice question:\nWhich of the following statements about the global ageing population is correct?\n\n\nThe following choices are provided:\n(A) In older age groups men outnumber women.\n(B) The rate of increase in the median age of populations is slower in developing countries than wealthy countries.\n(C) The global aging population is decreasing due to advancements in healthcare.\n(D) By 2050, the majority of the world's population will be under the age of 40.\n(E) Men have a lower mortality rate than women, over the life course.\n(F) The rate of increase in the median age of populations is greater in developing countries than wealthy countries.\n(G) In older age groups, the number of men and women is equal.\n\nPlease finish your answer with \"the answer is (X)\" where X is the correct letter choice.",
     "expected_answer": "The answer is (F) The rate of increase in the median age of populations is greater in developing countries than wealthy countries.",
@@ -73,7 +73,7 @@
   },
   {
     "task_id": "MMLU_510",
-    "domain": "Health",
+    "domain": "General Knowledge",
     "task_type": "Nutrition",
     "prompt": "The following is a multiple-choice question:\nWhich of the following statements about glucose metabolism is correct?\n\n\nThe following choices are provided:\n(A) The end-product of glycolysis in all cells is glucose\n(B) Glycolysis doesn't require any enzymes\n(C) In glycolysis, glucose is cleaved into two three-carbon products\n(D) Glucose metabolism only occurs in the presence of oxygen\n(E) In glycolysis, glucose is converted into two molecules of fructose\n(F) Glycolysis requires ATP only\n(G) Glucagon increases the rate of glycolysis\n(H) Glycolysis requires NADP+\n(I) Glucagon decreases the rate of glycolysis\n(J) The end-product of glycolysis in red blood cells is pyruvate\n\nPlease finish your answer with \"the answer is (X)\" where X is the correct letter choice.",
     "expected_answer": "The answer is (C) In glycolysis, glucose is cleaved into two three-carbon products",
@@ -82,7 +82,7 @@
   },
   {
     "task_id": "MMLU_511",
-    "domain": "Health",
+    "domain": "General Knowledge",
     "task_type": "Nutrition",
     "prompt": "The following is a multiple-choice question:\nHow much dietary protein should athletes consume daily?\n\n\nThe following choices are provided:\n(A) >2.0 g protein per kg bodyweight per day\n(B) 1.2-1.7 g protein per kg bodyweight per day\n(C) <0.8 g protein per kg bodyweight per day\n(D) 1.5-2.0 g protein per kg bodyweight per day\n(E) 1.0-1.5 g protein per kg bodyweight per day\n(F) 1.7-2.2 g protein per kg bodyweight per day\n(G) 0.5-0.8 g protein per kg bodyweight per day\n(H) 1.8-2.0 g protein per kg bodyweight per day\n(I) 0.8-1.4 g protein per kg bodyweight per day\n(J) 0.8-1.2 g protein per kg bodyweight per day\n\nPlease finish your answer with \"the answer is (X)\" where X is the correct letter choice.",
     "expected_answer": "The answer is (B) 1.2-1.7 g protein per kg bodyweight per day",
@@ -91,7 +91,7 @@
   },
   {
     "task_id": "MMLU_525",
-    "domain": "Health",
+    "domain": "General Knowledge",
     "task_type": "Nutrition",
     "prompt": "The following is a multiple-choice question:\nWhat enzyme is responsible for copying methylation marks from the parental to the daughter strand of DNA during replication?\n\n\nThe following choices are provided:\n(A) DNMT1\n(B) DNMT3a\n(C) DNMT3b\n(D) DNMT3L\n\nPlease finish your answer with \"the answer is (X)\" where X is the correct letter choice.",
     "expected_answer": "The answer is (A) DNMT1",
@@ -100,7 +100,7 @@
   },
   {
     "task_id": "MMLU_573",
-    "domain": "Health",
+    "domain": "General Knowledge",
     "task_type": "Nutrition",
     "prompt": "The following is a multiple-choice question:\nWhat is the phenotype of a congenital disorder impairing the secretion of leptin?\n\n\nThe following choices are provided:\n(A) Normal energy intake, normal body weight and hyperthyroidism\n(B) Obesity, excess energy intake, normal growth and hypoinsulinaemia\n(C) Obesity, abnormal growth, hypothyroidism, hyperinsulinaemia\n(D) Underweight, abnormal growth, hypothyroidism, hyperinsulinaemia\n\nPlease finish your answer with \"the answer is (X)\" where X is the correct letter choice.",
     "expected_answer": "The answer is (C) Obesity, abnormal growth, hypothyroidism, hyperinsulinaemia",
@@ -109,7 +109,7 @@
   },
   {
     "task_id": "MMLU_602",
-    "domain": "Health",
+    "domain": "General Knowledge",
     "task_type": "Nutrition",
     "prompt": "The following is a multiple-choice question:\nIntestinal motility is a complex process, orchestrated by nerves, hormones and the presence of food in the stomach. Which statement about this process is correct?\n\n\nThe following choices are provided:\n(A) At the start of a meal, the stomach increases its \"tone\" in order to develop pressure which will lead to expulsion of its contents, via the pylorus\n(B) The presence of partially digested fat and starch in the duodenum, speeds up intestinal motility\n(C) The migrating motor complex is chiefly responsible for the absorption of nutrients after a meal has been consumed\n(D) The migrating motor complex is chiefly responsible for peristaltic movement of food after a meal has been consumed\n(E) The release of glucagon after eating a meal will speed up the emptying of the stomach\n(F) The stomach decreases its \"tone\" at the end of a meal to develop pressure which will lead to expulsion of its contents, via the pylorus\n(G) The presence of partially digested fat and starch in the duodenum, slows intestinal motility\n(H) The release of insulin after eating a meal will speed up the emptying of the stomach\n(I) The presence of partially digested protein and fiber in the duodenum, speeds up intestinal motility\n\nPlease finish your answer with \"the answer is (X)\" where X is the correct letter choice.",
     "expected_answer": "The answer is (G) The presence of partially digested fat and starch in the duodenum, slows intestinal motility",
@@ -118,7 +118,7 @@
   },
   {
     "task_id": "MMLU_610",
-    "domain": "Health",
+    "domain": "General Knowledge",
     "task_type": "Nutrition",
     "prompt": "The following is a multiple-choice question:\nWhich of the following vitamins is required for fatty acid b-oxidation?\n\n\nThe following choices are provided:\n(A) Vitamin C\n(B) Vitamin E\n(C) Vitamin B12\n(D) Thiamin\n(E) Riboflavin\n(F) Folic Acid\n(G) Vitamin D\n(H) Vitamin K\n(I) Biotin\n\nPlease finish your answer with \"the answer is (X)\" where X is the correct letter choice.",
     "expected_answer": "The answer is (E) Riboflavin",
@@ -127,7 +127,7 @@
   },
   {
     "task_id": "MMLU_764",
-    "domain": "Health",
+    "domain": "General Knowledge",
     "task_type": "Nutrition",
     "prompt": "The following is a multiple-choice question:\nWhich of the following statements about the diets and nutritional status of older people is correct?\n\n\nThe following choices are provided:\n(A) Older people generally have a lower energy intake than younger adults.\n(B) Older people tend to consume more protein than younger adults.\n(C) Older people have a higher energy intake than younger adults.\n(D) Multiple micronutrient deficiencies are rare in older people in high-income countries.\n(E) There is little variation in the dietary intake between older people.\n(F) Reports suggest that older people consume less than the recommended contribution of fat to energy intake.\n(G) Multiple micronutrient deficiencies are widespread in older people in high-income countries.\n(H) Older people generally consume more than the recommended contribution of fat to energy intake.\n\nPlease finish your answer with \"the answer is (X)\" where X is the correct letter choice.",
     "expected_answer": "The answer is (A) Older people generally have a lower energy intake than younger adults.",

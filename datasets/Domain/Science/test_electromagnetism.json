@@ -1,7 +1,7 @@
 [
   {
     "task_id": "SCI_026",
-    "domain": "Physics",
+    "domain": "Science",
     "task_type": "Electromagnetism",
     "prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation.\nThe question is:What is one of the critical criticisms of previous attempts at optimizing coils or matching electromagnetic fields in reported studies?\nA. The use of heuristic steps that guarantee mathematical and physical equivalence.\nB. The generation of discrete closed wire paths was a widely manual procedure.\nC. The inability to measure field profiles for documentation and models without knowledge of internal windings.\nD. The lack of open surfaces that approximate a closed surface when sufficiently large.",
     "expected_answer": "B. The generation of discrete closed wire paths was a widely manual procedure.",

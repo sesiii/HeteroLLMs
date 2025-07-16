@@ -1,7 +1,7 @@
 [
   {
     "task_id": "SCI_007",
-    "domain": "Physics",
+    "domain": "Science",
     "task_type": "Statistical Mechanics",
     "prompt": "Sirius is the brightest star in the sky. The temperature of this star is around 10000 K. Consider Hydrogen atoms in the atmosphere of Sirius. What is the ratio of the number of hydrogen atoms in the second excited state of Hydrogen to those in ground state?\n(A) 8.11 * 10^-7\n(B) 8.2 * 10**-8\n\n\n(C) 5.4 * 10**-9\n\n\n(D) 7.26 * 10^-6\n\n",
     "expected_answer": "(A) 8.11 * 10^-7",
@@ -10,7 +10,7 @@
   },
   {
     "task_id": "SCI_151",
-    "domain": "Physics",
+    "domain": "Science",
     "task_type": "Statistical Mechanics",
     "prompt": "Consider a one-dimensional spin chain, in which any pair of spins are separated by m lattice constants. The correlation function between these two spins varies exponentially with the m. The corresponding length scale depends upon elements of the transfer matrix between two nearest neighbors of the spin chain. If the nearest neighborhood coupling is J, then the ratio of the largest and the second largest eigenvalue of the transfer matrix at the equilibrium temperature T is given by (consider the Boltzmann constant k = 1)\n(A) coth(J/T)\n(B) tanh(J/T) or coth(J/T), depending upon whether T is less than T_c or greater than T_c, where T_c is the critical temperature of phase transition\n(C) tanh(J/T)\n(D) 0.5 exp(2J/T)",
     "expected_answer": "(A) coth(J/T)",
@@ -19,7 +19,7 @@
   },
   {
     "task_id": "SCI_259",
-    "domain": "Physics",
+    "domain": "Science",
     "task_type": "Statistical Mechanics",
     "prompt": "A molecule consists of three atoms with spin \u00bd each. The spin vector of the molecule can be written as $s = \\sigma/2$, where $\\sigma$ are Pauli matrices. The interaction Hamiltonian of the molecule is due to spin interactions and can be written as\n\\begin{equation}\n\t\\hat{H} = \\frac{\\lambda}{3} [ (\\sigma_1 \\cdot  \\sigma_2) + (\\sigma_2 \\cdot \\sigma_3) + (\\sigma_3 \\cdot \\sigma_1)]\n\\end{equation}\nwhere $\\lambda$ describes the strength of the interaction and $\\sigma_{1,2,3}$ are Pauli spin matrices for individual atoms, which commute among themselves such that $\\sigma_1^2 =\\sigma_2^2= \\sigma_3^2 = 1$ and the total spin of the molecule is \n\\begin{equation}\n\tS = s_1 + s_2 + s_3 = \\frac{1}{2} (\\sigma_1 + \\sigma_2 + \\sigma_3)\n\\end{equation}\nEvery atom can have spin projections $\\pm \\frac{1}{2}$ for any choice of the quantization axis. The spin vectors have the properties\n\\begin{equation}\n\tS^2 = S(S+1),  s^2 = s(s+1)=\\frac{3}{4}\n\\end{equation}\n\nWhich of the following is a correct description of the molecular states of the system? \n(Note: the math in this problem is written using LaTeX, which you can easily view by copying the problem statement into an online LaTeX renderer such as quicklatex.com).\n\n(A) 1 quadruplet and 2 identical doublets\n(B) 2 quadruplets\n(C) 4 doublets\n(D) 1 quadruplet and 3 identical doublets ",
     "expected_answer": "(A) 1 quadruplet and 2 identical doublets",
@@ -28,7 +28,7 @@
   },
   {
     "task_id": "SCI_357",
-    "domain": "Physics",
+    "domain": "Science",
     "task_type": "Statistical Mechanics",
     "prompt": "Consider a Fermi gas of N relativistic electrons, confined as a spherical cloud (of radius R) of uniform mass density. The outward pressure exerted by this gas in the ground state is compensated by the gravitational pressure acting inward. Therefore, in equilibrium, the ground state pressure becomes proportional to a function of the mass M of the gas and the radius R. The form of this function is\n(A) M^2/R^4\n(B) M^2/R^3\n(C) M/R^3\n(D) M/R^2",
     "expected_answer": "(A) M^2/R^4",

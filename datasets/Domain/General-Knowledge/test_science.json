@@ -1,7 +1,7 @@
 [
     {
     "task_id": "SCT_0",
-    "domain": "Factual Knowledge",
+    "domain": "General Knowledge",
     "task_type": "Science and Technology",
     "prompt": "Which gas is commonly filled in electric bulbs to prevent filament oxidation?",
     "expected_answer": "Argon",
@@ -11,7 +11,7 @@
   },
   {
     "task_id": "SCT_1",
-    "domain": "Factual Knowledge",
+    "domain": "General Knowledge",
     "task_type": "Science and Technology",
     "prompt": "What is the hardest naturally occurring substance known on Earth?",
     "expected_answer": "Diamond",
@@ -21,7 +21,7 @@
   },
   {
     "task_id": "SCT_2",
-    "domain": "Factual Knowledge",
+    "domain": "General Knowledge",
     "task_type": "Science and Technology",
     "prompt": "What is the name of the first manned mission to land on the moon, and which space agency conducted it?",
     "expected_answer": "Apollo 11, NASA",
@@ -30,7 +30,7 @@
   },
   {
     "task_id": "SCT_3",
-    "domain": "Factual Knowledge",
+    "domain": "General Knowledge",
     "task_type": "Science and Technology",
     "prompt": "What is the primary source of energy for Earth's climate system?",
     "expected_answer": "The Sun",
@@ -39,7 +39,7 @@
   },
   {
     "task_id": "SCT_4",
-    "domain": "Factual Knowledge",
+    "domain": "General Knowledge",
     "task_type": "Science and Technology",
     "prompt": "Which element, essential for life, is a key component of DNA, RNA, and ATP, and what is its atomic number? (JEE Advanced level)",
     "expected_answer": "Phosphorus, 15",
@@ -48,7 +48,7 @@
   },
   {
     "task_id": "SCT_5",
-    "domain": "Factual Knowledge",
+    "domain": "General Knowledge",
     "task_type": "Science and Technology",
     "prompt": "What is a 'Kilonova', and what significant astronomical event is it associated with? (JEE Advanced level)",
     "expected_answer": "A kilonova is a transient astronomical event caused by the collision of two neutron stars or a neutron star and a black hole, producing heavy elements and a burst of electromagnetic radiation.",

@@ -1,7 +1,7 @@
 [
   {
     "task_id": "MMLU_028",
-    "domain": "Economics",
+    "domain":"Finance",
     "task_type": "Macroeconomics",
     "prompt": "The following is a multiple-choice question:\nIf households are more optimistic about the future how would the consumption function be affected?\n\nThe following choices are provided:\n(A) The marginal propensity to consume would decrease, decreasing the slope of the consumption function.\n(B) The marginal propensity to consume would increase increasing the slope of the consumption function.\n(C) The marginal propensity to save would increase, decreasing the slope of the consumption function.\n(D) The marginal propensity to consume would remain the same, keeping the consumption function stable.\n(E) The entire consumption function would shift to the right.\n(F) The entire consumption function would shift to the left.\n(G) The entire consumption function would shift upward.\n(H) The marginal propensity to consume would decrease increasing the slope of the consumption function.\n(I) The entire consumption function would shift downward.\n(J) The marginal propensity to save would decrease, increasing the slope of the consumption function.\n\nPlease finish your answer with \"the answer is (X)\" where X is the correct letter choice.",
     "expected_answer": "The answer is (G) The entire consumption function would shift upward.",
@@ -10,7 +10,7 @@
   },
   {
     "task_id": "MMLU_068",
-    "domain": "Economics",
+    "domain":"Finance",
     "task_type": "Macroeconomics",
     "prompt": "The following is a multiple-choice question:\nIf the demand for dollars rises while the supply of dollars falls then the\n\nThe following choices are provided:\n(A) dollar will remain stable.\n(B) dollar will lose its status as a global currency.\n(C) inflation will rise.\n(D) exchange rates will rise but the value of the dollar will not be affected.\n(E) value of other currencies will fall.\n(F) dollar will depreciate.\n(G) exchange rates will be affected but not the value of the dollar.\n(H) dollar will appreciate.\n(I) exchange rate will not be affected.\n\nPlease finish your answer with \"the answer is (X)\" where X is the correct letter choice.",
     "expected_answer": "The answer is (H) dollar will appreciate.",
@@ -19,7 +19,7 @@
   },
   {
     "task_id": "MMLU_091",
-    "domain": "Economics",
+    "domain":"Finance",
     "task_type": "Macroeconomics",
     "prompt": "The following is a multiple-choice question:\nThe real interest rate is\n\nThe following choices are provided:\n(A) the anticipated inflation rate plus the nominal interest rate\n(B) the nominal interest rate multiplied by the inflation rate\n(C) what one sees when looking at bank literature\n(D) the anticipated inflation rate minus the nominal interest rate\n(E) the nominal interest rate minus anticipated inflation\n(F) the nominal interest rate divided by the inflation rate\n(G) the nominal interest rate divided by the anticipated inflation rate\n(H) the nominal interest rate minus the current inflation rate\n(I) the inflation rate plus the nominal interest rate\n(J) the nominal interest rate plus the anticipated inflation rate\n\nPlease finish your answer with \"the answer is (X)\" where X is the correct letter choice.",
     "expected_answer": "The answer is (E) the nominal interest rate minus anticipated inflation",
@@ -28,7 +28,7 @@
   },
   {
     "task_id": "MMLU_364",
-    "domain": "Economics",
+    "domain":"Finance",
     "task_type": "Macroeconomics",
     "prompt": "The following is a multiple-choice question:\nFor a given level of government spending the federal government usually experiences a budget____during economic____and a budget ______during economic_______.\n\nThe following choices are provided:\n(A) surplus expansion surplus expansion\n(B) deficit recession deficit expansion\n(C) surplus expansion deficit recession\n(D) deficit expansion deficit recession\n(E) surplus expansion surplus recession\n(F) deficit recession surplus expansion\n(G) surplus recession deficit expansion\n(H) surplus recession surplus expansion\n(I) deficit expansion surplus recession\n(J) surplus recession deficit recession\n\nPlease finish your answer with \"the answer is (X)\" where X is the correct letter choice.",
     "expected_answer": "The answer is (F) deficit recession surplus expansion",
@@ -37,7 +37,7 @@
   },
   {
     "task_id": "MMLU_421",
-    "domain": "Economics",
+    "domain":"Finance",
     "task_type": "Macroeconomics",
     "prompt": "The following is a multiple-choice question:\nSuppose the economy is operating beyond full employment. Which of the following is true at this point?\n\nThe following choices are provided:\n(A) The government should implement policies to increase aggregate demand.\n(B) The short-run aggregate supply curve is horizontal.\n(C) Further increases in aggregate demand will decrease inflation.\n(D) Further increases in aggregate demand will not lower the unemployment rate but will create inflation.\n(E) The economy will naturally return to full employment without any intervention.\n(F) A decrease in aggregate demand will result in a lower price level if prices are sticky.\n(G) The short-run aggregate supply curve is vertical.\n(H) The economy is at risk of entering a recession.\n(I) Further increases in aggregate demand will result in a lower price level.\n(J) A decrease in aggregate demand will lead to an increase in the price level.\n\nPlease finish your answer with \"the answer is (X)\" where X is the correct letter choice.",
     "expected_answer": "The answer is (D) Further increases in aggregate demand will not lower the unemployment rate but will create inflation.",
@@ -46,7 +46,7 @@
   },
   {
     "task_id": "MMLU_431",
-    "domain": "Economics",
+    "domain":"Finance",
     "task_type": "Macroeconomics",
     "prompt": "The following is a multiple-choice question:\nHouseholds demand more money as an asset when\n\nThe following choices are provided:\n(A) the demand for goods and services decreases.\n(B) the stock market crashes.\n(C) bond prices fall.\n(D) the nominal interest rate falls.\n(E) the unemployment rate rises.\n(F) the supply of bonds increases.\n(G) nominal GDP falls.\n(H) the inflation rate rises.\n(I) the supply of money falls.\n(J) real GDP falls.\n\nPlease finish your answer with \"the answer is (X)\" where X is the correct letter choice.",
     "expected_answer": "The answer is (D) the nominal interest rate falls.",
@@ -55,7 +55,7 @@
   },
   {
     "task_id": "MMLU_565",
-    "domain": "Economics",
+    "domain":"Finance",
     "task_type": "Macroeconomics",
     "prompt": "The following is a multiple-choice question:\nIf $100 of new autonomous private investment were added to an economy with a marginal propensity to consume of .90 by how much would aggregate demand shift to the right?\n\nThe following choices are provided:\n(A) $2,000\n(B) $1,900 \n(C) $900 \n(D) $800\n(E) $1,000 \n(F) $1,500\n(G) $300\n(H) $190 \n(I) $2,500\n(J) $500\n\nPlease finish your answer with \"the answer is (X)\" where X is the correct letter choice.",
     "expected_answer": "The answer is (E) $1,000",
@@ -64,7 +64,7 @@
   },
   {
     "task_id": "MMLU_576",
-    "domain": "Economics",
+    "domain":"Finance",
     "task_type": "Macroeconomics",
     "prompt": "The following is a multiple-choice question:\nLabor productivity and economic growth increase if\n\nThe following choices are provided:\n(A) a nation discourages investment in technology.\n(B) a nation decreases spending on public services.\n(C) a nation ignores societal barriers like discrimination.\n(D) a nation promotes monopolies in industry.\n(E) a nation imposes tariffs and quotas on imported goods.\n(F) a nation subsidizes education for all citizens.\n(G) a nation removes penalties for firms that pollute natural resources.\n(H) a nation increases taxes on businesses.\n(I) a nation limits immigration.\n\nPlease finish your answer with \"the answer is (X)\" where X is the correct letter choice.",
     "expected_answer": "The answer is (F) a nation subsidizes education for all citizens.",
@@ -73,7 +73,7 @@
   },
   {
     "task_id": "MMLU_613",
-    "domain": "Economics",
+    "domain":"Finance",
     "task_type": "Macroeconomics",
     "prompt": "The following is a multiple-choice question:\nIf the reserve ratio is 10 percent and a new customer deposits $500 what is the maximum amount of money created?\n\nThe following choices are provided:\n(A) $5,000 \n(B) $10,000\n(C) $500 \n(D) $2,500\n(E) $6,000\n(F) $7,500\n(G) $50 \n(H) $4,500 \n(I) $9,000\n(J) $1,000\n\nPlease finish your answer with \"the answer is (X)\" where X is the correct letter choice.",
     "expected_answer": "The answer is (H) $4,500",
@@ -82,7 +82,7 @@
   },
   {
     "task_id": "MMLU_708",
-    "domain": "Economics",
+    "domain":"Finance",
     "task_type": "Macroeconomics",
     "prompt": "The following is a multiple-choice question:\nWhat will happen to the equilibrium price level and the equilibrium quantity of output if the aggregate supply curve shifts to the left? Assume an upward sloping aggregate supply curve.\n\nThe following choices are provided:\n(A) The equilibrium price level decreases while the equilibrium quantity of output increases.\n(B) The equilibrium price level increases while the equilibrium quantity of output decreases.\n(C) The equilibrium price level and quantity of output decrease.\n(D) The equilibrium price level remains constant while the equilibrium quantity of output decreases.\n(E) The equilibrium price level and quantity of output increase.\n(F) The equilibrium price level decreases while the equilibrium quantity of output decreases.\n(G) The equilibrium price level and quantity of output remain constant.\n(H) The equilibrium price level decreases while the equilibrium quantity of output remains constant.\n(I) The equilibrium price level increases while the equilibrium quantity of output remains constant.\n(J) The equilibrium price level and quantity of output both fluctuate unpredictably.\n\nPlease finish your answer with \"the answer is (X)\" where X is the correct letter choice.",
     "expected_answer": "The answer is (B) The equilibrium price level increases while the equilibrium quantity of output decreases.",
@@ -91,7 +91,7 @@
   },
   {
     "task_id": "MMLU_727",
-    "domain": "Economics",
+    "domain":"Finance",
     "task_type": "Macroeconomics",
     "prompt": "The following is a multiple-choice question:\nWhat will happen to the equilibrium price and the equilibrium quantity of good Z when the price of good X which is a close substitute for Z rises?\n\nThe following choices are provided:\n(A) The equilibrium price will fall and the equilibrium quantity will remain the same.\n(B) The equilibrium price will rise and the equilibrium quantity will remain the same.\n(C) The equilibrium price will remain the same and the equilibrium quantity will fall.\n(D) The equilibrium price will fall and the equilibrium quantity will rise.\n(E) The equilibrium price will rise significantly, but the equilibrium quantity will fall slightly.\n(F) The equilibrium price and the equilibrium quantity will both fall.\n(G) The equilibrium price and the equilibrium quantity will both remain the same.\n(H) The equilibrium price will remain the same and the equilibrium quantity will rise.\n(I) The equilibrium price will rise and the equilibrium quantity will fall.\n(J) The equilibrium price and the equilibrium quantity will both rise.\n\nPlease finish your answer with \"the answer is (X)\" where X is the correct letter choice.",
     "expected_answer": "The answer is (J) The equilibrium price and the equilibrium quantity will both rise.",
@@ -100,7 +100,7 @@
   },
   {
     "task_id": "MMLU_748",
-    "domain": "Economics",
+    "domain":"Finance",
     "task_type": "Macroeconomics",
     "prompt": "The following is a multiple-choice question:\nThe crowding-out effect from government borrowing is best described as\n\nThe following choices are provided:\n(A) the rightward shift in AD in response to the decreasing interest rates from contractionary fiscal policy.\n(B) the leftward shift in AD in response to the rising interest rates from expansionary fiscal policy.\n(C) the effect of the President increasing the money supply which decreases real interest rates and increases AD.\n(D) the effect on the economy of hearing the chairperson of the central bank say that he or she believes that the economy is in a recession.\n\nPlease finish your answer with \"the answer is (X)\" where X is the correct letter choice.",
     "expected_answer": "The answer is (B) the leftward shift in AD in response to the rising interest rates from expansionary fiscal policy.",
@@ -109,7 +109,7 @@
   },
   {
     "task_id": "MMLU_772",
-    "domain": "Economics",
+    "domain":"Finance",
     "task_type": "Macroeconomics",
     "prompt": "The following is a multiple-choice question:\nHigher levels of consumer wealth and optimism would likely have which of the following changes in the market for loanable funds? MARKET FOR LOANABLE FUNDS \u00a0\u00a0\u00a0 INTEREST RATE\n\nThe following choices are provided:\n(A) Increase in supply \u00a0\u00a0\u00a0 Rising\n(B) Increase in demand \u00a0\u00a0\u00a0 Buying Rising\n(C) Decrease in demand \u00a0\u00a0\u00a0 Falling\n(D) Decrease in supply \u00a0\u00a0\u00a0 Rising\n\nPlease finish your answer with \"the answer is (X)\" where X is the correct letter choice.",
     "expected_answer": "The answer is (D) Decrease in supply \u00a0\u00a0\u00a0 Rising",
@@ -118,7 +118,7 @@
   },
   {
     "task_id": "MMLU_836",
-    "domain": "Economics",
+    "domain":"Finance",
     "task_type": "Macroeconomics",
     "prompt": "The following is a multiple-choice question:\nExpansionary monetary policy is designed to\n\nThe following choices are provided:\n(A) increase the interest rate decrease private investment increase aggregate demand and increase domestic output.\n(B) decrease the interest rate, decrease private investment, decrease aggregate demand and increase domestic output.\n(C) increase the interest rate, decrease private investment, increase aggregate demand and decrease domestic output.\n(D) decrease the interest rate, increase private investment, decrease aggregate demand and decrease domestic output.\n(E) increase the interest rate, increase private investment, decrease aggregate demand and decrease domestic output.\n(F) decrease the interest rate increase private investment increase aggregate demand and increase the unemployment rate.\n(G) decrease the interest rate, decrease private investment, increase aggregate demand and decrease domestic output.\n(H) decrease the interest rate increase private investment increase aggregate demand and increase domestic output.\n(I) increase the interest rate increase private investment increase aggregate demand and increase domestic output.\n(J) increase the interest rate, decrease private investment, decrease aggregate demand and increase domestic output.\n\nPlease finish your answer with \"the answer is (X)\" where X is the correct letter choice.",
     "expected_answer": "The answer is (H) decrease the interest rate increase private investment increase aggregate demand and increase domestic output.",
@@ -127,7 +127,7 @@
   },
   {
     "task_id": "MMLU_910",
-    "domain": "Economics",
+    "domain":"Finance",
     "task_type": "Macroeconomics",
     "prompt": "The following is a multiple-choice question:\nWhich of the following is NOT a major cost of inflation?\n\nThe following choices are provided:\n(A) Resources will be misallocated.\n(B) Wealth will be redistributed.\n(C) Savings will be discouraged.\n(D) Real incomes will fall.\n\nPlease finish your answer with \"the answer is (X)\" where X is the correct letter choice.",
     "expected_answer": "The answer is (D) Real incomes will fall.",
@@ -136,7 +136,7 @@
   },
   {
     "task_id": "MMLU_966",
-    "domain": "Economics",
+    "domain":"Finance",
     "task_type": "Macroeconomics",
     "prompt": "The following is a multiple-choice question:\nDepreciation of the dollar is most likely to\n\nThe following choices are provided:\n(A) decrease exports\n(B) decrease national debt\n(C) decrease domestic production\n(D) increase imports\n(E) increase travel abroad\n(F) increase the unemployment rate\n(G) decrease a trade surplus\n(H) increase exports\n\nPlease finish your answer with \"the answer is (X)\" where X is the correct letter choice.",
     "expected_answer": "The answer is (H) increase exports",
@@ -146,7 +146,7 @@
   
   {
     "task_id": "MMLU_014",
-    "domain": "Economics",
+    "domain":"Finance",
     "task_type": "Macroeconomics",
     "prompt": "Which of the following will result in economic growth?\n\nFor this question, four choices are provided:\n(A) A decrease in the unemployment rate.\n(B) An increase in the unemployment rate.\n(C) An increase in the size of the labor force.\n(D) A decrease in the population.\n\nPlease choose the correct answer from the above choices.",
     "expected_answer": "(C) An increase in the size of the labor force.",
@@ -155,7 +155,7 @@
   },
   {
     "task_id": "MMLU_025",
-    "domain": "Economics",
+    "domain":"Finance",
     "task_type": "Macroeconomics",
     "prompt": "The United States produces rice in a competitive market. With free trade the world price is lower than the domestic price. What must be true?\n\nFor this question, four choices are provided:\n(A) The United States begins to import rice to make up for a domestic shortage.\n(B) The United States begins to export rice to make up for a domestic shortage.\n(C) The United States begins to import rice to eliminate a domestic surplus.\n(D) The United States begins to export rice to eliminate a domestic surplus.\n\nPlease choose the correct answer from the above choices.",
     "expected_answer": "(A) The United States begins to import rice to make up for a domestic shortage.",
@@ -164,7 +164,7 @@
   },
   {
     "task_id": "MMLU_050",
-    "domain": "Economics",
+    "domain":"Finance",
     "task_type": "Macroeconomics",
     "prompt": "Output in country A is 1200 units and its population is 100 persons. Output in country B is 2400 units and its population is 400 persons.\n\nFor this question, four choices are provided:\n(A) Country A has a higher standard of living than country B.\n(B) Country A has a lower standard of living than country B.\n(C) Country A and B have identical living standards.\n(D) Country A is less productive than country B.\n\nPlease choose the correct answer from the above choices.",
     "expected_answer": "(A) Country A has a higher standard of living than country B.",
@@ -173,7 +173,7 @@
   },
   {
     "task_id": "MMLU_141",
-    "domain": "Economics",
+    "domain":"Finance",
     "task_type": "Macroeconomics",
     "prompt": "If real GDP per capita was $10000 in 1990 and $15000 in 2000 then the amount of economic growth is\n\nFor this question, four choices are provided:\n(A) 0.5 percent.\n(B) 5.0 percent.\n(C) 50 percent.\n(D) 3.3 percent.\n\nPlease choose the correct answer from the above choices.",
     "expected_answer": "(C) 50 percent.",
@@ -182,7 +182,7 @@
   },
   {
     "task_id": "MMLU_153",
-    "domain": "Economics",
+    "domain":"Finance",
     "task_type": "Macroeconomics",
     "prompt": "Classical economists generally believe that I.   wages fluctuate quickly II.   Say's law does not hold III.   input and output prices will stay in line with each other IV.   the government should not worry about maintaining aggregate demand at an adequate level\n\nFor this question, four choices are provided:\n(A) II and IV only\n(B) I III and IV only\n(C) I and IV only\n(D) II and III only\n\nPlease choose the correct answer from the above choices.",
     "expected_answer": "(B) I III and IV only",
@@ -191,7 +191,7 @@
   },
   {
     "task_id": "MMLU_155",
-    "domain": "Economics",
+    "domain":"Finance",
     "task_type": "Macroeconomics",
     "prompt": "The GDP Deflator differs from the CPI in that the GDP Deflator\n\nFor this question, four choices are provided:\n(A) is thought to slightly overestimate the inflation rate\n(B) uses base year quantities in its calculations\n(C) incorporates both current year prices and base year prices\n(D) incorporates current year quantities in its calculations\n\nPlease choose the correct answer from the above choices.",
     "expected_answer": "(D) incorporates current year quantities in its calculations",
@@ -200,7 +200,7 @@
   },
   {
     "task_id": "MMLU_179",
-    "domain": "Economics",
+    "domain":"Finance",
     "task_type": "Macroeconomics",
     "prompt": "If the standard of living increases we can conclude that\n\nFor this question, four choices are provided:\n(A) output must have increased.\n(B) population must have increased.\n(C) output and population must have increased.\n(D) output must have increased proportionally more than population.\n\nPlease choose the correct answer from the above choices.",
     "expected_answer": "(D) output must have increased proportionally more than population.",
@@ -209,7 +209,7 @@
   },
   {
     "task_id": "MMLU_216",
-    "domain": "Economics",
+    "domain":"Finance",
     "task_type": "Macroeconomics",
     "prompt": "With a managed float\n\nFor this question, four choices are provided:\n(A) countries occasionally intervene in foreign exchange markets.\n(B) countries never have to intervene in foreign exchange markets.\n(C) countries must constantly intervene to maintain the value of their currencies.\n(D) exchange rates are fixed.\n\nPlease choose the correct answer from the above choices.",
     "expected_answer": "(A) countries occasionally intervene in foreign exchange markets.",
@@ -218,7 +218,7 @@
   },
   {
     "task_id": "MMLU_251",
-    "domain": "Economics",
+    "domain":"Finance",
     "task_type": "Macroeconomics",
     "prompt": "A dark room technician who develops film into photographs loses his job because few people use film cameras any more. This is an example of which of the following?\n\nFor this question, four choices are provided:\n(A) Frictional unemployment\n(B) Structural unemployment\n(C) Cyclical unemployment\n(D) Seasonal unemployment\n\nPlease choose the correct answer from the above choices.",
     "expected_answer": "(B) Structural unemployment",
@@ -227,7 +227,7 @@
   },
   {
     "task_id": "MMLU_312",
-    "domain": "Economics",
+    "domain":"Finance",
     "task_type": "Macroeconomics",
     "prompt": "When a large increase in aggregate demand has an even greater increase in real GDP economists refer to this as\n\nFor this question, four choices are provided:\n(A) the balanced budget multiplier.\n(B) the money multiplier.\n(C) the foreign substitution effect.\n(D) the spending multiplier.\n\nPlease choose the correct answer from the above choices.",
     "expected_answer": "(D) the spending multiplier.",
@@ -236,7 +236,7 @@
   },
   {
     "task_id": "MMLU_377",
-    "domain": "Economics",
+    "domain":"Finance",
     "task_type": "Macroeconomics",
     "prompt": "Given the table below which statement is true? Labor hours needed to produce a unit of: Country \u00a0\u00a0\u00a0\u00a0 Wine \u00a0\u00a0\u00a0\u00a0 Cheese France \u00a0\u00a0\u00a0\u00a0 40 \u00a0\u00a0\u00a0\u00a0 80 Belgium \u00a0\u00a0\u00a0\u00a0 15 \u00a0\u00a0\u00a0\u00a0 60\n\nFor this question, four choices are provided:\n(A) France has the absolute advantage in both products.\n(B) France should specialize in and export wine while Belgium should specialize in and export cheese.\n(C) France has the comparative advantage in cheese.\n(D) France has the absolute advantage in cheese.\n\nPlease choose the correct answer from the above choices.",
     "expected_answer": "(C) France has the comparative advantage in cheese.",
@@ -245,7 +245,7 @@
   },
   {
     "task_id": "MMLU_385",
-    "domain": "Economics",
+    "domain":"Finance",
     "task_type": "Macroeconomics",
     "prompt": "Which of the following transactions would be counted in GDP?\n\nFor this question, four choices are provided:\n(A) The cash you receive from babysitting your neighbor\u2019s kids\n(B) The sale of illegal drugs\n(C) The sale of cucumbers to a pickle manufacturer\n(D) The sale of a pound of tomatoes at a supermarket\n\nPlease choose the correct answer from the above choices.",
     "expected_answer": "(D) The sale of a pound of tomatoes at a supermarket",
@@ -254,7 +254,7 @@
   },
   {
     "task_id": "MMLU_471",
-    "domain": "Economics",
+    "domain":"Finance",
     "task_type": "Macroeconomics",
     "prompt": "Which of the following events has no effect on GDP?\n\nFor this question, four choices are provided:\n(A) You buy a 1957 Chevy from a friend.\n(B) The Department of Transportation repaves a road.\n(C) Your friends make a music CD that doesn't sell any copies.\n(D) A college buys computers.\n\nPlease choose the correct answer from the above choices.",
     "expected_answer": "(A) You buy a 1957 Chevy from a friend.",
@@ -263,7 +263,7 @@
   },
   {
     "task_id": "MMLU_478",
-    "domain": "Economics",
+    "domain":"Finance",
     "task_type": "Macroeconomics",
     "prompt": "Which of the following would NOT shift the aggregate supply curve?\n\nFor this question, four choices are provided:\n(A) An increase in the price level.\n(B) A decrease in the amount of resources in the economy.\n(C) An increase in the amount of resources in the economy.\n(D) An increase in technology.\n\nPlease choose the correct answer from the above choices.",
     "expected_answer": "(A) An increase in the price level.",
@@ -272,7 +272,7 @@
   },
   {
     "task_id": "MMLU_495",
-    "domain": "Economics",
+    "domain":"Finance",
     "task_type": "Macroeconomics",
     "prompt": "Which of the following is true of automatic fiscal policy stabilizers?\n\nFor this question, four choices are provided:\n(A) For a given level of government spending they produce a deficit during a recession and a surplus during an expansion.\n(B) They serve to prolong recessionary and inflationary periods.\n(C) The regressive tax system is a fundamental component of automatic stabilizers.\n(D) For a given level of government spending they produce a surplus during a recession and a surplus during an expansion.\n\nPlease choose the correct answer from the above choices.",
     "expected_answer": "(A) For a given level of government spending they produce a deficit during a recession and a surplus during an expansion.",
@@ -281,7 +281,7 @@
   },
   {
     "task_id": "MMLU_515",
-    "domain": "Economics",
+    "domain":"Finance",
     "task_type": "Macroeconomics",
     "prompt": "Which of the following is a consequence of removal of a protective tariff on imported steel?\n\nFor this question, four choices are provided:\n(A) Imports fall.\n(B) Income is transferred from steel consumers to domestic steel producers.\n(C) Income is transferred from foreign steel producers to domestic steel producers.\n(D) Allocative efficiency is improved.\n\nPlease choose the correct answer from the above choices.",
     "expected_answer": "(D) Allocative efficiency is improved.",
@@ -290,7 +290,7 @@
   },
   {
     "task_id": "MMLU_527",
-    "domain": "Economics",
+    "domain":"Finance",
     "task_type": "Macroeconomics",
     "prompt": "Assuming there is no statistical discrepancy a trade surplus must be offset elsewhere in the\n\nFor this question, four choices are provided:\n(A) current-account balance only\n(B) financial-account balance only\n(C) merchandise balance of trade only\n(D) current-account or financial-account only\n\nPlease choose the correct answer from the above choices.",
     "expected_answer": "(D) current-account or financial-account only",
@@ -299,7 +299,7 @@
   },
   {
     "task_id": "MMLU_607",
-    "domain": "Economics",
+    "domain":"Finance",
     "task_type": "Macroeconomics",
     "prompt": "Which of the following lessens the impact of expansionary fiscal policy?\n\nFor this question, four choices are provided:\n(A) An increase in the marginal propensity to consume.\n(B) Lower interest rates that cause a decrease in net exports.\n(C) Higher interest rates that cause an increase in net exports.\n(D) Higher interest rates that decrease private investment.\n\nPlease choose the correct answer from the above choices.",
     "expected_answer": "(D) Higher interest rates that decrease private investment.",
@@ -308,7 +308,7 @@
   },
   {
     "task_id": "MMLU_609",
-    "domain": "Economics",
+    "domain":"Finance",
     "task_type": "Macroeconomics",
     "prompt": "Which choice produces a faster rate of economic growth for the United States?\n\nFor this question, four choices are provided:\n(A) Institution of higher tariffs on imported goods\n(B) More investment in capital infrastructure and less consumption of nondurable goods and services\n(C) Elimination of mandatory school attendance laws\n(D) Annual limits on the number of foreigners immigrating into the United States\n\nPlease choose the correct answer from the above choices.",
     "expected_answer": "(B) More investment in capital infrastructure and less consumption of nondurable goods and services",
@@ -317,7 +317,7 @@
   },
   {
     "task_id": "MMLU_620",
-    "domain": "Economics",
+    "domain":"Finance",
     "task_type": "Macroeconomics",
     "prompt": "If the demand for our exports rises while our tastes for foreign goods falls off then\n\nFor this question, four choices are provided:\n(A) the value of the dollar will tend to appreciate.\n(B) the value of the dollar will tend to depreciate.\n(C) exchange rates will be affected but not the value of the dollar.\n(D) the exchange rate will not be affected.\n\nPlease choose the correct answer from the above choices.",
     "expected_answer": "(A) the value of the dollar will tend to appreciate.",
@@ -326,7 +326,7 @@
   },
   {
     "task_id": "MMLU_668",
-    "domain": "Economics",
+    "domain":"Finance",
     "task_type": "Macroeconomics",
     "prompt": "National income measures\n\nFor this question, four choices are provided:\n(A) household income in the nation.\n(B) income earned by the factors of production.\n(C) GDP minus depreciation and indirect business taxes.\n(D) (B) (C) and (D).\n\nPlease choose the correct answer from the above choices.",
     "expected_answer": "(D) (B) (C) and (D).",
@@ -335,7 +335,7 @@
   },
   {
     "task_id": "MMLU_747",
-    "domain": "Economics",
+    "domain":"Finance",
     "task_type": "Macroeconomics",
     "prompt": "Congress has embarked on another round of expansionary fiscal policy to boost employment and get reelected. As chair of the central bank how would you reduce the \"crowding-out\" effect and what macroeconomic problem might your policy exacerbate?\n\nFor this question, four choices are provided:\n(A) Increase the reserve ratio risking the devaluation of the dollar\n(B) Sell government securities risking inflation\n(C) Buy government securities risking a recessionary gap\n(D) Lower the discount rate risking inflation\n\nPlease choose the correct answer from the above choices.",
     "expected_answer": "(D) Lower the discount rate risking inflation",
@@ -344,7 +344,7 @@
   },
   {
     "task_id": "MMLU_791",
-    "domain": "Economics",
+    "domain":"Finance",
     "task_type": "Macroeconomics",
     "prompt": "Of the following choices the most direct exchange in the circular flow model of a private closed economy is when\n\nFor this question, four choices are provided:\n(A) households provide goods to firms in exchange for wage payments.\n(B) households provide resources to firms in exchange for goods.\n(C) households provide revenues to firms in exchange for wage payments.\n(D) firms supply goods to households in exchange for revenues.\n\nPlease choose the correct answer from the above choices.",
     "expected_answer": "(D) firms supply goods to households in exchange for revenues.",
@@ -353,7 +353,7 @@
   },
   {
     "task_id": "MMLU_863",
-    "domain": "Economics",
+    "domain":"Finance",
     "task_type": "Macroeconomics",
     "prompt": "If Nation A can produce a good at lower opportunity cost than Nation B can produce the same good it is said that\n\nFor this question, four choices are provided:\n(A) Nation A has comparative advantage in the production of that good.\n(B) Nation B has comparative advantage in the production of that good.\n(C) Nation A has absolute advantage in the production of that good.\n(D) Nation B has absolute advantage in the production of that good.\n\nPlease choose the correct answer from the above choices.",
     "expected_answer": "(A) Nation A has comparative advantage in the production of that good.",
@@ -362,7 +362,7 @@
   },
   {
     "task_id": "MMLU_918",
-    "domain": "Economics",
+    "domain":"Finance",
     "task_type": "Macroeconomics",
     "prompt": "Lowering reserve requirements would\n\nFor this question, four choices are provided:\n(A) force banks to hold more reserves and make more loans.\n(B) allow banks to make more loans and buy more investments thus decreasing the money supply.\n(C) allow banks to make more loans and buy more investments thus increasing the money supply.\n(D) allow banks more freedom to merge and acquire other businesses.\n\nPlease choose the correct answer from the above choices.",
     "expected_answer": "(C) allow banks to make more loans and buy more investments thus increasing the money supply.",
@@ -371,7 +371,7 @@
   },
   {
     "task_id": "MMLU_931",
-    "domain": "Economics",
+    "domain":"Finance",
     "task_type": "Macroeconomics",
     "prompt": "Which of the following events most likely increases real GDP?\n\nFor this question, four choices are provided:\n(A) An increase in the real rate of interest\n(B) An increase in taxes\n(C) A decrease in net exports\n(D) An increase in government spending\n\nPlease choose the correct answer from the above choices.",
     "expected_answer": "(D) An increase in government spending",
@@ -380,7 +380,7 @@
   },
   {
     "task_id": "MMLU_963",
-    "domain": "Economics",
+    "domain":"Finance",
     "task_type": "Macroeconomics",
     "prompt": "When a country has a balance of trade deficit\n\nFor this question, four choices are provided:\n(A) it must make up the difference by shipping gold to its creditors.\n(B) its exports exceed its imports.\n(C) its currency will appreciate.\n(D) its imports exceed its exports.\n\nPlease choose the correct answer from the above choices.",
     "expected_answer": "(D) its imports exceed its exports.",
@@ -389,7 +389,7 @@
   },
   {
     "task_id": "MMLU_975",
-    "domain": "Economics",
+    "domain":"Finance",
     "task_type": "Macroeconomics",
     "prompt": "Appropriate fiscal and monetary polices during the contractionary phase of the business cycle include\n\nFor this question, four choices are provided:\n(A) budget surpluses and higher discount rates.\n(B) tax reductions and open market purchases.\n(C) budget surpluses and lower discount rates.\n(D) increases in government spending and higher discount rates.\n\nPlease choose the correct answer from the above choices.",
     "expected_answer": "(B) tax reductions and open market purchases.",
@@ -398,7 +398,7 @@
   },
   {
     "task_id": "MMLU_1003",
-    "domain": "Economics",
+    "domain":"Finance",
     "task_type": "Macroeconomics",
     "prompt": "Which of the following could limit the ability of a central bank to conduct expansionary monetary policy?\n\nFor this question, four choices are provided:\n(A) Money demand is nearly perfectly elastic.\n(B) Investment demand is nearly perfectly elastic.\n(C) Banks make loans with all excess reserves.\n(D) Households carry very little cash holding their money in checking and saving deposits.\n\nPlease choose the correct answer from the above choices.",
     "expected_answer": "(A) Money demand is nearly perfectly elastic.",
