@@ -1,0 +1,35 @@
+testing an mcp server using mcp inspector
+
+uv init "server-name"
+uv venv
+source .venv/bin/activate
+uv add "mcp[cli]"
+--add the mcp server into main.py
+uv run mcp dev main.py
+
+
+
+uv add "mcp[cli]" <library-from-pip command>
+
+//gives windows specific IP address
+ip addr show eth0 | grep inet
+
+
+
+//starign mcp client:
+uv run client.py ../mcp_server/main.py
+wsl "cd /mnt/c/Users/eddsasa/MCP/network-analyzer && source env/bin/activate && run network-analyzer.py"
+
+wsl.exe bash -c "cd /mnt/c/Users/eddsasa/MCP/network-analyzer && source env/bin/activate && run network-analyzer.py"
+
+
+uv installation:
+powershell -ExecutionPolicy ByPass -c "irm https://astral.sh/uv/install.ps1 | iex"
+
+
+
+--current llm benchmark
+sesi@E-5CG2291F44:~/testing/agents/ER/agentic-ai/experiments/HeteroLLMs/mcp_server/tester$ uv run mcp dev main.py 
+
+visitL http://localhost:6274/#resources
+then authenticate with the token

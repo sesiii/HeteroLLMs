@@ -1,0 +1,299 @@
+[
+  {
+    "task_id": "MMLU_014",
+    "domain": "Biology",
+    "task_type": "Biology",
+    "prompt": "The following is a multiple-choice question:\nHow and where is seminal fluid produced in man?\n\nThe following choices are provided:\n(A) Seminal fluid is produced by the thyroid gland.\n(B) Seminal fluid is produced by the bladder.\n(C) Seminal fluid is produced by the pituitary gland.\n(D) Seminal fluid is produced by the paired seminal vesicles, the prostate gland, and Cowper's glands in man.\n(E) Seminal fluid is produced by the pancreas.\n(F) Seminal fluid is produced by the liver.\n(G) Seminal fluid is produced by the epididymis.\n(H) Seminal fluid is produced by the urethra.\n(I) Seminal fluid is produced by the adrenal glands.\n(J) Seminal fluid is produced by the testes.\n\nPlease finish your answer with \"the answer is (X)\" where X is the correct letter choice.",
+    "expected_answer": "The answer is (D) Seminal fluid is produced by the paired seminal vesicles, the prostate gland, and Cowper's glands in man.",
+    "difficulty": "hard",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "MMLU_025",
+    "domain": "Biology",
+    "task_type": "Biology",
+    "prompt": "The following is a multiple-choice question:\nWhat advantages domulticellularorganisms haveover single-celledorganisms?\n\nThe following choices are provided:\n(A) Multicellular organisms have a shorter lifespan, which allows for quicker evolutionary adaptations.\n(B) Multicellular organisms are always larger than single-celled organisms, providing them with better defense mechanisms.\n(C) Multicellular organisms are less versatile than single-celled organisms.\n(D) Multicellular organisms have specialized cells for a variety of functions, higher order of complexity, better adaptation to different environments including land, and potential for diversity.\n(E) Multicellular organisms can reproduce faster than single-celled organisms.\n(F) Multicellular organisms can move more rapidly and with greater coordination than single-celled organisms.\n(G) Multicellular organisms can synthesize everything they need from a few simple nutrients.\n(H) Multicellular organisms have a smaller surface area to volume ratio, which is advantageous for cellular processes.\n(I) Multicellular organisms do not need to consume food as they produce their own energy through photosynthesis.\n(J) Multicellular organisms can survive only in a watery environment.\n\nPlease finish your answer with \"the answer is (X)\" where X is the correct letter choice.",
+    "expected_answer": "The answer is (D) Multicellular organisms have specialized cells for a variety of functions, higher order of complexity, better adaptation to different environments including land, and potential for diversity.",
+    "difficulty": "hard",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "MMLU_039",
+    "domain": "Biology",
+    "task_type": "Biology",
+    "prompt": "The following is a multiple-choice question:\nWhat prevents the stomach from being digested by itsown secretions?\n\nThe following choices are provided:\n(A) The thick muscular wall of the stomach\n(B) Antibacterial properties of stomach acid\n(C) Gastric juice\n(D) High pH levels in the stomach\n(E) Presence of beneficial bacteria\n(F) Mucus layer, low permeability of the membranes and continual replacement of cells\n(G) Hydrochloric acid\n(H) Stomach lining regeneration every few days\n(I) Proteolytic enzymes\n(J) Secretion of digestive hormones\n\nPlease finish your answer with \"the answer is (X)\" where X is the correct letter choice.",
+    "expected_answer": "The answer is (F) Mucus layer, low permeability of the membranes and continual replacement of cells",
+    "difficulty": "hard",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "MMLU_215",
+    "domain": "Biology",
+    "task_type": "Biology",
+    "prompt": "The following is a multiple-choice question:\nExplain how density dependent controls of population occur.\n\nThe following choices are provided:\n(A) Density dependent controls of population are solely a result of natural disasters such as floods and droughts\n(B) Density dependent controls of population are determined by immigration exclusively\n(C) Density dependent controls of population occur exclusively through disease and parasitism\n(D) Density dependent controls of population are regulated by human activities such as hunting and habitat destruction only\n(E) Density dependent controls of population occur through mutualism and commensalism only\n(F) density dependent controls of population occur through predation, emigration, competition, and physiological and behavioral mechanisms\n(G) density dependent controls of population occur only through predation\n(H) density dependent controls of population occur only through competition\n(I) density dependent controls of population occur only through emigration\n(J) Density dependent controls of population occur only through physiological changes without any behavioral impacts\n\nPlease finish your answer with \"the answer is (X)\" where X is the correct letter choice.",
+    "expected_answer": "The answer is (F) density dependent controls of population occur through predation, emigration, competition, and physiological and behavioral mechanisms",
+    "difficulty": "hard",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "MMLU_256",
+    "domain": "Biology",
+    "task_type": "Biology",
+    "prompt": "The following is a multiple-choice question:\nWhat is the physiological basis of allergies? What measures can be taken to decrease the effect of allergies?\n\nThe following choices are provided:\n(A) Allergies are adverse immunological responses to antigens. Antihistamines and desensitization therapy can help decrease the effect of allergies.\n(B) Allergies are triggered by the body's overproduction of white blood cells. Avoiding allergens and taking vitamin supplements can decrease the effect of allergies.\n(C) Allergies are caused by genetic mutations and can be minimized by regular exercise and a healthy diet.\n(D) Allergies can be fully cured with antihistamines.\n(E) Allergies are caused by exposure to pathogens.\n(F) Allergies develop due to an overactive nervous system. Beta-blockers and nerve-calming medications can help mitigate the effects of allergies.\n(G) Allergies are a result of lack of immune response.\n(H) Allergies are psychosomatic and can be managed through stress reduction techniques and meditation.\n(I) Allergies result from the body's inability to produce sufficient antibodies. Immunoglobulin therapy can help decrease the effect of allergies.\n(J) Allergies are the body's natural response to environmental pollutants. Using air purifiers and avoiding outdoor activities can reduce allergy symptoms.\n\nPlease finish your answer with \"the answer is (X)\" where X is the correct letter choice.",
+    "expected_answer": "The answer is (A) Allergies are adverse immunological responses to antigens. Antihistamines and desensitization therapy can help decrease the effect of allergies.",
+    "difficulty": "hard",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "MMLU_258",
+    "domain": "Biology",
+    "task_type": "Biology",
+    "prompt": "The following is a multiple-choice question:\nWhich of the following would maintain a constant body temperature in spite of changes in the environmental temperature: frog, robin, fish, dog, or lizard?\n\nThe following choices are provided:\n(A) Robin, Lizard\n(B) Frog, Fish\n(C) Lizard, Frog\n(D) Fish, Dog\n(E) Fish, Lizard\n(F) Dog, Frog\n(G) Lizard, Fish\n(H) Frog, Robin\n(I) Dog, Lizard\n(J) Robin, Dog\n\nPlease finish your answer with \"the answer is (X)\" where X is the correct letter choice.",
+    "expected_answer": "The answer is (J) Robin, Dog",
+    "difficulty": "hard",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "MMLU_274",
+    "domain": "Biology",
+    "task_type": "Biology",
+    "prompt": "The following is a multiple-choice question:\nIt is observed that the chemical transmission occurring at a synapse is unidirectional that is, the neurotransmitter always travels from thepresynapticaxon to the post-synaptic dendrite . Explain why.\n\nThe following choices are provided:\n(A) Neurotransmitter release is stimulated by electrical signals traveling towards the dendrites only.\n(B) The receptors for neurotransmitters are only found on the axonal terminals.\n(C) The neurotransmitter is present in the axonal end of a neuron only.\n(D) The synaptic vesicle is present inside the dendrites of a neuron.\n(E) The axonal terminals do not possess the machinery to release neurotransmitters.\n(F) The neurotransmitter degrades immediately upon release and cannot travel to the axon.\n(G) The dendrites actively pump the neurotransmitter back to the axon after it has been received.\n(H) The neurotransmitter is present in the dendritic end of a neuron only.\n(I) The dendrites release a different neurotransmitter that negates the effect of the axonal neurotransmitter.\n(J) The neurotransmitter can travel in both directions.\n\nPlease finish your answer with \"the answer is (X)\" where X is the correct letter choice.",
+    "expected_answer": "The answer is (C) The neurotransmitter is present in the axonal end of a neuron only.",
+    "difficulty": "hard",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "MMLU_290",
+    "domain": "Biology",
+    "task_type": "Biology",
+    "prompt": "The following is a multiple-choice question:\nWhat properties of water make it an essential component of living matter?\n\nThe following choices are provided:\n(A) Water is useful just because of its cooling properties.\n(B) Water is only important for hydration.\n(C) Water's role is limited to acting as a chemical reactant in cellular processes.\n(D) Water is important primarily because it contributes to the structural rigidity of cells.\n(E) Water's only function is to provide a medium for aquatic organisms.\n(F) Water is essential because it is the only liquid found naturally on Earth.\n(G) Water is essential only because it is a good solvent.\n(H) Water's significance is due to its high compressibility, which is vital for life.\n(I) Water is the most abundant molecule in the cell, an excellent solvent for living systems, has high heat capacity, functions in heat regulation, serves as a lubricant, and aids in the transport of nutrients.\n(J) Water is vital because it is the least reactive chemical compound, preventing unwanted reactions in living matter.\n\nPlease finish your answer with \"the answer is (X)\" where X is the correct letter choice.",
+    "expected_answer": "The answer is (I) Water is the most abundant molecule in the cell, an excellent solvent for living systems, has high heat capacity, functions in heat regulation, serves as a lubricant, and aids in the transport of nutrients.",
+    "difficulty": "hard",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "MMLU_339",
+    "domain": "Biology",
+    "task_type": "Biology",
+    "prompt": "The following is a multiple-choice question:\nWhat basic nutritional requirements do all livingorganisms have in common? Comparephototrophsandchemotrophs, autotrophs andheterotrophs.\n\nThe following choices are provided:\n(A) Only animals and plants have basic nutritional requirements.\n(B) All organisms can derive their nutritional needs from consuming other organisms and do not require any specific elements or compounds for growth.\n(C) All organisms require only sunlight and carbon dioxide for growth.\n(D) All organisms require a source of energy and vitamins, but do not need a carbon source or water for growth.\n(E) Organisms require a source of energy, a carbon source, and water, but do not need nitrogen or vitamins for growth.\n(F) Organisms require only water and energy for growth.\n(G) Carbon and nitrogen are the only necessary nutrients for organisms.\n(H) Only autotrophs require a carbon source and a nitrogen source, while heterotrophs can survive on energy alone.\n(I) All organisms require a source of energy, a carbon source, a nitrogen source, sulfur and phosphorous, certain metallic elements, vitamins, and water for growth.\n(J) Only phototrophs have basic nutritional requirements, while chemotrophs do not require any nutrients.\n\nPlease finish your answer with \"the answer is (X)\" where X is the correct letter choice.",
+    "expected_answer": "The answer is (I) All organisms require a source of energy, a carbon source, a nitrogen source, sulfur and phosphorous, certain metallic elements, vitamins, and water for growth.",
+    "difficulty": "hard",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "MMLU_347",
+    "domain": "Biology",
+    "task_type": "Biology",
+    "prompt": "The following is a multiple-choice question:\nContrast the meanings of the terms \"gene pool\" and \"genotype\\textquotedblright.\n\nThe following choices are provided:\n(A) A gene pool is the genetic makeup present in the environment, while a genotype is the genetic makeup that an organism inherits from its parents.\n(B) A gene pool is the set of all genes within a single organism, while a genotype refers to the genetic variations among different populations.\n(C) A gene pool is the genetic constitution of an individual, while a genotype is the total genetic information in a population.\n(D) A gene pool is the collection of genes that predict an organism's phenotype, while a genotype is the combination of alleles that an organism possesses for a single trait.\n(E) A genotype is the unique genetic code found within a cell, while a gene pool encompasses the various genotypes that interact within an ecosystem.\n(F) Genotype refers to the breeding potential of a population, while a gene pool is the set of all possible genes that can be passed down through reproduction.\n(G) A gene pool and genotype both refer to the genetic constitution of an individual.\n(H) A gene pool and genotype both refer to the total genetic information in a population.\n(I) A gene pool is the total genetic information in a population, while a genotype is the genetic constitution of an individual.\n(J) A gene pool refers to a collection of physical traits in a population, while a genotype is the specific genetic makeup responsible for one particular trait.\n\nPlease finish your answer with \"the answer is (X)\" where X is the correct letter choice.",
+    "expected_answer": "The answer is (I) A gene pool is the total genetic information in a population, while a genotype is the genetic constitution of an individual.",
+    "difficulty": "hard",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "MMLU_366",
+    "domain": "Biology",
+    "task_type": "Biology",
+    "prompt": "The following is a multiple-choice question:\nWhy does one experience difficulty in breathing at high altitudes ?\n\nThe following choices are provided:\n(A) At high altitudes, the amount of hemoglobin in blood decreases\n(B) At high altitudes, the body's respiratory rate decreases, leading to reduced oxygen intake\n(C) At high altitudes, the air is less polluted, leading to difficulty in adapting to the cleaner environment\n(D) At high altitudes, the air becomes thicker, making it harder to breathe\n(E) At high altitudes, the temperature of the air increases, reducing its oxygen content\n(F) At high altitudes, the barometric pressure and the partial pressure of oxygen decrease, leading to less saturation of hemoglobin with oxygen, causing hypoxia, or deficiency of oxygen at the tissue level.\n(G) At high altitudes, the percentage of nitrogen in air increases\n(H) At high altitudes, the ultraviolet radiation from the sun increases, which affects the body's ability to utilize oxygen\n(I) At high altitudes, the overall air pressure increases, which hinders oxygen absorption\n(J) At high altitudes, the percentage of carbon dioxide in air increases\n\nPlease finish your answer with \"the answer is (X)\" where X is the correct letter choice.",
+    "expected_answer": "The answer is (F) At high altitudes, the barometric pressure and the partial pressure of oxygen decrease, leading to less saturation of hemoglobin with oxygen, causing hypoxia, or deficiency of oxygen at the tissue level.",
+    "difficulty": "hard",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "MMLU_385",
+    "domain": "Biology",
+    "task_type": "Biology",
+    "prompt": "The following is a multiple-choice question:\nWhat do the words 'gymnosperm' and 'angiosperm' mean? What characteristics distinguish conifers from flowering plants?\n\nThe following choices are provided:\n(A) Gymnosperm means 'naked seeds' and angiosperm means 'enclosed seeds'. Conifers are distinguished from flowering plants by their ability to grow in colder climates and their distinct cone-like fruits.\n(B) Gymnosperm means 'naked seeds' and angiosperm means 'enclosed seeds', but conifers are not distinguished from flowering plants as both include species with cones and flowers.\n(C) Conifers are distinguished from flowering plants by their broad, flat leaves.\n(D) Both gymnosperms and angiosperms mean 'enclosed seeds'; however, conifers have leaves that change color and drop in the autumn, unlike flowering plants.\n(E) Angiosperms mean 'naked seeds' and gymnosperms mean 'enclosed seeds'. Conifers are distinguished from flowering plants by their soft, fleshy cones and brightly colored flowers.\n(F) Gymnosperm means 'enclosed seeds' and angiosperm means 'naked seeds'.\n(G) Angiosperms produce cones while conifers produce flowers and fruits.\n(H) Gymnosperm means 'naked seeds' and angiosperm means 'enclosed seeds'. Conifers are distinguished from flowering plants by their needle-like leaves, xylem consisting almost entirely of tracheids, and their reproductive structures (cones).\n(I) Gymnosperms are plants with flowers and fruits, while angiosperms are plants with cones and needle-like leaves.\n(J) Gymnosperm means 'enclosed seeds' and angiosperm means 'naked seeds'. Conifers are distinguished from flowering plants by their evergreen foliage and their production of fruits instead of cones.\n\nPlease finish your answer with \"the answer is (X)\" where X is the correct letter choice.",
+    "expected_answer": "The answer is (H) Gymnosperm means 'naked seeds' and angiosperm means 'enclosed seeds'. Conifers are distinguished from flowering plants by their needle-like leaves, xylem consisting almost entirely of tracheids, and their reproductive structures (cones).",
+    "difficulty": "hard",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "MMLU_426",
+    "domain": "Biology",
+    "task_type": "Biology",
+    "prompt": "The following is a multiple-choice question:\nOne group of compounds that may become quite important in birth control is the prostaglandins. What are the advantages of prostaglandins in birth control?\n\nThe following choices are provided:\n(A) Prostaglandins are used to enhance mood and have no effect on birth control.\n(B) Prostaglandins increase fertility by promoting ovulation.\n(C) Prostaglandins are able to prevent pregnancy by altering the DNA of the sperm and egg.\n(D) Prostaglandins are known to mediate hormonal action\n(E) Prostaglandins are non-hormonal, reducing the risk of hormonal side effects.\n(F) Prostaglandins can be taken orally once a month, providing long-term birth control.\n(G) Prostaglandins are cyclic, oxygenated, 20-carbon fatty acids\n(H) Prostaglandins induce strong contractions in the uterus, prevent the fertilized ovum from being implanted, and can be introduced directly into the uterus, making them potentially safer contraceptives than oral chemical agents.\n(I) Prostaglandins improve skin condition and are used as a beauty supplement.\n(J) Prostaglandins are efficient in treating nasal congestion\n\nPlease finish your answer with \"the answer is (X)\" where X is the correct letter choice.",
+    "expected_answer": "The answer is (H) Prostaglandins induce strong contractions in the uterus, prevent the fertilized ovum from being implanted, and can be introduced directly into the uterus, making them potentially safer contraceptives than oral chemical agents.",
+    "difficulty": "hard",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "MMLU_450",
+    "domain": "Biology",
+    "task_type": "Biology",
+    "prompt": "The following is a multiple-choice question:\nExplain three ways in which a person's basal metabolic rate maybe determined.\n\nThe following choices are provided:\n(A) BMR can be measured by the duration and quality of sleep\n(B) BMR can be estimated by the level of physical activity in a daily routine\n(C) BMR can be determined by measuring heart rate\n(D) BMR can be determined by the amount of sweat produced during physical activity\n(E) BMR can be estimated by the frequency of urination\n(F) BMR can be determined by calculating body mass index (BMI)\n(G) BMR can be measured by the amount of caloric intake\n(H) BMR can be determined by measuring brain activity\n(I) BMR can be determined by measuring the amount of heat given off, indirectly measuring the amount of oxygen used, or measuring the amount of thyroxine present in a person's blood\n(J) BMR can be measured by the amount of carbon dioxide exhaled during rest\n\nPlease finish your answer with \"the answer is (X)\" where X is the correct letter choice.",
+    "expected_answer": "The answer is (I) BMR can be determined by measuring the amount of heat given off, indirectly measuring the amount of oxygen used, or measuring the amount of thyroxine present in a person's blood",
+    "difficulty": "hard",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "MMLU_456",
+    "domain": "Biology",
+    "task_type": "Biology",
+    "prompt": "The following is a multiple-choice question:\nThe heart does not extract oxygen and nutrients from the blood within the atria and ventricles. How is the heart sup-plied with its metabolic needs?\n\nThe following choices are provided:\n(A) The heart synthesizes its own nutrients internally without reliance on external sources.\n(B) The heart relies on neural control for its metabolic needs.\n(C) The heart extracts nutrients from the atria and ventricles.\n(D) The heart's metabolic needs are met by the lymphatic system.\n(E) The heart depends on its own blood supply from the coronary vessels.\n(F) The heart utilizes osmosis to draw nutrients from the surrounding tissues.\n(G) The heart absorbs nutrients directly from the pericardial fluid.\n(H) The heart gets its metabolic needs from the lungs.\n(I) The heart is supplied by diffusion of nutrients from the bloodstream within the chambers.\n(J) The heart receives its metabolic needs from the aorta directly.\n\nPlease finish your answer with \"the answer is (X)\" where X is the correct letter choice.",
+    "expected_answer": "The answer is (E) The heart depends on its own blood supply from the coronary vessels.",
+    "difficulty": "hard",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "MMLU_491",
+    "domain": "Biology",
+    "task_type": "Biology",
+    "prompt": "The following is a multiple-choice question:\nWhat controls the process of molting incrustacea?\n\nThe following choices are provided:\n(A) Water temperature alone without hormonal influence\n(B) The age of the crustacean\n(C) Environmental factors\n(D) Social interactions with other crustaceans\n(E) Diet of the crustacean\n(F) The salinity levels of the water\n(G) The lunar cycle affecting tidal patterns\n(H) A hormone released from nerve cells\n(I) The presence of predators in the environment\n(J) Physical growth of the crustacean\n\nPlease finish your answer with \"the answer is (X)\" where X is the correct letter choice.",
+    "expected_answer": "The answer is (H) A hormone released from nerve cells",
+    "difficulty": "hard",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "MMLU_498",
+    "domain": "Biology",
+    "task_type": "Biology",
+    "prompt": "The following is a multiple-choice question:\nWhat components of the plasma can affect the blood pressure? Explain how they affect it. What other solutes are present in the plasma?\n\nThe following choices are provided:\n(A) The concentration of inorganic salts has no effect on blood pressure.\n(B) The presence of white blood cells is the main determinant of blood pressure.\n(C) Only red blood cells affect the blood pressure.\n(D) Only the concentration of oxygen and carbon dioxide in plasma affects blood pressure.\n(E) Plasma proteins have no influence on blood pressure; plasma is primarily composed of vitamins and minerals.\n(F) The viscosity of plasma, unrelated to its solute content, is the sole factor influencing blood pressure.\n(G) Plasma contains only water and no solutes.\n(H) The concentrations of inorganic salts and plasma proteins can affect the blood pressure. Plasma also contains organic nutrients, nitrogenous waste products, hormones and dissolved gases.\n(I) Blood pressure is unaffected by plasma composition; plasma contains only immune system factors.\n(J) The concentration of glucose in plasma is the only factor affecting blood pressure.\n\nPlease finish your answer with \"the answer is (X)\" where X is the correct letter choice.",
+    "expected_answer": "The answer is (H) The concentrations of inorganic salts and plasma proteins can affect the blood pressure. Plasma also contains organic nutrients, nitrogenous waste products, hormones and dissolved gases.",
+    "difficulty": "hard",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "MMLU_535",
+    "domain": "Biology",
+    "task_type": "Biology",
+    "prompt": "The following is a multiple-choice question:\nDistinguish between structural genes, regulatory genes, promotor genes, and operator genes.\n\nThe following choices are provided:\n(A) Operator genes code for proteins, regulatory genes bind to repressor molecules, structural genes are related with RNA polymerase, and promotor genes prevent gene activity\n(B) Regulatory genes code for RNA polymerase, operator genes code for structural proteins, promotor genes are associated with enzymes, and structural genes bind to repressor molecules.\n(C) Structural genes code for repressor molecules, regulatory genes serve as a binding site for RNA polymerase, operator genes are associated with enzymes, and promotor genes control a group of structural genes.\n(D) Operator genes serve as a binding site for RNA polymerase, regulatory genes control a group of structural genes, structural genes code for inhibitory proteins, and promotor genes code for repressor molecules.\n(E) Promotor genes code for repressors, operator genes are related with RNA polymerase, regulatory genes are associated with enzymes, and structural genes control a group of genes\n(F) Promotor genes control a group of operator genes, structural genes bind to repressor molecules, regulatory genes serve as a binding site for RNA polymerase, and operator genes code for enzymes.\n(G) Operator genes code for structural units, structural genes serve as a binding site for RNA polymerase, regulatory genes control a group of operator genes, and promotor genes code for inhibitory proteins known as repressors.\n(H) Regulatory genes code for enzymes, operator genes bind to repressor molecules, promotor genes code for proteins, and structural genes prevent gene activity\n(I) Structural genes code for proteins required as enzymes or structural units, regulatory genes code for inhibitory proteins known as repressors, operator genes control a group of structural genes, and promotor genes serve as a binding site for RNA polymerase.\n(J) Structural genes code for RNA polymerase, regulatory genes code for structural components, operator genes serve as a binding site for repressors, and promotor genes control a group of regulatory genes.\n\nPlease finish your answer with \"the answer is (X)\" where X is the correct letter choice.",
+    "expected_answer": "The answer is (I) Structural genes code for proteins required as enzymes or structural units, regulatory genes code for inhibitory proteins known as repressors, operator genes control a group of structural genes, and promotor genes serve as a binding site for RNA polymerase.",
+    "difficulty": "hard",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "MMLU_551",
+    "domain": "Biology",
+    "task_type": "Biology",
+    "prompt": "The following is a multiple-choice question:\nDefine the termsAnthropoidea,Hominidaeand Hominoidea?\n\nThe following choices are provided:\n(A) Anthropoidea are the primitive primates. Hominoidea are the tailed anthropoids. Hominidae includes gorilla, chimpanzee, orangutan.\n(B) Anthropoidea are the higher primates excluding humans. Hominoidea consists of the lesser apes and the gibbons. Hominidae includes all the great apes, including humans and their immediate ancestors.\n(C) Anthropoidea include all extinct primate species. Hominoidea are the arboreal primates. Hominidae consists of the new world monkeys and humans.\n(D) Anthropoidea are the suborder of primates excluding prosimians. Hominoidea includes all non-ape primates. Hominidae is restricted to the African great apes.\n(E) Anthropoidea encompass all primates. Hominoidea refers to the lesser apes and tarsiers. Hominidae includes only the modern human species.\n(F) Anthropoidea are the lower primates. Hominoidea are the small apes. Hominidae includes fossil apes and modern apes.\n(G) Anthropoidea are the New World monkeys. Hominoidea are the Old World monkeys. Hominidae includes gibbons.\n(H) Anthropoidea are the branch of primates including lemurs and lorises. Hominoidea are the large-bodied apes. Hominidae consists of all modern and extinct monkeys.\n(I) Anthropoidea are the higher primates. The superfamily Hominoidea is represented by great apes and man. The family Hominidae includes fossil men and modern man.\n(J) Anthropoidea are the subgroup of primates that are neither monkeys nor apes. Hominoidea includes all bipedal primates. Hominidae is a group composed of modern humans and Neanderthals.\n\nPlease finish your answer with \"the answer is (X)\" where X is the correct letter choice.",
+    "expected_answer": "The answer is (I) Anthropoidea are the higher primates. The superfamily Hominoidea is represented by great apes and man. The family Hominidae includes fossil men and modern man.",
+    "difficulty": "hard",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "MMLU_594",
+    "domain": "Biology",
+    "task_type": "Biology",
+    "prompt": "The following is a multiple-choice question:\nDistinguish between the two types of proteins produced by ribosomes.\n\nThe following choices are provided:\n(A) Structural proteins provide temporary cellular functions, while functional proteins provide permanent structure to cells\n(B) Structural proteins control cell activity while functional proteins are part of the cell protoplasm\n(C) Structural proteins catalyze chemical reactions while functional proteins are involved in the structure of the cell\n(D) Structural proteins are soluble in the cell while functional proteins are generally insoluble\n(E) Structural proteins are found only outside the cell, while functional proteins are exclusively found inside the cell\n(F) Structural proteins are only used for muscle contraction, while functional proteins are responsible for energy production\n(G) Structural proteins are part of the cell protoplasm and contribute to cell and body growth, while functional proteins control cell activity such as hormone production or nutrient metabolism.\n(H) Structural proteins are unable to catalyze any reactions, while functional proteins form the structural components of ribosomes\n(I) Structural proteins are synthesized from amino acids in the cytoplasm, while functional proteins are synthesized in the nucleus\n(J) Structural proteins are produced by free ribosomes, while functional proteins are produced by membrane-bound ribosomes\n\nPlease finish your answer with \"the answer is (X)\" where X is the correct letter choice.",
+    "expected_answer": "The answer is (G) Structural proteins are part of the cell protoplasm and contribute to cell and body growth, while functional proteins control cell activity such as hormone production or nutrient metabolism.",
+    "difficulty": "hard",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "MMLU_597",
+    "domain": "Biology",
+    "task_type": "Biology",
+    "prompt": "The following is a multiple-choice question:\nWhat is meant by a hydrostatic skeleton? In which organisms is such a structure found?\n\nThe following choices are provided:\n(A) A hydrostatic skeleton is the rigid internal structure found in birds and mammals.\n(B) A hydrostatic skeleton refers to the muscular system in humans and other primates.\n(C) A hydrostatic skeleton is composed of gas-filled chambers that provide buoyancy in fish.\n(D) A hydrostatic skeleton is a hard shell covering the body\n(E) A hydrostatic skeleton is the body cavity filled with air that is found in spiders and insects.\n(F) A hydrostatic skeleton is a network of bones that provide support in amphibians and reptiles.\n(G) A hydrostatic skeleton is the noncompressible fluid contents of the body cavity in organisms like Cnidarians, flatworms, and annelids.\n(H) A hydrostatic skeleton is the flexible cartilage found in sharks and rays.\n(I) A hydrostatic skeleton is only found in vertebrates\n(J) A hydrostatic skeleton is the external structure of insects\n\nPlease finish your answer with \"the answer is (X)\" where X is the correct letter choice.",
+    "expected_answer": "The answer is (G) A hydrostatic skeleton is the noncompressible fluid contents of the body cavity in organisms like Cnidarians, flatworms, and annelids.",
+    "difficulty": "hard",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "MMLU_606",
+    "domain": "Biology",
+    "task_type": "Biology",
+    "prompt": "The following is a multiple-choice question:\nBriefly discuss some abnormalities of the respiratory tract.\n\nThe following choices are provided:\n(A) Migraines, epilepsy, and multiple sclerosis\n(B) Gastroesophageal reflux disease (GERD), irritable bowel syndrome (IBS), and peptic ulcers\n(C) Diabetes, hypertension, and stroke\n(D) Tuberculosis, infections, allergic reactions such as hay fever and allergic asthma, lung cancer, emphysema, and respiratory distress syndrome are some abnormalities of the respiratory tract.\n(E) Arthritis, osteoporosis, and gout\n(F) Kidney stones, gallstones, and hernias\n(G) Myocardial infarction, angina, and heart failure\n(H) Anemia, leukemia, and lymphoma\n(I) Psoriasis, eczema, and acne\n\nPlease finish your answer with \"the answer is (X)\" where X is the correct letter choice.",
+    "expected_answer": "The answer is (D) Tuberculosis, infections, allergic reactions such as hay fever and allergic asthma, lung cancer, emphysema, and respiratory distress syndrome are some abnormalities of the respiratory tract.",
+    "difficulty": "hard",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "MMLU_607",
+    "domain": "Biology",
+    "task_type": "Biology",
+    "prompt": "The following is a multiple-choice question:\nList and compare the tissues that support and hold together theother tissues of the body.\n\nThe following choices are provided:\n(A) Connective tissue is a single group of tissues that encapsulates organs without providing structural support.\n(B) The only function of connective tissue is to transport nutrients throughout the body.\n(C) Connective tissue is divided into two groups: bone and cartilage.\n(D) Connective tissue includes three types: muscle, nerve, and epithelial tissues.\n(E) Connective tissue is mainly composed of fluids and lacks solid structures like bone or cartilage.\n(F) Connective tissue functions to support and hold together structures of the body. They are classified into four groups by structure and/or function: bone, cartilage, blood, and fibrous connective tissue.\n(G) Connective tissue is categorized into five groups: bone, cartilage, blood, fibrous connective tissue, and adipose tissue.\n(H) Fibrous connective tissue doesn't contribute to the support and holding of other tissues.\n(I) Connective tissue only supports other tissues, it doesn't hold them together.\n(J) Connective tissues are not classified; all connective tissues have the same function and structure.\n\nPlease finish your answer with \"the answer is (X)\" where X is the correct letter choice.",
+    "expected_answer": "The answer is (F) Connective tissue functions to support and hold together structures of the body. They are classified into four groups by structure and/or function: bone, cartilage, blood, and fibrous connective tissue.",
+    "difficulty": "hard",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "MMLU_609",
+    "domain": "Biology",
+    "task_type": "Biology",
+    "prompt": "The following is a multiple-choice question:\nA newborn infant is examined by a doctor, who determines that the child has syphilis. Explain how the child con-tracted syphilis .\n\nThe following choices are provided:\n(A) The baby contracted it from a contaminated surface.\n(B) The baby acquired the infection through kissing or close contact with an infected person.\n(C) The infant contracted the disease from another infant.\n(D) The child inherited the disease as an autosomal recessive trait from the parents.\n(E) The child contracted the disease from a blood transfusion shortly after birth.\n(F) The infant was vaccinated with a contaminated needle.\n(G) An infected mother can transmit the organism by placental transfer to the fetus during the first four months of pregnancy or as the fetus passes through the infected vagina during birth.\n(H) The infant developed the disease due to exposure to the bacterium in the hospital environment after birth.\n(I) The baby contracted it through breastfeeding from an infected mother.\n(J) The baby was born with it due to a genetic mutation.\n\nPlease finish your answer with \"the answer is (X)\" where X is the correct letter choice.",
+    "expected_answer": "The answer is (G) An infected mother can transmit the organism by placental transfer to the fetus during the first four months of pregnancy or as the fetus passes through the infected vagina during birth.",
+    "difficulty": "hard",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "MMLU_621",
+    "domain": "Biology",
+    "task_type": "Biology",
+    "prompt": "The following is a multiple-choice question:\nWhat factors determine the characteristics ofparticular organismsthat exist in an ecosystem.\n\nThe following choices are provided:\n(A) Temperature, precipitation, soil chemistry, and the types of decomposers present\n(B) Only soil structure and chemistry\n(C) Precipitation, temperature, and the presence of specific predator species\n(D) Only temperature and precipitation\n(E) Only the concentration of trace elements\n(F) The types of rock formations and the pH level of water sources\n(G) Temperature, soil chemistry, and light exposure\n(H) Soil structure, light exposure, and the migration patterns of birds\n(I) Temperature, precipitation, the structure and chemistry of the soil, and the concentration of trace elements\n(J) The concentration of trace elements and the presence of certain plant species\n\nPlease finish your answer with \"the answer is (X)\" where X is the correct letter choice.",
+    "expected_answer": "The answer is (I) Temperature, precipitation, the structure and chemistry of the soil, and the concentration of trace elements",
+    "difficulty": "hard",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "MMLU_657",
+    "domain": "Biology",
+    "task_type": "Biology",
+    "prompt": "The following is a multiple-choice question:\nIfDNAaseis added to a bacterial cell, the DNA is hydrolyzed , the cell cannot make any more proteins and eventually dies. IfDNAaseis added to RNA viruses, they continue to produce new proteins. Explain.\n\nThe following choices are provided:\n(A) The virus uses a different enzyme to replicate its genetic material\n(B) The virus has a unique replication cycle that does not involve nucleic acids\n(C) The virus is immune to DNAase\n(D) The virus contains RNA, it is not affected by DNAase\n(E) DNAase selectively only attacks bacterial DNA\n(F) The virus's genetic material is composed of proteins, not nucleic acids\n(G) The virus rapidly mutates to resist the effects of DNAase\n(H) The RNA in the virus is transformed into DNA\n(I) The virus has a protective shell against DNAase\n(J) The virus encodes its own DNAase inhibitor proteins\n\nPlease finish your answer with \"the answer is (X)\" where X is the correct letter choice.",
+    "expected_answer": "The answer is (D) The virus contains RNA, it is not affected by DNAase",
+    "difficulty": "hard",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "MMLU_664",
+    "domain": "Biology",
+    "task_type": "Biology",
+    "prompt": "The following is a multiple-choice question:\nA biologist deals with things on a microscopic level. To A biologist deals with things on a microscopic level. To describe cellular dimensions and the amount of materials present at the cellular level, units of an appropriately small size are needed. What are these units of measurements?\n\nThe following choices are provided:\n(A) The units of measurements used are picometers, decimeters, and centiliters.\n(B) The units of measurements used are liters, milliliters and cubic centimeters.\n(C) The units of measurements used at cellular level are micron, \\AAngstrom, milligrams, micrograms, nanograms and dalton.\n(D) The units of measurements used are femtoliters, microliters, and decaliters.\n(E) The units of measurements used are pounds, ounces and grams.\n(F) The units of measurements used are feet, inches, and yards.\n(G) The units of measurements used are hectograms, decagrams, and carats.\n(H) The units of measurements used are kilometers, meters and centimeters.\n(I) The units of measurements used are gigapascals, megapascals, and kilopascals.\n(J) The units of measurements used are moles, molecules, and particles.\n\nPlease finish your answer with \"the answer is (X)\" where X is the correct letter choice.",
+    "expected_answer": "The answer is (C) The units of measurements used at cellular level are micron, \\AAngstrom, milligrams, micrograms, nanograms and dalton.",
+    "difficulty": "hard",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "MMLU_706",
+    "domain": "Biology",
+    "task_type": "Biology",
+    "prompt": "The following is a multiple-choice question:\nWhat evidence supports the theory that vascular plants evolved directly from green algae, and not from bryophytes?\n\nThe following choices are provided:\n(A) Fossil records indicate a sudden appearance of vascular plants without any bryophyte intermediates\n(B) Vascular plants and bryophytes evolved independently\n(C) Vascular plants evolved from bryophytes\n(D) There is no evidence supporting the theory\n(E) Structural similarities in reproductive organs between vascular plants and certain green algae\n(F) The presence of similar photosynthetic pigments in vascular plants and green algae\n(G) Vascular plants share a more recent common ancestor with charophyte algae than with bryophytes\n(H) Genetic markers unique to vascular plants are also found in certain species of bryophytes\n(I) Ancient green algae were the common ancestors of both higher nonvascular and vascular plants\n(J) Bryophytes lack the specialized vascular tissue found in green algae\n\nPlease finish your answer with \"the answer is (X)\" where X is the correct letter choice.",
+    "expected_answer": "The answer is (I) Ancient green algae were the common ancestors of both higher nonvascular and vascular plants",
+    "difficulty": "hard",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "MMLU_738",
+    "domain": "Biology",
+    "task_type": "Biology",
+    "prompt": "The following is a multiple-choice question:\nIf a ring is cut through the bark all the way around a tree, down to the wood, the tree will live for a while, then die. Explain why.\n\nThe following choices are provided:\n(A) The cut inhibits the tree's ability to produce new bark, leaving it vulnerable to external elements and pests.\n(B) The cut interrupts the flow of gases to and from the leaves, leading to suffocation of the tree.\n(C) The tree will die because it gets infected through the cut\n(D) The ring cut causes the tree to dry out as it prevents sap from flowing through the bark.\n(E) The tree dies because the cut prevents the production of chlorophyll, which is essential for photosynthesis.\n(F) The tree will die because the cut disrupts the flow of energy from the leaves to the roots, leading to the roots' starvation.\n(G) The tree will eventually die because the cut severs the vascular system, preventing water and nutrients from being transported from the roots to the upper part of the tree and vice versa. This leads to a gradual loss of turgidity, closure of stomata, suspension of photosynthesis, and exhaustion of food reserves.\n(H) The tree will die because it can no longer grow taller\n(I) The tree will live indefinitely as the cut only affects the outer appearance and does not interfere with any vital processes.\n(J) The tree dies due to the physical damage caused by the cut\n\nPlease finish your answer with \"the answer is (X)\" where X is the correct letter choice.",
+    "expected_answer": "The answer is (G) The tree will eventually die because the cut severs the vascular system, preventing water and nutrients from being transported from the roots to the upper part of the tree and vice versa. This leads to a gradual loss of turgidity, closure of stomata, suspension of photosynthesis, and exhaustion of food reserves.",
+    "difficulty": "hard",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "MMLU_771",
+    "domain": "Biology",
+    "task_type": "Biology",
+    "prompt": "The following is a multiple-choice question:\nExplain how the planarian changes its body shape.\n\nThe following choices are provided:\n(A) By extending and retracting spines along its body\n(B) Through the use of cilia on its underside for movement and shape alteration\n(C) By secreting a mucus layer to change body contours\n(D) By absorbing water and expanding\n(E) By coordinated contraction and relaxation of circular, longitudinal, and dorsoventral muscles, the body shape of a planarian can be varied.\n(F) By shifting the distribution of body fluids to different segments\n(G) By changing the thickness of its skin\n(H) By rapid cell division and growth in specific body regions\n(I) By inflating air sacs within its body\n(J) By altering its genetic structure\n\nPlease finish your answer with \"the answer is (X)\" where X is the correct letter choice.",
+    "expected_answer": "The answer is (E) By coordinated contraction and relaxation of circular, longitudinal, and dorsoventral muscles, the body shape of a planarian can be varied.",
+    "difficulty": "hard",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "MMLU_803",
+    "domain": "Biology",
+    "task_type": "Biology",
+    "prompt": "The following is a multiple-choice question:\nSea divers are aware of a danger known as the \"bends\". Explain the physiological mechanism of the bends.\n\nThe following choices are provided:\n(A) Carbon dioxide bubbles forming in the blood causing acidosis\n(B) Rapid increase in barometric pressure causing the bends\n(C) Formation of helium bubbles in the bloodstream due to rapid ascent\n(D) Increased salinity in the water leading to dehydration and joint pain\n(E) Oxygen bubbles forming in the blood leading to hypoxia\n(F) Lack of oxygen while breathing under high pressure leading to the bends\n(G) Accumulation of lactic acid in muscles due to strenuous activity underwater\n(H) Sudden decrease in water temperature causing muscle cramping and disorientation\n(I) Rise in blood pressure due to underwater currents, resulting in the bends\n(J) Bubbles of nitrogen gas form in the blood and other tissue fluids when the barometric pressure drops below the total pressure of all gases dissolved in the body fluids, causing dizziness, paralysis, and unconsciousness, known as the bends.\n\nPlease finish your answer with \"the answer is (X)\" where X is the correct letter choice.",
+    "expected_answer": "The answer is (J) Bubbles of nitrogen gas form in the blood and other tissue fluids when the barometric pressure drops below the total pressure of all gases dissolved in the body fluids, causing dizziness, paralysis, and unconsciousness, known as the bends.",
+    "difficulty": "hard",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "MMLU_847",
+    "domain": "Biology",
+    "task_type": "Biology",
+    "prompt": "The following is a multiple-choice question:\nHow do the fork ferns differ from the true ferns? What unusual feature is present inPsilotum?\n\nThe following choices are provided:\n(A) Psilotum has no leaves or roots, and reproduces with flowers and seeds.\n(B) The fork ferns have small, simple, scale-like leaves and lack well-developed roots, instead having numerous unicellular rhizoids. They also have a rhizome often associated with a fungus. Psilotum has vascular tissues in both its gametophyte and sporophyte.\n(C) Psilotum has a well-developed root system similar to that of flowering plants.\n(D) The fork ferns have a rhizome usually found in association with an animal.\n(E) Psilotum lacks vascular tissues in both its gametophyte and sporophyte.\n(F) The fork ferns have a symbiotic relationship with insects for pollination.\n(G) The fork ferns have large, compound leaves and well-developed roots.\n(H) The fork ferns produce seeds, unlike the true ferns which reproduce via spores.\n(I) The fork ferns reproduce only via spores, while true ferns reproduce both sexually and asexually.\n(J) The fork ferns have vascular tissues only in their sporophyte, while Psilotum has them in neither generation.\n\nPlease finish your answer with \"the answer is (X)\" where X is the correct letter choice.",
+    "expected_answer": "The answer is (B) The fork ferns have small, simple, scale-like leaves and lack well-developed roots, instead having numerous unicellular rhizoids. They also have a rhizome often associated with a fungus. Psilotum has vascular tissues in both its gametophyte and sporophyte.",
+    "difficulty": "hard",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "MMLU_999",
+    "domain": "Biology",
+    "task_type": "Biology",
+    "prompt": "The following is a multiple-choice question:\nA young scientist is watching a group of new-born ducklings. On the first day, he observes them to crouch in fear at the sight of falling leaves. He also sees them \"practice\" flying. Over the next few days he observes that they do not react to the falling leaves and can now fly expertly. He concludes that the ducklings have learned to ignore falling leaves and have also learned to fly. Why is he partly incorrect?\n\nThe following choices are provided:\n(A) The ducklings are 'learning' to not fear falling leaves.\n(B) The ducklings are genetically programmed to not fear falling leaves after a certain age.\n(C) The ducklings are demonstrating a natural instinct to fly, which does not require learning.\n(D) The ducklings are 'learning' to fly through practice.\n(E) The ducklings are exhibiting a learned behavior to avoid falling leaves, thinking they are predators.\n(F) The ducklings are 'learning' to fly as a result of imitating other flying birds.\n(G) The ducklings are using trial and error to master flying, which is a form of learning.\n(H) The ducklings are not 'learning' to fly, they are maturing. Their ability to fly improves due to the development of their nervous and muscular systems, not because of practice or experience.\n(I) The ducklings are developing a conditioned response to ignore falling leaves.\n(J) The ducklings are adapting their behavior based on their environment.\n\nPlease finish your answer with \"the answer is (X)\" where X is the correct letter choice.",
+    "expected_answer": "The answer is (H) The ducklings are not 'learning' to fly, they are maturing. Their ability to fly improves due to the development of their nervous and muscular systems, not because of practice or experience.",
+    "difficulty": "hard",
+    "evaluation_metric": "exact_match"
+  }
+]

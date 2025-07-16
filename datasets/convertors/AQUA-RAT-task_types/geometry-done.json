@@ -1,0 +1,137 @@
+[
+  {
+    "task_id": "MATH_001",
+    "domain": "Mathematics",
+    "task_type": "Geometry",
+    "prompt": "A hollow cube of size 5cm is taken, with the thickness of 1cm. It is made of smaller cubes of size 1cm .If the outer surface of the cube is painted how many faces of the smaller cubes remain unpainted? Choose the correct answer from the following options:\nA)438\nB)550\nC)500\nD)450\nE)498",
+    "expected_answer": "answer.A",
+    "difficulty": "hard",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "MATH_027",
+    "domain": "Mathematics",
+    "task_type": "Geometry",
+    "prompt": "The ratio of the volumes of a cube to that of the sphere which will fit inside the cube is? Choose the correct answer from the following options:\nA)2: \u03c0\nB)7:2\nC)8:2\nD)6: \u03c0\nE)8:3",
+    "expected_answer": "Answer: Option D",
+    "difficulty": "easy",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "MATH_029",
+    "domain": "Mathematics",
+    "task_type": "Geometry",
+    "prompt": "A rectangular parking space is marked out by painting three of its sides. If the length of the unpainted side is 9 feet, and the sum of the lengths of the painted sides is 37 feet, then what is the area of the parking space in square feet? Choose the correct answer from the following options:\nA)46\nB)81\nC)126\nD)252\nE)None",
+    "expected_answer": "Answer C",
+    "difficulty": "hard",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "MATH_032",
+    "domain": "Mathematics",
+    "task_type": "Geometry",
+    "prompt": "A paper is in a square form whose one side is 20 cm. Two semi circles are drawn on its opposites as diameters. If these semi circles are cut down what is the area of the remaining paper? Choose the correct answer from the following options:\nA)8.75\nB)8.79\nC)8.75\nD)8.71\nE)8.72",
+    "expected_answer": "8.75",
+    "difficulty": "easy",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "MATH_059",
+    "domain": "Mathematics",
+    "task_type": "Geometry",
+    "prompt": "The height of a room to its semi-perimeter is 2:5. It costs Rs.260 to paper the walls of the room with paper 50cm wide at Rs.2 per meter allowing an area of 15 sq.m for doors and windows. The height of the room is: Choose the correct answer from the following options:\nA)2.6m\nB)3.9m\nC)4m\nD)4.2m\nE)4.4m",
+    "expected_answer": "ANSWER:C",
+    "difficulty": "hard",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "MATH_060",
+    "domain": "Mathematics",
+    "task_type": "Geometry",
+    "prompt": "An aeroplane flies along the four sides of a square at the speeds of 200, 400, 600 and 800km/hr. Find the average speed of the plane around the field? Choose the correct answer from the following options:\nA)384\nB)562\nC)458\nD)156\nE)452",
+    "expected_answer": "Answer is A",
+    "difficulty": "hard",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "MATH_073",
+    "domain": "Mathematics",
+    "task_type": "Geometry",
+    "prompt": "A ship went on a voyage. After it had traveled 180 miles a plane started with 10 times the speed of the ship. Find the distance when they meet from starting point. Choose the correct answer from the following options:\nA)238\nB)289\nC)200\nD)287\nE)187",
+    "expected_answer": "200",
+    "difficulty": "hard",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "MATH_086",
+    "domain": "Mathematics",
+    "task_type": "Geometry",
+    "prompt": "A point on the edge of a fan blade that is rotating in a plane 10 centimeters from the center of the fan. What is the distance traveled, in centimeters, by this point after 30 seconds when the fan runs at the rate of 300 revolutions per minutes? Choose the correct answer from the following options:\nA)750pi\nB)1500pi\nC)1875pi\nD)3000pi\nE)7500pi",
+    "expected_answer": "Answer is D.",
+    "difficulty": "hard",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "MATH_123",
+    "domain": "Mathematics",
+    "task_type": "Geometry",
+    "prompt": "When folded into two equal halves a rectangular sheet had a perimeter of 48cm for each part folded along one set of sides and the same is 66cm when folded along the other set of sides. Find the area of the sheet. Choose the correct answer from the following options:\nA)1584\nB)1120\nC)792\nD)1320\nE)1200",
+    "expected_answer": "ANSWER IS B",
+    "difficulty": "hard",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "MATH_134",
+    "domain": "Mathematics",
+    "task_type": "Geometry",
+    "prompt": "The cross-section of a canal is shaped like a trapezium. If the canal is 10 m wide at the top and 6 m wide at the bottom and the area of cross-section is 640 square meters, the depth of cannel is? Choose the correct answer from the following options:\nA)26\nB)28\nC)21\nD)80\nE)23",
+    "expected_answer": "80",
+    "difficulty": "medium",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "MATH_162",
+    "domain": "Mathematics",
+    "task_type": "Geometry",
+    "prompt": "A coin made of alloy of aluminum and silver measures 2 x 15 mm (it is 2 mm thick and its diameter is 15 mm). If the weight of the coin is 30 grams and the volume of aluminum in the alloy equals that of silver, what will be the weight of a coin measuring 1 x 30 mm made of pure aluminum if silver is twice as heavy as aluminum? Choose the correct answer from the following options:\nA)36 grams\nB)40 grams\nC)42 grams\nD)48 grams\nE)50 grams",
+    "expected_answer": "ANSWER:B",
+    "difficulty": "hard",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "MATH_190",
+    "domain": "Mathematics",
+    "task_type": "Geometry",
+    "prompt": "Julie\u2019s yard is rectangular. One side of the yard is 100 feet wide. The total area of the yard is 3,000 square feet. What is the length of the other side of the yard? Choose the correct answer from the following options:\nA)30 feet\nB)20 feet\nC)10 feet\nD)50 feet\nE)60 feet",
+    "expected_answer": "Correct answer A",
+    "difficulty": "medium",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "MATH_198",
+    "domain": "Mathematics",
+    "task_type": "Geometry",
+    "prompt": "A square piece of cloth is trimmed by 4 feet on one edge to form a rectangular piece, which is then cut diagonally in half to create two triangles. If the area of each of triangle is 70 square feet, what was the perimeter (in feet) of the original piece of square cloth? Choose the correct answer from the following options:\nA)56\nB)58\nC)60\nD)62\nE)64",
+    "expected_answer": "The answer is A.",
+    "difficulty": "hard",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "MATH_202",
+    "domain": "Mathematics",
+    "task_type": "Geometry",
+    "prompt": "Alice wants to put up fencing around three sides of her rectangular yard and leave one side of 10 meters unfenced. If the yard has an area of 240 square meters, how many meters of fencing does she need? Choose the correct answer from the following options:\nA)58\nB)62\nC)66\nD)70\nE)74",
+    "expected_answer": "The answer is A.",
+    "difficulty": "medium",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "MATH_208",
+    "domain": "Mathematics",
+    "task_type": "Geometry",
+    "prompt": "In the coordinate plane, a triangle has vertices at (a,0), (b,0), and (x,y). If a>x>b>0>y, which of the following represents the area of that triangle? Choose the correct answer from the following options:\nA)(ay\u2212by)/2\nB)(ab\u2212ay)/2\nC)(by\u2212ay)/2\nD)(ay+by)/x\nE)(a\u2212b)/2y",
+    "expected_answer": "C. (by\u2212ay)/2",
+    "difficulty": "medium",
+    "evaluation_metric": "exact_match"
+  }
+]

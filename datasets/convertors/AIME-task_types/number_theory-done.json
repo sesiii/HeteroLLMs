@@ -1,0 +1,29 @@
+[
+  {
+    "task_id": "MATH_001",
+    "domain": "Mathematics",
+    "task_type": "Number Theory",
+    "prompt": "Find the sum of all integer bases $b>9$ for which $17_{b}$ is a divisor of $97_{b}$.",
+    "expected_answer": "70",
+    "difficulty": "hard",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "MATH_005",
+    "domain": "Mathematics",
+    "task_type": "Number Theory",
+    "prompt": "There are $8!=40320$ eight-digit positive integers that use each of the digits $1,2,3,4,5,6,7,8$ exactly once. Let $N$ be the number of these integers that are divisible by 22. Find the difference between $N$ and 2025.",
+    "expected_answer": "279",
+    "difficulty": "hard",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "MATH_015",
+    "domain": "Mathematics",
+    "task_type": "Number Theory",
+    "prompt": "Let $N$ denote the number of ordered triples of positive integers $(a,b,c)$ such that $a,b,c\\leq3^6$ and $a^3+b^3+c^3$ is a multiple of $3^7$. Find the remainder when $N$ is divided by $1000$.",
+    "expected_answer": "735",
+    "difficulty": "hard",
+    "evaluation_metric": "exact_match"
+  }
+]

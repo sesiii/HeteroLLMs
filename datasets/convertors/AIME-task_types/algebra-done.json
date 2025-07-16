@@ -1,0 +1,11 @@
+[
+  {
+    "task_id": "MATH_004",
+    "domain": "Mathematics",
+    "task_type": "Algebra",
+    "prompt": "Find the number of ordered pairs $(x,y)$, where both $x$ and $y$ are integers between $-100$ and $100$, inclusive, such that $12x^{2}-xy-6y^{2}=0$.",
+    "expected_answer": "117",
+    "difficulty": "hard",
+    "evaluation_metric": "exact_match"
+  }
+]

@@ -1,0 +1,245 @@
+[
+  {
+    "task_id": "MMLU_015",
+    "domain": "Mathematics",
+    "task_type": "Arithmetic",
+    "prompt": "Find the value of the expression 14 + (\u221271).\n\nFor this question, four choices are provided:\n(A) \u221285\n(B) 57\n(C) 85\n(D) \u221257\n\nPlease choose the correct answer from the above choices.",
+    "expected_answer": "(B) 57",
+    "difficulty": "easy",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "MMLU_080",
+    "domain": "Mathematics",
+    "task_type": "Arithmetic",
+    "prompt": "John has 4 cookies. Sara has 2 more cookies than John. Darius has 3 times as many cookies as Sara. How many cookies does Darius have?\n\nFor this question, four choices are provided:\n(A) 9\n(B) 14\n(C) 18\n(D) 24\n\nPlease choose the correct answer from the above choices.",
+    "expected_answer": "(C) 18",
+    "difficulty": "easy",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "MMLU_087",
+    "domain": "Mathematics",
+    "task_type": "Arithmetic",
+    "prompt": "Last year Carl baked a total of 18 pies. He baked 6 pies for his family and p pies for each of the 4 school fund-raisers. Which number sentence can be used to find the number of pies, p, Carl baked for each of the school fund-raisers?\n\nFor this question, four choices are provided:\n(A) 6 \u00d7 p \u2013 18 = 4\n(B) 18 \u2013 6 \u00d7 p = 4\n(C) 4+6 \u00d7 p = 18\n(D) 6+4 \u00d7 p = 18\n\nPlease choose the correct answer from the above choices.",
+    "expected_answer": "(D) 6+4 \u00d7 p = 18",
+    "difficulty": "easy",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "MMLU_126",
+    "domain": "Mathematics",
+    "task_type": "Arithmetic",
+    "prompt": "A teacher buys the folders listed below.\n* 5 boxes of red folders with 36 folders in each box\n* 6 boxes of blue folders with 32 folders in each box\nWhich number is closest to the total number of red and blue folders that the teacher buys?\n\nFor this question, four choices are provided:\n(A) 275\n(B) 380\n(C) 440\n(D) 550\n\nPlease choose the correct answer from the above choices.",
+    "expected_answer": "(B) 380",
+    "difficulty": "easy",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "MMLU_182",
+    "domain": "Mathematics",
+    "task_type": "Arithmetic",
+    "prompt": "Which statement is false?\n\nFor this question, four choices are provided:\n(A) 3 < 5\n(B) 5 > 3\n(C) \u22125 > \u22123\n(D) \u22123 > \u22125\n\nPlease choose the correct answer from the above choices.",
+    "expected_answer": "(C) \u22125 > \u22123",
+    "difficulty": "easy",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "MMLU_211",
+    "domain": "Mathematics",
+    "task_type": "Arithmetic",
+    "prompt": "Which numbers are in order from least to greatest?\n\nFor this question, four choices are provided:\n(A) 1 over 8, 0.75, 1 over 3, 5 over 6\n(B) 5 over 6, 1 over 3, 0.75, 1 over 8\n(C) 1 over 8, 1 over 3, 0.75, 5 over 6\n(D) 5 over 6, 0.75, 1 over 3, 1 over 8\n\nPlease choose the correct answer from the above choices.",
+    "expected_answer": "(C) 1 over 8, 1 over 3, 0.75, 5 over 6",
+    "difficulty": "easy",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "MMLU_241",
+    "domain": "Mathematics",
+    "task_type": "Arithmetic",
+    "prompt": "Find the difference of 142.76 \u2013 16.5.\n\nFor this question, four choices are provided:\n(A) 159.26\n(B) 2.224\n(C) 14,111\n(D) 126.26\n\nPlease choose the correct answer from the above choices.",
+    "expected_answer": "(D) 126.26",
+    "difficulty": "easy",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "MMLU_247",
+    "domain": "Mathematics",
+    "task_type": "Arithmetic",
+    "prompt": "Lucy is making gift baskets. She puts 3 apples in each gift basket. Which number sentence shows how to find the total number of gift baskets, b, Lucy can make with 24 apples?\n\nFor this question, four choices are provided:\n(A) 24 + 3 = b\n(B) 3 + b = 24\n(C) 24 \u00f7 b = 3\n(D) 3 \u00d7 24 = b\n\nPlease choose the correct answer from the above choices.",
+    "expected_answer": "(C) 24 \u00f7 b = 3",
+    "difficulty": "easy",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "MMLU_264",
+    "domain": "Mathematics",
+    "task_type": "Arithmetic",
+    "prompt": "Samantha has 342 baseball cards. Perry has 184 baseball cards. How many more baseball cards does Samantha have than Perry?\n\nFor this question, four choices are provided:\n(A) 158\n(B) 168\n(C) 258\n(D) 268\n\nPlease choose the correct answer from the above choices.",
+    "expected_answer": "(A) 158",
+    "difficulty": "easy",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "MMLU_301",
+    "domain": "Mathematics",
+    "task_type": "Arithmetic",
+    "prompt": "A group of friends go out to lunch. d people buy salad and p people buy soup. Each salad costs $3.99 and each soup costs $2.99. Write an expression for the total costs of the soup and salads.\n\nFor this question, four choices are provided:\n(A) 3.99p + 2.99d\n(B) 2.99p + 3.99d\n(C) (2.99 + 3.99)(p + d)\n(D) (3.99p + 2.99)d\n\nPlease choose the correct answer from the above choices.",
+    "expected_answer": "(B) 2.99p + 3.99d",
+    "difficulty": "easy",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "MMLU_317",
+    "domain": "Mathematics",
+    "task_type": "Arithmetic",
+    "prompt": "A shape is mad eof 12 right triangles of equal size. Each right triangle has a base of 4 cm and a height of 5 cm. What is the total area, in square centimeters, of the shape?\n\nFor this question, four choices are provided:\n(A) 10\n(B) 60\n(C) 120\n(D) 240\n\nPlease choose the correct answer from the above choices.",
+    "expected_answer": "(C) 120",
+    "difficulty": "easy",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "MMLU_384",
+    "domain": "Mathematics",
+    "task_type": "Arithmetic",
+    "prompt": "A dime has a radius of about 0.85 cm. Which measurement is closest to the circumference of a dime?\n\nFor this question, four choices are provided:\n(A) 1.33 cm\n(B) 1.70 cm\n(C) 2.67 cm\n(D) 5.34 cm\n\nPlease choose the correct answer from the above choices.",
+    "expected_answer": "(D) 5.34 cm",
+    "difficulty": "easy",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "MMLU_442",
+    "domain": "Mathematics",
+    "task_type": "Arithmetic",
+    "prompt": "There are three different sections to sit in at a baseball park. The number of people who can sit in each section is described below.\n* red section seats 200 people\n* blue section seats 20 fewer people than the red section\n* green section seats 2 times as many people as the blue section\nWhat is the total number of people who can sit in the baseball park?\n\nFor this question, four choices are provided:\n(A) 260\n(B) 380\n(C) 640\n(D) 740\n\nPlease choose the correct answer from the above choices.",
+    "expected_answer": "(D) 740",
+    "difficulty": "easy",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "MMLU_447",
+    "domain": "Mathematics",
+    "task_type": "Arithmetic",
+    "prompt": "Estimate 711 + 497. The sum is between which numbers?\n\nFor this question, four choices are provided:\n(A) 50 and 400\n(B) 450 and 700\n(C) 750 and 1,000\n(D) 1,050 and 1,300\n\nPlease choose the correct answer from the above choices.",
+    "expected_answer": "(D) 1,050 and 1,300",
+    "difficulty": "easy",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "MMLU_619",
+    "domain": "Mathematics",
+    "task_type": "Arithmetic",
+    "prompt": "Order from greatest to least: 3, 3 and 1 over 8,3.8,3.18.\n\nFor this question, four choices are provided:\n(A) 3.18, 3 and 1 over 8, 3.8,3\n(B) 3,3 and 1 over 8, 3.18, 3\n(C) 3.8, 3 and 1 over 8, 3.18, 3\n(D) 3.8, 3.18, 3 and 1 over 8, 3\n\nPlease choose the correct answer from the above choices.",
+    "expected_answer": "(D) 3.8, 3.18, 3 and 1 over 8, 3",
+    "difficulty": "easy",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "MMLU_650",
+    "domain": "Mathematics",
+    "task_type": "Arithmetic",
+    "prompt": "At a bus station, buses begin their routes at 6:00 a.m. The schedule for two of the buses is based on the time intervals listed below.\n* Bus A has a long route and leavesthe station every 75 minutes.\n* Bus has a short route and leaves the station every 15 minutes.\nWhat is the next time Bus A and BusB will leave the bus station at the same time?\n\nFor this question, four choices are provided:\n(A) 7:00 a.m.\n(B) 7:15 a.m.\n(C) 7:30 a.m.\n(D) 8:30 a.m.\n\nPlease choose the correct answer from the above choices.",
+    "expected_answer": "(B) 7:15 a.m.",
+    "difficulty": "easy",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "MMLU_686",
+    "domain": "Mathematics",
+    "task_type": "Arithmetic",
+    "prompt": "Which expression represents the phrase below? 3 fewer than a number, p\n\nFor this question, four choices are provided:\n(A) 3-p\n(B) p+3\n(C) 3/p\n(D) p-3\n\nPlease choose the correct answer from the above choices.",
+    "expected_answer": "(D) p-3",
+    "difficulty": "easy",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "MMLU_714",
+    "domain": "Mathematics",
+    "task_type": "Arithmetic",
+    "prompt": "What is 60% of 30?\n\nFor this question, four choices are provided:\n(A) 1.8\n(B) 18\n(C) 180\n(D) 1800\n\nPlease choose the correct answer from the above choices.",
+    "expected_answer": "(B) 18",
+    "difficulty": "easy",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "MMLU_718",
+    "domain": "Mathematics",
+    "task_type": "Arithmetic",
+    "prompt": "Tayshawn sorts 56 marbles into equal groups with no marbles left over. Which statement could be true of the groups of marbles Tayshawn sorts?\n\nFor this question, four choices are provided:\n(A) There are 6 groups of marbles with 8 marbles in each group.\n(B) There are 7 groups of marbles with 7 marbles in each group.\n(C) There are 8 groups of marbles with 7 marbles in each group.\n(D) There are 9 groups of marbles with 6 marbles in each group.\n\nPlease choose the correct answer from the above choices.",
+    "expected_answer": "(C) There are 8 groups of marbles with 7 marbles in each group.",
+    "difficulty": "easy",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "MMLU_732",
+    "domain": "Mathematics",
+    "task_type": "Arithmetic",
+    "prompt": "Solve 13 over 4 = x over 7.\n\nFor this question, four choices are provided:\n(A) 22.75\n(B) 23.25\n(C) 24.25\n(D) none of these\n\nPlease choose the correct answer from the above choices.",
+    "expected_answer": "(A) 22.75",
+    "difficulty": "easy",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "MMLU_876",
+    "domain": "Mathematics",
+    "task_type": "Arithmetic",
+    "prompt": "Rich measures the width of one cardboard strip as 5 over 6 ft. A second cardboard strip is 2 over 3 ft wide. Estimate the combined width of the cardboard strips.\n\nFor this question, four choices are provided:\n(A) 2 ft\n(B) 1 and 1 over 2 ft\n(C) 1 ft\n(D) 3 ft\n\nPlease choose the correct answer from the above choices.",
+    "expected_answer": "(B) 1 and 1 over 2 ft",
+    "difficulty": "easy",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "MMLU_906",
+    "domain": "Mathematics",
+    "task_type": "Arithmetic",
+    "prompt": "A shopping mall wants to conduct a survey of the people who shop at the mall. Which would give them the most representative sample?\n\nFor this question, four choices are provided:\n(A) conducting the survey at one shoe store\n(B) conducting the survey at all shoe stores\n(C) conducting the survey at the entrance to the mall\n(D) conducting the survey a mile away from the mall \n\nPlease choose the correct answer from the above choices.",
+    "expected_answer": "(C) conducting the survey at the entrance to the mall",
+    "difficulty": "easy",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "MMLU_926",
+    "domain": "Mathematics",
+    "task_type": "Arithmetic",
+    "prompt": "What number makes the equation 35 / ? = 7 true?\n\nFor this question, four choices are provided:\n(A) 5\n(B) 6\n(C) 7\n(D) 8\n\nPlease choose the correct answer from the above choices.",
+    "expected_answer": "(A) 5",
+    "difficulty": "easy",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "MMLU_935",
+    "domain": "Mathematics",
+    "task_type": "Arithmetic",
+    "prompt": "Which step explains how to find the value of a in 6a = 72?\n\nFor this question, four choices are provided:\n(A) add 6 to both sides\n(B) divide both sides by 6\n(C) multiply both sides by 6\n(D) subtract 6 from both sides\n\nPlease choose the correct answer from the above choices.",
+    "expected_answer": "(B) divide both sides by 6",
+    "difficulty": "easy",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "MMLU_938",
+    "domain": "Mathematics",
+    "task_type": "Arithmetic",
+    "prompt": "A group of hikers climbed from Salt Flats (elevation \u221255 feet)to Talon Bluff (elevation 620 feet). What is the difference in elevation between Talon Bluff and Salt Flats?\n\nFor this question, four choices are provided:\n(A) 565 feet\n(B) 575 feet\n(C) 665 feet\n(D) 675 feet\n\nPlease choose the correct answer from the above choices.",
+    "expected_answer": "(D) 675 feet",
+    "difficulty": "easy",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "MMLU_949",
+    "domain": "Mathematics",
+    "task_type": "Arithmetic",
+    "prompt": "A soccer team has $90.00 to buy soccer balls. If one soccer ball costs $15.60, what is the greatest number of soccer balls the team can buy?\n\nFor this question, four choices are provided:\n(A) 4\n(B) 5\n(C) 6\n(D) 7\n\nPlease choose the correct answer from the above choices.",
+    "expected_answer": "(B) 5",
+    "difficulty": "easy",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "MMLU_1002",
+    "domain": "Mathematics",
+    "task_type": "Arithmetic",
+    "prompt": "A newspaper company sold 179,912 newspapers in one day. What is this number of newspapers written in word form?\n\nFor this question, four choices are provided:\n(A) one hundred seventy-nine thousand twelve\n(B) one hundred seventy-nine nine hundred twelve\n(C) one hundred seventy thousand nine hundred twelve\n(D) one hundred seventy-nine thousand nine hundred twelve\n\nPlease choose the correct answer from the above choices.",
+    "expected_answer": "(D) one hundred seventy-nine thousand nine hundred twelve",
+    "difficulty": "easy",
+    "evaluation_metric": "exact_match"
+  }
+]

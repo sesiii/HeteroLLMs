@@ -1,0 +1,344 @@
+[
+  {
+    "task_id": "MATH_006",
+    "domain": "Mathematics",
+    "task_type": "Arithmetic",
+    "prompt": "The average wages of a worker during a fortnight comprising of 15 consecutive working days was $90 per day. During the first 7 days, his average wage was $87 per day and the average wage during the last 7 days was $92 per day. What was his wage on the 8th day? Choose the correct answer from the following options:\nA)$83\nB)$92\nC)$90\nD)$97\nE)$104",
+    "expected_answer": "Answer D",
+    "difficulty": "hard",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "MATH_019",
+    "domain": "Mathematics",
+    "task_type": "Arithmetic",
+    "prompt": "On a test the passing students had an average of 83, while the failing students had an average\nof 55. If the overall class average was 76, what percent of the class passed? Choose the correct answer from the following options:\nA)44%\nB)66%\nC)68%\nD)72%\nE)75%",
+    "expected_answer": "correct answer E",
+    "difficulty": "easy",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "MATH_024",
+    "domain": "Mathematics",
+    "task_type": "Arithmetic",
+    "prompt": "Jim filled his dog's bowl with dog food. Starting at 8:00 am, Jim's dog ate exactly once an hour, consuming exactly 1/3 of the dog food remaining in the bowl at each feeding session. Approximately, what percent of the original food was in the dog's bowl right before the dog began to eat at noon of the same day? Choose the correct answer from the following options:\nA)20%\nB)25%\nC)30%\nD)35%\nE)40%",
+    "expected_answer": "The answer is A.",
+    "difficulty": "medium",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "MATH_036",
+    "domain": "Mathematics",
+    "task_type": "Arithmetic",
+    "prompt": "If m > 0, y > 0, and x is m percent of 4y, then, in terms of y, m is what percentage of x? Choose the correct answer from the following options:\nA)y/400\nB)4y\nC)50y\nD)2500/y\nE)5000/y",
+    "expected_answer": "The answer is D.",
+    "difficulty": "medium",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "MATH_037",
+    "domain": "Mathematics",
+    "task_type": "Arithmetic",
+    "prompt": "If 120 is reduced to 96, what is the reduction percent? Choose the correct answer from the following options:\nA)30%\nB)40%\nC)20%\nD)10%\nE)5%",
+    "expected_answer": "20",
+    "difficulty": "medium",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "MATH_044",
+    "domain": "Mathematics",
+    "task_type": "Arithmetic",
+    "prompt": "If 75 percent of the employees of a certain company take a winter vacation, 40 percent take a winter and a summer vacation, and 20 percent take neither a winter nor a summer vacation, what Q percent of the employees take a summer vacation but not a winter vacation? Choose the correct answer from the following options:\nA)5%\nB)15%\nC)25%\nD)35%\nE)45%",
+    "expected_answer": "5",
+    "difficulty": "hard",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "MATH_058",
+    "domain": "Mathematics",
+    "task_type": "Arithmetic",
+    "prompt": "If a subscription for 15 issues of a magazine costs $42.00 and represents a saving of 25 percent of the cover prices, what is the cover price per issue? Choose the correct answer from the following options:\nA)$7.73\nB)$6.73\nC)$5.73\nD)$4.73\nE)$3.73",
+    "expected_answer": "Answer E",
+    "difficulty": "hard",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "MATH_062",
+    "domain": "Mathematics",
+    "task_type": "Arithmetic",
+    "prompt": "A shopkeeper in order to promote his new shop put a discount of 20% on all the items for one day. Now he must sell the items at original price the other day. By what percentage must he increase the price to original? Choose the correct answer from the following options:\nA)21%\nB)20%\nC)25%\nD)33%\nE)18%",
+    "expected_answer": "Suppose every item is priced at $100. On 20% discount, the price will become $80. Now he must add $20 to each item for original price which is 25% of $80.",
+    "difficulty": "easy",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "MATH_070",
+    "domain": "Mathematics",
+    "task_type": "Arithmetic",
+    "prompt": "A pen company produces very fine quality of writing pens. Company knows that on average 10% of the produced pens are always defective so are rejected before packing. Company promises to deliver 7200 pens to its wholesaler at Rs. 10 each. It estimates the overall profit on all the manufactured pens to be 25%. What is the manufactured cost of each pen? Choose the correct answer from the following options:\nA)Rs. 6\nB)Rs. 7.2\nC)Rs. 5.6\nD)Rs. 8\nE)None of these",
+    "expected_answer": "Answer: Option B",
+    "difficulty": "hard",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "MATH_077",
+    "domain": "Mathematics",
+    "task_type": "Arithmetic",
+    "prompt": "In a large forest, 300 deer were caught, tagged, and returned during 2001. During 2002, 500 deer were caught at random, of which only 20 had tags from the previous year. If the percent of deer in the forest that had tags during the second year and were caught in the 500 deer sample is representative of the percent of the total deer population in the forest with tags, what is the total deer population in the forest (assuming no change in population between 2001 and 2002)? Choose the correct answer from the following options:\nA)300\nB)500\nC)5000\nD)6000\nE)7500",
+    "expected_answer": "Answer E",
+    "difficulty": "hard",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "MATH_085",
+    "domain": "Mathematics",
+    "task_type": "Arithmetic",
+    "prompt": "The original retail price of an appliance was 60 percent more than its wholesale cost. If the appliance was actually sold for 20 percent less than the original retail price, then it was sold for what percent more than its wholesale cost? Choose the correct answer from the following options:\nA)20%\nB)28%\nC)36%\nD)40%\nE)42%",
+    "expected_answer": "28",
+    "difficulty": "medium",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "MATH_088",
+    "domain": "Mathematics",
+    "task_type": "Arithmetic",
+    "prompt": "At a certain factory, 10 percent of the staplers produced on Monday were defective and 2 percent of the non-defective staplers were rejected by mistake. If 72 of the non-defective staplers were rejected, what was the number of staplers produced that day? Choose the correct answer from the following options:\nA)4,000\nB)4,200\nC)4,500\nD)4,800\nE)5,000",
+    "expected_answer": "A",
+    "difficulty": "hard",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "MATH_089",
+    "domain": "Mathematics",
+    "task_type": "Arithmetic",
+    "prompt": "The average (arithmetic mean) of the weight of 10 vehicles is 12.2 tons. The average weight of the group of vehicles increased by 2.6 tons after a new heavy duty truck was added to the group? What is the weight in tons of the heavy duty truck? Choose the correct answer from the following options:\nA)40.8\nB)41.6\nC)42.2\nD)43.5\nE)44.8",
+    "expected_answer": "The answer is A.",
+    "difficulty": "medium",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "MATH_093",
+    "domain": "Mathematics",
+    "task_type": "Arithmetic",
+    "prompt": "The average weight of 10 oarsmen in a boat is increased by 1.8 kg when one of the crew, who weighs 53 kg is replaced by a new man. Find the weight of the new man. Choose the correct answer from the following options:\nA)71\nB)62\nC)43\nD)67\nE)40",
+    "expected_answer": "ANSWER A",
+    "difficulty": "medium",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "MATH_105",
+    "domain": "Mathematics",
+    "task_type": "Arithmetic",
+    "prompt": "20 marbles were pulled out of a bag of only white marbles, painted black, and then put back in. Then, another 20 marbles were pulled out, of which 1 was black, after which they were all returned to the bag. If the percentage of black marbles pulled out the second time represents their percentage in the bag, how many marbles in total Q does the bag currently hold? Choose the correct answer from the following options:\nA)40\nB)200\nC)380\nD)400\nE)3200",
+    "expected_answer": "400",
+    "difficulty": "easy",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "MATH_114",
+    "domain": "Mathematics",
+    "task_type": "Arithmetic",
+    "prompt": "John likes to have lightly flavored tea every evening. In a 50% strong milk tea, he replaces 15% of it with milk twice. Then, he replaces 10 percent of the resultant solution with more milk.\nWhat is the final concentration of tea John drinks? Choose the correct answer from the following options:\nA)15.38%\nB)42%\nC)39.86%\nD)22.35%\nE)32.51%",
+    "expected_answer": "32.51",
+    "difficulty": "hard",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "MATH_115",
+    "domain": "Mathematics",
+    "task_type": "Arithmetic",
+    "prompt": "The price of a product is reduced by 30% . By what percentage should it be increased to make it 100% Choose the correct answer from the following options:\nA)41.86%\nB)42.86%\nC)43.86%\nD)44.86%\nE)45.86%",
+    "expected_answer": "ANSWER:B",
+    "difficulty": "medium",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "MATH_120",
+    "domain": "Mathematics",
+    "task_type": "Arithmetic",
+    "prompt": "In IPL season, Sachin current batting average is 51. In the finals, he scores 78 runs, then is batting average will be 54. Find out the total number of matches played by Sachin in this season. Choose the correct answer from the following options:\nA)6\nB)8\nC)9\nD)10\nE)11",
+    "expected_answer": "ANSWER:C",
+    "difficulty": "hard",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "MATH_127",
+    "domain": "Mathematics",
+    "task_type": "Arithmetic",
+    "prompt": "Last year, a Home Appliance Store sold an average(arithmetic mean) of 42 microwave ovens per month. In the first 10 months of this year,the store has sold an average(arithmetic mean) of only 20 microwave ovens per month. What was the average number of microwave ovens sold per month during the entire 22 months period ? Choose the correct answer from the following options:\nA)21\nB)30\nC)31\nD)32\nE)None of the above",
+    "expected_answer": "Answer D",
+    "difficulty": "easy",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "MATH_129",
+    "domain": "Mathematics",
+    "task_type": "Arithmetic",
+    "prompt": "Last year, 34 percent of Ace Book Company's sales revenue came from the sale of novels. Of the remaining revenue, 1/3 was from the sale of biographies. The company's revenue from the sale of novels was approximately, how many times its revenue from the sale of biographies? Choose the correct answer from the following options:\nA)1.3\nB)1.5\nC)2.1\nD)2.5\nE)3.1",
+    "expected_answer": "Answer B",
+    "difficulty": "hard",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "MATH_131",
+    "domain": "Mathematics",
+    "task_type": "Arithmetic",
+    "prompt": "An exam is given in a certain class. The average (arithmetic mean) of the highest score and the lowest score is equal to x. If the average score for the entire class is equal to y and there are z students in the class, where z > 5, then in terms of x, y, and z, what is the average score for the class excluding the highest and lowest scorers? Choose the correct answer from the following options:\nA)(zy \u2013 2x)/z\nB)(zy \u2013 2)/z\nC)(zx \u2013 y)/(z \u2013 2)\nD)(zy \u2013 2x)/(z -2)\nE)(zy \u2013 x)/(z + 2)",
+    "expected_answer": "(zy \u2013 2x",
+    "difficulty": "hard",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "MATH_148",
+    "domain": "Mathematics",
+    "task_type": "Arithmetic",
+    "prompt": "At Daifu university, 24% of all students are members of both a chess club and a swim team. If 20% of members of the swim team are not members of the chess club, what percentage of all Daifu students are members of the swim team? Choose the correct answer from the following options:\nA)20%\nB)30%\nC)40%\nD)50%\nE)60%",
+    "expected_answer": "30",
+    "difficulty": "medium",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "MATH_149",
+    "domain": "Mathematics",
+    "task_type": "Arithmetic",
+    "prompt": "A retailer sold an appliance for 40 percent above cost, which represented a gross profit of $20.00. For what price did the retailer sell the appliance? Choose the correct answer from the following options:\nA)$27.30\nB)$51.00\nC)$63.00\nD)$70.00\nE)$91.00",
+    "expected_answer": "The answer is (D).",
+    "difficulty": "hard",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "MATH_153",
+    "domain": "Mathematics",
+    "task_type": "Arithmetic",
+    "prompt": "Tires of a certain brand, when purchased new, last for four years. A customer can choose to purchase the new tires at a cost of $180 per tire or can have his current tires repaired at a cost of $40 per tire, a repair that will make the current tires last for one additional year. The average cost per year of the new tires is what percent greater than the cost of repairing the current tires? Choose the correct answer from the following options:\nA)8%\nB)10%\nC)12.5%\nD)16.7%\nE)25%",
+    "expected_answer": "ANSWER:C",
+    "difficulty": "hard",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "MATH_180",
+    "domain": "Mathematics",
+    "task_type": "Arithmetic",
+    "prompt": "An astronaut weighing 211 pounds on Earth would weigh 182 pounds on Venus. The weight of the astronaut on Venus would be approximately what percent of the astronaut\u2019s weight on Earth? Choose the correct answer from the following options:\nA)50%\nB)60%\nC)70%\nD)86%\nE)90%",
+    "expected_answer": "Answer D",
+    "difficulty": "medium",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "MATH_181",
+    "domain": "Mathematics",
+    "task_type": "Arithmetic",
+    "prompt": "One gram of a certain health food contains 9 percent of the minimum daily requirement of vitamin E and 8 percent of the minimum daily requirement of vitamin A. If vitamins E and A are to be obtained from no other source, how many grams of the health food must be eaten daily to provide at least the minimum daily requirement of both vitamins? Choose the correct answer from the following options:\nA)8.5\nB)10.5\nC)12.5\nD)14.5\nE)16.5",
+    "expected_answer": "The answer is C.",
+    "difficulty": "medium",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "MATH_183",
+    "domain": "Mathematics",
+    "task_type": "Arithmetic",
+    "prompt": "In a chocolate store, all chocolates are either vanilla or cocoa flavored only. 10% of the chocolates are cocoa flavored, 90% of the rest are squashed. What percentage of the chocolates are both vanilla flavored and not squashed? Choose the correct answer from the following options:\nA)1%\nB)2%\nC)5%\nD)9%\nE)10%",
+    "expected_answer": "D is the answer",
+    "difficulty": "medium",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "MATH_207",
+    "domain": "Mathematics",
+    "task_type": "Arithmetic",
+    "prompt": "A book was sold for Rs 27.50 with a profit of 10%. If it were sold for Rs. 25.75, then would have been percentage of profit and loss ? Choose the correct answer from the following options:\nA)2% Profit\nB)3% Profit\nC)2% Loss\nD)3% Loss\nE)4% Loss",
+    "expected_answer": "Answer is B",
+    "difficulty": "hard",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "MATH_212",
+    "domain": "Mathematics",
+    "task_type": "Arithmetic",
+    "prompt": "At the of his one-year investment, Charles received $54,080, including interest and principal from a certain investment. If the investment paid an annual interest of 8 percent compounded semi-annually, which of the following is the amount of money that Charles originally invested? Choose the correct answer from the following options:\nA)$45,000\nB)$50,000\nC)$54,000\nD)$59,000\nE)$62,000",
+    "expected_answer": "ANSWER:B",
+    "difficulty": "hard",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "MATH_229",
+    "domain": "Mathematics",
+    "task_type": "Arithmetic",
+    "prompt": "Boomtown urban planners expect the city\u2019s population to increase by 10% per year over the next two years. If that projection were to come true, the population two years from now would be exactly double the population of one year ago. Which of the following is closest to the percent population increase in Boomtown over the last year? Choose the correct answer from the following options:\nA)20%\nB)40%\nC)50%\nD)65%\nE)75%",
+    "expected_answer": "65",
+    "difficulty": "hard",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "ARITH_0",
+    "domain": "Mathematics",
+    "task_type": "Arithmetic",
+    "prompt": "Calculate: 15 + 27",
+    "expected_answer": "42",
+    "difficulty": "easy",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "ARITH_1",
+    "domain": "Mathematics",
+    "task_type": "Arithmetic",
+    "prompt": "What is the product of 6 and 8?",
+    "expected_answer": "48",
+    "difficulty": "easy",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "ARITH_2",
+    "domain": "Mathematics",
+    "task_type": "Arithmetic",
+    "prompt": "Divide 144 by 12 and then subtract 5 from the result.",
+    "expected_answer": "7",
+    "difficulty": "medium",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "ARITH_3",
+    "domain": "Mathematics",
+    "task_type": "Arithmetic",
+    "prompt": "Calculate: (18 × 3) - (4 + 7)",
+    "expected_answer": "43",
+    "difficulty": "medium",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "ARITH_4",
+    "domain": "Mathematics",
+    "task_type": "Arithmetic",
+    "prompt": "A store sells apples at $2 each and oranges at $3 each. If you buy 4 apples and 5 oranges, how much do you spend?",
+    "expected_answer": "23",
+    "difficulty": "medium",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "ARITH_5",
+    "domain": "Mathematics",
+    "task_type": "Arithmetic",
+    "prompt": "Find the value of 2^5 + 3^3 - 15.",
+    "expected_answer": "44",
+    "difficulty": "medium",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "ARITH_6",
+    "domain": "Mathematics",
+    "task_type": "Arithmetic",
+    "prompt": "A car travels 240 miles in 4 hours, and then an additional 180 miles in 3 hours. What is the average speed in miles per hour for the entire trip?",
+    "expected_answer": "60",
+    "difficulty": "hard",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "ARITH_7",
+    "domain": "Mathematics",
+    "task_type": "Arithmetic",
+    "prompt": "A shop offers a 20% discount on a $150 item, and then applies a 5% sales tax to the discounted price. What is the final cost?",
+    "expected_answer": "126",
+    "difficulty": "hard",
+    "evaluation_metric": "exact_match"
+  }
+]

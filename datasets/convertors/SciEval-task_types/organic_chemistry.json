@@ -1,0 +1,11 @@
+[
+  {
+    "task_id": "SCI_891",
+    "domain": "Chemistry",
+    "task_type": "Organic Chemistry",
+    "prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation.Then the question is:Is 1-methylpropane a correct way of naming butane?\n\nA. Yes, 1-methylpropane is a different isomer of butane.\nB. No, 1-methylpropane is an incorrect name for butane.\nC. No, 1-methylpropane is the same as butane.\nD. Yes, 1-methylpropane is a correct name for an isomer of butane.\n\nAnswer:",
+    "expected_answer": "C. No, 1-methylpropane is the same as butane.",
+    "difficulty": "medium",
+    "evaluation_metric": "exact_match"
+  }
+]

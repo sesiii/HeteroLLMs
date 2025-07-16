@@ -1,0 +1,281 @@
+[
+  {
+    "task_id": "MED_026",
+    "domain": "Medicine",
+    "task_type": "Neurology",
+    "prompt": "A 76-year-old man is brought to the physician by his wife because of low back pain and weakness for the past 4 weeks. He says that the pain is sharp, radiates to his left side, and has a burning quality. He has had a cough occasionally productive of blood-streaked sputum for the past 2 months. He has had 3.2-kg (7.0-lb) weight loss in that time. He is now unable to walk without assistance and has had constipation and difficulty urinating for the past 2 weeks. He has hypertension treated with enalapril. He has smoked 1 pack of cigarettes daily for 60 years. His temperature is 37\u00b0C (98.6\u00b0F), pulse is 75/min, and blood pressure is 150/80 mm Hg. He is oriented to person, place, and time. Neurologic examination shows 3/5 strength of the lower extremities. Deep tendon reflexes are hyperreflexive. Babinski sign is present bilaterally. Sensory examination shows decreased sensation to pinprick below the T4 dermatome. He is unable to lie recumbent due to severe pain. An x-ray of the chest shows multiple round opacities of varying sizes in both lungs. Which of the following is the most appropriate next step in the management of this patient? Choose the correct answer from the following options:\n(A) Radiation therapy\n(B) Intravenous dexamethasone therapy\n(C) Intravenous acyclovir therapy\n(D) Intravenous ceftriaxone and azithromycin therapy\n(E) Oral ibuprofen therapy\n\"",
+    "expected_answer": "The correct answer is: (B) Intravenous dexamethasone therapy",
+    "difficulty": "expert",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "MED_082",
+    "domain": "Medicine",
+    "task_type": "Neurology",
+    "prompt": "A 77-year-old woman is brought to the emergency department by her husband because of increasing confusion and unusual behavior for 2 days. She has been mumbling to herself and wandering around the neighborhood. These symptoms are worse in the evenings and she has hardly slept at night. She has not been eating or drinking much for the past 6 days. She has hypertension treated with hydrochlorothiazide. She was diagnosed with breast cancer 12 years ago and was treated with left-sided mastectomy. The patient is oriented to person but not to place or time. Her temperature is 37.1\u00b0C (98.8\u00b0F), pulse is 78/min, respirations are 18/min, and blood pressure is 122/80 mm Hg. Physical examination shows a supple neck. Neurologic examination shows psychomotor agitation. Attention and concentration are impaired; she makes multiple errors while performing the serial sevens test. Her speech is disorganized. Her fingerstick blood glucose concentration is 122 mg/dL. Which of the following is the most appropriate next step in management? Choose the correct answer from the following options:\n(A) Perform lumbar puncture\n(B) Check serum TSH level\n(C) Check serum electrolytes\n(D) Perform CT scan of the head\n(E) Perform chest x-ray",
+    "expected_answer": "The correct answer is: (C) Check serum electrolytes",
+    "difficulty": "expert",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "MED_093",
+    "domain": "Medicine",
+    "task_type": "Neurology",
+    "prompt": "A 75-year-old woman presents to the emergency department with 30 minutes of slurred speech and arm weakness. On the drive over to the hospital, her symptoms have resolved completely. The patient has a past medical history of hypertension, atrial fibrillation, diabetes, morbid obesity, gout, and vascular claudication. Her temperature is 99.0\u00b0F (37.2\u00b0C), blood pressure is 184/111 mmHg, pulse is 88/min, respirations are 15/min, and oxygen saturation is 98% on room air. Physical exam reveals cranial nerves II-XII as grossly intact with normal strength and sensation in the patient's upper and lower extremities. The patient's memory is intact and her speech seems normal and fluent. Her gait is stable with no ataxia. An initial head CT demonstrates diffuse atrophy which is consistent with previous head CT scans. Which of the following is the best next step in management? Choose the correct answer from the following options:\n(A) Alteplase\n(B) CT angiogram\n(C) Echocardiogram\n(D) Heparin\n(E) MRI",
+    "expected_answer": "The correct answer is: (B) CT angiogram",
+    "difficulty": "expert",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "MED_097",
+    "domain": "Medicine",
+    "task_type": "Neurology",
+    "prompt": "A 52-year-old man with a history of gastric cancer that was treated with subtotal gastrectomy dies in a motor vehicle collision. At autopsy, examination of the spinal cord shows unilateral atrophy of the neurons in the area indicated by the arrow. Neurological examination of the patient when he was still alive would most likely have shown which of the following findings? Choose the correct answer from the following options:\n(A) Decreased sense of temperature in the ipsilateral arm\n(B) Decreased strength of the contralateral leg\n(C) Decreased vibratory sense in the ipsilateral arm\n(D) Decreased positional sense in the ipsilateral leg\n(E) Decreased sense of crude touch in the contralateral arm",
+    "expected_answer": "The correct answer is: (D) Decreased positional sense in the ipsilateral leg",
+    "difficulty": "expert",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "MED_123",
+    "domain": "Medicine",
+    "task_type": "Neurology",
+    "prompt": "A 16-year-old boy with a seizure disorder and cognitive delay is brought to the physician because of progressively worsening right lower extremity weakness for the past 6 months. He does not make eye contact and sits very close to his mother. Physical examination shows a grade 3/6 holosystolic murmur at the cardiac apex. Neurological examination shows decreased strength in the right lower leg with normal strength in the other extremities. Fundoscopic examination shows several multinodular, calcified lesions in the retina bilaterally. A photograph of his skin findings is shown. This patient's condition is most likely due to a mutation in which of the following? Choose the correct answer from the following options:\n(A) NF1 gene on chromosome 17\n(B) NF2 gene on chromosome 22\n(C) GNAQ gene on chromosome 9\n(D) TSC1 gene on chromosome 9\n(E) VHL gene on chromosome 3",
+    "expected_answer": "The correct answer is: (D) TSC1 gene on chromosome 9",
+    "difficulty": "expert",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "MED_227",
+    "domain": "Medicine",
+    "task_type": "Neurology",
+    "prompt": "A 40-year-old businessman who was previously well is brought into the emergency department by his assistant with a complaint of left-sided weakness after a chiropractic neck manipulation. He has never felt like this before. Past medical history is insignificant. His blood pressure is 125/75 mm Hg, pulse 86/min, respiratory rate 13/min, temperature 36.8\u00b0C (98.2\u00b0F). A T2-weighted MRI shows a left C5 hemicord lesion. The patient is treated with cervical immobilization, a course of steroids, and physical therapy. What other finding will most likely be seen in this patient? Choose the correct answer from the following options:\n(A) Spastic paralysis at the level of lesion\n(B) Right-sided Horner's syndrome\n(C) Contralateral corticospinal tract involvement\n(D) Right-sided analgesia\n(E) Contralateral loss of vibration and proprioception",
+    "expected_answer": "The correct answer is: (D) Right-sided analgesia",
+    "difficulty": "expert",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "MED_290",
+    "domain": "Medicine",
+    "task_type": "Neurology",
+    "prompt": "A 54-year-old woman is brought to the physician by her brother for confusion and agitation. She is unable to personally give a history. Her brother says she has a problem with alcohol use and that he found an empty bottle of vodka on the counter at her home. She appears disheveled. Her temperature is 37\u00b0C (98.6\u00b0F), pulse is 85/min, and blood pressure is 140/95 mm Hg. On mental status examination, she is confused and oriented only to person. She recalls 0 out of 3 words after 5 minutes. She cannot perform serial sevens and is unable to repeat seven digits forward and five in reverse sequence. Neurologic examination shows horizontal nystagmus on lateral gaze. She has difficulty walking without assistance. Laboratory studies show:\nHemoglobin 11 g/dL\nMean corpuscular volume 110 \u03bcm3\nPlatelet count 280,000/mm3\nWhich of the following is most appropriate initial treatment for this patient?\" Choose the correct answer from the following options:\n(A) Oral chlordiazepoxide\n(B) Intravenous thiamine\n(C) Oral naltrexone\n(D) Intravenous vitamin B12\n(E) Intravenous glucose\n\"",
+    "expected_answer": "The correct answer is: (B) Intravenous thiamine",
+    "difficulty": "expert",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "MED_336",
+    "domain": "Medicine",
+    "task_type": "Neurology",
+    "prompt": "A 78-year-old man is brought to the physician by his daughter because of increasing forgetfulness over the past 5 weeks. He had been living independently but came to live with his daughter temporarily after he complained that he was unable to perform some of his daily activities. He has left the front door wide open and tap water running on multiple occasions. He does not sleep well and wakes up 6\u20137 times during the night. He does not leave his room and rarely makes conversation with his daughter. He says that he used to enjoy playing the piano but has not played for several months. He has hypertension treated with amlodipine. Vital signs are within normal limits. Mental status examination shows orientation to person, place, and time and psychomotor retardation. He has a blunted affect. Short- and long-term memory is impaired. Attention and concentration are impaired. Neurologic examination shows no focal findings. Serum concentration of electrolytes, thyroid-stimulating hormone, and vitamin B12 are within the reference range. He is very concerned about his memory lapses. Which of the following is the most appropriate treatment for this patient? Choose the correct answer from the following options:\n(A) Donepezil\n(B) Fluoxetine\n(C) Aspirin\n(D) Ventriculoperitoneal shunt\n(E) Memantine",
+    "expected_answer": "The correct answer is: (B) Fluoxetine",
+    "difficulty": "expert",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "MED_364",
+    "domain": "Medicine",
+    "task_type": "Neurology",
+    "prompt": "A 72-year-old man in a nursing home was brought to the emergency department with right hand and leg weakness for 1 hour. There has been a gradual increase in the degree of weakness. The patient is disoriented. The medical history includes ischemic heart disease diagnosed 2 months ago, and long histories of diabetes and hypertension (30 and 25 years, respectively). On examination, the reflexes are hypertonic and the Babinski reflex is positive. The CT scan is shown. What is the most likely pathologic change? Choose the correct answer from the following options:\n(A) Gangrenous necrosis\n(B) Liquefactive necrosis\n(C) Caseous necrosis\n(D) Fibrinoid necrosis\n(E) Coagulative necrosis",
+    "expected_answer": "The correct answer is: (B) Liquefactive necrosis",
+    "difficulty": "expert",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "MED_406",
+    "domain": "Medicine",
+    "task_type": "Neurology",
+    "prompt": "A 42-year-old chronic alcoholic man was admitted to the hospital for inappropriate behavior and disturbed memory. He presents with severe retrograde memory loss, confusion, and confabulation. Neurologic examination showed horizontal nystagmus. He also has bilateral pretibial pitting edema and perioral erythema. CT studies of the brain were normal. The duty physician suspects the patient may be vitamin deficient. Which of the following reactions does the deficient vitamin mediate? Choose the correct answer from the following options:\n(A) Alpha-Ketoglutarate + NAD+ + CoA <=> Succinyl-CoA + CO2 + NADH\n(B) Acetyl-CoA + Oxaloacetate + H2O <=> Citrate + CoA + H+\n(C) Succinate + FAD (enzyme bound) <=> Fumarate + FADH2\n(D) Isocitrate + NAD+ <=> Alpha-Ketoglutarate + CO2 + NADH\n(E) Succinyl-CoA + Pi + GDP <=> Succinate + GTP + CoA",
+    "expected_answer": "The correct answer is: (A) Alpha-Ketoglutarate + NAD+ + CoA <=> Succinyl-CoA + CO2 + NADH",
+    "difficulty": "expert",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "MED_444",
+    "domain": "Medicine",
+    "task_type": "Neurology",
+    "prompt": "A 66-year-old woman presents with urinary incontinence, difficulty urinating, incomplete voiding, and dull pain in the suprapubic region. She reports that she has not urinated for the past 2 days and that the urine leakage occurs during both day and night and is not associated with physical exertion. The medical history is significant for arterial hypertension and poorly controlled type 2 diabetes mellitus for 8 years, and depression for 3 years. She is prescribed amlodipine, valsartan, atorvastatin, metformin, and amitriptyline. Her weight is 75 kg (165 lb) and her height is 166 cm (5 ft 40 in). Her vital signs are as follows: blood pressure, 120/80 mm Hg; heart rate, 91/min; respiratory rate, 13/min; and temperature, 36.4\u2103 (97.5\u2109). The physical examination reveals lower abdominal tenderness with a distended urinary bladder that is palpated in the suprapubic region. The neurological examination shows decreased Achilles reflexes bilaterally, and diminished fine touch and vibratory sensation. On gynecologic examination, the cervix was normally positioned, mobile, and without any visible lesions. Bulging of the posterior vaginal wall was noted. The adnexa were not palpable. An ultrasound examination showed an overdistended urinary bladder with no structural abnormalities. Which of the following is  the next step in managing this patient? Choose the correct answer from the following options:\n(A) Installing a vaginal pessary\n(B) Bladder catheterization\n(C) Cystostomy\n(D) Prescribing bethanechol\n(E) Prescribing prostaglandin E2",
+    "expected_answer": "The correct answer is: (B) Bladder catheterization",
+    "difficulty": "expert",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "MED_464",
+    "domain": "Medicine",
+    "task_type": "Neurology",
+    "prompt": "A 37-year-old man with no significant past medical history is rear-ended in a motor vehicle accident. He reported significant neck pain to emergency responders, but otherwise denies weakness, numbness or tingling in his extremities. His vitals on presentation to the ED are HR 90, BP 140/80, RR 20, SpO2 98%. What is the most appropriate next step upon presentation to the emergency room? Choose the correct answer from the following options:\n(A) Lateral cervical film\n(B) Three view cervical spine series\n(C) Cervical immobilization\n(D) IV methylprednisolone\n(E) Observation overnight",
+    "expected_answer": "The correct answer is: (C) Cervical immobilization",
+    "difficulty": "expert",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "MED_499",
+    "domain": "Medicine",
+    "task_type": "Neurology",
+    "prompt": "A 46-year-old man is brought to the emergency department for evaluation of altered mental status. He was found on the floor in front of his apartment. He is somnolent but responsive when aroused. His pulse is 64/min, respiratory rate is 15/min, and blood pressure is 120/75 mm Hg. On physical examination, an alcoholic smell and slurred speech are noted. Neurological exam shows diminished deep tendon reflexes bilaterally and an ataxic gait. His pupils are normal. Blood alcohol concentration is 0.04%. An ECG shows no abnormalities. Which of the following is the most likely cause of this patient's symptoms? Choose the correct answer from the following options:\n(A) Hypoglycemia\n(B) Cerebral ischemia\n(C) Ethanol intoxication\n(D) Cannabis intoxication\n(E) Benzodiazepine intoxication\n\"",
+    "expected_answer": "The correct answer is: (E) Benzodiazepine intoxication\n\"",
+    "difficulty": "expert",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "MED_513",
+    "domain": "Medicine",
+    "task_type": "Neurology",
+    "prompt": "A 67-year-old man is brought to the hospital by his relatives. He complains of early satiety, abdominal discomfort after food intake, and abdominal bloating. These symptoms have been present since the patient was 52, but they were milder at that time so he paid little attention to them since. Tingling and decreased sensation in both lower extremities began a few months ago. His relatives also note that he has become excessively somnolent and forgetful. The patient\u2019s medical history is significant for acute hepatitis B 20 years ago. He smokes a pack of cigarettes per day and drinks alcohol occasionally. His weight is 61 kg (134.5 lb), height is 181 cm (5 ft 11 in), and BMI is 18.6 kg/m2. His vital signs include: blood pressure 110/80 mm Hg, heart rate 89/min, respiratory rate 13/min, and temperature 36.1\u00b0C (96.9\u00b0F). The patient\u2019s skin is pale, thin, dry, and hypoelastic. Lymph nodes and the thyroid gland are not enlarged. Lung and heart examinations are within normal limits for his age. The patient\u2019s tongue is bright red with atrophic papillae. The abdomen is distended and tender to palpation in the epigastric area. Neurological examination shows symmetrical bilateral distal hypoesthesia for all sensations and decreased muscle strength in both upper and lower extremities. On a mini-mental status examination, the patient scores 25. The patient\u2019s blood test results are as follows:\nErythrocytes 2.8 x 109/mm3\nHb 8.6 g/dL\nHt 37%\nMean corpuscular hemoglobin  49.9 pg/cell (3.1 fmol/cell)\nMean corpuscular volume 142 \u00b5m3 (142 fL)\nReticulocyte count 0.3%\nTotal leukocyte count 3,070/mm3\nNeutrophils 54%\nLymphocyte 32%\nEosinophil 3%\nMonocyte 11%\nBasophil 0%\nPlatelet count 195,000/mm3\nHbA1C 4.3%\nFasting plasma glucose 4.6 mmol/l (82.9 mg/dL)\nAspartate aminotransferase 22 U/L\nAlanine aminotransferase 19 U/L\nAmylase 32 U/L\nTotal bilirubin 32 \u00b5mol/L (1.87 mg/dL)\nConjugated bilirubin 8 \u00b5mol/L (0.4677 mg/L)\nWhich of the following options best explains the patient\u2019s neurological and psychiatric symptoms? Choose the correct answer from the following options:\n(A) Chronic bilirubin toxicity\n(B) Chronic hyperglycemia\n(C) Chronic acetaldehyde influence\n(D) Impaired methylation of myelin phospholipids\n(E) Influence of pseudo-neurotransmitters",
+    "expected_answer": "The correct answer is: (D) Impaired methylation of myelin phospholipids",
+    "difficulty": "expert",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "MED_552",
+    "domain": "Medicine",
+    "task_type": "Neurology",
+    "prompt": "A 67-year-old man is brought to the emergency department with sudden onset of slurred speech. The patient\u2019s eldest daughter says that he couldn\u2019t move his arm during the episode. Past medical history is significant for hypertension and a hemorrhagic stroke 6 years ago, which was treated surgically. After admission, the patient gets increasingly worse and loses consciousness. A noncontrast CT of the head shows a subarachnoid hemorrhage (SAH). The patient is taken to the operating room, where the SAH evacuated, and the vessel is repaired. Postoperatively, the patient is unresponsive. Several days later, a repeat CT of the head shows an enlarging aneurysm in a different vessel in the brain. The patient\u2019s daughter is asked to consent to a non-emergent, life-saving operation since the patient is in a comatose state. She does not consent to the operation even though the physician stresses it would be life-saving. Upon further discussion, the physician finds out that the patient was abusive and neglectful to his children, and the daughter wants \u201cto live in peace.\u201d The patient has no written advanced directive. Which of the following is the most appropriate course of action? Choose the correct answer from the following options:\n(A) Follow the daughter\u2019s wishes to withhold the operation\n(B) Refer this case to the court\n(C) Contact another family member for consent\n(D) Perform the surgery without consent\n(E) Report the daughter to the police",
+    "expected_answer": "The correct answer is: (C) Contact another family member for consent",
+    "difficulty": "expert",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "MED_573",
+    "domain": "Medicine",
+    "task_type": "Neurology",
+    "prompt": "A 27-year-old man and his wife come to the physician for preconception genetic counseling. The patient and his wife are asymptomatic and have no history of serious illness. The patient's older brother died at age 13 from heart failure and his 6-year-old nephew currently has severe muscle weakness. Genetic testing in the patient's family shows that his mother is not a carrier of the mutation that is responsible for the disease in his relatives. A pedigree chart of the patient's family is shown. Which of the following is the most likely explanation for the patient not being affected? Choose the correct answer from the following options:\n(A) Variable expressivity\n(B) Maternal uniparental disomy\n(C) Gonadal mosaicism\n(D) Dominant negative mutation\n(E) Incomplete penetrance",
+    "expected_answer": "The correct answer is: (C) Gonadal mosaicism",
+    "difficulty": "expert",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "MED_602",
+    "domain": "Medicine",
+    "task_type": "Neurology",
+    "prompt": "A 62-year-old woman presents to the emergency department for vision changes. About 90 minutes ago she was on the couch watching television with her husband when she suddenly noticed that she couldn't see the screen normally. She also felt a little dizzy. She has never had anything like this happen before. Her general physical exam is unremarkable. Her neurologic exam is notable for loss of vision in the right visual field of both eyes with macular sparing, though extraocular movements are intact. A computed tomography (CT) scan of the head shows no acute intracranial process. Angiography of the brain will most likely show a lesion in which of the following vessels? Choose the correct answer from the following options:\n(A) Internal carotid artery\n(B) Anterior cerebral artery\n(C) Middle cerebral artery\n(D) Posterior cerebral artery\n(E) Basilar artery",
+    "expected_answer": "The correct answer is: (D) Posterior cerebral artery",
+    "difficulty": "expert",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "MED_630",
+    "domain": "Medicine",
+    "task_type": "Neurology",
+    "prompt": "A 45-year-old man presents to the emergency department with weakness. He states that it started yesterday and has been progressively worsening. Initially, he noticed blurry vision and some trouble speaking and swallowing but thought he was just coming down with a cold. He then noticed weakness of his facial muscles and shortness of breath. The patient works as a farmer and harvests and cans his own foods. He has had diarrhea recently and a cough prior to these symptoms of weakness. His temperature is 97.9\u00b0F (36.6\u00b0C), blood pressure is 144/94 mmHg, pulse is 87/min, respirations are 18/min, and oxygen saturation is 94% on room air. Physical exam is notable for a man who seems unable to smile with dysarthric speech. He takes shallow and weak breaths on pulmonary exam. The patient demonstrates 3/5 strength with diminished reflexes in his upper extremities. The patient is subsequently intubated. Which of the following is the best treatment for this patient? Choose the correct answer from the following options:\n(A) Antitoxin\n(B) Atropine\n(C) Neostigmine\n(D) Plasmapheresis\n(E) Riluzole",
+    "expected_answer": "The correct answer is: (A) Antitoxin",
+    "difficulty": "expert",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "MED_655",
+    "domain": "Medicine",
+    "task_type": "Neurology",
+    "prompt": "A 65-year-old woman schedules an appointment with her physician for evaluation of weight loss and weakness. The weakness is more noticeable when climbing stairs and combing hair. The weakness improves after brief exercise. She also has bladder incontinence for the past 4 weeks and was given an anticholinesterase agent with no improvement. What is the most likely cause of the symptoms? Choose the correct answer from the following options:\n(A) Botulism\n(B) Duchenne muscular dystrophy\n(C) Hypothyroidism\n(D) Myasthenia gravis\n(E) Paraneoplastic syndrome from small cell carcinoma of the lung",
+    "expected_answer": "The correct answer is: (E) Paraneoplastic syndrome from small cell carcinoma of the lung",
+    "difficulty": "expert",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "MED_679",
+    "domain": "Medicine",
+    "task_type": "Neurology",
+    "prompt": " A 61-year-old man was started on rosuvastatin 40 mg 8 weeks ago and presents today for a follow-up. He complains of pain in his legs and general weakness. On physical exam, he has full range of motion of his extremities but complains of pain. His blood pressure is 126/84 mm Hg and heart rate is 74/min. The decision is made to stop the statin and return to the clinic in 2 weeks to assess any changes in symptoms. After stopping the statin, his muscular symptoms resolve. What is the next best course of action to take regarding his LDL control? Choose the correct answer from the following options:\n(A) Restart rosuvastatin at a lower dose\n(B) Initiate fenofibrate\n(C) Initiate a different statin\n(D) Initiate fish oils\n(E) Do not initiate any new lipid-lowering therapies",
+    "expected_answer": "The correct answer is: (A) Restart rosuvastatin at a lower dose",
+    "difficulty": "expert",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "MED_681",
+    "domain": "Medicine",
+    "task_type": "Neurology",
+    "prompt": "An 89-year-old woman sees her neurologist for a follow-up evaluation. Three months ago, she presented with complaints about facial asymmetry. Her daughter has noticed that her mother\u2019s mouth is droops downwards on the right side of her face and that she cannot close her right eye well. The same side also lacks wrinkles on the forehead. Since then, the patient feels like her facial muscles have gotten weaker. She was given a course of corticosteroids, but she has still not recovered fully. Upon being asked to close her eyes, the patient has difficulty doing so and fails to completely close her eyelids. On examination, there is no loss of pain, temperature, or crude or tactile touch sensations in the whole face. The neurological exam is otherwise unremarkable. This patient also has type 2 diabetes mellitus which is well controlled with metformin. The neurologist recommends a therapy that will help relieve her symptoms. Which of the following is the most likely treatment option being prescribed to this patient? Choose the correct answer from the following options:\n(A) Botox\n(B) Carbamazepine\n(C) Vitamin B12\n(D) Methylprednisolone\n(E) Ceftriaxone",
+    "expected_answer": "The correct answer is: (A) Botox",
+    "difficulty": "expert",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "MED_709",
+    "domain": "Medicine",
+    "task_type": "Neurology",
+    "prompt": "A 52-year-old woman presents with a complaint of headache for the past 10 days. Her headache is diffuse, dull in character, moderate in intensity, and is worse in the morning. It is not associated with fever and sensitivity to light or sound. She experiences occasional nausea but no vomiting. She did not have similar headaches in the past. Her blood pressure is 140/90 mm Hg; pulse, 60/min, and body mass index is 33.5 kg/m2. The neurological examination reveals normal extraocular movements. Mild bilateral papilledema is present. A magnetic resonance imaging of the brain reveals a solitary lesion in the left temporal region with predominant hemorrhage. Refer to the image below of the MRI of the brain. Which of the following types of cancer has the highest tendency to cause this brain lesion? Choose the correct answer from the following options:\n(A) Breast cancer\n(B) Lung cancer\n(C) Melanoma\n(D) Multiple myeloma\n(E) Thyroid cancer",
+    "expected_answer": "The correct answer is: (C) Melanoma",
+    "difficulty": "expert",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "MED_752",
+    "domain": "Medicine",
+    "task_type": "Neurology",
+    "prompt": "A 42-year-old man presents to your office complaining of right-sided facial swelling that has progressively worsened over the last month after returning from a trip to India. On examination, the patient has an obvious distortion of the facial features on the right without erythema or lymphadenopathy. A neurological exam reveals no deficits. His blood pressure is 115/80 mm Hg, heart rate is 65/min, and the temperature is 37.2\u00b0C (98.9\u00b0F). The patient states that he has been having trouble chewing his food, but is not experiencing any pain. The patient is up to date on all of his immunizations. Which of the following is the most likely cause of his facial swelling? Choose the correct answer from the following options:\n(A) Benign cystic tumor with stroma resembling lymph node tissue\n(B) Benign salivary gland tumor composed of stromal and epithelial tissue\n(C) An infection with paramyxovirus\n(D) Malignant tumor composed of squamous and mucinous cells\n(E) Sialolithiasis that has progressed to a S. aureus infection",
+    "expected_answer": "The correct answer is: (B) Benign salivary gland tumor composed of stromal and epithelial tissue",
+    "difficulty": "expert",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "MED_815",
+    "domain": "Medicine",
+    "task_type": "Neurology",
+    "prompt": "A 63-year-old female complains of weakness, light-headedness, palpitations, and soreness of the tongue. She has a past medical history of Hashimoto\u2019s thyroiditis. Her hematocrit is 29%. On peripheral blood smear, you notice neutrophils with 7 lobes and large oval-shaped red blood cells. On physical exam, you notice the patient has decreased position sense and a loss in vibratory sensation in her lower extremities. Which of the following is most likely present in this patient? Choose the correct answer from the following options:\n(A) Atrophy of G cells\n(B) Anti-intrinsic factor antibodies\n(C) Decreased methylmalonic acid levels\n(D) Antithrombotic state\n(E) B12 malabsorption due to Diphyllobothrium latum",
+    "expected_answer": "The correct answer is: (B) Anti-intrinsic factor antibodies",
+    "difficulty": "expert",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "MED_832",
+    "domain": "Medicine",
+    "task_type": "Neurology",
+    "prompt": "A 32-year-old man comes to the physician because of a 2-day history of a tingling sensation in his right forearm. He reports that his symptoms started after he lifted heavy weights at the gym. Physical examination shows loss of sensation on the lateral side of the right forearm. Sensation over the thumb is intact. Range of motion of the neck is normal. His symptoms do not worsen with axial compression or distraction of the neck. Further examination of this patient is most likely to show weakness of which of the following actions? Choose the correct answer from the following options:\n(A) Shoulder abduction\n(B) Elbow flexion\n(C) Forearm pronation\n(D) Index finger flexion\n(E) Wrist extension",
+    "expected_answer": "The correct answer is: (B) Elbow flexion",
+    "difficulty": "expert",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "MED_884",
+    "domain": "Medicine",
+    "task_type": "Neurology",
+    "prompt": "A 36-year-old woman comes to the physician for intermittent stabbing face pain. The pain typically occurs in waves of several individual episodes lasting about one second. It is bilateral, but rarely occurs on both sides simultaneously. Touching her face or brushing her teeth can trigger an attack. Four months ago, she had an episode of weakness in her right arm that lasted for about a week. Family history is notable for migrainous headaches in her mother and brother. Vital signs are within normal limits. There is decreased sensation in the V2 and V3 distribution of her face bilaterally. Muscle strength is 3/5 in the left upper extremity and 5/5 in the right upper extremity. There is spasticity of the lower extremities with sustained clonus. Further evaluation is most likely going to reveal which of the following findings? Choose the correct answer from the following options:\n(A) Gingival swelling, erythema, and pus drainage\n(B) Multiple periventricular sclerotic plaques\n(C) Erythematous papules in the V2/V3 nerve distribution\n(D) Photophobia and phonophobia\n(E) Rhinorrhea, lacrimination, and ptosis",
+    "expected_answer": "The correct answer is: (B) Multiple periventricular sclerotic plaques",
+    "difficulty": "expert",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "MED_890",
+    "domain": "Medicine",
+    "task_type": "Neurology",
+    "prompt": "A 20-year-old woman in the army recruit collapses during an especially hot day at basic training. She was in her normal excellent state of health prior to this event. Two weeks ago, she had an upper respiratory infection (URI) but has since recovered. Her father has chronic kidney disease (CKD), bilateral hearing loss, and vision problems. At the hospital, her temperature is 40.3\u00b0C (104.5\u00b0F), blood pressure is 85/55 mm Hg, pulse is 105/min, and respiratory rate is 24/min. On physical exam, the patient appears to have altered mental status and her skin is dry, hot, and erythematous. She is complaining of severe bilateral flank pain and generalized myalgia. Catheterization produces 200 mL of tea-colored urine. Urine dipstick is positive for blood, but urinalysis is negative for RBCs or WBCs. Which of the following is most likely responsible for her condition? Choose the correct answer from the following options:\n(A) A mutation of the COL4A5 gene\n(B) Neisseria meningitides\n(C) Heat exhaustion\n(D) Heat stroke\n(E) IgA nephropathy",
+    "expected_answer": "The correct answer is: (D) Heat stroke",
+    "difficulty": "expert",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "MED_900",
+    "domain": "Medicine",
+    "task_type": "Neurology",
+    "prompt": "A 30-year-old man presents to his primary care physician with complaints of excessive fatigue and weakness for the last several weeks. He also complains of abdominal pain and constipation for the same duration. On further questioning, he reports that he has lost 8 pounds in the last 2 weeks. Past medical history and family history are insignificant. His temperature is 37.3\u00b0 C (99.2\u00b0 F), respirations are 21/min, pulse is 63/min, and blood pressure is 99/70 mm Hg. On physical examination, he is a tired-appearing, thin male. He has a bronze discoloration to his skin, but he denies being outside in the sun or any history of laying in tanning beds. What is the next best step in the management of this patient? Choose the correct answer from the following options:\n(A) Administer intravenous hydrocortisone\n(B) Administer intravenous fludrocortisone\n(C) Start him on androgen replacement treatment\n(D) Start him on both hydrocortisone and fludrocortisone therapy\n(E) Order an ACTH stimulation test",
+    "expected_answer": "The correct answer is: (D) Start him on both hydrocortisone and fludrocortisone therapy",
+    "difficulty": "expert",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "MED_972",
+    "domain": "Medicine",
+    "task_type": "Neurology",
+    "prompt": "A 42-year-old man presents to his primary care physician for a follow-up visit. He has type 1 diabetes mellitus, for which he takes insulin. He complains of frequent episodes of waking up in the middle of his sleep. When he wakes up, he feels excessive sweating, hand tremors, and weakness. His morning blood glucose is high on repeated measurement. Which of the following is the optimal intervention for this patient condition? Choose the correct answer from the following options:\n(A) Reassurance\n(B) Adding diazepam\n(C) Adding pramlintide\n(D) Increasing daily insulin dose\n(E) Reducing daily insulin dose",
+    "expected_answer": "The correct answer is: (E) Reducing daily insulin dose",
+    "difficulty": "expert",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "MED_980",
+    "domain": "Medicine",
+    "task_type": "Neurology",
+    "prompt": "A 78-year-old right-handed man is brought to the emergency department by his daughter for sudden onset speech changes. The patient lives with his daughter and was chatting with her when suddenly his speech became distorted with random and disconnected words that made no sense. He seems to be physically frustrated that no one understands him. Physical examination demonstrates weakness of the right arm. Damage to which location would best explain this patient\u2019s symptoms? Choose the correct answer from the following options:\n(A) Left frontal lobe\n(B) Left internal capsule\n(C) Left temporal lobe\n(D) Right frontal lobe\n(E) Right temporal lobe",
+    "expected_answer": "The correct answer is: (A) Left frontal lobe",
+    "difficulty": "expert",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "MED_990",
+    "domain": "Medicine",
+    "task_type": "Neurology",
+    "prompt": "A 58-year-old man is brought to the emergency department because of sudden-onset right-sided body numbness for 1 hour. He reports that he has a 15-year history of hypertension treated with hydrochlorothiazide. He is alert and oriented to time, place, and person. Neurological examination shows decreased sensation to light pinprick and temperature on the right side of the face and body. Motor strength is 5/5 and deep tendon reflexes are 2+ bilaterally. Perfusion of which of the following structures of the brain is most likely impaired in this patient? Choose the correct answer from the following options:\n(A) Parietal lobe\n(B) Posterior limb of the internal capsule\n(C) Lateral medulla\n(D) Basal pons\n(E) Ventral thalamus",
+    "expected_answer": "The correct answer is: (E) Ventral thalamus",
+    "difficulty": "expert",
+    "evaluation_metric": "exact_match"
+  }
+]

@@ -1,0 +1,1010 @@
+[
+  {
+    "task_id": "SCI_010",
+    "domain": "Physics",
+    "task_type": "Physics General",
+    "prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation.Then the question is:A horse moves a sleigh 1.00 kilometer by applying a horizontal 2,000-newton force on its harness for 45 minutes. What is the power of the horse?\n\nA. 632.4 Watts\nB. 740.7 Watts\nC. 821.9 Watts\nD. 565.3 Watts\n\nAnswer:",
+    "expected_answer": "B. 740.7 Watts",
+    "difficulty": "medium",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "SCI_013",
+    "domain": "Physics",
+    "task_type": "Physics General",
+    "prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation.Then the question is:Heat flow is normally from a high temperature toward a low temperature region. How do you manage to cool your body on a July day when the temperature is 102 F (compared to 98.6 F normal body temperature)?\n\nA. Drinking cold water cools the body.\nB. Applying ice packs to the skin.\nC. Sweating and blood vessel dilation cool the body.\nD. Staying in air-conditioned places.\n\nAnswer:",
+    "expected_answer": "C. Sweating and blood vessel dilation cool the body.",
+    "difficulty": "medium",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "SCI_024",
+    "domain": "Physics",
+    "task_type": "Physics General",
+    "prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation.Then the question is:How does gravity affect weight?\n\nA. Weight decreases in stronger gravitational fields.\nB. Gravity only affects weight in space.\nC. Weight increases in stronger gravitational fields.\nD. Weight is unaffected by gravity.\n\nAnswer:",
+    "expected_answer": "C. Weight increases in stronger gravitational fields.",
+    "difficulty": "medium",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "SCI_036",
+    "domain": "Physics",
+    "task_type": "Physics General",
+    "prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation.Then the question is:A charge of $-1  C$ is at the origin. How much energy would be applied to or released from a $ 6  C$ charge if it is moved from $ (-3,  1  ) $ to $(4  ,4   )  $?\n\nA. 7.53*10^9 J\nB. 8.25*10^9 J\nC. 9.07*10^9 J\nD. 6.12*10^9 J\n\nAnswer:",
+    "expected_answer": "A. 7.53*10^9 J",
+    "difficulty": "medium",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "SCI_039",
+    "domain": "Physics",
+    "task_type": "Physics General",
+    "prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation.Then the question is:If a laser strikes a mirror with an angle of incidence of 36\u00b0, what is the angle between the angle of incidence and angle of reflection?\n\nA. 72\u00b0\nB. 108\u00b0\nC. 180\u00b0\nD. 54\u00b0\n\nAnswer:",
+    "expected_answer": "A. 72\u00b0",
+    "difficulty": "medium",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "SCI_043",
+    "domain": "Physics",
+    "task_type": "Physics General",
+    "prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation.Then the question is:Which object has more inertia \u2014 a bowiing ball or a tennis ball?\n\nA. Golf ball\nB. Basketball\nC. Tennis ball\nD. Bowling ball\n\nAnswer:",
+    "expected_answer": "D. Bowling ball",
+    "difficulty": "medium",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "SCI_070",
+    "domain": "Physics",
+    "task_type": "Physics General",
+    "prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation.Then the question is:A ball with a mass of $ 5    kg$ is rolling at $7    m/s$ and elastically collides with a resting ball with a mass of $4  kg$. What are the post-collision velocities of the balls?\n\nA. v1 = 3.8 m/s, v2 = 4.2 m/s\nB. v1 = 0.78 m/s, v2 = 7.78 m/s\nC. v1 = 2.5 m/s, v2 = 6.5 m/s\nD. v1 = 1.3 m/s, v2 = 5.7 m/s\n\nAnswer:",
+    "expected_answer": "B. v1 = 0.78 m/s, v2 = 7.78 m/s",
+    "difficulty": "medium",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "SCI_078",
+    "domain": "Physics",
+    "task_type": "Physics General",
+    "prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation.Then the question is:How fast will an object with a mass of $3   kg$ accelerate if a force of $8   N$ is constantly applied to it?\n\nA. 2.67 ms^-2\nB. 5.33 ms^-2\nC. 4 ms^-2\nD. 1.33 ms^-2\n\nAnswer:",
+    "expected_answer": "A. 2.67 ms^-2",
+    "difficulty": "medium",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "SCI_084",
+    "domain": "Physics",
+    "task_type": "Physics General",
+    "prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation.Then the question is:A race car has a centripetal acceleration of 13.33 $m$$/$$s^2$ as it goes around a curve. If the curve is a circle wilh radius 30 m, what is the speed of the car?\n\nA. 25 m/s\nB. 15 m/s\nC. 30 m/s\nD. 20 m/s\n\nAnswer:",
+    "expected_answer": "D. 20 m/s",
+    "difficulty": "medium",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "SCI_088",
+    "domain": "Physics",
+    "task_type": "Physics General",
+    "prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation.Then the question is:A container with a volume of $32 L$ contains a gas with a temperature of $480^o   K$.  If the temperature of the gas changes to $160     ^o    K$ without any change in pressure, what must the container's new volume be?\n\nA. 21.4L\nB. 32.0L\nC. 5.3L\nD. 10.7L\n\nAnswer:",
+    "expected_answer": "D. 10.7L",
+    "difficulty": "medium",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "SCI_089",
+    "domain": "Physics",
+    "task_type": "Physics General",
+    "prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation.Then the question is:What is the moment of inertia of a pendulum with a mass of $8 kg$ that is $9   m$ from the pivot?\n\nA. 972 kg*m^2\nB. 324 kg*m^2\nC. 1296 kg*m^2\nD. 648 kg*m^2\n\nAnswer:",
+    "expected_answer": "D. 648 kg*m^2",
+    "difficulty": "medium",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "SCI_104",
+    "domain": "Physics",
+    "task_type": "Physics General",
+    "prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation.Then the question is:How does refraction affect what we see?\n\nA. Refraction changes light's color, altering the appearance of objects.\nB. Refraction bends light, causing objects to appear displaced from their original place.\nC. Refraction magnifies objects, making them appear larger or smaller.\nD. Refraction scatters light, creating a blurry or distorted image.\n\nAnswer:",
+    "expected_answer": "B. Refraction bends light, causing objects to appear displaced from their original place.",
+    "difficulty": "medium",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "SCI_126",
+    "domain": "Physics",
+    "task_type": "Physics General",
+    "prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation.Then the question is:A charge of $2 C$ is passing through points A and B on a circuit.  If the charge's electric potential changes from $28 J$ to $19   J$, what is the voltage between points A and B?\n\nA. 4.5 V\nB. 9 V\nC. -4.5 V\nD. -9 V\n\nAnswer:",
+    "expected_answer": "C. -4.5 V",
+    "difficulty": "medium",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "SCI_127",
+    "domain": "Physics",
+    "task_type": "Physics General",
+    "prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation.Then the question is:Can lasers be dangerous?\n\nA. Lasers can only be dangerous to electronic devices.\nB. Lasers are harmless and can be used without precautions.\nC. Lasers can be dangerous depending on their intensity, damaging eyes and skin.\nD. Lasers pose no danger to human eyes or skin.\n\nAnswer:",
+    "expected_answer": "C. Lasers can be dangerous depending on their intensity, damaging eyes and skin.",
+    "difficulty": "medium",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "SCI_147",
+    "domain": "Physics",
+    "task_type": "Physics General",
+    "prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation.Then the question is:If r1 is in series with a parallel combination of r2, r3, and r4, when the resistance value of r2 increases, will the voltage across r3 increase?\n\nA. The voltage across r3 is not affected by the resistance value of r2.\nB. The voltage across r3 remains the same when r2's resistance value increases.\nC. Yes, the voltage across r3 increases when r2's resistance value increases.\nD. No, the voltage across r3 decreases when r2's resistance value increases.\n\nAnswer:",
+    "expected_answer": "C. Yes, the voltage across r3 increases when r2's resistance value increases.",
+    "difficulty": "medium",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "SCI_151",
+    "domain": "Physics",
+    "task_type": "Physics General",
+    "prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation.Then the question is:How do nuclear reactions generate electricity?\n\nA. Nuclear reactions generate electricity through radioactive decay of elements into lighter elements.\nB. Nuclear reactions generate electricity by converting nuclear energy into mechanical energy.\nC. Nuclear reactions generate electricity by using the heat produced during the decay process.\nD. Nuclear reactions generate electricity through the fusion of lighter elements into heavier elements.\n\nAnswer:",
+    "expected_answer": "A. Nuclear reactions generate electricity through radioactive decay of elements into lighter elements.",
+    "difficulty": "medium",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "SCI_156",
+    "domain": "Physics",
+    "task_type": "Physics General",
+    "prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation.Then the question is:How does an electric generator work?\n\nA. Electricity is generated by heating the coil in a magnetic field.\nB. Passing current through coil creates a magnetic field.\nC. Spinning magnet produces electricity by creating friction.\nD. Rotating coil generates current by disrupting magnetic field.\n\nAnswer:",
+    "expected_answer": "D. Rotating coil generates current by disrupting magnetic field.",
+    "difficulty": "medium",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "SCI_161",
+    "domain": "Physics",
+    "task_type": "Physics General",
+    "prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation.Then the question is:What is the angular momentum of an object with a mass of $4 kg$ that moves along a circular path of radius $2  m$ at a frequency of $ 1   Hz $?\n\nA. 150.797 kgm\u00b2rads\u207b\u00b9\nB. 50.266 kgm\u00b2rads\u207b\u00b9\nC. 100.531 kgm\u00b2rads\u207b\u00b9\nD. 200.106 kgm\u00b2rads\u207b\u00b9\n\nAnswer:",
+    "expected_answer": "C. 100.531 kgm\u00b2rads\u207b\u00b9",
+    "difficulty": "medium",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "SCI_163",
+    "domain": "Physics",
+    "task_type": "Physics General",
+    "prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation.Then the question is:An object of length $2cm$ is placed at a distance of $2.5*f$ from a concave mirror where f is its focal length. what is the length of the IMAGE?\n\nA. 4/3 cm\nB. 6/3 cm\nC. 5/3 cm\nD. 2/3 cm\n\nAnswer:",
+    "expected_answer": "A. 4/3 cm",
+    "difficulty": "medium",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "SCI_179",
+    "domain": "Physics",
+    "task_type": "Physics General",
+    "prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation.Then the question is:How are lasers used to cut material?\n\nA. Lasers emit sound waves to shatter material.\nB. Lasers create pressure to break material.\nC. Lasers focus light to cut material.\nD. Lasers heat material to melt it.\n\nAnswer:",
+    "expected_answer": "C. Lasers focus light to cut material.",
+    "difficulty": "medium",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "SCI_185",
+    "domain": "Physics",
+    "task_type": "Physics General",
+    "prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation.Then the question is:why do some things sink?\n\nA. Objects sink when their weight is less than the buoyant force.\nB. Objects sink when their volume is larger than the fluid's volume.\nC. Objects sink when their weight is greater than the buoyant force.\nD. Objects sink when their density is equal to the fluid's density.\n\nAnswer:",
+    "expected_answer": "C. Objects sink when their weight is greater than the buoyant force.",
+    "difficulty": "medium",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "SCI_192",
+    "domain": "Physics",
+    "task_type": "Physics General",
+    "prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation.Then the question is:What is the norm of $<  5  ,  -2,  3  >$?\n\nA. \u221a38\nB. \u221a42\nC. \u221a34\nD. \u221a30\n\nAnswer:",
+    "expected_answer": "A. \u221a38",
+    "difficulty": "medium",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "SCI_203",
+    "domain": "Physics",
+    "task_type": "Physics General",
+    "prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation.Then the question is:What are pendulums used for today?\n\nA. Detecting earthquakes, generating electricity, and music.\nB. Stabilizing skyscrapers, clocks, and hypnosis.\nC. Measuring temperature, communication, and transportation.\nD. Weighing objects, navigation, and artistic performances.\n\nAnswer:",
+    "expected_answer": "B. Stabilizing skyscrapers, clocks, and hypnosis.",
+    "difficulty": "medium",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "SCI_210",
+    "domain": "Physics",
+    "task_type": "Physics General",
+    "prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation.Then the question is:How do you calculate acceleration of gravity?\n\nA. Calculate by multiplying force and mass\nB. Calculate by dividing mass by force\nC. Calculate by multiplying mass and distance\nD. Calculate by dividing force by mass\n\nAnswer:",
+    "expected_answer": "D. Calculate by dividing force by mass",
+    "difficulty": "medium",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "SCI_218",
+    "domain": "Physics",
+    "task_type": "Physics General",
+    "prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation.Then the question is:Why is nuclear fission a chain reaction?\n\nA. Nuclear fission is a chain reaction because each disintegration releases neutrons that trigger more disintegrations.\nB. Nuclear fission is a chain reaction because it depends on the presence of a catalyst.\nC. Nuclear fission is a chain reaction because it involves the fusion of lighter atoms into heavier ones.\nD. Nuclear fission is a chain reaction because it requires a continuous supply of energy.\n\nAnswer:",
+    "expected_answer": "A. Nuclear fission is a chain reaction because each disintegration releases neutrons that trigger more disintegrations.",
+    "difficulty": "medium",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "SCI_234",
+    "domain": "Physics",
+    "task_type": "Physics General",
+    "prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation.Then the question is:How would you calculate the work associated with the compression of a gas from 121.0 L to 80.0 L at a pressure of 13.1 atm?\n\nA. 1.75 x 10^5 J\nB. 8.75 x 10^4 J\nC. 3.50 x 10^5 J\nD. -1.75 x 10^5 J\n\nAnswer:",
+    "expected_answer": "A. 1.75 x 10^5 J",
+    "difficulty": "medium",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "SCI_237",
+    "domain": "Physics",
+    "task_type": "Physics General",
+    "prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation.Then the question is:How does Bohr improve Rutherford's atomic model?\n\nA. Bohr changed Rutherford's model by proposing electrons exist in a continuous energy cloud.\nB. Bohr improved Rutherford's atomic model by introducing quantized orbits for electrons.\nC. Bohr refined Rutherford's model by adding neutrons to the nucleus.\nD. Bohr disproved Rutherford's atomic model by showing electrons don't orbit the nucleus.\n\nAnswer:",
+    "expected_answer": "B. Bohr improved Rutherford's atomic model by introducing quantized orbits for electrons.",
+    "difficulty": "medium",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "SCI_242",
+    "domain": "Physics",
+    "task_type": "Physics General",
+    "prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation.Then the question is:A box with an initial speed of $6  m/s$ is moving up a ramp.  The ramp has a kinetic friction coefficient of $2/3 $ and an incline of $(5  pi )/12 $.  How far along the ramp will the box go?\n\nA. 2.45m\nB. 3.22m\nC. 0.98m\nD. 1.61m\n\nAnswer:",
+    "expected_answer": "D. 1.61m",
+    "difficulty": "medium",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "SCI_243",
+    "domain": "Physics",
+    "task_type": "Physics General",
+    "prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation.Then the question is:How can the nucleus of an atom change?\n\nA. Delta emission, electron decay, tau decay, neutrino capture\nB. Alpha emission, beta decay, positron decay, electron capture\nC. Photon emission, meson decay, quark decay, gluon capture\nD. Gamma emission, proton decay, neutron decay, muon capture\n\nAnswer:",
+    "expected_answer": "B. Alpha emission, beta decay, positron decay, electron capture",
+    "difficulty": "medium",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "SCI_250",
+    "domain": "Physics",
+    "task_type": "Physics General",
+    "prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation.Then the question is:How do you calculate the magnitude of vectors?\n\nA. Divide the sum of vectors by their angle.\nB. Measure with a ruler on a scaled vector diagram.\nC. Use trigonometry to find the angle.\nD. Add the magnitudes of individual vectors.\n\nAnswer:",
+    "expected_answer": "B. Measure with a ruler on a scaled vector diagram.",
+    "difficulty": "medium",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "SCI_252",
+    "domain": "Physics",
+    "task_type": "Physics General",
+    "prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation.Then the question is:An object swings from the end of a cord as a simple pendulum with period T. An identical object oscillates up and down on the end of a vertical spring with the same period T. If the masses of both objects are doubled, how will the new values of the periods compare to T?\n\nA. T' = T/2 for the spring-mass system\nB. T' = T for the spring-mass system\nC. T' = sqrt(2)T for the spring-mass system\nD. T' = 2T for the spring-mass system\n\nAnswer:",
+    "expected_answer": "C. T' = sqrt(2)T for the spring-mass system",
+    "difficulty": "medium",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "SCI_281",
+    "domain": "Physics",
+    "task_type": "Physics General",
+    "prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation.Then the question is:What is the difference between first and second laws of thermodynamics?\n\nA. 1st law: energy creation; 2nd law: entropy constant\nB. 1st law: energy destruction; 2nd law: entropy balance\nC. 1st law: energy conservation; 2nd law: entropy increases\nD. 1st law: energy transfer; 2nd law: entropy decreases\n\nAnswer:",
+    "expected_answer": "C. 1st law: energy conservation; 2nd law: entropy increases",
+    "difficulty": "medium",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "SCI_295",
+    "domain": "Physics",
+    "task_type": "Physics General",
+    "prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation.Then the question is:What is the angular momentum of an object with a mass of $5  kg$ that moves along a circular path of radius $8    m$ at a frequency of $ 6    Hz $?\n\nA. 24127.4 kgm^2s^-1\nB. 18159.2 kgm^2s^-1\nC. 6053.1 kgm^2s^-1\nD. 12063.7 kgm^2s^-1\n\nAnswer:",
+    "expected_answer": "D. 12063.7 kgm^2s^-1",
+    "difficulty": "medium",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "SCI_307",
+    "domain": "Physics",
+    "task_type": "Physics General",
+    "prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation.Then the question is:An object with a mass of $2   kg$ is on a plane with an incline of $pi/8   $. If the object is being pushed up the plane with $ 1  N $ of force, what is the net force on the object?\n\nA. 5.492 N\nB. 8.486 N\nC. 7.524 N\nD. 6.508 N\n\nAnswer:",
+    "expected_answer": "D. 6.508 N",
+    "difficulty": "medium",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "SCI_308",
+    "domain": "Physics",
+    "task_type": "Physics General",
+    "prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation.Then the question is:The position of an object moving along a line is given by $p(t) = 7t - cos((  pi )/3t) + 2  $.  What is the speed of the object at $t = 13 $?\n\nA. 7.91 ms^-1\nB. 9.12 ms^-1\nC. 6.89 ms^-1\nD. 8.34 ms^-1\n\nAnswer:",
+    "expected_answer": "A. 7.91 ms^-1",
+    "difficulty": "medium",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "SCI_321",
+    "domain": "Physics",
+    "task_type": "Physics General",
+    "prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation.Then the question is:What does acceleration mean in motions graphs?\n\nA. Acceleration is the area under the velocity curve.\nB. Acceleration is the change in position over time.\nC. Acceleration is the rate of change of speed with distance.\nD. Acceleration is the slope of velocity over time.\n\nAnswer:",
+    "expected_answer": "D. Acceleration is the slope of velocity over time.",
+    "difficulty": "medium",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "SCI_322",
+    "domain": "Physics",
+    "task_type": "Physics General",
+    "prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation.Then the question is:How can I calculate the ideal gas law equations?\n\nA. $pV=NRT$; $pV=NkT$\nB. $pV=nkT$; $pV=nRT$\nC. Molar: $pV=nRT$; Molecular: $pV=NkT$\nD. $pV=nkT$; $pV=NRT$\n\nAnswer:",
+    "expected_answer": "C. Molar: $pV=nRT$; Molecular: $pV=NkT$",
+    "difficulty": "medium",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "SCI_328",
+    "domain": "Physics",
+    "task_type": "Physics General",
+    "prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation.Then the question is:A charge of $8 C$ is passing through points A and B on a circuit.  If the charge's electric potential changes from $42 J$ to $16 J$, what is the voltage between points A and B?\n\nA. 4.5V\nB. 3.25V\nC. 2.25V\nD. 1.75V\n\nAnswer:",
+    "expected_answer": "B. 3.25V",
+    "difficulty": "medium",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "SCI_331",
+    "domain": "Physics",
+    "task_type": "Physics General",
+    "prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation.Then the question is:A ball with a mass of $8 kg$ moving at $14 m/s$ hits a still ball with a mass of $4 kg$.  If the first ball stops moving, how fast is the second ball moving?\n\nA. 56 m/s\nB. 28 m/s\nC. 7 m/s\nD. 14 m/s\n\nAnswer:",
+    "expected_answer": "B. 28 m/s",
+    "difficulty": "medium",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "SCI_338",
+    "domain": "Physics",
+    "task_type": "Physics General",
+    "prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation.Then the question is:An object is thrown vertically from a height of $2 m$ at $5m/s$.  How long will it take for the object to hit the ground?\n\nA. 1.47 seconds\nB. 1.06 seconds\nC. 1.32 seconds\nD. 1.15 seconds\n\nAnswer:",
+    "expected_answer": "C. 1.32 seconds",
+    "difficulty": "medium",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "SCI_354",
+    "domain": "Physics",
+    "task_type": "Physics General",
+    "prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation.Then the question is:Why is the centroid called the center of mass?\n\nA. Centroid is the point where all mass is equally distributed in a triangle.\nB. Centroid is the average of total mass concentrated at the center of a triangle.\nC. Centroid is the balance point of mass in a triangle.\nD. Centroid is the center of gravity of a triangle.\n\nAnswer:",
+    "expected_answer": "B. Centroid is the average of total mass concentrated at the center of a triangle.",
+    "difficulty": "medium",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "SCI_358",
+    "domain": "Physics",
+    "task_type": "Physics General",
+    "prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation.Then the question is:Does the coefficient of restitution change?\n\nA. Yes, but only when the temperature changes.\nB. Yes, it changes depending on the surfaces and the ball's condition.\nC. No, it remains constant for all collisions.\nD. No, it only depends on the ball's mass.\n\nAnswer:",
+    "expected_answer": "B. Yes, it changes depending on the surfaces and the ball's condition.",
+    "difficulty": "medium",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "SCI_393",
+    "domain": "Physics",
+    "task_type": "Physics General",
+    "prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation.Then the question is:A ball with a mass of $5kg$ moving at $4 m/s$ hits a still ball with a mass of $7 kg$.  If the first ball stops moving, how fast is the second ball moving?\n\nA. 2.8 m/s\nB. 1.4 m/s\nC. 5.6 m/s\nD. 3.6 m/s\n\nAnswer:",
+    "expected_answer": "A. 2.8 m/s",
+    "difficulty": "medium",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "SCI_406",
+    "domain": "Physics",
+    "task_type": "Physics General",
+    "prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation.Then the question is:Do sound waves travel through compression waves or longitudinal waves?\n\nA. Sound waves are only compressional.\nB. Sound waves are both compressional and longitudinal.\nC. Sound waves are only longitudinal.\nD. Sound waves are neither compressional nor longitudinal.\n\nAnswer:",
+    "expected_answer": "B. Sound waves are both compressional and longitudinal.",
+    "difficulty": "medium",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "SCI_409",
+    "domain": "Physics",
+    "task_type": "Physics General",
+    "prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation.Then the question is:What properties of sound waves might determine how loud a sound is?\n\nA. Speed of the wave\nB. Frequency of the wave\nC. Wavelength of the wave\nD. Amplitude of the wave\n\nAnswer:",
+    "expected_answer": "D. Amplitude of the wave",
+    "difficulty": "medium",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "SCI_424",
+    "domain": "Physics",
+    "task_type": "Physics General",
+    "prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation.Then the question is:A ball with a mass of $8 kg$ moving at $7 m/s$ hits a still ball with a mass of $13 kg$.  If the first ball stops moving, how fast is the second ball moving?\n\nA. 3.54 m/s\nB. 5.62 m/s\nC. 4.31 m/s\nD. 6.15 m/s\n\nAnswer:",
+    "expected_answer": "C. 4.31 m/s",
+    "difficulty": "medium",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "SCI_426",
+    "domain": "Physics",
+    "task_type": "Physics General",
+    "prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation.Then the question is:A charge of $6 C$ is passing through points A and B on a circuit.  If the charge's electric potential changes from $42 J$ to $21 J$, what is the voltage between points A and B?\n\nA. 3.5V\nB. 4.5V\nC. 2.5V\nD. 1.5V\n\nAnswer:",
+    "expected_answer": "A. 3.5V",
+    "difficulty": "medium",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "SCI_432",
+    "domain": "Physics",
+    "task_type": "Physics General",
+    "prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation.Then the question is:A projectile is shot from the ground at a velocity of $17   m/s$ and at an angle of $(7pi)/12$.  How long will it take for the projectile to land?\n\nA. 3.9 s\nB. 4.1 s\nC. 3.3 s\nD. 2.7 s\n\nAnswer:",
+    "expected_answer": "C. 3.3 s",
+    "difficulty": "medium",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "SCI_441",
+    "domain": "Physics",
+    "task_type": "Physics General",
+    "prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation.Then the question is:How do you normalize $ (3i \u2013 4j + 4k) $?\n\nA. 1/sqrt(41) * <-3, 4, -4>\nB. 1/sqrt(41) * <3, -4, 4>\nC. 1/sqrt(41) * <3, 4, -4>\nD. 1/sqrt(41) * <4, -3, 4>\n\nAnswer:",
+    "expected_answer": "B. 1/sqrt(41) * <3, -4, 4>",
+    "difficulty": "medium",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "SCI_449",
+    "domain": "Physics",
+    "task_type": "Physics General",
+    "prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation.Then the question is:A container with a volume of $12 L$ contains a gas with a temperature of $210   K$.  If the temperature of the gas changes to $420 K$ without any change in pressure, what must the container's new volume be?\n\nA. 24 L\nB. 36 L\nC. 48 L\nD. 12 L\n\nAnswer:",
+    "expected_answer": "A. 24 L",
+    "difficulty": "medium",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "SCI_451",
+    "domain": "Physics",
+    "task_type": "Physics General",
+    "prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation.Then the question is:An object with a mass of $4    kg$ is hanging from an axle with a radius of $5   m$.  If the wheel attached to the axle has a radius of $15 m$, how much force must be applied to the wheel to keep the object from falling?\n\nA. 13.3N\nB. 6.65N\nC. 39.9N\nD. 26.6N\n\nAnswer:",
+    "expected_answer": "A. 13.3N",
+    "difficulty": "medium",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "SCI_456",
+    "domain": "Physics",
+    "task_type": "Physics General",
+    "prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation.Then the question is:An object travels North at $7  m/s$ for $8 s$ and then travels South at $6  m/s$ for $  4   s$.  What are the object's average speed and velocity?\n\nA. 6.00 m/s, 2.00 m/s\nB. 7.33 m/s, 1.67 m/s\nC. 5.33 m/s, 3.67 m/s\nD. 6.67 m/s, 2.67 m/s\n\nAnswer:",
+    "expected_answer": "D. 6.67 m/s, 2.67 m/s",
+    "difficulty": "medium",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "SCI_457",
+    "domain": "Physics",
+    "task_type": "Physics General",
+    "prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation.Then the question is:Why are sound waves in air characterized as longitudinal?\n\nA. Sound waves in air are longitudinal due to the Earth's magnetic field.\nB. Sound waves in air are longitudinal because air compression and decompression propagate the sound.\nC. Sound waves in air are longitudinal because they travel faster in air.\nD. Sound waves in air are longitudinal because air molecules vibrate side to side.\n\nAnswer:",
+    "expected_answer": "B. Sound waves in air are longitudinal because air compression and decompression propagate the sound.",
+    "difficulty": "medium",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "SCI_459",
+    "domain": "Physics",
+    "task_type": "Physics General",
+    "prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation.Then the question is:If an object with a mass of $ 3kg  $ changes speed from $4m/s$ to $ 9m/s$, by how much does its kinetic energy change?\n\nA. 82.5 J\nB. 112.5 J\nC. 97.5 J\nD. 76.5 J\n\nAnswer:",
+    "expected_answer": "C. 97.5 J",
+    "difficulty": "medium",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "SCI_462",
+    "domain": "Physics",
+    "task_type": "Physics General",
+    "prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation.Then the question is:How is momentum conserved when the ball collides with the floor?\n\nA. Momentum is conserved by transferring it between the ball and Earth, with Earth's change in velocity being extremely small due to its massive size.\nB. Momentum is conserved by converting kinetic energy into potential energy.\nC. Momentum is conserved by transferring it between the ball and the air around it.\nD. Momentum is not conserved during the collision with the floor.\n\nAnswer:",
+    "expected_answer": "A. Momentum is conserved by transferring it between the ball and Earth, with Earth's change in velocity being extremely small due to its massive size.",
+    "difficulty": "medium",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "SCI_466",
+    "domain": "Physics",
+    "task_type": "Physics General",
+    "prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation.Then the question is:A gas exerts a force of $5,610$ $N$ over an area of $0.342$ $m^2$. What pressure does the gas exert in $Pa$?\n\nA. 12,897.2 Pa\nB. 18,654.8 Pa\nC. 16,403.5 Pa\nD. 14,235.6 Pa\n\nAnswer:",
+    "expected_answer": "C. 16,403.5 Pa",
+    "difficulty": "medium",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "SCI_476",
+    "domain": "Physics",
+    "task_type": "Physics General",
+    "prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation.Then the question is:How does thermal expansion affect bridges?\n\nA. Thermal expansion has no significant effect on bridges as they are designed to withstand temperature changes.\nB. Thermal expansion increases the weight capacity of bridges by strengthening materials.\nC. Thermal expansion prevents bridges from freezing during cold temperatures.\nD. Thermal expansion affects bridges by causing them to expand or contract, which can be counteracted with expansion joints.\n\nAnswer:",
+    "expected_answer": "D. Thermal expansion affects bridges by causing them to expand or contract, which can be counteracted with expansion joints.",
+    "difficulty": "medium",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "SCI_480",
+    "domain": "Physics",
+    "task_type": "Physics General",
+    "prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation.Then the question is:How is refraction related to lenses?\n\nA. Lenses create refraction by changing light's wavelength.\nB. Lenses work by reflecting light rather than refracting it.\nC. Refraction makes lenses work by bending light rays.\nD. Refraction has no significant impact on lenses.\n\nAnswer:",
+    "expected_answer": "C. Refraction makes lenses work by bending light rays.",
+    "difficulty": "medium",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "SCI_483",
+    "domain": "Physics",
+    "task_type": "Physics General",
+    "prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation.Then the question is:If the magnitude of $v$ is 10, and the direction vector is 60\u00b0, what is the x component of $v$?\n\nA. 15\nB. 7\nC. 10\nD. 5\n\nAnswer:",
+    "expected_answer": "D. 5",
+    "difficulty": "medium",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "SCI_498",
+    "domain": "Physics",
+    "task_type": "Physics General",
+    "prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation.Then the question is:If the length of a $24 cm$ spring increases to $47 cm$ when a $5 kg$ weight is hanging from it, what is the spring's constant?\n\nA. 25.1 Nm^-1\nB. 21.3 Nm^-1\nC. 18.7 Nm^-1\nD. 23.5 Nm^-1\n\nAnswer:",
+    "expected_answer": "B. 21.3 Nm^-1",
+    "difficulty": "medium",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "SCI_500",
+    "domain": "Physics",
+    "task_type": "Physics General",
+    "prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation.Then the question is:Which force field can accelerate an electron, but never change its speed?\n\nA. Gravitational force\nB. Magnetic force\nC. Electrostatic force\nD. Frictional force\n\nAnswer:",
+    "expected_answer": "B. Magnetic force",
+    "difficulty": "medium",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "SCI_507",
+    "domain": "Physics",
+    "task_type": "Physics General",
+    "prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation.Then the question is:How are nuclear reactions balanced?\n\nA. Nuclear reactions are balanced by conserving temperature, pressure, and volume.\nB. Nuclear reactions are balanced by conserving atomic number, electron configuration, and valence electrons.\nC. Nuclear reactions are balanced by conserving energy, mass, charge, and lepton family number.\nD. Nuclear reactions are balanced by conserving momentum, force, and potential energy.\n\nAnswer:",
+    "expected_answer": "C. Nuclear reactions are balanced by conserving energy, mass, charge, and lepton family number.",
+    "difficulty": "medium",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "SCI_508",
+    "domain": "Physics",
+    "task_type": "Physics General",
+    "prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation.Then the question is:A simple harmonic oscillator consists of a block of mass 4.10 kg attached to a spring of spring constant 300 N/m. When t = 1.80 s, the position and velocity of the block are x = 0.188 m and v = 4.150 m/s. What is the amplitude of the oscillations?\n\nA. 0.5 m\nB. 1.1 m\nC. 0.7 m\nD. 0.9 m\n\nAnswer:",
+    "expected_answer": "C. 0.7 m",
+    "difficulty": "medium",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "SCI_525",
+    "domain": "Physics",
+    "task_type": "Physics General",
+    "prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation.Then the question is:How do electric fields accelerate particles?\n\nA. Electric fields accelerate particles by exerting a force on them based on their charge.\nB. Electric fields accelerate particles by transferring energy through electromagnetic waves.\nC. Electric fields accelerate particles by causing friction between particles and the field.\nD. Electric fields accelerate particles by changing their mass and altering their gravitational pull.\n\nAnswer:",
+    "expected_answer": "A. Electric fields accelerate particles by exerting a force on them based on their charge.",
+    "difficulty": "medium",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "SCI_528",
+    "domain": "Physics",
+    "task_type": "Physics General",
+    "prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation.Then the question is:Why is the sky blue?\n\nA. Sunlight is naturally blue.\nB. Sunlight scatters in blue wavelengths due to atmosphere molecules.\nC. Atmosphere reflects blue light from oceans.\nD. Sky absorbs all colors except blue.\n\nAnswer:",
+    "expected_answer": "B. Sunlight scatters in blue wavelengths due to atmosphere molecules.",
+    "difficulty": "medium",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "SCI_532",
+    "domain": "Physics",
+    "task_type": "Physics General",
+    "prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation.Then the question is:Apply Newton's First Law of motion to explain the danger in travelling too quickly on a curve of an icy highway?\n\nA. Lack of friction on icy roads makes it hard to change direction, causing cars to continue in a straight line.\nB. Cars on icy roads can easily change direction, but the speed causes them to lose control.\nC. Newton's first law doesn't apply to icy highways, so there's no danger in traveling quickly.\nD. Icy roads increase friction, making it difficult for cars to maintain speed on curves.\n\nAnswer:",
+    "expected_answer": "A. Lack of friction on icy roads makes it hard to change direction, causing cars to continue in a straight line.",
+    "difficulty": "medium",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "SCI_538",
+    "domain": "Physics",
+    "task_type": "Physics General",
+    "prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation.Then the question is:Why are atomic models important?\n\nA. Atomic models are important for predicting chemical reactions.\nB. Atomic models help us understand the evolution of atomic concepts and the transition from classical to quantum physics.\nC. Atomic models help us visualize the structure of different elements.\nD. Atomic models are crucial for understanding the behavior of subatomic particles.\n\nAnswer:",
+    "expected_answer": "B. Atomic models help us understand the evolution of atomic concepts and the transition from classical to quantum physics.",
+    "difficulty": "medium",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "SCI_540",
+    "domain": "Physics",
+    "task_type": "Physics General",
+    "prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation.Then the question is:How many quantum numbers are used to describe an electron?\n\nA. Five quantum numbers: L, N, M, S, P\nB. Two quantum numbers: L, S\nC. Four quantum numbers: L, N, M, S\nD. Three quantum numbers: L, N, M\n\nAnswer:",
+    "expected_answer": "C. Four quantum numbers: L, N, M, S",
+    "difficulty": "medium",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "SCI_558",
+    "domain": "Physics",
+    "task_type": "Physics General",
+    "prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation.Then the question is:In the morning, a concrete statue of specific heat = 600 j/(kg k) has a temperature of 15\u00b0c. during the day, it sits in the sun and warms up to 40\u00b0c, gaining 90,000 j of thermal energy. what is its mass?\n\nA. 4.5 kg\nB. 8.0 kg\nC. 6.0 kg\nD. 7.5 kg\n\nAnswer:",
+    "expected_answer": "C. 6.0 kg",
+    "difficulty": "medium",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "SCI_560",
+    "domain": "Physics",
+    "task_type": "Physics General",
+    "prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation.Then the question is:A charge of $9 C$ is passing through points A and B on a circuit.  If the charge's electric potential changes from $15 J$ to $12 J$, what is the voltage between points A and B?\n\nA. 1/3 V\nB. -3 V\nC. 3 V\nD. -1/3 V\n\nAnswer:",
+    "expected_answer": "D. -1/3 V",
+    "difficulty": "medium",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "SCI_562",
+    "domain": "Physics",
+    "task_type": "Physics General",
+    "prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation.Then the question is:Why don't inelastic collisions conserve energy?\n\nA. Energy goes into changing shapes.\nB. Energy is transferred to heat.\nC. Energy is fully conserved.\nD. Objects lose mass.\n\nAnswer:",
+    "expected_answer": "A. Energy goes into changing shapes.",
+    "difficulty": "medium",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "SCI_583",
+    "domain": "Physics",
+    "task_type": "Physics General",
+    "prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation.Then the question is:Is alternating current more efficient?\n\nA. Direct current is more efficient because it doesn't require transformers.\nB. Alternating current's voltage can be altered using transformers, minimizing power dissipation and consumption.\nC. Alternating current is less efficient due to its constantly changing direction.\nD. Alternating current's efficiency is equal to direct current, with no significant differences.\n\nAnswer:",
+    "expected_answer": "B. Alternating current's voltage can be altered using transformers, minimizing power dissipation and consumption.",
+    "difficulty": "medium",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "SCI_605",
+    "domain": "Physics",
+    "task_type": "Physics General",
+    "prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation.Then the question is:A charge of $12 C$ is passing through points A and B on a circuit.  If the charge's electric potential changes from $36 J$ to $18 J$, what is the voltage between points A and B?\n\nA. 0.75 V\nB. 2.5 V\nC. 3 V\nD. 1.5 V\n\nAnswer:",
+    "expected_answer": "D. 1.5 V",
+    "difficulty": "medium",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "SCI_633",
+    "domain": "Physics",
+    "task_type": "Physics General",
+    "prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation.Then the question is:How does an electric field affect the movement of a charge?\n\nA. Electric field creates a magnetic force, causing charged particles to spin around the field lines.\nB. Electric field exerts a force, accelerating or decelerating charged particles based on charge and direction.\nC. Electric field repels charged particles, causing them to move in random directions.\nD. Electric field only affects the movement of positive charges, leaving negative charges unaffected.\n\nAnswer:",
+    "expected_answer": "B. Electric field exerts a force, accelerating or decelerating charged particles based on charge and direction.",
+    "difficulty": "medium",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "SCI_652",
+    "domain": "Physics",
+    "task_type": "Physics General",
+    "prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation.Then the question is:An object with a mass of $18  kg$ is on a surface with a kinetic friction coefficient of $ 2   $.  How much force is necessary to accelerate the object horizontally at $               17   m/s^2$?\n\nA. 658.8 N\nB. 689.6 N\nC. 645.2 N\nD. 672.4 N\n\nAnswer:",
+    "expected_answer": "A. 658.8 N",
+    "difficulty": "medium",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "SCI_653",
+    "domain": "Physics",
+    "task_type": "Physics General",
+    "prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation.Then the question is:Objects A and B are at the origin.  If object A moves to $(2  ,1   )$ and object B moves to $(5  ,2  )$ over $4  s$, what is the relative velocity of object B from the perspective of object A?\n\nA. (1/4, 3/4)\nB. (4/4, 0/4)\nC. (3/4, 1/4)\nD. (2/4, 2/4)\n\nAnswer:",
+    "expected_answer": "C. (3/4, 1/4)",
+    "difficulty": "medium",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "SCI_659",
+    "domain": "Physics",
+    "task_type": "Physics General",
+    "prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation.Then the question is:A charge of $25 C$ is passing through points A and B on a circuit.  If the charge's electric potential changes from $25 J$ to $3 J$, what is the voltage between points A and B?\n\nA. 0.44 Volts\nB. 1.12 Volts\nC. 2.20 Volts\nD. 0.88 Volts\n\nAnswer:",
+    "expected_answer": "D. 0.88 Volts",
+    "difficulty": "medium",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "SCI_668",
+    "domain": "Physics",
+    "task_type": "Physics General",
+    "prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation.Then the question is:A pendulum on earth with a length of 1.2 m and a mass .25 kg is set in motion. What is its period?\n\nA. 1.8 seconds\nB. 2.0 seconds\nC. 2.6 seconds\nD. 2.2 seconds\n\nAnswer:",
+    "expected_answer": "D. 2.2 seconds",
+    "difficulty": "medium",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "SCI_671",
+    "domain": "Physics",
+    "task_type": "Physics General",
+    "prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation.Then the question is:The force applied against an object moving horizontally on a linear path is described by $F(x)=  x^2 + 7 N  $. By how much does the object's kinetic energy change as the object moves from $ x in [ 2,  5  ]$?\n\nA. 90 J\nB. 45 J\nC. 60 J\nD. 75 J\n\nAnswer:",
+    "expected_answer": "C. 60 J",
+    "difficulty": "medium",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "SCI_679",
+    "domain": "Physics",
+    "task_type": "Physics General",
+    "prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation.Then the question is:What would happen to a bridge that did not have expansion joints?\n\nA. Without expansion joints, bridges may collapse due to resonant frequencies.\nB. Without expansion joints, bridges would be more resistant to earthquakes.\nC. Without expansion joints, bridges would require less maintenance.\nD. Without expansion joints, bridges would have increased weight capacity.\n\nAnswer:",
+    "expected_answer": "A. Without expansion joints, bridges may collapse due to resonant frequencies.",
+    "difficulty": "medium",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "SCI_682",
+    "domain": "Physics",
+    "task_type": "Physics General",
+    "prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation.Then the question is:A charge of $2 C$ is passing through points A and B on a circuit.  If the charge's electric potential changes from $25 J$ to $18   J$, what is the voltage between points A and B?\n\nA. 3.5 V\nB. 2.5 V\nC. 4.5 V\nD. 5.5 V\n\nAnswer:",
+    "expected_answer": "A. 3.5 V",
+    "difficulty": "medium",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "SCI_691",
+    "domain": "Physics",
+    "task_type": "Physics General",
+    "prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation.Then the question is:What is the force, in terms of Coulomb's constant, between two electrical charges of $18 C$ and $-15 C$ that are $9 m $ apart?\n\nA. 3.3333333k\nB. -6.6666666k\nC. -3.3333333k\nD. -1.6666666k\n\nAnswer:",
+    "expected_answer": "C. -3.3333333k",
+    "difficulty": "medium",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "SCI_711",
+    "domain": "Physics",
+    "task_type": "Physics General",
+    "prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation.Then the question is:A charged capacitor is connected to another capacitor with identical capacitance. Where is energy stored at equilibrium?\n\nA. All energy is stored in both capacitors without loss.\nB. Energy is stored in both capacitors and half is lost as heat.\nC. Energy is stored only in the uncharged capacitor.\nD. Energy is stored only in the charged capacitor.\n\nAnswer:",
+    "expected_answer": "B. Energy is stored in both capacitors and half is lost as heat.",
+    "difficulty": "medium",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "SCI_722",
+    "domain": "Physics",
+    "task_type": "Physics General",
+    "prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation.Then the question is:What is the law of reflection?\n\nA. Angle of incidence equals angle of refraction; incident ray, reflected ray, and normal lie on the same plane.\nB. Angle of reflection equals angle of refraction; incident ray, reflected ray, and normal lie on different planes.\nC. Angle of incidence equals angle of reflection; incident ray, reflected ray, and normal lie on the same plane.\nD. Angle of incidence is half the angle of reflection; incident ray, reflected ray, and normal lie on the same plane.\n\nAnswer:",
+    "expected_answer": "C. Angle of incidence equals angle of reflection; incident ray, reflected ray, and normal lie on the same plane.",
+    "difficulty": "medium",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "SCI_724",
+    "domain": "Physics",
+    "task_type": "Physics General",
+    "prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation.Then the question is:A solid disk with a radius of $8 m$ and mass of $6 kg$ is rotating on a frictionless surface.  If $60 W$ of power is used to increase the disk's rate of rotation, what torque is applied when the disk is rotating at $12  Hz$?\n\nA. 0.8 Nm\nB. 1.6 Nm\nC. 2.4 Nm\nD. 0.4 Nm\n\nAnswer:",
+    "expected_answer": "A. 0.8 Nm",
+    "difficulty": "medium",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "SCI_730",
+    "domain": "Physics",
+    "task_type": "Physics General",
+    "prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation.Then the question is:What is the Coulomb's law?\n\nA. F = k(Q1+Q2)/r^2\nB. F = k(Q1-Q2)/r^2\nC. F = k(Q1*Q2)*r^2\nD. F = k(Q1*Q2)/r^2\n\nAnswer:",
+    "expected_answer": "D. F = k(Q1*Q2)/r^2",
+    "difficulty": "medium",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "SCI_732",
+    "domain": "Physics",
+    "task_type": "Physics General",
+    "prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation.Then the question is:How fast will an object with a mass of $4   kg$ accelerate if a force of $73 N$ is constantly applied to it?\n\nA. 4.85 m/s\u00b2\nB. 36.5 m/s\u00b2\nC. 9.12 m/s\u00b2\nD. 18.25 m/s\u00b2\n\nAnswer:",
+    "expected_answer": "D. 18.25 m/s\u00b2",
+    "difficulty": "medium",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "SCI_737",
+    "domain": "Physics",
+    "task_type": "Physics General",
+    "prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation.Then the question is:If an object with a mass of $2 kg  $ changes speed from $14 m/s$ to $ 15m/s$, by how much does its kinetic energy change?\n\nA. 31 J\nB. 27 J\nC. 29 J\nD. 33 J\n\nAnswer:",
+    "expected_answer": "C. 29 J",
+    "difficulty": "medium",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "SCI_768",
+    "domain": "Physics",
+    "task_type": "Physics General",
+    "prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation.Then the question is:What happens to internal reflection if the amount of reflected light increases?\n\nA. More light decreases reflection; absorption loss increases.\nB. More light causes overflow; reflection decreases.\nC. Reflection remains the same; absorption loss decreases.\nD. More light means more gets reflected; some absorption loss occurs.\n\nAnswer:",
+    "expected_answer": "D. More light means more gets reflected; some absorption loss occurs.",
+    "difficulty": "medium",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "SCI_773",
+    "domain": "Physics",
+    "task_type": "Physics General",
+    "prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation.Then the question is:An object's two dimensional velocity is given by $v(t) = ( sqrt(t^2-1)-2t ,  t^2)$.  What is the object's rate and direction of acceleration at $t=2  $?\n\nA. $-0.85\\hat{i}-4\\hat{j}$, 4.25 $(unit)/s^2$, $102\u00b0$\nB. $0.85\\hat{i}-4\\hat{j}$, 3.89 $(unit)/s^2$, $-102\u00b0$\nC. $0.85\\hat{i}+4\\hat{j}$, 3.95 $(unit)/s^2$, $78\u00b0$\nD. $-0.85\\hat{i}+4\\hat{j}$, 4.09 $(unit)/s^2$, $-78\u00b0$\n\nAnswer:",
+    "expected_answer": "D. $-0.85\\hat{i}+4\\hat{j}$, 4.09 $(unit)/s^2$, $-78\u00b0$",
+    "difficulty": "medium",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "SCI_786",
+    "domain": "Physics",
+    "task_type": "Physics General",
+    "prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation.Then the question is:What is the moment of inertia of a pendulum with a mass of $5 kg$ that is $13 m$ from the pivot?\n\nA. 650 kgm^2\nB. 1105 kgm^2\nC. 845 kgm^2\nD. 1040 kgm^2\n\nAnswer:",
+    "expected_answer": "C. 845 kgm^2",
+    "difficulty": "medium",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "SCI_787",
+    "domain": "Physics",
+    "task_type": "Physics General",
+    "prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation.Then the question is:A model train with a mass of $5  kg$ is moving along a track at $4 (cm)/s$.  If the curvature of the track changes from a radius of $4 cm$ to $2 cm$, by how much must the centripetal force applied by the tracks change?\n\nA. 0.1 N\nB. 0.2 N\nC. 0.4 N\nD. 0.3 N\n\nAnswer:",
+    "expected_answer": "B. 0.2 N",
+    "difficulty": "medium",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "SCI_814",
+    "domain": "Physics",
+    "task_type": "Physics General",
+    "prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation.Then the question is:How do nuclear reactions differ from chemical reactions?\n\nA. Nuclear reactions change the nucleus, while chemical reactions transfer electrons.\nB. Nuclear reactions create new elements, while chemical reactions create compounds.\nC. Nuclear reactions involve heat, while chemical reactions involve light.\nD. Chemical reactions change the nucleus, while nuclear reactions transfer electrons.\n\nAnswer:",
+    "expected_answer": "A. Nuclear reactions change the nucleus, while chemical reactions transfer electrons.",
+    "difficulty": "medium",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "SCI_822",
+    "domain": "Physics",
+    "task_type": "Physics General",
+    "prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation.Then the question is:What is an Integrated circuit?\n\nA. An integrated circuit (IC) is a mechanical system that integrates various components for efficient operation.\nB. An integrated circuit (IC) is a software algorithm that controls the interaction of electronic devices.\nC. An integrated circuit (IC) is a single unit containing miniaturized electronic components on a semiconductor material like silicon.\nD. An integrated circuit (IC) is a complex network of wires connecting multiple electronic devices.\n\nAnswer:",
+    "expected_answer": "C. An integrated circuit (IC) is a single unit containing miniaturized electronic components on a semiconductor material like silicon.",
+    "difficulty": "medium",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "SCI_824",
+    "domain": "Physics",
+    "task_type": "Physics General",
+    "prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation.Then the question is:Two objects have masses of $4 MG$ and $7  MG$. How much does the gravitational potential energy between the objects change if the distance between them changes from $320 m$ to $450 m$?\n\nA. 3.38 x 10^-6 J\nB. 0.85 x 10^-6 J\nC. 1.69 x 10^-6 J\nD. -1.69 x 10^-6 J\n\nAnswer:",
+    "expected_answer": "C. 1.69 x 10^-6 J",
+    "difficulty": "medium",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "SCI_827",
+    "domain": "Physics",
+    "task_type": "Physics General",
+    "prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation.Then the question is:A charge of $8 C$ is passing through points A and B on a circuit.  If the charge's electric potential changes from $28 J$ to $15 J$, what is the voltage between points A and B?\n\nA. 21/8 V\nB. 27/8 V\nC. 5/8 V\nD. 13/8 V\n\nAnswer:",
+    "expected_answer": "D. 13/8 V",
+    "difficulty": "medium",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "SCI_835",
+    "domain": "Physics",
+    "task_type": "Physics General",
+    "prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation.Then the question is:What is relative speed between two objects?\n\nA. Relative speed is the sum of speeds between two objects.\nB. Relative speed is the difference in speeds between two objects.\nC. Relative speed is the ratio of speeds between two objects.\nD. Relative speed is the product of speeds between two objects.\n\nAnswer:",
+    "expected_answer": "B. Relative speed is the difference in speeds between two objects.",
+    "difficulty": "medium",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "SCI_836",
+    "domain": "Physics",
+    "task_type": "Physics General",
+    "prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation.Then the question is:How does the doppler effect change the appearance of emitted light?\n\nA. The doppler effect changes the light's intensity, making it brighter when the source moves away and dimmer when it moves towards the detector.\nB. The doppler effect changes the light's wavelength, causing redshift when the source moves away and blueshift when it moves towards the detector.\nC. The doppler effect changes the light's polarization, causing it to become more linearly polarized when the source moves away and more circularly polarized when it moves towards the detector.\nD. The doppler effect changes the light's speed, causing it to travel faster when the source moves away and slower when it moves towards the detector.\n\nAnswer:",
+    "expected_answer": "B. The doppler effect changes the light's wavelength, causing redshift when the source moves away and blueshift when it moves towards the detector.",
+    "difficulty": "medium",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "SCI_837",
+    "domain": "Physics",
+    "task_type": "Physics General",
+    "prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation.Then the question is:If a rocket with a mass of 4000 tons vertically accelerates at a rate of $ 9/5 m/s^2$, how much power will the rocket have to exert to maintain its acceleration at 11 seconds?\n\nA. 12.47 GW\nB. 10.15 GW\nC. 8.74 GW\nD. 6.32 GW\n\nAnswer:",
+    "expected_answer": "C. 8.74 GW",
+    "difficulty": "medium",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "SCI_869",
+    "domain": "Physics",
+    "task_type": "Physics General",
+    "prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation.Then the question is:A charge of $-6 C$ is at the origin. How much energy would be applied to or released from a $ 9   C$ charge if it is moved from $ (-2  ,3   ) $ to $(2  ,-4   )  $?\n\nA. 5.2x10^10 J\nB. 2.6x10^10 J\nC. -2.6x10^10 J\nD. 1.3x10^10 J\n\nAnswer:",
+    "expected_answer": "B. 2.6x10^10 J",
+    "difficulty": "medium",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "SCI_909",
+    "domain": "Physics",
+    "task_type": "Physics General",
+    "prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation.Then the question is:A projectile is shot at an angle of $pi/4  $ and a velocity of $ 55  m/s$. How far away will the projectile land?\n\nA. 310 m\nB. 340 m\nC. 370 m\nD. 280 m\n\nAnswer:",
+    "expected_answer": "A. 310 m",
+    "difficulty": "medium",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "SCI_916",
+    "domain": "Physics",
+    "task_type": "Physics General",
+    "prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation.Then the question is:The Eiffel Tower in Paris stands 300.0 m tall on a day of average temperature, 22.0\u00b0C. How much taller is the steel tower on a hot summer day (T = 40\u00b0C) in centimeters? (\u03b1steel = 11 x 10-6 \u00b0C-1)\n\nA. 9.21 cm\nB. 7.86 cm\nC. 3.72 cm\nD. 5.94 cm\n\nAnswer:",
+    "expected_answer": "D. 5.94 cm",
+    "difficulty": "medium",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "SCI_925",
+    "domain": "Physics",
+    "task_type": "Physics General",
+    "prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation.Then the question is:An object with a mass of $21 g$ is dropped into $400 mL$ of water at $0^@C$.  If the object cools by $160 ^@C$ and the water warms by $12   ^@C$, what is the specific heat of the material that the object is made of?\n\nA. 9.12 kJkg^-1K^-1\nB. 4.22 kJkg^-1K^-1\nC. 7.36 kJkg^-1K^-1\nD. 5.98 kJkg^-1K^-1\n\nAnswer:",
+    "expected_answer": "D. 5.98 kJkg^-1K^-1",
+    "difficulty": "medium",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "SCI_933",
+    "domain": "Physics",
+    "task_type": "Physics General",
+    "prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation.Then the question is:What is the cross product of $(- 5 i + 4 j - 5 k)$ and $(i + j -7k)$?\n\nA. (-28, 35, 12)\nB. (-9, -40, -23)\nC. (23, 40, 9)\nD. (-23, -40, -9)\n\nAnswer:",
+    "expected_answer": "D. (-23, -40, -9)",
+    "difficulty": "medium",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "SCI_942",
+    "domain": "Physics",
+    "task_type": "Physics General",
+    "prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation.Then the question is:What is radioactivity?\n\nA. Radioactivity is the absorption of energy by stable atomic isotopes.\nB. Radioactivity is the release of heat by atomic reactions in a substance.\nC. Radioactivity is the emission of ionizing radiation by unstable atomic isotopes.\nD. Radioactivity is the process of atoms combining to form new elements.\n\nAnswer:",
+    "expected_answer": "C. Radioactivity is the emission of ionizing radiation by unstable atomic isotopes.",
+    "difficulty": "medium",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "SCI_946",
+    "domain": "Physics",
+    "task_type": "Physics General",
+    "prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation.Then the question is:How does quantum mechanics differ from classical mechanics?\n\nA. Quantum mechanics involves unpredictable, discontinuous events, while classical mechanics involves continuous, predictable patterns.\nB. Quantum mechanics is a modern theory, while classical mechanics is an outdated concept.\nC. Quantum mechanics requires advanced mathematics, while classical mechanics relies on basic arithmetic.\nD. Quantum mechanics focuses on large-scale objects, while classical mechanics focuses on subatomic particles.\n\nAnswer:",
+    "expected_answer": "A. Quantum mechanics involves unpredictable, discontinuous events, while classical mechanics involves continuous, predictable patterns.",
+    "difficulty": "medium",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "SCI_954",
+    "domain": "Physics",
+    "task_type": "Physics General",
+    "prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation.Then the question is:Does Hadrons have antiparticles?\n\nA. Hadrons' antiparticles are identical to the original particles.\nB. Hadrons only have antiparticles in specific cases.\nC. No, Hadrons do not have antiparticles.\nD. Yes, Hadrons have antiparticles.\n\nAnswer:",
+    "expected_answer": "D. Yes, Hadrons have antiparticles.",
+    "difficulty": "medium",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "SCI_956",
+    "domain": "Physics",
+    "task_type": "Physics General",
+    "prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation.Then the question is:How do static electricity and electric discharge differ?\n\nA. Static electricity occurs when high voltage ionizes gas molecules, while electric discharge accumulates on objects.\nB. Static electricity and electric discharge both involve the movement of electrons through a conductor.\nC. Static electricity accumulates on objects, while electric discharge occurs when high voltage ionizes gas molecules.\nD. Static electricity is the flow of electrons, while electric discharge is the buildup of charge on objects.\n\nAnswer:",
+    "expected_answer": "C. Static electricity accumulates on objects, while electric discharge occurs when high voltage ionizes gas molecules.",
+    "difficulty": "medium",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "SCI_988",
+    "domain": "Physics",
+    "task_type": "Physics General",
+    "prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation.Then the question is:How do quantum mechanics and general relativity conflict?\n\nA. Quantum entanglement conflicts with relativity, but the no-communication theorem resolves this paradox.\nB. Quantum mechanics and general relativity have incompatible mathematical frameworks.\nC. Quantum mechanics supports faster-than-light travel, while general relativity forbids it.\nD. General relativity assumes continuous space, while quantum mechanics relies on discrete space.\n\nAnswer:",
+    "expected_answer": "A. Quantum entanglement conflicts with relativity, but the no-communication theorem resolves this paradox.",
+    "difficulty": "medium",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "SCI_991",
+    "domain": "Physics",
+    "task_type": "Physics General",
+    "prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation.Then the question is:How do you calculate the buoyant force of an object?\n\nA. F_b = V * rho * g\nB. F_b = V / rho * g\nC. F_b = V * rho / g\nD. F_b = m * rho * g\n\nAnswer:",
+    "expected_answer": "A. F_b = V * rho * g",
+    "difficulty": "medium",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "SCI_996",
+    "domain": "Physics",
+    "task_type": "Physics General",
+    "prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation.Then the question is:An object with a mass of $100 g$ is dropped into $500 mL$ of water at $0^@C$.  If the object cools by $20 ^@C$ and the water warms by $4 ^@C$, what is the specific heat of the material that the object is made of?\n\nA. 2\nB. 0.5\nC. 1\nD. 1.5\n\nAnswer:",
+    "expected_answer": "C. 1",
+    "difficulty": "medium",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "SCI_1001",
+    "domain": "Physics",
+    "task_type": "Physics General",
+    "prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation.Then the question is:Which has greater momentum, a semi truck at rest or a bicycle in motion?\n\nA. Bicycle in motion\nB. Semi truck at rest\nC. Neither has momentum\nD. Both have equal momentum\n\nAnswer:",
+    "expected_answer": "A. Bicycle in motion",
+    "difficulty": "medium",
+    "evaluation_metric": "exact_match"
+  }
+]

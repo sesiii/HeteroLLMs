@@ -1,0 +1,11 @@
+[
+  {
+    "task_id": "SCI_886",
+    "domain": "Physics",
+    "task_type": "Thermodynamics",
+    "prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation.Then the question is:What type of heat transfer helps the balloon rise?\n\nA. Air pressure difference between inside and outside\nB. Heated air inside the balloon rises\nC. Cooler air outside pushes the balloon up\nD. Helium gas expands and lifts the balloon\n\nAnswer:",
+    "expected_answer": "B. Heated air inside the balloon rises",
+    "difficulty": "medium",
+    "evaluation_metric": "exact_match"
+  }
+]

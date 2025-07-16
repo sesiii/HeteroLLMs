@@ -1,0 +1,272 @@
+[
+  {
+    "task_id": "RES_EXP_0",
+    "domain": "Research",
+    "task_type": "Experimental Design",
+    "prompt": "What is the primary purpose of including a control group in an experimental study?",
+    "expected_answer": "To provide a baseline for comparison to isolate the effect of the independent variable.",
+    "difficulty": "easy",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "RES_EXP_1",
+    "domain": "Research",
+    "task_type": "Experimental Design",
+    "prompt": "Define the difference between an independent variable and a dependent variable in an experiment.",
+    "expected_answer": "The independent variable is the factor manipulated by the researcher, while the dependent variable is the factor measured or tested in response to changes in the independent variable.",
+    "difficulty": "easy",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "RES_EXP_2",
+    "domain": "Research",
+    "task_type": "Experimental Design",
+    "prompt": "A researcher is testing a new drug’s effect on blood pressure. Suggest one method to ensure the study is double-blind.",
+    "expected_answer": "Use a placebo identical in appearance to the drug, and ensure neither participants nor researchers know who receives the drug or placebo until the study is complete.",
+    "difficulty": "medium",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "RES_EXP_3",
+    "domain": "Research",
+    "task_type": "Experimental Design",
+    "prompt": "Explain why randomization is important in assigning participants to experimental and control groups.",
+    "expected_answer": "Randomization minimizes bias by ensuring that participant characteristics are evenly distributed across groups, reducing the influence of confounding variables.",
+    "difficulty": "medium",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "RES_EXP_4",
+    "domain": "Research",
+    "task_type": "Experimental Design",
+    "prompt": "A study tests the effect of a new teaching method on student performance. The researcher uses one class as the experimental group and another as the control group. Identify one potential confounding variable and suggest how to control for it.",
+    "expected_answer": "A potential confounding variable is teacher experience. To control for it, ensure the same teacher delivers both the experimental and control teaching methods, or use multiple teachers with similar experience levels across both groups.",
+    "difficulty": "hard",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "RES_EXP_5",
+    "domain": "Research",
+    "task_type": "Experimental Design",
+    "prompt": "Design a factorial experiment to study the effects of study time (2 hours vs. 4 hours) and teaching method (lecture vs. interactive) on exam scores. How many treatment combinations are there, and describe one possible interaction effect.",
+    "expected_answer": "There are 4 treatment combinations (2 study times × 2 teaching methods). An interaction effect could be that 4 hours of study with the interactive method leads to significantly higher exam scores than expected from the individual effects of study time and teaching method alone.",
+    "difficulty": "hard",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "RES_DA_0",
+    "domain": "Research",
+    "task_type": "Data Analysis",
+    "prompt": "What is the difference between qualitative and quantitative data in research?",
+    "expected_answer": "Qualitative data is non-numerical, descriptive data (e.g., interview responses), while quantitative data is numerical and measurable (e.g., test scores).",
+    "difficulty": "easy",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "RES_DA_1",
+    "domain": "Research",
+    "task_type": "Data Analysis",
+    "prompt": "Calculate the mean of the following data set: 10, 20, 30, 40, 50.",
+    "expected_answer": "30",
+    "difficulty": "easy",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "RES_DA_2",
+    "domain": "Research",
+    "task_type": "Data Analysis",
+    "prompt": "A researcher collects data on plant growth (in cm) under different light conditions: [12, 15, 14, 13, 16]. Calculate the standard deviation of this data set.",
+    "expected_answer": "1.41",
+    "difficulty": "medium",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "RES_DA_3",
+    "domain": "Research",
+    "task_type": "Data Analysis",
+    "prompt": "Explain the purpose of using a box plot in data analysis.",
+    "expected_answer": "A box plot visually summarizes the distribution of a data set, showing the median, quartiles, and potential outliers, helping to identify data spread and skewness.",
+    "difficulty": "medium",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "RES_DA_4",
+    "domain": "Research",
+    "task_type": "Data Analysis",
+    "prompt": "A researcher finds a correlation coefficient of 0.85 between study time and exam scores. Interpret this value and state whether it implies causation.",
+    "expected_answer": "A correlation coefficient of 0.85 indicates a strong positive relationship between study time and exam scores. However, correlation does not imply causation, as other factors may influence the relationship.",
+    "difficulty": "hard",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "RES_DA_5",
+    "domain": "Research",
+    "task_type": "Data Analysis",
+    "prompt": "In a study, the p-value for a hypothesis test is 0.03. Explain what this means and whether the result is statistically significant at a 5% significance level.",
+    "expected_answer": "A p-value of 0.03 means there is a 3% chance of observing the data (or more extreme) if the null hypothesis is true. Since 0.03 < 0.05, the result is statistically significant at the 5% level, and the null hypothesis can be rejected.",
+    "difficulty": "hard",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "RES_LR_0",
+    "domain": "Research",
+    "task_type": "Literature Review",
+    "prompt": "What is the primary purpose of conducting a literature review in a research study?",
+    "expected_answer": "To identify existing knowledge, gaps, and relevant studies to provide a foundation and justification for the research.",
+    "difficulty": "easy",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "RES_LR_1",
+    "domain": "Research",
+    "task_type": "Literature Review",
+    "prompt": "What is meant by a 'peer-reviewed' journal article?",
+    "expected_answer": "A peer-reviewed journal article is one that has been evaluated and critiqued by independent experts in the field before publication to ensure quality and validity.",
+    "difficulty": "easy",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "RES_LR_2",
+    "domain": "Research",
+    "task_type": "Literature Review",
+    "prompt": "Explain the difference between a primary source and a secondary source in a literature review.",
+    "expected_answer": "A primary source provides original data or findings (e.g., research articles, raw data), while a secondary source summarizes or interprets primary sources (e.g., review articles, textbooks).",
+    "difficulty": "medium",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "RES_LR_3",
+    "domain": "Research",
+    "task_type": "Literature Review",
+    "prompt": "Why is it important to cite sources in a literature review?",
+    "expected_answer": "Citing sources gives credit to original authors, supports the credibility of the research, allows readers to verify information, and avoids plagiarism.",
+    "difficulty": "medium",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "RES_LR_4",
+    "domain": "Research",
+    "task_type": "Literature Review",
+    "prompt": "A researcher is reviewing literature for a study on climate change impacts. They find two articles: one with a sample size of 50 and another with 500. Assuming both are well-designed, which is likely more reliable, and why?",
+    "expected_answer": "The article with a sample size of 500 is likely more reliable because a larger sample size generally provides greater statistical power and more precise estimates, reducing the impact of random variability.",
+    "difficulty": "hard",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "RES_LR_5",
+    "domain": "Research",
+    "task_type": "Literature Review",
+    "prompt": "In a literature review, a researcher finds conflicting results on the effectiveness of a drug. Describe two factors they should consider to evaluate the quality of these studies. (JEE Advanced level)",
+    "expected_answer": "Two factors to consider are the study design (e.g., randomized controlled trials are more robust than observational studies) and the sample size (larger samples provide more reliable results).",
+    "difficulty": "hard",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "RES_STAT_0",
+    "domain": "Research",
+    "task_type": "Statistical Methods",
+    "prompt": "What is the difference between a null hypothesis and an alternative hypothesis in statistical testing?",
+    "expected_answer": "The null hypothesis (H0) states there is no effect or difference, while the alternative hypothesis (H1) states there is an effect or difference.",
+    "difficulty": "easy",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "RES_STAT_1",
+    "domain": "Research",
+    "task_type": "Statistical Methods",
+    "prompt": "What does a 95% confidence interval represent in a research study?",
+    "expected_answer": "A 95% confidence interval indicates that if the study were repeated many times, 95% of the intervals would contain the true population parameter.",
+    "difficulty": "easy",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "RES_STAT_2",
+    "domain": "Research",
+    "task_type": "Statistical Methods",
+    "prompt": "A researcher conducts a t-test to compare the means of two groups and obtains a p-value of 0.07. What does this indicate at a 5% significance level?",
+    "expected_answer": "A p-value of 0.07 indicates that the results are not statistically significant at the 5% level (since 0.07 > 0.05), so the null hypothesis cannot be rejected.",
+    "difficulty": "medium",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "RES_STAT_3",
+    "domain": "Research",
+    "task_type": "Statistical Methods",
+    "prompt": "Explain the difference between Type I and Type II errors in hypothesis testing.",
+    "expected_answer": "A Type I error is rejecting a true null hypothesis (false positive), while a Type II error is failing to reject a false null hypothesis (false negative).",
+    "difficulty": "medium",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "RES_STAT_4",
+    "domain": "Research",
+    "task_type": "Statistical Methods",
+    "prompt": "A researcher uses ANOVA to compare the means of three groups and obtains an F-statistic of 4.5 with a p-value of 0.02. Interpret these results at a 5% significance level.",
+    "expected_answer": "The p-value of 0.02 is less than 0.05, indicating that there is a statistically significant difference between the means of at least two groups at the 5% significance level.",
+    "difficulty": "hard",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "RES_STAT_5",
+    "domain": "Research",
+    "task_type": "Statistical Methods",
+    "prompt": "In a study, a researcher performs a chi-square test for independence on a 2x2 contingency table and obtains a chi-square statistic of 5.99 with 1 degree of freedom. Using a critical value of 3.84 for a 5% significance level, what is the conclusion? (JEE Advanced level)",
+    "expected_answer": "Since the chi-square statistic (5.99) exceeds the critical value (3.84) at the 5% significance level, the null hypothesis of independence is rejected, indicating a significant association between the variables.",
+    "difficulty": "hard",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "RES_ETH_0",
+    "domain": "Research",
+    "task_type": "Ethics in Research",
+    "prompt": "What is the purpose of obtaining informed consent from research participants?",
+    "expected_answer": "To ensure participants understand the study’s purpose, procedures, risks, and benefits, and voluntarily agree to participate.",
+    "difficulty": "easy",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "RES_ETH_1",
+    "domain": "Research",
+    "task_type": "Ethics in Research",
+    "prompt": "Define research misconduct in the context of scientific studies.",
+    "expected_answer": "Research misconduct includes fabrication, falsification, or plagiarism in proposing, performing, or reporting research.",
+    "difficulty": "easy",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "RES_ETH_2",
+    "domain": "Research",
+    "task_type": "Ethics in Research",
+    "prompt": "Why is it important to maintain confidentiality of participant data in a research study?",
+    "expected_answer": "To protect participants’ privacy, build trust, and comply with ethical and legal standards, ensuring personal information is not disclosed without consent.",
+    "difficulty": "medium",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "RES_ETH_3",
+    "domain": "Research",
+    "task_type": "Ethics in Research",
+    "prompt": "Explain the role of an Institutional Review Board (IRB) in research.",
+    "expected_answer": "An IRB reviews research proposals to ensure they are ethical, protecting participants’ rights, safety, and well-being by assessing risks, benefits, and compliance with regulations.",
+    "difficulty": "medium",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "RES_ETH_4",
+    "domain": "Research",
+    "task_type": "Ethics in Research",
+    "prompt": "A researcher wants to study the effects of a new drug on children. Describe two ethical considerations specific to this population. (JEE Advanced level)",
+    "expected_answer": "Two ethical considerations are obtaining parental consent (since children cannot legally consent) and ensuring minimal risk to the child, with benefits outweighing potential harms.",
+    "difficulty": "hard",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "RES_ETH_5",
+    "domain": "Research",
+    "task_type": "Ethics in Research",
+    "prompt": "A researcher discovers a significant error in their published study that affects the conclusions. What should they do, and why? (JEE Advanced level)",
+    "expected_answer": "The researcher should issue a correction or retraction of the study to maintain scientific integrity, ensure accurate knowledge dissemination, and uphold public trust in research.",
+    "difficulty": "hard",
+    "evaluation_metric": "exact_match"
+  }
+]

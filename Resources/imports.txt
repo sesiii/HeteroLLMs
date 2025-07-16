@@ -1,0 +1,5 @@
+export TOGETHER_API_KEY="tgp_v1_9YTKsmfpFswTWt10Oo4EpYaRUogHmPfv4VJkCXI-84Y"
+export FIREWORKS_API_KEY="fw_3ZizFcEQHHJ266oRoNgxXAXJ"
+
+tgp_v1_9YTKsmfpFswTWt10Oo4EpYaRUogHmPfv4VJkCXI-84Y
+fireworks: fw_3ZizFcEQHHJ266oRoNgxXAXJ

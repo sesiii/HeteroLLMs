@@ -1,0 +1,11 @@
+[
+  {
+    "task_id": "MED_031",
+    "domain": "Medicine",
+    "task_type": "Pediatrics",
+    "prompt": "Answer the question based on the following context: A Danish population based matched case-control study of perinatal risk factors in children with infantile autism has provided some interesting and surprising observations regarding infantile autism and children born after assisted conception. The cases (461) consisted of all children born between 1990 and 1999 and diagnosed with infantile autism in the Danish Psychiatric Central Register before February 2001. Matched controls were identified in the Danish Civil Registration System. The main exposure measures included obstetric risk factors for infantile autism. We found a 59% decreased risk for developing infantile autism among children conceived after assisted conception (odds ratio [OR]0.41, 95% [0.19-0.89]) and a 63% decreased risk after adjusting for known risk factors for assisted conception and infantile autism (OR 0.37, 95% [0.14-0.98]).\nQuestion: Do children born after assisted conception have less risk of developing infantile autism?",
+    "expected_answer": "We found that children born after assisted conception had a lower risk of developing infantile autism then their matched controls. Our observations could possibly be explained by the mother's health status before and during early pregnancy. Our findings require further investigation in larger studies.",
+    "difficulty": "expert",
+    "evaluation_metric": "exact_match"
+  }
+]

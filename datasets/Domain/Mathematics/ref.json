@@ -1,0 +1,20 @@
+[
+  {
+    "task_id": "MATH_001",
+    "domain": "Mathematics",
+    "task_type": "Arithmetic",
+    "prompt": "Calculate: (15*12) + 7. Provide only the final answer.",
+    "expected_answer": "187",
+    "difficulty": "easy",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "MATH_002",
+    "domain": "Mathematics",
+    "task_type": "Algebra",
+    "prompt": "Solve for x: 3x - 7 = 14. Provide only the final answer.",
+    "expected_answer": "x = 7",
+    "difficulty": "easy",
+    "evaluation_metric": "exact_match"
+  }
+]

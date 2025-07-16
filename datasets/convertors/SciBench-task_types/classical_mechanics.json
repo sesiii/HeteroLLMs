@@ -1,0 +1,272 @@
+[
+  {
+    "task_id": "SCI_005",
+    "domain": "Physics",
+    "task_type": "Classical Mechanics",
+    "prompt": "A rocket starts from rest in free space by emitting mass. At what fraction of the initial mass is the momentum a maximum?",
+    "expected_answer": "0.367879",
+    "difficulty": "expert",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "SCI_011",
+    "domain": "Physics",
+    "task_type": "Classical Mechanics",
+    "prompt": "A clown is juggling four balls simultaneously. Students use a video tape to determine that it takes the clown $0.9 \\mathrm{~s}$ to cycle each ball through his hands (including catching, transferring, and throwing) and to be ready to catch the next ball. What is the minimum vertical speed the clown must throw up each ball?\r\n",
+    "expected_answer": "13.2",
+    "difficulty": "expert",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "SCI_014",
+    "domain": "Physics",
+    "task_type": "Classical Mechanics",
+    "prompt": "A steel ball of velocity $5$ m/s strikes a smooth, heavy steel plate at an angle of $30^\\circ$ from the normal. If the coefficient of restitution is 0.8, at what angle from the normal does the steel ball bounce off the plate?",
+    "expected_answer": "36",
+    "difficulty": "expert",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "SCI_017",
+    "domain": "Physics",
+    "task_type": "Classical Mechanics",
+    "prompt": "A child slides a block of mass $2 \\mathrm{~kg}$ along a slick kitchen floor. If the initial speed is 4 $\\mathrm{m} / \\mathrm{s}$ and the block hits a spring with spring constant $6 \\mathrm{~N} / \\mathrm{m}$, what is the maximum compression of the spring? ",
+    "expected_answer": "2.3",
+    "difficulty": "expert",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "SCI_020",
+    "domain": "Physics",
+    "task_type": "Classical Mechanics",
+    "prompt": "An astronaut travels to the nearest star system, 4 light years away, and returns at a speed $0.3c$. How much has the astronaut aged relative to those people remaining on Earth?",
+    "expected_answer": "25.4",
+    "difficulty": "expert",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "SCI_027",
+    "domain": "Physics",
+    "task_type": "Classical Mechanics",
+    "prompt": "A spacecraft is placed in orbit $200 \\mathrm{~km}$ above Earth in a circular orbit. Calculate the minimum escape speed from Earth. ",
+    "expected_answer": "3.23",
+    "difficulty": "expert",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "SCI_043",
+    "domain": "Physics",
+    "task_type": "Classical Mechanics",
+    "prompt": "A deuteron (nucleus of deuterium atom consisting of a proton and a neutron) with speed $14.9$ km / s collides elastically with a neutron at rest. Use the approximation that the deuteron is twice the mass of the neutron. If the deuteron is scattered through a LAB angle $\\psi = 10^\\circ$, what is the final speed of the neutron?",
+    "expected_answer": "5.18",
+    "difficulty": "expert",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "SCI_047",
+    "domain": "Physics",
+    "task_type": "Classical Mechanics",
+    "prompt": "A new single-stage rocket is developed in the year 2023, having a gas exhaust velocity of $4000$ m/s. The total mass of the rocket is $10^5$ kg, with $90$% of its mass being fuel. The fuel burns quickly in $100$ s at a constant rate. For testing purposes, the rocket is launched vertically at rest from Earth's surface. Neglect air resistance and assume that the acceleration of gravity is constant. Determine how high the launched object can reach above the surface of Earth.",
+    "expected_answer": "3700",
+    "difficulty": "expert",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "SCI_062",
+    "domain": "Physics",
+    "task_type": "Classical Mechanics",
+    "prompt": "An Earth satellite has a perigee of $300 \\mathrm{~km}$ and an apogee of $3,500 \\mathrm{~km}$ above Earth's surface. How far is the satellite above Earth when it has rotated $90^{\\circ}$ around Earth from perigee?",
+    "expected_answer": "1590",
+    "difficulty": "expert",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "SCI_075",
+    "domain": "Physics",
+    "task_type": "Classical Mechanics",
+    "prompt": "A particle of mass $m$ starts at rest on top of a smooth fixed hemisphere of radius $a$. Determine the angle at which the particle leaves the hemisphere.",
+    "expected_answer": "48.189685",
+    "difficulty": "expert",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "SCI_078",
+    "domain": "Physics",
+    "task_type": "Classical Mechanics",
+    "prompt": "A rocket has an initial mass of $7 \\times 10^4 \\mathrm{~kg}$ and on firing burns its fuel at a rate of 250 $\\mathrm{kg} / \\mathrm{s}$. The exhaust velocity is $2500 \\mathrm{~m} / \\mathrm{s}$. If the rocket has a vertical ascent from resting on the earth, how long after the rocket engines fire will the rocket lift off?",
+    "expected_answer": "25",
+    "difficulty": "expert",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "SCI_079",
+    "domain": "Physics",
+    "task_type": "Classical Mechanics",
+    "prompt": "In an elastic collision of two particles with masses $m_1$ and $m_2$, the initial velocities are $\\mathbf{u}_1$ and $\\mathbf{u}_2=\\alpha \\mathbf{u}_1$. If the initial kinetic energies of the two particles are equal, find the conditions on $u_1 / u_2$ such that $m_1$ is at rest after the collision and $\\alpha$ is positive. ",
+    "expected_answer": "5.828427125",
+    "difficulty": "expert",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "SCI_085",
+    "domain": "Physics",
+    "task_type": "Classical Mechanics",
+    "prompt": "A free neutron is unstable and decays into a proton and an electron. How much energy other than the rest energies of the proton and electron is available if a neutron at rest decays? (This is an example of nuclear beta decay. Another particle, called a neutrino-- actually an antineutrino $\\bar v$ is also produced.)",
+    "expected_answer": "0.8",
+    "difficulty": "expert",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "SCI_087",
+    "domain": "Physics",
+    "task_type": "Classical Mechanics",
+    "prompt": "A skier weighing $90 \\mathrm{~kg}$ starts from rest down a hill inclined at $17^{\\circ}$. He skis $100 \\mathrm{~m}$ down the hill and then coasts for $70 \\mathrm{~m}$ along level snow until he stops. Find the coefficient of kinetic friction between the skis and the snow. ",
+    "expected_answer": "0.18",
+    "difficulty": "expert",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "SCI_093",
+    "domain": "Physics",
+    "task_type": "Classical Mechanics",
+    "prompt": "Astronaut Stumblebum wanders too far away from the space shuttle orbiter while repairing a broken communications satellite. Stumblebum realizes that the orbiter is moving away from him at $3 \\mathrm{~m} / \\mathrm{s}$. Stumblebum and his maneuvering unit have a mass of $100 \\mathrm{~kg}$, including a pressurized tank of mass $10 \\mathrm{~kg}$. The tank includes only $2 \\mathrm{~kg}$ of gas that is used to propel him in space. The gas escapes with a constant velocity of $100 \\mathrm{~m} / \\mathrm{s}$. With what velocity will Stumblebum have to throw the empty tank away to reach the orbiter?",
+    "expected_answer": "11",
+    "difficulty": "expert",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "SCI_110",
+    "domain": "Physics",
+    "task_type": "Classical Mechanics",
+    "prompt": "What is the minimum escape velocity of a spacecraft from the moon?",
+    "expected_answer": "2380",
+    "difficulty": "expert",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "SCI_123",
+    "domain": "Physics",
+    "task_type": "Classical Mechanics",
+    "prompt": "To perform a rescue, a lunar landing craft needs to hover just above the surface of the moon, which has a gravitational acceleration of $g / 6$. The exhaust velocity is $2000 \\mathrm{~m} / \\mathrm{s}$, but fuel amounting to only 20 percent of the total mass may be used. How long can the landing craft hover?",
+    "expected_answer": "273",
+    "difficulty": "expert",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "SCI_128",
+    "domain": "Physics",
+    "task_type": "Classical Mechanics",
+    "prompt": "A student drops a water-filled balloon from the roof of the tallest building in town trying to hit her roommate on the ground (who is too quick). The first student ducks back but hears the water splash $4.021 \\mathrm{~s}$ after dropping the balloon. If the speed of sound is $331 \\mathrm{~m} / \\mathrm{s}$, find the height of the building, neglecting air resistance.",
+    "expected_answer": "71",
+    "difficulty": "expert",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "SCI_129",
+    "domain": "Physics",
+    "task_type": "Classical Mechanics",
+    "prompt": "A British warship fires a projectile due south near the Falkland Islands during World War I at latitude $50^{\\circ} \\mathrm{S}$. If the shells are fired at $37^{\\circ}$ elevation with a speed of $800 \\mathrm{~m} / \\mathrm{s}$, by how much do the shells miss their target?",
+    "expected_answer": "260",
+    "difficulty": "expert",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "SCI_132",
+    "domain": "Physics",
+    "task_type": "Classical Mechanics",
+    "prompt": "Find the value of the integral $\\int_S(\\nabla \\times \\mathbf{A}) \\cdot d \\mathbf{a}$ if the vector $\\mathbf{A}=y \\mathbf{i}+z \\mathbf{j}+x \\mathbf{k}$ and $S$ is the surface defined by the paraboloid $z=1-x^2-y^2$, where $z \\geq 0$.",
+    "expected_answer": "-3.141592",
+    "difficulty": "expert",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "SCI_140",
+    "domain": "Physics",
+    "task_type": "Classical Mechanics",
+    "prompt": "Halley's comet, which passed around the sun early in 1986, moves in a highly elliptical orbit with an eccentricity of 0.967 and a period of 76 years. Calculate its minimum  distances from the Sun.",
+    "expected_answer": "8.8",
+    "difficulty": "expert",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "SCI_143",
+    "domain": "Physics",
+    "task_type": "Classical Mechanics",
+    "prompt": "A skier weighing $90$ kg starts from rest down a hill inclined at $17^\\circ$. He skis 100 m down the hill and then coasts for 70 m along level snow until he stops. Given a coefficient of kinetic friction of $\\mu_k = 0.18$, what velocity does the skier have at the bottom of the hill?",
+    "expected_answer": "15.6",
+    "difficulty": "expert",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "SCI_183",
+    "domain": "Physics",
+    "task_type": "Classical Mechanics",
+    "prompt": "A potato of mass 0.5 kg moves under Earth's gravity with an air resistive force of -$kmv$. The terminal velocity of the potato when released from rest is $v = 1000$ m/s, with $k=0.01s^{-1}$. Find the maximum height of the potato if it has the same value of k, but it is initially shot directly upward with a student-made potato gun with an initial velocity of $120$ m/s.",
+    "expected_answer": "680",
+    "difficulty": "expert",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "SCI_188",
+    "domain": "Physics",
+    "task_type": "Classical Mechanics",
+    "prompt": "If the coefficient of static friction between the block and plane in the previous example is $\\mu_s=0.4$, at what angle $\\theta$ will the block start sliding if it is initially at rest?",
+    "expected_answer": "22",
+    "difficulty": "expert",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "SCI_193",
+    "domain": "Physics",
+    "task_type": "Classical Mechanics",
+    "prompt": "A simple harmonic oscillator consists of a 100-g mass attached to a spring whose force constant is $10^4 \\mathrm{dyne} / \\mathrm{cm}$. The mass is displaced $3 \\mathrm{~cm}$ and released from rest. Calculate the natural frequency $\\nu_0$.",
+    "expected_answer": "6.9",
+    "difficulty": "expert",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "SCI_208",
+    "domain": "Physics",
+    "task_type": "Classical Mechanics",
+    "prompt": "In a typical model rocket (Estes Alpha III) the Estes C6 solid rocket engine provides a total impulse of $8.5$ N-s. Assume the total rocket mass at launch is $54$ g and that it has a rocket engine of mass $20$ g that burns evenly for $1.5$ s. The rocket diameter is $24$ mm. Assume a constant burn rate of the propellent mass ($11$ g), a rocket exhaust speed $800$ m/s, vertical ascent, and drag coefficient $c_w = 0.75$. Take into account the change of rocket mass with time and omit the effect of gravity. The rocket's speed at burn out is 131 m/s. How far has the rocket traveled at that moment?",
+    "expected_answer": "108",
+    "difficulty": "expert",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "SCI_227",
+    "domain": "Physics",
+    "task_type": "Classical Mechanics",
+    "prompt": "In nuclear and particle physics, momentum is usually quoted in $MeV / c$ to facilitate calculations. Calculate the kinetic energy of an electron if it has a momentum of $1000$ $MeV/c$",
+    "expected_answer": "999.5",
+    "difficulty": "expert",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "SCI_235",
+    "domain": "Physics",
+    "task_type": "Classical Mechanics",
+    "prompt": "Shot towers were popular in the eighteenth and nineteenth centuries for dropping melted lead down tall towers to form spheres for bullets. The lead solidified while falling and often landed in water to cool the lead bullets. Many such shot towers were built in New York State. Assume a shot tower was constructed at latitude $42^{\\circ} \\mathrm{N}$, and the lead fell a distance of $27 \\mathrm{~m}$. How far did the lead bullets land from the direct vertical?",
+    "expected_answer": "2.26",
+    "difficulty": "expert",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "SCI_238",
+    "domain": "Physics",
+    "task_type": "Classical Mechanics",
+    "prompt": "A string is set into motion by being struck at a point $L/4$ from one end by a triangular hammer. The initial velocity is greatest at $x = L/4$ and decreases linearly to zero at $x = 0$ and $x = L/2$. The region $L/2 \\leq x \\leq L$ is initially undisturbed. Determine the subsequent motion of the string. How many decibels down from the fundamental are the second harmonics?'",
+    "expected_answer": "4.4",
+    "difficulty": "expert",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "SCI_250",
+    "domain": "Physics",
+    "task_type": "Classical Mechanics",
+    "prompt": "A particle moves in a plane elliptical orbit described by the position vector $r = 2b \\sin \\omega ti + b \\cos \\omega tj$ \r\n\r\nWhat is the angle between $v$ and $a$ at time $t = \\frac{\\pi}{2\\omega}$ ?",
+    "expected_answer": "90",
+    "difficulty": "expert",
+    "evaluation_metric": "exact_match"
+  }
+]

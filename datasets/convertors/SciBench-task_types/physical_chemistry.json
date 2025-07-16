@@ -1,0 +1,119 @@
+[
+  {
+    "task_id": "SCI_003",
+    "domain": "Chemistry",
+    "task_type": "Physical Chemistry",
+    "prompt": "In an industrial process, nitrogen is heated to $500 \\mathrm{~K}$ at a constant volume of $1.000 \\mathrm{~m}^3$. The gas enters the container at $300 \\mathrm{~K}$ and $100 \\mathrm{~atm}$. The mass of the gas is $92.4 \\mathrm{~kg}$. Use the van der Waals equation to determine the approximate pressure of the gas at its working temperature of $500 \\mathrm{~K}$. For nitrogen, $a=1.39 \\mathrm{dm}^6 \\mathrm{~atm} \\mathrm{~mol}^{-2}, b=0.0391 \\mathrm{dm}^3 \\mathrm{~mol}^{-1}$.",
+    "expected_answer": "140",
+    "difficulty": "expert",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "SCI_013",
+    "domain": "Chemistry",
+    "task_type": "Physical Chemistry",
+    "prompt": "Suppose that $2.5 \\mathrm{mmol} \\mathrm{N}_2$ (g) occupies $42 \\mathrm{~cm}^3$ at $300 \\mathrm{~K}$ and expands isothermally to $600 \\mathrm{~cm}^3$. Calculate $\\Delta G$ for the process.",
+    "expected_answer": "-17",
+    "difficulty": "expert",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "SCI_030",
+    "domain": "Chemistry",
+    "task_type": "Physical Chemistry",
+    "prompt": " If $125 \\mathrm{~cm}^3$ of hydrogen gas effuses through a small hole in 135 seconds, how long will it take the same volume of oxygen gas to effuse under the same temperature and pressure?",
+    "expected_answer": "537",
+    "difficulty": "expert",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "SCI_056",
+    "domain": "Chemistry",
+    "task_type": "Physical Chemistry",
+    "prompt": "An effusion cell has a circular hole of diameter $1.50 \\mathrm{~mm}$. If the molar mass of the solid in the cell is $300 \\mathrm{~g} \\mathrm{~mol}^{-1}$ and its vapour pressure is $0.735 \\mathrm{~Pa}$ at $500 \\mathrm{~K}$, by how much will the mass of the solid decrease in a period of $1.00 \\mathrm{~h}$ ?",
+    "expected_answer": "16",
+    "difficulty": "expert",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "SCI_072",
+    "domain": "Chemistry",
+    "task_type": "Physical Chemistry",
+    "prompt": "What is the temperature of a two-level system of energy separation equivalent to $400 \\mathrm{~cm}^{-1}$ when the population of the upper state is one-third that of the lower state?",
+    "expected_answer": "524",
+    "difficulty": "expert",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "SCI_076",
+    "domain": "Chemistry",
+    "task_type": "Physical Chemistry",
+    "prompt": "The enthalpy of fusion of mercury is $2.292 \\mathrm{~kJ} \\mathrm{~mol}^{-1}$, and its normal freezing point is $234.3 \\mathrm{~K}$ with a change in molar volume of $+0.517 \\mathrm{~cm}^3 \\mathrm{~mol}^{-1}$ on melting. At what temperature will the bottom of a column of mercury (density $13.6 \\mathrm{~g} \\mathrm{~cm}^{-3}$ ) of height $10.0 \\mathrm{~m}$ be expected to freeze?",
+    "expected_answer": "234.4",
+    "difficulty": "expert",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "SCI_080",
+    "domain": "Chemistry",
+    "task_type": "Physical Chemistry",
+    "prompt": "Estimate the molar volume of $\\mathrm{CO}_2$ at $500 \\mathrm{~K}$ and 100 atm by treating it as a van der Waals gas.",
+    "expected_answer": "0.366",
+    "difficulty": "expert",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "SCI_095",
+    "domain": "Chemistry",
+    "task_type": "Physical Chemistry",
+    "prompt": "The carbon-carbon bond length in diamond is $154.45 \\mathrm{pm}$. If diamond were considered to be a close-packed structure of hard spheres with radii equal to half the bond length, what would be its expected density? The diamond lattice is face-centred cubic and its actual density is $3.516 \\mathrm{~g} \\mathrm{~cm}^{-3}$.",
+    "expected_answer": "7.654",
+    "difficulty": "expert",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "SCI_096",
+    "domain": "Chemistry",
+    "task_type": "Physical Chemistry",
+    "prompt": "The ground level of $\\mathrm{Cl}$ is ${ }^2 \\mathrm{P}_{3 / 2}$ and a ${ }^2 \\mathrm{P}_{1 / 2}$ level lies $881 \\mathrm{~cm}^{-1}$ above it. Calculate the electronic contribution to the molar Gibbs energy of $\\mathrm{Cl}$ atoms at  $500 \\mathrm{~K}$.",
+    "expected_answer": "-6.42",
+    "difficulty": "expert",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "SCI_197",
+    "domain": "Chemistry",
+    "task_type": "Physical Chemistry",
+    "prompt": "The NOF molecule is an asymmetric rotor with rotational constants $3.1752 \\mathrm{~cm}^{-1}, 0.3951 \\mathrm{~cm}^{-1}$, and $0.3505 \\mathrm{~cm}^{-1}$. Calculate the rotational partition function of the molecule at $25^{\\circ} \\mathrm{C}$.",
+    "expected_answer": "7.97",
+    "difficulty": "expert",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "SCI_239",
+    "domain": "Chemistry",
+    "task_type": "Physical Chemistry",
+    "prompt": "Calculate the typical wavelength of neutrons after reaching thermal equilibrium with their surroundings at $373 \\mathrm{~K}$. For simplicity, assume that the particles are travelling in one dimension.",
+    "expected_answer": "226",
+    "difficulty": "expert",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "SCI_242",
+    "domain": "Chemistry",
+    "task_type": "Physical Chemistry",
+    "prompt": "The flux of visible photons reaching Earth from the North Star is about $4 \\times 10^3 \\mathrm{~mm}^{-2} \\mathrm{~s}^{-1}$. Of these photons, 30 per cent are absorbed or scattered by the atmosphere and 25 per cent of the surviving photons are scattered by the surface of the cornea of the eye. A further 9 per cent are absorbed inside the cornea. The area of the pupil at night is about $40 \\mathrm{~mm}^2$ and the response time of the eye is about $0.1 \\mathrm{~s}$. Of the photons passing through the pupil, about 43 per cent are absorbed in the ocular medium. How many photons from the North Star are focused onto the retina in $0.1 \\mathrm{~s}$ ?",
+    "expected_answer": "4.4",
+    "difficulty": "expert",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "SCI_244",
+    "domain": "Chemistry",
+    "task_type": "Physical Chemistry",
+    "prompt": "Suppose a nanostructure is modelled by an electron confined to a rectangular region with sides of lengths $L_1=1.0 \\mathrm{~nm}$ and $L_2=2.0 \\mathrm{~nm}$ and is subjected to thermal motion with a typical energy equal to $k T$, where $k$ is Boltzmann's constant. How low should the temperature be for the thermal energy to be comparable to the zero-point energy\uff1f",
+    "expected_answer": "5.5",
+    "difficulty": "expert",
+    "evaluation_metric": "exact_match"
+  }
+]

@@ -1,0 +1,18 @@
+Model	Parameters	Domain-Sub-domain	Accuracy	Latency_ms	Memory_mb	CPU_ms	Total_duration_ms	Load_Duration_ms	prompt_eval_count	prompt_eval_duration_ms	Eval_count	eval_duration_ms
+Llama3.2_1B		Mathematics_algebra	85±13.69	x	x	x	x	x	x	x	x	x
+		Mathematics_arithmetic	85±13.69	x	x	x	x	x	x	x	x	x
+		Mathematics_calculus	85±13.69	x	x	x	x	x	x	x	x	x
+		Mathematics_combinatorics	85±13.69	x	x	x	x	x	x	x	x	x
+		Mathematics_geometry	85±13.69	x	x	x	x	x	x	x	x	x
+		Mathematics_logical	85±13.69	x	x	x	x	x	x	x	x	x
+		Mathematics_number-theory	85±13.69	x	x	x	x	x	x	x	x	x
+		Mathematics_probability	85±13.69	x	x	x	x	x	x	x	x	x
+		Mathematics_statistics	85±13.69	x	x	x	x	x	x	x	x	x
+		Mathematics_word-problems	85±13.69	x	x	x	x	x	x	x	x	x
+												
+		General-Knowledge_chemistry	85±13.69	x	x	x	x	x	x	x	x	x
+		General-Knowledge_current	85±13.69	x	x	x	x	x	x	x	x	x
+		General-Knowledge_gk	85±13.69	x	x	x	x	x	x	x	x	x
+		General-Knowledge_history	85±13.69	x	x	x	x	x	x	x	x	x
+		General-Knowledge_science	85±13.69	x	x	x	x	x	x	x	x	x
+												 

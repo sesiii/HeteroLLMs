@@ -1,0 +1,56 @@
+[
+    {
+    "task_id": "RES_ETH_0",
+    "domain": "Research",
+    "task_type": "Ethics in Research",
+    "prompt": "What is the purpose of obtaining informed consent from research participants?",
+    "expected_answer": "To ensure participants understand the study’s purpose, procedures, risks, and benefits, and voluntarily agree to participate.",
+    "difficulty": "easy",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "RES_ETH_1",
+    "domain": "Research",
+    "task_type": "Ethics in Research",
+    "prompt": "Define research misconduct in the context of scientific studies.",
+    "expected_answer": "Research misconduct includes fabrication, falsification, or plagiarism in proposing, performing, or reporting research.",
+    "difficulty": "easy",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "RES_ETH_2",
+    "domain": "Research",
+    "task_type": "Ethics in Research",
+    "prompt": "Why is it important to maintain confidentiality of participant data in a research study?",
+    "expected_answer": "To protect participants’ privacy, build trust, and comply with ethical and legal standards, ensuring personal information is not disclosed without consent.",
+    "difficulty": "medium",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "RES_ETH_3",
+    "domain": "Research",
+    "task_type": "Ethics in Research",
+    "prompt": "Explain the role of an Institutional Review Board (IRB) in research.",
+    "expected_answer": "An IRB reviews research proposals to ensure they are ethical, protecting participants’ rights, safety, and well-being by assessing risks, benefits, and compliance with regulations.",
+    "difficulty": "medium",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "RES_ETH_4",
+    "domain": "Research",
+    "task_type": "Ethics in Research",
+    "prompt": "A researcher wants to study the effects of a new drug on children. Describe two ethical considerations specific to this population. (JEE Advanced level)",
+    "expected_answer": "Two ethical considerations are obtaining parental consent (since children cannot legally consent) and ensuring minimal risk to the child, with benefits outweighing potential harms.",
+    "difficulty": "hard",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "RES_ETH_5",
+    "domain": "Research",
+    "task_type": "Ethics in Research",
+    "prompt": "A researcher discovers a significant error in their published study that affects the conclusions. What should they do, and why? (JEE Advanced level)",
+    "expected_answer": "The researcher should issue a correction or retraction of the study to maintain scientific integrity, ensure accurate knowledge dissemination, and uphold public trust in research.",
+    "difficulty": "hard",
+    "evaluation_metric": "exact_match"
+  }
+]

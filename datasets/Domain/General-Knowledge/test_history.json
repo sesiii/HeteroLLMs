@@ -1,0 +1,56 @@
+[
+    {
+    "task_id": "HIST_0",
+    "domain": "Factual Knowledge",
+    "task_type": "History",
+    "prompt": "Who was the first woman Prime Minister of India?",
+    "expected_answer": "Indira Gandhi",
+    "difficulty": "easy",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "HIST_1",
+    "domain": "Factual Knowledge",
+    "task_type": "History",
+    "prompt": "In which year did India gain independence from British rule?",
+    "expected_answer": "1947",
+    "difficulty": "easy",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "HIST_2",
+    "domain": "Factual Knowledge",
+    "task_type": "History",
+    "prompt": "What was the significance of the Chauri Chaura incident in India’s freedom struggle?",
+    "expected_answer": "It led to Mahatma Gandhi calling off the Non-Cooperation Movement in1922 due to violent clashes.",
+    "difficulty": "medium",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "HIST_3",
+    "domain": "Factual Knowledge",
+    "task_type": "History",
+    "prompt": "Who was the first Governor-General of independent India?",
+    "expected_answer": "Lord Mountbatten",
+    "difficulty": "medium",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "HIST_4",
+    "domain": "Factual Knowledge",
+    "task_type": "History",
+    "prompt": "What was the primary objective of the Champaran Satyagraha of 1917, and who led it? (JEE Advanced level)",
+    "expected_answer": "To address the exploitation of indigo farmers by British planters; led by Mahatma Gandhi.",
+    "difficulty": "hard",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "HIST_5",
+    "domain": "Factual Knowledge",
+    "task_type": "History",
+    "prompt": "When was the Gandhi-Irwin Pact signed, and what was its key outcome? (JEE Advanced level)",
+    "expected_answer": "1931; it led to the suspension of the Civil Disobedience Movement and the release of political prisoners.",
+    "difficulty": "hard",
+    "evaluation_metric": "exact_match"
+  }
+]

@@ -1,0 +1,20 @@
+2025-07-14 17:09:33,302 [INFO] Ollama reachable
+2025-07-14 17:09:33,323 [INFO] Starting qwen2.5:1.5b (8 tasks)
+2025-07-14 17:09:33,323 [INFO] Starting llama3.2:1b (8 tasks)
+2025-07-14 17:11:28,846 [ERROR] API call failed: HTTPConnectionPool(host='127.0.0.1', port=11434): Read timed out. (read timeout=60)
+2025-07-14 17:11:35,561 [INFO] Finished llama3.2:1b
+2025-07-14 17:12:22,237 [INFO] Finished qwen2.5:1.5b
+2025-07-14 17:12:22,250 [INFO] Saved qwen2.5:1.5b to Results1/Mathematics/qwen2.5_1.5B/test_algebra_results_iter_3.json
+2025-07-14 17:12:22,250 [INFO] === qwen2.5:1.5b summary ===
+2025-07-14 17:12:22,251 [INFO] Tasks: 8 | Success: 7 | Accuracy: 12.50%
+2025-07-14 17:12:22,251 [INFO] Avg latency: 15547.75 ms
+2025-07-14 17:12:22,251 [INFO] Avg memory-peak: 50.51 MB
+2025-07-14 17:12:22,251 [INFO] Avg throughput: 18.74 t/s
+2025-07-14 17:12:22,251 [INFO] Total tokens processed: 2033
+2025-07-14 17:12:22,253 [INFO] Saved llama3.2:1b to Results1/Mathematics/llama3.2_1B/test_algebra_results_iter_3.json
+2025-07-14 17:12:22,253 [INFO] === llama3.2:1b summary ===
+2025-07-14 17:12:22,253 [INFO] Tasks: 8 | Success: 8 | Accuracy: 12.50%
+2025-07-14 17:12:22,253 [INFO] Avg latency: 15276.01 ms
+2025-07-14 17:12:22,253 [INFO] Avg memory-peak: 50.53 MB
+2025-07-14 17:12:22,253 [INFO] Avg throughput: 16.11 t/s
+2025-07-14 17:12:22,253 [INFO] Total tokens processed: 1752

@@ -1,0 +1,56 @@
+[
+    {
+    "task_id": "RES_LR_0",
+    "domain": "Research",
+    "task_type": "Literature Review",
+    "prompt": "What is the primary purpose of conducting a literature review in a research study?",
+    "expected_answer": "To identify existing knowledge, gaps, and relevant studies to provide a foundation and justification for the research.",
+    "difficulty": "easy",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "RES_LR_1",
+    "domain": "Research",
+    "task_type": "Literature Review",
+    "prompt": "What is meant by a 'peer-reviewed' journal article?",
+    "expected_answer": "A peer-reviewed journal article is one that has been evaluated and critiqued by independent experts in the field before publication to ensure quality and validity.",
+    "difficulty": "easy",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "RES_LR_2",
+    "domain": "Research",
+    "task_type": "Literature Review",
+    "prompt": "Explain the difference between a primary source and a secondary source in a literature review.",
+    "expected_answer": "A primary source provides original data or findings (e.g., research articles, raw data), while a secondary source summarizes or interprets primary sources (e.g., review articles, textbooks).",
+    "difficulty": "medium",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "RES_LR_3",
+    "domain": "Research",
+    "task_type": "Literature Review",
+    "prompt": "Why is it important to cite sources in a literature review?",
+    "expected_answer": "Citing sources gives credit to original authors, supports the credibility of the research, allows readers to verify information, and avoids plagiarism.",
+    "difficulty": "medium",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "RES_LR_4",
+    "domain": "Research",
+    "task_type": "Literature Review",
+    "prompt": "A researcher is reviewing literature for a study on climate change impacts. They find two articles: one with a sample size of 50 and another with 500. Assuming both are well-designed, which is likely more reliable, and why?",
+    "expected_answer": "The article with a sample size of 500 is likely more reliable because a larger sample size generally provides greater statistical power and more precise estimates, reducing the impact of random variability.",
+    "difficulty": "hard",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "RES_LR_5",
+    "domain": "Research",
+    "task_type": "Literature Review",
+    "prompt": "In a literature review, a researcher finds conflicting results on the effectiveness of a drug. Describe two factors they should consider to evaluate the quality of these studies. (JEE Advanced level)",
+    "expected_answer": "Two factors to consider are the study design (e.g., randomized controlled trials are more robust than observational studies) and the sample size (larger samples provide more reliable results).",
+    "difficulty": "hard",
+    "evaluation_metric": "exact_match"
+  }
+]

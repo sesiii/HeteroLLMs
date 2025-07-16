@@ -1,0 +1,56 @@
+[
+    {
+    "task_id": "CHEM_0",
+    "domain": "Factual Knowledge",
+    "task_type": "Chemistry",
+    "prompt": "What is the chemical symbol for gold?",
+    "expected_answer": "Au",
+    "difficulty": "easy",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "CHEM_1",
+    "domain": "Factual Knowledge",
+    "task_type": "Chemistry",
+    "prompt": "Which gas, discovered on the sun before Earth, is the second most abundant element in the universe?",
+    "expected_answer": "Helium",
+    "difficulty": "easy",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "CHEM_2",
+    "domain": "Factual Knowledge",
+    "task_type": "Chemistry",
+    "prompt": "What is the primary source of the metal tin, and what is its chemical composition?",
+    "expected_answer": "Cassiterite, primarily composed of tin dioxide (SnO2)",
+    "difficulty": "medium",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "CHEM_3",
+    "domain": "Factual Knowledge",
+    "task_type": "Chemistry",
+    "prompt": "Which organic compound, with the formula C2H2O4, is known as the simplest dicarboxylic acid?",
+    "expected_answer": "Oxalic acid",
+    "difficulty": "medium",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "CHEM_4",
+    "domain": "Factual Knowledge",
+    "task_type": "Chemistry",
+    "prompt": "What is the molar mass of carbon dioxide (CO2), and how is it calculated? (JEE Advanced level)",
+    "expected_answer": "44 g/mol; calculated by adding the atomic mass of carbon (12 g/mol) and two oxygen atoms (2 × 16 g/mol).",
+    "difficulty": "hard",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "CHEM_5",
+    "domain": "Factual Knowledge",
+    "task_type": "Chemistry",
+    "prompt": "Explain why mercury is unique among metals, and provide its atomic number. (JEE Advanced level)",
+    "expected_answer": "Mercury is unique because it is the only metal that is liquid at room temperature; its atomic number is 80.",
+    "difficulty": "hard",
+    "evaluation_metric": "exact_match"
+  }
+]

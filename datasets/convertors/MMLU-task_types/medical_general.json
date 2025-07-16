@@ -1,0 +1,137 @@
+[
+  {
+    "task_id": "MMLU_147",
+    "domain": "Medicine",
+    "task_type": "Medical General",
+    "prompt": "Glycolysis is the name given to the pathway involving the conversion of:\n\nFor this question, four choices are provided:\n(A) glycogen to glucose-1-phosphate.\n(B) glycogen or glucose to fructose.\n(C) glycogen or glucose to pyruvate or lactate.\n(D) glycogen or glucose to pyruvate or acetyl CoA.\n\nPlease choose the correct answer from the above choices.",
+    "expected_answer": "(C) glycogen or glucose to pyruvate or lactate.",
+    "difficulty": "hard",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "MMLU_159",
+    "domain": "Medicine",
+    "task_type": "Medical General",
+    "prompt": "Which of the following promotes glucose and amino acid uptake by muscle?\n\nFor this question, four choices are provided:\n(A) Adrenaline\n(B) Insulin\n(C) Glycogen\n(D) Cortisol\n\nPlease choose the correct answer from the above choices.",
+    "expected_answer": "(B) Insulin",
+    "difficulty": "hard",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "MMLU_319",
+    "domain": "Medicine",
+    "task_type": "Medical General",
+    "prompt": "The son of a bricklayer goes to college and i) becomes a teacher at a medical school, ii) gets promoted to tenured professor, and iii) moves across the country for a new tenured professor position at a different school. Sequentially, this man has experienced:\n\nFor this question, four choices are provided:\n(A) intergenerational mobility with respect to the father, horizontal mobility, horizontal mobility\n(B) intragenerational mobility with respect to the son, upward mobility, upward mobility\n(C) intergenerational mobility with respect to the father, upward mobility, horizontal mobility\n(D) intragenerational mobility with respect to the son, horizontal mobility, upward mobility\n\nPlease choose the correct answer from the above choices.",
+    "expected_answer": "(C) intergenerational mobility with respect to the father, upward mobility, horizontal mobility",
+    "difficulty": "hard",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "MMLU_350",
+    "domain": "Medicine",
+    "task_type": "Medical General",
+    "prompt": "Vygotsky\u2019s sociocultural development theory attempts to describe the interaction between the mental function children are born with and how they develop those into what they possess as adults. One of the important components of this is the zone of proximal development. Which of the following statements accurately describes an individual in the zone of proximal development?\n\nFor this question, four choices are provided:\n(A) A baseball player hits baseballs from a tee in order to build muscle memory.\n(B) A concert flute player falls short of finishing a piece that has a very complex ending without mistakes\n(C) A high school English student submits a paper for review by his professor.\n(D) A high diver takes instruction from her coach to improve her form on a specific move.\n\nPlease choose the correct answer from the above choices.",
+    "expected_answer": "(D) A high diver takes instruction from her coach to improve her form on a specific move.",
+    "difficulty": "hard",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "MMLU_355",
+    "domain": "Medicine",
+    "task_type": "Medical General",
+    "prompt": "A psychologist conducts an experiment in which subjects are asked to learn a series of \u201cfacts\u201d which are actually statements that have been fabricated by the research team. The subjects consist of undergraduate students at the university where the experiment is being conducted. The subjects are randomly assigned to groups that are compensated either $10 or $20 for their participation, are given either 15 minutes or 30 minutes to learn the facts, and are asked to recall the facts either in the same room in which they learned the facts or in a very different, unfamiliar setting. Which of the following are dependent variables in this experiment?\nI. The amount the subjects were compensated.\nII. The room in which the subjects were asked to recall facts.\nIII. The number of facts the subjects can recall.\nIV. The time the subjects were given to learn the facts.\n\nFor this question, four choices are provided:\n(A) II only\n(B) III only\n(C) I and IV only\n(D) I and III and IV only\n\nPlease choose the correct answer from the above choices.",
+    "expected_answer": "(B) III only",
+    "difficulty": "hard",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "MMLU_392",
+    "domain": "Medicine",
+    "task_type": "Medical General",
+    "prompt": "Who set the world record for the mile race in 1886?\n\nFor this question, four choices are provided:\n(A) R Bannister\n(B) S Coe\n(C) J DiMaggio\n(D) WG George\n\nPlease choose the correct answer from the above choices.",
+    "expected_answer": "(D) WG George",
+    "difficulty": "hard",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "MMLU_479",
+    "domain": "Medicine",
+    "task_type": "Medical General",
+    "prompt": "Living cells require constant interaction with the outside environment in order to attain the materials they need for survival, as well as to rid themselves of waste. Of the following processes, which uses only the gradient of material to control the direction in which the material moves across the cell membrane?\n\nFor this question, four choices are provided:\n(A) Osmosis\n(B) Passive Transport\n(C) Active Transport\n(D) Endocytosis\n\nPlease choose the correct answer from the above choices.",
+    "expected_answer": "(A) Osmosis",
+    "difficulty": "hard",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "MMLU_486",
+    "domain": "Medicine",
+    "task_type": "Medical General",
+    "prompt": "Embedded in the inner membrane of the mitochondrion are:\n\nFor this question, four choices are provided:\n(A) the enzymes of the tricarboxylic acid cycle (Krebs' cycle).\n(B) the components of the electron transport chain.\n(C) glycogen molecules.\n(D) triacylglycerol molecules.\n\nPlease choose the correct answer from the above choices.",
+    "expected_answer": "(B) the components of the electron transport chain.",
+    "difficulty": "hard",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "MMLU_525",
+    "domain": "Medicine",
+    "task_type": "Medical General",
+    "prompt": "After what period of time does maximal dynamic exercise become predominantly aerobic?\n\nFor this question, four choices are provided:\n(A) 10 seconds\n(B) 30 seconds\n(C) 1 minute\n(D) 4 minutes\n\nPlease choose the correct answer from the above choices.",
+    "expected_answer": "(C) 1 minute",
+    "difficulty": "hard",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "MMLU_628",
+    "domain": "Medicine",
+    "task_type": "Medical General",
+    "prompt": "How can several different proteins be produced from the same gene?\n\nFor this question, four choices are provided:\n(A) By selective transcription of different parts of the DNA in the gene.\n(B) By doubling or tripling the length of the mRNA molecule produced from the primary transcript.\n(C) The primary transcripts of many genes can be spliced in various ways to produce different mRNAs, a process known as alternative RNA splicing.\n(D) By splicing of the mRNA molecule after it has been formed from the primary transcript.\n\nPlease choose the correct answer from the above choices.",
+    "expected_answer": "(C) The primary transcripts of many genes can be spliced in various ways to produce different mRNAs, a process known as alternative RNA splicing.",
+    "difficulty": "hard",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "MMLU_653",
+    "domain": "Medicine",
+    "task_type": "Medical General",
+    "prompt": "Muscle lactate production increases when:\n\nFor this question, four choices are provided:\n(A) oxygen is readily available.\n(B) pyruvate cannot be formed from glucose breakdown.\n(C) the pH of the muscle falls.\n(D) glycolysis is activated at the onset of exercise.\n\nPlease choose the correct answer from the above choices.",
+    "expected_answer": "(D) glycolysis is activated at the onset of exercise.",
+    "difficulty": "hard",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "MMLU_658",
+    "domain": "Medicine",
+    "task_type": "Medical General",
+    "prompt": "An individual is born with a mutation causing her to partially retain a form of fetal hemoglobin into adulthood. Compared to a normal individual, this person would exhibit:\n\nFor this question, four choices are provided:\n(A) no differences from a normal adult.\n(B) significantly reduced oxygen binding in the lungs.\n(C) no symptoms, since retention of fetal hemoglobin would be fatal.\n(D) increased oxygen binding to hemoglobin in the tissues.\n\nPlease choose the correct answer from the above choices.",
+    "expected_answer": "(D) increased oxygen binding to hemoglobin in the tissues.",
+    "difficulty": "hard",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "MMLU_833",
+    "domain": "Medicine",
+    "task_type": "Medical General",
+    "prompt": "A local politician starts a task force to reduce prejudice and hate crimes, and the task force provides recommendations for increased access to education, paid community improvement projects open to people from different, possibly conflicted, groups, and stricter anti-hate ordinances to be passed at the local level. These recommendations are based on:\nI. Self-esteem hypothesis\nII. Contact hypothesis\nIII. Hypothesis\nIV. Legal hypothesis\n\nFor this question, four choices are provided:\n(A) I, II, and III\n(B) II, III, and IV\n(C) I, III, and IV\n(D) I, II, and IV\n\nPlease choose the correct answer from the above choices.",
+    "expected_answer": "(D) I, II, and IV",
+    "difficulty": "hard",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "MMLU_861",
+    "domain": "Medicine",
+    "task_type": "Medical General",
+    "prompt": "Which of the following is true?\n\nFor this question, four choices are provided:\n(A) Increasing the protein intake above 3 grams per kg body mass per day will stimulate muscle growth and increase strength.\n(B) Creatine supplements can increase muscle strength and power.\n(C) Amino acid supplements can increase muscle strength and power.\n(D) Muscle damage is induced by shortening contractions.\n\nPlease choose the correct answer from the above choices.",
+    "expected_answer": "(B) Creatine supplements can increase muscle strength and power.",
+    "difficulty": "hard",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "MMLU_871",
+    "domain": "Medicine",
+    "task_type": "Medical General",
+    "prompt": "The descending loop of Henle of the nephron of the kidney is permeable to which of the following substances?\n\nFor this question, four choices are provided:\n(A) Na+\n(B) H2O\n(C) K+\n(D) Cl-\n\nPlease choose the correct answer from the above choices.",
+    "expected_answer": "(B) H2O",
+    "difficulty": "hard",
+    "evaluation_metric": "exact_match"
+  }
+]

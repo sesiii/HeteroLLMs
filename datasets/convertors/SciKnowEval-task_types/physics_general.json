@@ -1,0 +1,641 @@
+[
+  {
+    "task_id": "SCI_032",
+    "domain": "Physics",
+    "task_type": "Physics General",
+    "prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation.\nThe question is:Which of the following describes the primary function of a microbottle optomechanical resonator in liquid-level measurement?\nA. It uses high-Q optical whispering gallery modes localized in microbottles to measure liquid levels through fluid-structure interaction.\nB. It relies solely on electrical signals to determine liquid levels without any interaction with fluid.\nC. It uses a laser interferometer to measure the displacement caused by liquid viscosity.\nD. It functions by emitting ultrasonic waves to detect changes in liquid density.",
+    "expected_answer": "A. It uses high-Q optical whispering gallery modes localized in microbottles to measure liquid levels through fluid-structure interaction.",
+    "difficulty": "medium",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "SCI_042",
+    "domain": "Physics",
+    "task_type": "Physics General",
+    "prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation.\nThe question is:Which type of chemical reaction network was specifically used to recognize context-sensitive languages within the Chomsky hierarchy?\nA. Aqueous reaction network\nB. pH-reaction network\nC. Belousov-Zhabotinsky (BZ) reaction network\nD. Bimolecular reaction network",
+    "expected_answer": "C. Belousov-Zhabotinsky (BZ) reaction network",
+    "difficulty": "medium",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "SCI_044",
+    "domain": "Physics",
+    "task_type": "Physics General",
+    "prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation.\nThe question is:Which mathematical tool is often used to approximate the photonic band structure of a crystal and its corresponding eigenfunctions?\nA. Laplace transforms\nB. Fourier series expansion\nC. Bloch's theorem\nD. Newton's method",
+    "expected_answer": "C. Bloch's theorem",
+    "difficulty": "medium",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "SCI_051",
+    "domain": "Physics",
+    "task_type": "Physics General",
+    "prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation.\nThe question is:In the context of active matter, which model describes the collective behavior based on local interactions, centroids, velocities, and orientations of individuals?\nA. Fermi-Pasta-Ulam-Tsingou model\nB. Eulerian field model\nC. Ising model\nD. Vicsek model",
+    "expected_answer": "D. Vicsek model",
+    "difficulty": "medium",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "SCI_088",
+    "domain": "Physics",
+    "task_type": "Physics General",
+    "prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation.\nThe question is:Which characteristic primarily distinguishes long-range electrostatic interactions in molecular docking from short-range interactions?\nA. Long-range interactions require modeling of the whole system before the ligand reaches the binding site.\nB. Long-range interactions are always stronger than short-range interactions.\nC. Short-range interactions do not involve electrostatic complementarity.\nD. Short-range interactions are unaffected by solvent forces.",
+    "expected_answer": "A. Long-range interactions require modeling of the whole system before the ligand reaches the binding site.",
+    "difficulty": "medium",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "SCI_094",
+    "domain": "Physics",
+    "task_type": "Physics General",
+    "prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation.\nThe question is:Which solvent, when combined with pressurized CO2, was investigated for the first time in the enzymatic synthesis of polyglobalide (PGl)?\nA. Acetone\nB. DCM\nC. Methanol\nD. Ethanol",
+    "expected_answer": "B. DCM",
+    "difficulty": "medium",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "SCI_099",
+    "domain": "Physics",
+    "task_type": "Physics General",
+    "prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation.\nThe question is:Which advanced mixing technique can significantly enhance the homogeneity of powder mixes, hence improving the mechanical and chemical stability of pharmaceutical compounds, industrial materials, and cocrystals?\nA. Static Mixers\nB. Rotating Drum Mixer\nC. Resonant Acoustic Mixing (RAM)\nD. V-Blender",
+    "expected_answer": "C. Resonant Acoustic Mixing (RAM)",
+    "difficulty": "medium",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "SCI_102",
+    "domain": "Physics",
+    "task_type": "Physics General",
+    "prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation.\nThe question is:Which process is essential for transferring an etching mask pattern to a Thin Film Lithium Niobate (TFLN) during the fabrication of microring resonators?\nA. Inductively Coupled Plasma Reactive Ion Etching (ICP-RIE)\nB. Chemical Vapor Deposition (CVD)\nC. Thermal Evaporation\nD. Atomic Layer Deposition (ALD)",
+    "expected_answer": "A. Inductively Coupled Plasma Reactive Ion Etching (ICP-RIE)",
+    "difficulty": "medium",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "SCI_126",
+    "domain": "Physics",
+    "task_type": "Physics General",
+    "prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation.\nThe question is:In the context of cavity quantum electrodynamics (CQED), particularly regarding circular Bragg grating (CBG) resonators, which configuration has been found to significantly boost the vertical collection efficiency (VCE) of emitted photons?\nA. Utilizing a single-layer dielectric mirror on top of the CBG resonator\nB. Pairing the CBG resonator with a back-side mirror, such as gold or a distributed Bragg reflector (DBR)\nC. Removing the central disk and only using circular trenches\nD. Implementing an array of quantum dots (QDs) within the lateral sides of the CBG resonator",
+    "expected_answer": "B. Pairing the CBG resonator with a back-side mirror, such as gold or a distributed Bragg reflector (DBR)",
+    "difficulty": "medium",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "SCI_128",
+    "domain": "Physics",
+    "task_type": "Physics General",
+    "prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation.\nThe question is:In the context of hydrogen bonding in liquid water, which factor is believed to potentially extend the correlation length-scale of water molecules to 10s or even 100s of \u00c5ngstr\u00f6ms?\nA. Van der Waals forces between water molecules\nB. Presence of nonpolar solutes\nC. Thermal motion of individual water molecules\nD. Acoustic coupling and long-range dipole-dipole interactions",
+    "expected_answer": "D. Acoustic coupling and long-range dipole-dipole interactions",
+    "difficulty": "medium",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "SCI_161",
+    "domain": "Physics",
+    "task_type": "Physics General",
+    "prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation.\nThe question is:Which theory is employed to encapsulate magnetic actuation in the context of nodal-based discrete simulation for shell structures?\nA. Helmholtz\u2019s free energy theory\nB. Newton\u2019s laws of motion\nC. Euler-Bernoulli beam theory\nD. Maxwell\u2019s equations",
+    "expected_answer": "A. Helmholtz\u2019s free energy theory",
+    "difficulty": "medium",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "SCI_170",
+    "domain": "Physics",
+    "task_type": "Physics General",
+    "prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation.\nThe question is:In the context of 3D direct laser writing (3D-DLW) used for fabricating microstructures, which of the following factors is most critical for ensuring the fidelity of the printed microstructures?\nA. Printing at a slower speed to enhance resolution\nB. Using a higher laser power during printing\nC. Correct positioning of the sample to collect sufficient information for accurate reconstruction\nD. Selecting a resin with lower viscosity",
+    "expected_answer": "C. Correct positioning of the sample to collect sufficient information for accurate reconstruction",
+    "difficulty": "medium",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "SCI_238",
+    "domain": "Physics",
+    "task_type": "Physics General",
+    "prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation.\nThe question is:Which of the following factor(s) must be included in quantum mechanical calculations of polarizabilities to properly account for the interaction between light and matter?\nA. Classical mechanics principles without perturbation theory.\nB. Temperature and pressure conditions of the surrounding environment.\nC. The applied electric field as part of time-independent or time-dependent perturbation calculations.\nD. Only the magnetic field interactions, neglecting the electric field.",
+    "expected_answer": "C. The applied electric field as part of time-independent or time-dependent perturbation calculations.",
+    "difficulty": "medium",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "SCI_249",
+    "domain": "Physics",
+    "task_type": "Physics General",
+    "prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation.\nThe question is:What plays a crucial role in determining the electronic and magnetic properties of 1111 oxypnictides?\nA. Electron and hole doping levels\nB. Temperature and pressure conditions\nC. Fe-As tetrahedron geometry and Fe-As-Fe bond angles\nD. External magnetic fields",
+    "expected_answer": "C. Fe-As tetrahedron geometry and Fe-As-Fe bond angles",
+    "difficulty": "medium",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "SCI_250",
+    "domain": "Physics",
+    "task_type": "Physics General",
+    "prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation.\nThe question is:What is one potential application of complex dynamics synchronization in reservoir computing as discussed in the provided text?\nA. Generating chaotic time series for secure cryptography\nB. Enhancing quantum computing algorithms\nC. Developing superconducting materials\nD. Improving the precision of atomic clocks",
+    "expected_answer": "A. Generating chaotic time series for secure cryptography",
+    "difficulty": "medium",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "SCI_257",
+    "domain": "Physics",
+    "task_type": "Physics General",
+    "prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation.\nThe question is:In the context of computational fluid dynamics, which finite element method is known for utilizing H(div)-conforming velocities?\nA. mass-conserving mixed stress (MSC) based formulation\nB. low-order Taylor\u2013Hood\nC. high-order Taylor\u2013Hood\nD. Scott\u2013Vogelius finite elements",
+    "expected_answer": "A. mass-conserving mixed stress (MSC) based formulation",
+    "difficulty": "medium",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "SCI_263",
+    "domain": "Physics",
+    "task_type": "Physics General",
+    "prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation.\nThe question is:In the context of nano-scale transceivers in indoor environments, what is a potential use case for Reconfigurable Intelligent Surfaces (RIS)?\nA. Reflect signals to compensate for channel impairments due to blockages.\nB. Emit sound waves for non-verbal communication between devices.\nC. Generate their own power through ambient light conversion.\nD. Enhance visual aesthetics of indoor environments by changing colors dynamically.",
+    "expected_answer": "A. Reflect signals to compensate for channel impairments due to blockages.",
+    "difficulty": "medium",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "SCI_285",
+    "domain": "Physics",
+    "task_type": "Physics General",
+    "prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation.\nThe question is:In the context of computational chemistry, which approach is significantly more accurate than the first-order treatment of spin\u2013orbit coupling according to new research?\nA. MP2 methods\nB. DFT with B3LYP functional\nC. Hartree-Fock methods\nD. QDNEVPT2 methods",
+    "expected_answer": "D. QDNEVPT2 methods",
+    "difficulty": "medium",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "SCI_296",
+    "domain": "Physics",
+    "task_type": "Physics General",
+    "prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation.\nThe question is:In experimental physics, which of the following components is essential for mitigating ambient noise and scatter in sensitive optical measurements?\nA. Polarization controllers\nB. Physically sealed barriers\nC. Beam expanders\nD. High-pass filters",
+    "expected_answer": "B. Physically sealed barriers",
+    "difficulty": "medium",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "SCI_297",
+    "domain": "Physics",
+    "task_type": "Physics General",
+    "prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation.\nThe question is:In the context of quantum field theory, what advantage does the Euclidean approach provide for non-perturbative calculations?\nA. It provides a straightforward way to define real-valued probability densities for all observables.\nB. It ensures a manifestly relativistic formulation akin to the Feynman path integral approach.\nC. It allows for the discretization of the system with a Euclidean lattice and evaluation of the Euclidean path integral numerically.\nD. It preserves the causal structure of Minkowski spacetime.",
+    "expected_answer": "C. It allows for the discretization of the system with a Euclidean lattice and evaluation of the Euclidean path integral numerically.",
+    "difficulty": "medium",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "SCI_301",
+    "domain": "Physics",
+    "task_type": "Physics General",
+    "prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation.\nThe question is:For a system in classical mechanics where the potential V is proportional to the inverse square of the distance (V = k/r^2), which of the following characteristics is true about the scattering trajectories after periapsis?\nA. The trajectories are circular and the envelope is a circle.\nB. The trajectory envelope is parabolic.\nC. The trajectories are hyperbolic and the envelope is a hyperbola.\nD. The trajectory envelope is discernible but not parabolic.",
+    "expected_answer": "D. The trajectory envelope is discernible but not parabolic.",
+    "difficulty": "medium",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "SCI_312",
+    "domain": "Physics",
+    "task_type": "Physics General",
+    "prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation.\nThe question is:Which algorithmic step is considered highly complex when molecules contain a significant number and variety of topologically equivalent atoms?\nA. Canonization\nB. Rotation\nC. Scaling\nD. Translation",
+    "expected_answer": "A. Canonization",
+    "difficulty": "medium",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "SCI_321",
+    "domain": "Physics",
+    "task_type": "Physics General",
+    "prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation.\nThe question is:In the context of Bell's theorem and the CHSH inequality, suppose you are measuring correlations between two entangled particles with settings a, a', b, b'. If the measurement outcomes yield a violation of the CHSH inequality, what does this indicate about the nature of the underlying reality? \nA. The violation suggests that local hidden variable theories cannot fully explain the correlations observed.\nB. The violation indicates that the measurements were likely subject to experimental errors.\nC. The violation demonstrates that special relativity is invalid.\nD. The violation confirms that quantum mechanics is fundamentally incorrect.",
+    "expected_answer": "A. The violation suggests that local hidden variable theories cannot fully explain the correlations observed.",
+    "difficulty": "medium",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "SCI_327",
+    "domain": "Physics",
+    "task_type": "Physics General",
+    "prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation.\nThe question is:Which of the following is a primary benefit of integrating machine learning (ML) into high throughput screening workflows for predicting molecular properties?\nA. Expedited identification of promising molecules for drug discovery or materials development.\nB. Complete replacement of theoretical frameworks used in quantum chemistry.\nC. Ability to conduct molecular predictions without any data.\nD. Elimination of the need for any computational simulations.",
+    "expected_answer": "A. Expedited identification of promising molecules for drug discovery or materials development.",
+    "difficulty": "medium",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "SCI_328",
+    "domain": "Physics",
+    "task_type": "Physics General",
+    "prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation.\nThe question is:When analyzing molecular dynamics simulations of protein interactions with ATP, which function is specifically used for evaluating the electrostatic correlation between the molecules?\nA. Van der Waals Interaction Function (VDWIF)\nB. Electrostatic Potential Function (EPF)\nC. Molecular Dynamics Free Energy Function (MDFF)\nD. Molecular Ambiguity Function (MAF)",
+    "expected_answer": "D. Molecular Ambiguity Function (MAF)",
+    "difficulty": "medium",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "SCI_333",
+    "domain": "Physics",
+    "task_type": "Physics General",
+    "prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation.\nThe question is:In the context of mussel byssus and related studies, which failure mode occurs primarily due to the rupture within the adhesive material itself?\nA. Interior cohesive failure\nB. Adhesive failure\nC. Exterior failure\nD. Substrate failure",
+    "expected_answer": "A. Interior cohesive failure",
+    "difficulty": "medium",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "SCI_343",
+    "domain": "Physics",
+    "task_type": "Physics General",
+    "prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation.\nThe question is:What is a common issue faced when analyzing many-body equations in relativistic quantum mechanics, specifically beyond the simplified photon or boson exchange potential?\nA. Challenges related to relative time problems due to retardation effects\nB. Inability to determine the spin state of fermions\nC. Balancing conserved quantities in high-energy collisions\nD. Calculating the exact mass of each fermion",
+    "expected_answer": "A. Challenges related to relative time problems due to retardation effects",
+    "difficulty": "medium",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "SCI_347",
+    "domain": "Physics",
+    "task_type": "Physics General",
+    "prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation.\nThe question is:Which of the following properties are uniquely advantageous for materials used in the field of kirigami-based mechanical design?\nA. High conductivity and thermal resistance\nB. Optical transparency and biodegradability\nC. Magnetism and high density\nD. Super-stretchability and auxeticity",
+    "expected_answer": "D. Super-stretchability and auxeticity",
+    "difficulty": "medium",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "SCI_363",
+    "domain": "Physics",
+    "task_type": "Physics General",
+    "prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation.\nThe question is:What method is shown to be used for controlling vortex-generated noise in fluid dynamics to influence drag and wake amplitudes?\nA. deep Q-learning\nB. Reynolds-averaged Navier-Stokes equations\nC. finite element method\nD. computational fluid dynamics",
+    "expected_answer": "A. deep Q-learning",
+    "difficulty": "medium",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "SCI_366",
+    "domain": "Physics",
+    "task_type": "Physics General",
+    "prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation.\nThe question is:What is the primary improvement achieved by inserting an Al2O3 dielectric layer in the gate stack of HfO2 Si-FeFET devices?\nA. Increase in the threshold voltage\nB. Reduction in overall device size\nC. Enhancement of memory window (MW) from about 1 V to over 3 V\nD. Improvement of electron mobility",
+    "expected_answer": "C. Enhancement of memory window (MW) from about 1 V to over 3 V",
+    "difficulty": "medium",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "SCI_368",
+    "domain": "Physics",
+    "task_type": "Physics General",
+    "prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation.\nThe question is:What structural feature can be used to refine the description of local arrangements of particles, beyond merely counting the number of Voronoi cell edges?\nA. Measuring the temperature of the crystal\nB. The association of Voronoi cells with defects such as dislocations and grain boundaries\nC. Analyzing the color differences between Voronoi cells\nD. Counting the total number of particles in the system",
+    "expected_answer": "B. The association of Voronoi cells with defects such as dislocations and grain boundaries",
+    "difficulty": "medium",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "SCI_386",
+    "domain": "Physics",
+    "task_type": "Physics General",
+    "prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation.\nThe question is:In quantum computing, what is the principle behind the Hamiltonian variational approach often used for finding ground and excited states of molecular systems?\nA. It involves iteratively adjusting the parameters of a trial wavefunction to minimize the energy expectation value with respect to a given Hamiltonian.\nB. It does not require any adjustments to the parameters of the trial wavefunction.\nC. It uses classical bits to directly simulate the quantum states of a molecular system.\nD. It relies on measuring all possible eigenstates simultaneously without optimization.",
+    "expected_answer": "A. It involves iteratively adjusting the parameters of a trial wavefunction to minimize the energy expectation value with respect to a given Hamiltonian.",
+    "difficulty": "medium",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "SCI_408",
+    "domain": "Physics",
+    "task_type": "Physics General",
+    "prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation.\nThe question is:Which property of superconductors allows for the magnetic levitation of a permanent magnet as described in the Meissner effect?\nA. The generation of a strong electric field in the surrounding space.\nB. The creation of a gravitational field opposing the weight of the magnet.\nC. The expulsion of magnetic fields from the interior of the superconductor.\nD. The conduction of electricity without resistance.",
+    "expected_answer": "C. The expulsion of magnetic fields from the interior of the superconductor.",
+    "difficulty": "medium",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "SCI_415",
+    "domain": "Physics",
+    "task_type": "Physics General",
+    "prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation.\nThe question is:In the context of contrast variation small-angle neutron scattering (CV-SANS), what is one of the main challenges addressed when trying to accurately measure the partial scattering functions?\nA. Measuring the exact neutron flux used in the experiment\nB. Accounting for the background noise introduced by cosmic rays\nC. Compensating for temperature fluctuations during the measurements\nD. Quantifying uncertainties arising from the randomness of observational errors",
+    "expected_answer": "D. Quantifying uncertainties arising from the randomness of observational errors",
+    "difficulty": "medium",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "SCI_432",
+    "domain": "Physics",
+    "task_type": "Physics General",
+    "prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation.\nThe question is:What key innovation in the next-generation reservoir computing (NG-RC) architecture significantly improves its speed and performance compared to traditional approaches?\nA. The integration of genetic algorithms for hyperparameter optimization\nB. The use of deep reinforcement learning for system training\nC. The establishment of a library of unique polynomials of time-shifted input variables\nD. The implementation of quantum computing principles",
+    "expected_answer": "C. The establishment of a library of unique polynomials of time-shifted input variables",
+    "difficulty": "medium",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "SCI_452",
+    "domain": "Physics",
+    "task_type": "Physics General",
+    "prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation.\nThe question is:What is the correct approach to define matrix multiplication using tensor network contraction?\nA. (AB){i,k} = \u03a3_{i,k} A{j,i}B{j,k}.\nB. (AB){i,k} = \u03a3_j A{i,j}B{j,k}.\nC. (AB){i,k} = \u03a3_i A{i,j}B{j,k}.\nD. (AB){i,k} = \u03a3_k A{i,j}B{j,k}.",
+    "expected_answer": "B. (AB){i,k} = \u03a3_j A{i,j}B{j,k}.",
+    "difficulty": "medium",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "SCI_455",
+    "domain": "Physics",
+    "task_type": "Physics General",
+    "prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation.\nThe question is:Which of the following methods resolves the sign problem by deforming the integration contour in the complex space to steepest descent paths emanating from saddle points?\nA. Markov Chain Monte Carlo method\nB. Lefschetz thimble method\nC. Variational Monte Carlo method\nD. Metropolis-Hastings algorithm",
+    "expected_answer": "B. Lefschetz thimble method",
+    "difficulty": "medium",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "SCI_460",
+    "domain": "Physics",
+    "task_type": "Physics General",
+    "prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation.\nThe question is:Which of the following papers specifically investigates the efficiency of cosmic-ray induced desorption for grains of different sizes?\nA. Ge et al. (2016)\nB. Pauly & Garrod (2016)\nC. Zhao et al. (2018)\nD. Mathis et al. (1977)",
+    "expected_answer": "C. Zhao et al. (2018)",
+    "difficulty": "medium",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "SCI_467",
+    "domain": "Physics",
+    "task_type": "Physics General",
+    "prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation.\nThe question is:Which of the following describes the role of non-covalent interactions (NCIs) in rational drug design?\nA. NCIs are primarily used for covalently bonding ligands to their target proteins.\nB. NCIs are crucial for optimizing the stability and specificity of protein-ligand complexes in drug design.\nC. NCIs are insignificant and are often ignored in modern drug design processes.\nD. NCIs are used solely for visualizing protein structures, without any impact on drug efficacy.",
+    "expected_answer": "B. NCIs are crucial for optimizing the stability and specificity of protein-ligand complexes in drug design.",
+    "difficulty": "medium",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "SCI_469",
+    "domain": "Physics",
+    "task_type": "Physics General",
+    "prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation.\nThe question is:In the context of probabilistic modeling, what type of elements do tensors map to?\nA. Integer values\nB. Non-negative real numbers\nC. Complex numbers\nD. Binary values",
+    "expected_answer": "B. Non-negative real numbers",
+    "difficulty": "medium",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "SCI_477",
+    "domain": "Physics",
+    "task_type": "Physics General",
+    "prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation.\nThe question is:In the context of time-modulated mechanical resonators interacting with surface acoustic waves (SAW), which of the following conditions is necessary to achieve efficient frequency conversion?\nA. The frequency of the incoming wave must remain constant during the entire process.\nB. The interaction must occur only in the bulk of the material, ignoring the surface.\nC. The resonators must be stationary and should not exhibit any time-dependent behavior.\nD. The stiffness or mass of the resonators must be modulated periodically over time.",
+    "expected_answer": "D. The stiffness or mass of the resonators must be modulated periodically over time.",
+    "difficulty": "medium",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "SCI_484",
+    "domain": "Physics",
+    "task_type": "Physics General",
+    "prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation.\nThe question is:Which of the following components in the Fe-MoS2 catalytic system contributes to reducing metal leaching and promoting higher ion utilization during PMS activation?\nA. Sulfur vacancies only\nB. In-situ Fe3+/Fe2+ cycle\nC. Mo4+ cations exclusively\nD. Fe-MoS2 catalyst surface area increase",
+    "expected_answer": "B. In-situ Fe3+/Fe2+ cycle",
+    "difficulty": "medium",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "SCI_491",
+    "domain": "Physics",
+    "task_type": "Physics General",
+    "prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation.\nThe question is:Given the effects of viscoelasticity on fluid flow through a converging channel, which statement best describes the pressure drop and die swell behavior in comparison to Newtonian fluids with the same viscosity?\nA. Viscoelastic fluids always generate upstream vortices in a converging channel, resulting in a larger pressure drop than Newtonian fluids with the same viscosity.\nB. Newtonian fluids exhibit greater die swell at the exit of a nozzle compared to viscoelastic fluids with the same viscosity.\nC. Viscoelastic fluids can flow through a converging channel without generating upstream vortices, leading to the same pressure drop as Newtonian fluids but still affecting the die swell.\nD. The pressure drop across a converging channel for viscoelastic fluids is independent of the viscosity.",
+    "expected_answer": "C. Viscoelastic fluids can flow through a converging channel without generating upstream vortices, leading to the same pressure drop as Newtonian fluids but still affecting the die swell.",
+    "difficulty": "medium",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "SCI_498",
+    "domain": "Physics",
+    "task_type": "Physics General",
+    "prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation.\nThe question is:In transformer models specialized for chemical informatics, which configuration parameter directly influences the model's ability to process complex molecular structures by increasing the capacity for higher-order feature extraction?\nA. Type\nB. Att. Heads\nC. Hid. Layers\nD. Int. Size",
+    "expected_answer": "C. Hid. Layers",
+    "difficulty": "medium",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "SCI_513",
+    "domain": "Physics",
+    "task_type": "Physics General",
+    "prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation.\nThe question is:A GRIN lens is designed with a focal length of 200 mm and is made of a material characterized by a dielectric loss tangent of 1.1 \u00d7 10^-3. Which of the following principles is primarily responsible for the functionality of a GRIN lens in focusing electromagnetic waves?\nA. The use of phase conjugation at the lens surfaces.\nB. Gradual variation in the refractive index within the lens material.\nC. Doppler shift induced by varying lens thickness.\nD. Total internal reflection at the lens edges.",
+    "expected_answer": "B. Gradual variation in the refractive index within the lens material.",
+    "difficulty": "medium",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "SCI_515",
+    "domain": "Physics",
+    "task_type": "Physics General",
+    "prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation.\nThe question is:Which regularization method helps to improve the conditioning of the reconstruction problem by penalizing high axial frequencies at low lateral frequencies?\nA. Ridge regularization\nB. missing-wedge (MW) regularization\nC. Lasso regularization\nD. Tikhonov regularization",
+    "expected_answer": "B. missing-wedge (MW) regularization",
+    "difficulty": "medium",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "SCI_537",
+    "domain": "Physics",
+    "task_type": "Physics General",
+    "prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation.\nThe question is:In X-ray reflectometry (XRR), what primary factors influence the critical angle of total reflection for a given material?\nA. The atomic number of the material\nB. The thickness of the material\nC. The temperature of the material\nD. The density of the material",
+    "expected_answer": "D. The density of the material",
+    "difficulty": "medium",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "SCI_538",
+    "domain": "Physics",
+    "task_type": "Physics General",
+    "prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation.\nThe question is:Which of the following properties is a characteristic feature of the Pt-P Lieb lattice prepared on a Au(111) substrate via molecular beam epitaxy (MBE), as indicated by experimental characterization?\nA. Magnetic monopoles.\nB. FBs in its electronic band structure.\nC. Bose-Einstein condensates at standard pressure.\nD. Superconductivity at room temperature.",
+    "expected_answer": "B. FBs in its electronic band structure.",
+    "difficulty": "medium",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "SCI_542",
+    "domain": "Physics",
+    "task_type": "Physics General",
+    "prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation.\nThe question is:In an industrial inkjet printing process for creating gradient materials, how is the gradient of the printed material typically achieved?\nA. By manually adjusting the height of the printheads during the printing process to vary the ink deposition.\nB. By digitally controlling the deposition of polymer-based inks from multiple printheads featuring hundreds to thousands of nozzles.\nC. By mixing different ratios of pigments in a single ink reservoir before printing.\nD. By using a single printhead with a variable ink flow rate to create the gradient.",
+    "expected_answer": "B. By digitally controlling the deposition of polymer-based inks from multiple printheads featuring hundreds to thousands of nozzles.",
+    "difficulty": "medium",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "SCI_549",
+    "domain": "Physics",
+    "task_type": "Physics General",
+    "prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation.\nThe question is:What technique is typically utilized for the synthesis of half-Heusler alloy compounds due to its efficiency in achieving homogeneity and high purity?\nA. Chemical vapor deposition\nB. Electrochemical deposition\nC. Sol-gel process\nD. Arc-melting technique",
+    "expected_answer": "D. Arc-melting technique",
+    "difficulty": "medium",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "SCI_553",
+    "domain": "Physics",
+    "task_type": "Physics General",
+    "prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation.\nThe question is:Which of the following reactions has the highest rate constant for the conversion of Fe2+ to Fe3+?\nA. Fe2+ + O2 \u2192 O2\u2212 + Fe3+\nB. Fe2+ + H2O2 \u2192 .OH + OH\u2212 + Fe3+\nC. Fe2+ + S2O82\u2212 \u2192 SO4\uf096\u2212 + SO42\u2212 + Fe3+\nD. Fe2+ + HSO5\u2212 \u2192 SO4\uf096\u2212 + OH\u2212 + Fe3+",
+    "expected_answer": "D. Fe2+ + HSO5\u2212 \u2192 SO4\uf096\u2212 + OH\u2212 + Fe3+",
+    "difficulty": "medium",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "SCI_587",
+    "domain": "Physics",
+    "task_type": "Physics General",
+    "prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation.\nThe question is:Which method is used to decelerate molecular beams via the Stark effect for creating cold molecules?\nA. Magnetic fields\nB. Laser cooling\nC. Gravitational fields\nD. Electric fields",
+    "expected_answer": "D. Electric fields",
+    "difficulty": "medium",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "SCI_598",
+    "domain": "Physics",
+    "task_type": "Physics General",
+    "prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation.\nThe question is:Which of the following methods can offer high accuracy in calculating forces in molecular dynamics simulations but is limited by high computational costs?\nA. Density Functional Theory (DFT)\nB. Classical force fields\nC. Machine Learning (ML) force fields\nD. Empirical potential models",
+    "expected_answer": "A. Density Functional Theory (DFT)",
+    "difficulty": "medium",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "SCI_607",
+    "domain": "Physics",
+    "task_type": "Physics General",
+    "prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation.\nThe question is:What is the condition for the memductance G(t) of a memristor to avoid becoming negative in a system characterized by a constant polarization voltage V0 and an external harmonic signal V1, given the frequency \u03c9 and the parameter a?\nA. V1 < V0 / sqrt(1 + (\u03c9/a)^2)\nB. V1 > V0 / sqrt(1 + (\u03c9/a)^2)\nC. V1 = V0 * sqrt(1 + (\u03c9/a)^2)\nD. V1 \u2260 V0 / sqrt(1 + (\u03c9/a)^2)",
+    "expected_answer": "A. V1 < V0 / sqrt(1 + (\u03c9/a)^2)",
+    "difficulty": "medium",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "SCI_612",
+    "domain": "Physics",
+    "task_type": "Physics General",
+    "prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation.\nThe question is:What is the primary challenge when performing full wave numerical simulations on electromagnetic problems involving large target objects with sub-wavelength structural features?\nA. Accurate solutions require large computational meshes.\nB. Inability to model arbitrary geometries of structures.\nC. Limited availability of modern numerical methods.\nD. Inaccurate representation of scattering effects.",
+    "expected_answer": "A. Accurate solutions require large computational meshes.",
+    "difficulty": "medium",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "SCI_627",
+    "domain": "Physics",
+    "task_type": "Physics General",
+    "prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation.\nThe question is:Which method is specifically designed to handle the inherent numerical noise in particle simulations of stationary electrostatic plasmas?\nA. Convolutional Hybrid PIC (conv-HPIC) method\nB. Monte Carlo Simulation method\nC. Finite Element Method\nD. Molecular Dynamics Simulation method",
+    "expected_answer": "A. Convolutional Hybrid PIC (conv-HPIC) method",
+    "difficulty": "medium",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "SCI_640",
+    "domain": "Physics",
+    "task_type": "Physics General",
+    "prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation.\nThe question is:Which of the following methods can be employed to reduce the computational cost of predicting aerodynamic noise in complex geometries?\nA. Semi-empirical component-based prediction models\nB. RANS (Reynolds-Averaged Navier-Stokes) simulations\nC. Finite Element Method (FEM)\nD. Direct Numerical Simulation (DNS)",
+    "expected_answer": "A. Semi-empirical component-based prediction models",
+    "difficulty": "medium",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "SCI_656",
+    "domain": "Physics",
+    "task_type": "Physics General",
+    "prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation.\nThe question is:In the context of material-agnostic residual convolutional neural networks (CNN), which technique is employed to calculate the area within a polygon formed by specific sequences?\nA. Monte Carlo simulation\nB. Trapezoidal rule\nC. Shoelace formula\nD. Gauss-Legendre quadrature",
+    "expected_answer": "C. Shoelace formula",
+    "difficulty": "medium",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "SCI_658",
+    "domain": "Physics",
+    "task_type": "Physics General",
+    "prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation.\nThe question is:Which contribution always results in a negative (softening) term to the shear modulus in the context of non-affine displacements?\nA. Affine force field\nB. Born-Huang contribution\nC. Thermal fluctuations\nD. Non-affine displacements",
+    "expected_answer": "D. Non-affine displacements",
+    "difficulty": "medium",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "SCI_663",
+    "domain": "Physics",
+    "task_type": "Physics General",
+    "prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation.\nThe question is:What is the primary purpose of using electro discharge machining (EDM) in the context of removing materials from the build?\nA. To improve the electrical insulation properties of the materials.\nB. To precisely remove materials with minimal damage to the surrounding areas.\nC. To increase the thermal conductivity of the materials.\nD. To chemically alter the composition of the materials.",
+    "expected_answer": "B. To precisely remove materials with minimal damage to the surrounding areas.",
+    "difficulty": "medium",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "SCI_669",
+    "domain": "Physics",
+    "task_type": "Physics General",
+    "prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation.\nThe question is:What is the primary challenge when using Principal Component (PC) transport methods in modeling combustion characteristics of a three-dimensional turbulent jet flame?\nA. PC transport methods can be applied universally without concern for the data set conditions.\nB. The accuracy of PC transport methods depends critically on the dimensionality and conditions of the dataset used for dimensionality reduction.\nC. The challenge lies in the inability of PC transport methods to capture any multi-dimensional effects.\nD. PC transport methods are most effective when using a zero-dimensional homogeneous reactor dataset.",
+    "expected_answer": "B. The accuracy of PC transport methods depends critically on the dimensionality and conditions of the dataset used for dimensionality reduction.",
+    "difficulty": "medium",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "SCI_684",
+    "domain": "Physics",
+    "task_type": "Physics General",
+    "prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation.\nThe question is:Which of the following methods is capable of reconstructing word embeddings by capturing the composition characteristics of a string and splitting it into constituent parts?\nA. GloVe\nB. MIMICK\nC. BERT\nD. ELMo",
+    "expected_answer": "B. MIMICK",
+    "difficulty": "medium",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "SCI_693",
+    "domain": "Physics",
+    "task_type": "Physics General",
+    "prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation.\nThe question is:In the study of kinetic processes, which of the following best describes the stochastic scheme?\nA. It relies solely on classical mechanics to predict the outcome of chemical reactions.\nB. It assumes that all variables involved in a reaction are constant and independent of time.\nC. It considers the fluctuations of variables associated with the reaction, where the reactant population fluctuates probabilistically.\nD. It focuses exclusively on the quantum states of reactants to determine reaction pathways.",
+    "expected_answer": "C. It considers the fluctuations of variables associated with the reaction, where the reactant population fluctuates probabilistically.",
+    "difficulty": "medium",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "SCI_706",
+    "domain": "Physics",
+    "task_type": "Physics General",
+    "prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation.\nThe question is:When attempting to isolate and measure aerodynamic noise generated by a bogie on a train, what is a key advantage of using anechoic wind tunnel tests over field measurements?\nA. Availability of real trains and tracks for testing purposes\nB. Ability to test different configurations quickly and assess the contribution of various bogie components\nC. Measurement of the total sound generated by the train including aerodynamic and rolling noise\nD. Elimination of the need for source separation methods",
+    "expected_answer": "B. Ability to test different configurations quickly and assess the contribution of various bogie components",
+    "difficulty": "medium",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "SCI_735",
+    "domain": "Physics",
+    "task_type": "Physics General",
+    "prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation.\nThe question is:What phenomenon is responsible for the appearance of n-type or p-type transport behavior in domain walls related to HH and TT polar discontinuities?\nA. Thermal excitation of carriers contributing to conduction\nB. Structural integrity leading to symmetrical band gaps\nC. Accumulation of negative or positive screening charges at the domain walls\nD. Generation of magnetic fields at the domain walls",
+    "expected_answer": "C. Accumulation of negative or positive screening charges at the domain walls",
+    "difficulty": "medium",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "SCI_736",
+    "domain": "Physics",
+    "task_type": "Physics General",
+    "prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation.\nThe question is:Which of the following materials is extensively researched for integration in metamaterial-based THz phase modulators?\nA. Gallium Nitride\nB. Silicon Carbide\nC. Graphene\nD. Boron Nitride",
+    "expected_answer": "C. Graphene",
+    "difficulty": "medium",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "SCI_758",
+    "domain": "Physics",
+    "task_type": "Physics General",
+    "prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation.\nThe question is:In the context of a classical, harmonic bath, what is the proportional relationship of the classical spectral coupling constant, \u03b3\u00d7, to temperature (T)?\nA. \u03b3\u00d7 \u221d 1/T\nB. \u03b3\u00d7 \u221d \u221aT\nC. \u03b3\u00d7 \u221d kBT\nD. \u03b3\u00d7 \u221d T^2",
+    "expected_answer": "C. \u03b3\u00d7 \u221d kBT",
+    "difficulty": "medium",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "SCI_786",
+    "domain": "Physics",
+    "task_type": "Physics General",
+    "prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation.\nThe question is:Which type of deep learning-based algorithm integrates traditional iterative methods with deep neural networks specifically for embedding physical information into network design?\nA. Induced current learning scheme introduced by Wei and Chen\nB. Real space and frequency space combination by Wang et al.\nC. Perceptual GAN designed by Song et al.\nD. The second type of DL-based algorithm",
+    "expected_answer": "D. The second type of DL-based algorithm",
+    "difficulty": "medium",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "SCI_800",
+    "domain": "Physics",
+    "task_type": "Physics General",
+    "prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation.\nThe question is:When employing a Mach-Zehnder Interferometer (MZI)-based sensor for detecting volatile organic compounds (VOCs) like tert-butyl methyl ether, what optical signal changes are measured to obtain information about the substance?\nA. Polarization change and intensity fluctuation\nB. Frequency change and wavefront distortion\nC. Wavelength shift and amplitude modulation\nD. Attenuation and phase shift",
+    "expected_answer": "D. Attenuation and phase shift",
+    "difficulty": "medium",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "SCI_806",
+    "domain": "Physics",
+    "task_type": "Physics General",
+    "prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation.\nThe question is:Which experimental evidence led to the hypothesis that the power stroke of muscle contraction occurs immediately upon binding actin, followed by phosphate release?\nA. Fluorescence resonance energy transfer (FRET) analysis.\nB. Direct observation of actin-myosin binding using electron microscopy.\nC. Early experiments employing photosensitive phosphate compounds.\nD. Genetic mutation studies in muscle tissue.",
+    "expected_answer": "C. Early experiments employing photosensitive phosphate compounds.",
+    "difficulty": "medium",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "SCI_812",
+    "domain": "Physics",
+    "task_type": "Physics General",
+    "prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation.\nThe question is:Which of the following best explains the unusually high Arrhenius pre-exponential factor for desorption observed in adsorption reactions at the solid-gas interface?\nA. The solid-gas interface has a significantly lower activation energy compared to other processes.\nB. The presence of catalysts significantly increases the pre-exponential factor.\nC. The desorbed state has a much higher entropy than the adsorbed state, leading to a high-entropy transition state.\nD. The temperature at the solid-gas interface is significantly higher than in other chemical reactions.",
+    "expected_answer": "C. The desorbed state has a much higher entropy than the adsorbed state, leading to a high-entropy transition state.",
+    "difficulty": "medium",
+    "evaluation_metric": "exact_match"
+  }
+]

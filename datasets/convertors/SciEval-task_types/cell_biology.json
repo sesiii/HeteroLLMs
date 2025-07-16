@@ -1,0 +1,29 @@
+[
+  {
+    "task_id": "SCI_805",
+    "domain": "Biology",
+    "task_type": "Cell Biology",
+    "prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation.Then the question is:Why is X inactivation necessary?\n\nA. X inactivation prevents the Y chromosome from being silenced in male cells.\nB. X inactivation silences one X chromosome to create a mosaic expression of maternal and paternal chromosomes.\nC. X inactivation activates both X chromosomes to ensure equal gene expression.\nD. X inactivation randomly selects an X chromosome to enhance gene diversity.\n\nAnswer:",
+    "expected_answer": "B. X inactivation silences one X chromosome to create a mosaic expression of maternal and paternal chromosomes.",
+    "difficulty": "medium",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "SCI_889",
+    "domain": "Biology",
+    "task_type": "Cell Biology",
+    "prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation.Then the question is:Why does X inactivation happen?\n\nA. X inactivation occurs to ensure proper cell division in females.\nB. X inactivation happens to enhance immune system function in females.\nC. X inactivation happens to prevent genetic mutations in females.\nD. X inactivation occurs to balance protein production from X chromosomes in females.\n\nAnswer:",
+    "expected_answer": "D. X inactivation occurs to balance protein production from X chromosomes in females.",
+    "difficulty": "medium",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "SCI_893",
+    "domain": "Biology",
+    "task_type": "Cell Biology",
+    "prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation.Then the question is:How many centromeres are visible during prophase?\n\nA. 12 centromeres\nB. 46 centromeres\nC. 23 centromeres\nD. 92 centromeres\n\nAnswer:",
+    "expected_answer": "B. 46 centromeres",
+    "difficulty": "medium",
+    "evaluation_metric": "exact_match"
+  }
+]

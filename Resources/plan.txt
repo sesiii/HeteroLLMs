@@ -1,0 +1,5 @@
+i am working on a framework that autonomously assigns suitable LLM for a given task in a Multi agent system from a pool of LLMs,
+ after looking at the score matrix-which is essentially the matrix that contains data for each model tested across several domain of tasks which further contain sub domains, 
+ The framwork uses agentic ai that hosts the score matrix through an mcp server, when given input from the MAS, 
+ will map the input to the most closests domain-subdomain or domain-none  pairs for each model and computes as score(weighted score of the latency, accuracy and memory), 
+ higher the accuracy, the model will be picked and assigned to the MAS for that task.

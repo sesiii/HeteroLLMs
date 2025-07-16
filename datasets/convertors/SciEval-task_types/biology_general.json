@@ -1,0 +1,1811 @@
+[
+  {
+    "task_id": "SCI_014",
+    "domain": "Biology",
+    "task_type": "Biology General",
+    "prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation.Then the question is:What is the role of the enzyme ligase in replication?\n\nA. Ligase unwinds the DNA helix during replication.\nB. Ligase fills gaps between Okazaki fragments in the lagging strand during replication.\nC. Ligase breaks hydrogen bonds between DNA strands.\nD. Ligase adds nucleotides to the growing DNA strand.\n\nAnswer:",
+    "expected_answer": "B. Ligase fills gaps between Okazaki fragments in the lagging strand during replication.",
+    "difficulty": "medium",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "SCI_017",
+    "domain": "Biology",
+    "task_type": "Biology General",
+    "prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation.Then the question is:What could happen when abiotic factors in an ecosystem change?\n\nA. Abiotic changes have no impact on the organisms within an ecosystem.\nB. Abiotic changes can cause extreme problems or positive effects for organisms.\nC. Abiotic changes always benefit all organisms in an ecosystem.\nD. Abiotic changes only affect biotic factors and not the organisms directly.\n\nAnswer:",
+    "expected_answer": "B. Abiotic changes can cause extreme problems or positive effects for organisms.",
+    "difficulty": "medium",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "SCI_020",
+    "domain": "Biology",
+    "task_type": "Biology General",
+    "prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation.Then the question is:Why does endosymbiosis occur?\n\nA. Endosymbiosis occurs to increase cellular size.\nB. Endosymbiosis occurs as a defense mechanism.\nC. Endosymbiosis occurs due to mutual benefit between cells and mitochondria.\nD. Endosymbiosis occurs to increase genetic diversity.\n\nAnswer:",
+    "expected_answer": "C. Endosymbiosis occurs due to mutual benefit between cells and mitochondria.",
+    "difficulty": "medium",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "SCI_021",
+    "domain": "Biology",
+    "task_type": "Biology General",
+    "prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation.Then the question is:If you are studying a population a 92% exhibits the dominant phenotype, what percentage exhibits the recessive phenotype?\n\nA. 4%\nB. 12%\nC. 8%\nD. 16%\n\nAnswer:",
+    "expected_answer": "C. 8%",
+    "difficulty": "medium",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "SCI_026",
+    "domain": "Biology",
+    "task_type": "Biology General",
+    "prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation.Then the question is:Why do diffusion and osmosis occur?\n\nA. Diffusion and osmosis occur due to electrical charge differences.\nB. Diffusion and osmosis occur due to differences in concentrations of particles at two points.\nC. Diffusion and osmosis occur due to temperature differences.\nD. Diffusion and osmosis occur due to pressure differences.\n\nAnswer:",
+    "expected_answer": "B. Diffusion and osmosis occur due to differences in concentrations of particles at two points.",
+    "difficulty": "medium",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "SCI_027",
+    "domain": "Biology",
+    "task_type": "Biology General",
+    "prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation.Then the question is:What are the principle parts of a cell?\n\nA. Cilia, Flagella, Pseudopods\nB. Cell Wall, Mitochondria, Nucleus\nC. Endoplasmic Reticulum, Chloroplasts, Vacuoles\nD. Cell Membrane, Cytoplasm, Chromatin\n\nAnswer:",
+    "expected_answer": "D. Cell Membrane, Cytoplasm, Chromatin",
+    "difficulty": "medium",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "SCI_028",
+    "domain": "Biology",
+    "task_type": "Biology General",
+    "prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation.Then the question is:What is the difference between natural selection and evolution?\n\nA. Natural selection refers to the extinction of species, while evolution is the creation of new species through genetic mutation.\nB. Natural selection is the intentional breeding of organisms, while evolution is the random mutation of genes over time.\nC. Natural selection is the process of selecting and passing on hereditary traits, while evolution is the change in species over time due to natural selection.\nD. Natural selection is the change in species over time, while evolution is the process of selecting and passing on hereditary traits.\n\nAnswer:",
+    "expected_answer": "C. Natural selection is the process of selecting and passing on hereditary traits, while evolution is the change in species over time due to natural selection.",
+    "difficulty": "medium",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "SCI_029",
+    "domain": "Biology",
+    "task_type": "Biology General",
+    "prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation.Then the question is:What does villi in the small intestine do?\n\nA. Villi increase intestinal absorptive surface area for efficient nutrient absorption and contain enzymes for digestion.\nB. Villi secrete digestive juices to break down food particles.\nC. Villi move food through the small intestine via muscle contractions.\nD. Villi protect the small intestine from harmful bacteria.\n\nAnswer:",
+    "expected_answer": "A. Villi increase intestinal absorptive surface area for efficient nutrient absorption and contain enzymes for digestion.",
+    "difficulty": "medium",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "SCI_030",
+    "domain": "Biology",
+    "task_type": "Biology General",
+    "prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation.Then the question is:How do nucleic acids control protein synthesis?\n\nA. Nucleic acids control protein synthesis through transcription and translation processes involving messengerRNA, transferRNA, and ribosomalRNA.\nB. Nucleic acids control protein synthesis through a series of chemical reactions that break down proteins and rebuild them.\nC. Nucleic acids control protein synthesis by directly assembling amino acids into proteins without any intermediate processes.\nD. Nucleic acids control protein synthesis by modifying existing proteins to create new ones through a process called protein folding.\n\nAnswer:",
+    "expected_answer": "A. Nucleic acids control protein synthesis through transcription and translation processes involving messengerRNA, transferRNA, and ribosomalRNA.",
+    "difficulty": "medium",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "SCI_035",
+    "domain": "Biology",
+    "task_type": "Biology General",
+    "prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation.Then the question is:How does yeast reproduce?\n\nA. Yeast reproduces through budding.\nB. Yeast reproduces through binary fission.\nC. Yeast reproduces through fragmentation.\nD. Yeast reproduces through spore formation.\n\nAnswer:",
+    "expected_answer": "A. Yeast reproduces through budding.",
+    "difficulty": "medium",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "SCI_058",
+    "domain": "Biology",
+    "task_type": "Biology General",
+    "prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation.Then the question is:What is behavior?\n\nA. Ability to move around and find food.\nB. Quick reactions to environmental changes.\nC. Growth towards sunlight and roots searching for water and nutrients.\nD. Development of a nervous system and brain.\n\nAnswer:",
+    "expected_answer": "C. Growth towards sunlight and roots searching for water and nutrients.",
+    "difficulty": "medium",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "SCI_061",
+    "domain": "Biology",
+    "task_type": "Biology General",
+    "prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation.Then the question is:What factors explain the rapid population growth of humans that has occurred since 1500?\n\nA. Decreased food supply, natural disasters, and migration.\nB. Technological advancements, urbanization, and climate change.\nC. Globalization, economic growth, and political stability.\nD. Improved medicine, increased fertility, and longer lifespans.\n\nAnswer:",
+    "expected_answer": "D. Improved medicine, increased fertility, and longer lifespans.",
+    "difficulty": "medium",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "SCI_062",
+    "domain": "Biology",
+    "task_type": "Biology General",
+    "prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation.Then the question is:How do immunizations work to produce immunological memory?\n\nA. Immunizations work by introducing a foreign element (antigen) to the body, causing the immune system to produce antibodies that can recognize the pathogen but do not have memory capabilities.\nB. Immunizations work by introducing a foreign element (antigen) to the body, causing the immune system to produce antibodies that can remember and quickly recognize the pathogen only for a short period of time.\nC. Immunizations work by introducing a weakened pathogen to the body, causing the immune system to produce a general antibody that can recognize all types of pathogens in the future.\nD. Immunizations work by introducing a foreign element (antigen) to the body, causing the immune system to produce specific antibodies that can remember and quickly recognize the pathogen in the future.\n\nAnswer:",
+    "expected_answer": "D. Immunizations work by introducing a foreign element (antigen) to the body, causing the immune system to produce specific antibodies that can remember and quickly recognize the pathogen in the future.",
+    "difficulty": "medium",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "SCI_065",
+    "domain": "Biology",
+    "task_type": "Biology General",
+    "prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation.Then the question is:What did Mendel's dihybrid cross prove?\n\nA. Mendel's dihybrid cross proved that genes are inherited independently.\nB. Mendel's dihybrid cross showed that only parental genes are inherited.\nC. Mendel's dihybrid cross proved that genes are always linked.\nD. Mendel's dihybrid cross disproved the concept of gene inheritance.\n\nAnswer:",
+    "expected_answer": "A. Mendel's dihybrid cross proved that genes are inherited independently.",
+    "difficulty": "medium",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "SCI_073",
+    "domain": "Biology",
+    "task_type": "Biology General",
+    "prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation.Then the question is:How does science explain the origin of life?\n\nA. Chemical reactions in water led to life.\nB. Life emerged from a single organism.\nC. Life was created by supernatural forces.\nD. Multiple theories exist, including outer space origins and accidental protein formation.\n\nAnswer:",
+    "expected_answer": "D. Multiple theories exist, including outer space origins and accidental protein formation.",
+    "difficulty": "medium",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "SCI_082",
+    "domain": "Biology",
+    "task_type": "Biology General",
+    "prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation.Then the question is:What is the difference between ingestion, digestion, absorption, and elimination?\n\nA. Ingestion: taking food in; Digestion: breaking food down; Absorption: nutrients enter bloodstream; Elimination: expelling waste\nB. Ingestion: breaking food down; Digestion: absorbing nutrients; Absorption: expelling waste; Elimination: taking food in\nC. Ingestion: absorbing nutrients; Digestion: expelling waste; Absorption: taking food in; Elimination: breaking food down\nD. Ingestion: expelling waste; Digestion: taking food in; Absorption: breaking food down; Elimination: absorbing nutrients\n\nAnswer:",
+    "expected_answer": "A. Ingestion: taking food in; Digestion: breaking food down; Absorption: nutrients enter bloodstream; Elimination: expelling waste",
+    "difficulty": "medium",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "SCI_085",
+    "domain": "Biology",
+    "task_type": "Biology General",
+    "prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation.Then the question is:How does RNA replication take place?\n\nA. RNA replication happens by conservative mode with thymine remaining unchanged.\nB. RNA replication occurs through semiconservative mode with uracil replacing thymine.\nC. RNA replication involves a fully new double-stranded RNA molecule.\nD. RNA replication occurs by dispersive mode with uracil replacing cytosine.\n\nAnswer:",
+    "expected_answer": "B. RNA replication occurs through semiconservative mode with uracil replacing thymine.",
+    "difficulty": "medium",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "SCI_092",
+    "domain": "Biology",
+    "task_type": "Biology General",
+    "prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation.Then the question is:How do plants and fungi benefit from each other through a mycorrhiza?\n\nA. Plants and fungi compete for resources, benefiting both.\nB. Plants produce toxins to protect fungi, and fungi help plants reproduce.\nC. Plants absorb nutrients from fungi, and fungi obtain sunlight from plants.\nD. Plants provide food to fungi, and fungi provide nutrients to plants.\n\nAnswer:",
+    "expected_answer": "D. Plants provide food to fungi, and fungi provide nutrients to plants.",
+    "difficulty": "medium",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "SCI_094",
+    "domain": "Biology",
+    "task_type": "Biology General",
+    "prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation.Then the question is:How does a tetrad form in prophase I of meiosis?\n\nA. Chromosomes duplicate, creating 4 chromatids.\nB. Two non-homologous chromosomes align together.\nC. Homologous chromosomes align, forming 4 chromatids.\nD. Sister chromatids exchange genetic material.\n\nAnswer:",
+    "expected_answer": "C. Homologous chromosomes align, forming 4 chromatids.",
+    "difficulty": "medium",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "SCI_109",
+    "domain": "Biology",
+    "task_type": "Biology General",
+    "prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation.Then the question is:What are invertebrates?\n\nA. Plants without backbones, mostly insects, with differentiated tissues and a digestive chamber.\nB. Animals without backbones, mostly insects, with differentiated tissues and a digestive chamber.\nC. Animals without backbones, mostly mammals, with differentiated tissues and a digestive chamber.\nD. Animals with backbones, mostly insects, with differentiated tissues and a digestive chamber.\n\nAnswer:",
+    "expected_answer": "B. Animals without backbones, mostly insects, with differentiated tissues and a digestive chamber.",
+    "difficulty": "medium",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "SCI_111",
+    "domain": "Biology",
+    "task_type": "Biology General",
+    "prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation.Then the question is:How can an antibiotic resistant strain of bacteria occur?\n\nA. Antibiotic resistance evolves through bacteria communication.\nB. Antibiotic resistance develops through genetic mutations.\nC. Antibiotic resistance arises from bacteria consuming antibiotics.\nD. Antibiotic resistance occurs due to excessive antibiotic usage.\n\nAnswer:",
+    "expected_answer": "B. Antibiotic resistance develops through genetic mutations.",
+    "difficulty": "medium",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "SCI_112",
+    "domain": "Biology",
+    "task_type": "Biology General",
+    "prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation.Then the question is:What is the significance of the ratio of 9:3:3:1 in Mendelian Genetics (i.e. dihybrid cross)?\n\nA. 1: Phenotypic ratio in a dihybrid cross: 9 dominant-dominant, 6 dominant-recessive, 1 recessive-recessive.\nB. 3: Phenotypic ratio in a dihybrid cross: 8 dominant-dominant, 4 dominant-recessive, 3 recessive-dominant, 1 recessive-recessive.\nC. Phenotypic ratio in a dihybrid cross: 9 dominant-dominant, 3 dominant-recessive, 3 recessive-dominant, 1 recessive-recessive.\nD. 2: Phenotypic ratio in a dihybrid cross: 9 dominant-dominant, 4 dominant-recessive, 3 recessive-dominant.\n\nAnswer:",
+    "expected_answer": "C. Phenotypic ratio in a dihybrid cross: 9 dominant-dominant, 3 dominant-recessive, 3 recessive-dominant, 1 recessive-recessive.",
+    "difficulty": "medium",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "SCI_123",
+    "domain": "Biology",
+    "task_type": "Biology General",
+    "prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation.Then the question is:Are endangered species caused by human actions or a natural cycle?\n\nA. Natural cycles are the primary cause of endangered species.\nB. Endangered species are caused by both human actions and natural cycles, but recently, human actions have been the main cause.\nC. Endangered species are not affected by human actions or natural cycles.\nD. Endangered species are solely caused by human actions.\n\nAnswer:",
+    "expected_answer": "B. Endangered species are caused by both human actions and natural cycles, but recently, human actions have been the main cause.",
+    "difficulty": "medium",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "SCI_136",
+    "domain": "Biology",
+    "task_type": "Biology General",
+    "prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation.Then the question is:How do bones support movement?\n\nA. Bones contract and expand to facilitate movement.\nB. Bones form joints and provide lever action for muscle movement.\nC. Bones produce lubrication for smooth motion.\nD. Bones store energy and release it during movement.\n\nAnswer:",
+    "expected_answer": "B. Bones form joints and provide lever action for muscle movement.",
+    "difficulty": "medium",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "SCI_138",
+    "domain": "Biology",
+    "task_type": "Biology General",
+    "prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation.Then the question is:What are opportunistic species?\n\nA. Species with high growth rate and numerous offspring\nB. Species with slow growth rate and few offspring\nC. Species with stable population and limited reproduction\nD. Species with fluctuating growth rate and variable offspring\n\nAnswer:",
+    "expected_answer": "A. Species with high growth rate and numerous offspring",
+    "difficulty": "medium",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "SCI_139",
+    "domain": "Biology",
+    "task_type": "Biology General",
+    "prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation.Then the question is:What is the hypothalamus gland?\n\nA. A part of the immune system that produces antibodies.\nB. A brain region that controls hormone release, body homeostasis, and sleep cycle.\nC. A structure that filters blood and produces urine.\nD. A gland that produces digestive enzymes.\n\nAnswer:",
+    "expected_answer": "B. A brain region that controls hormone release, body homeostasis, and sleep cycle.",
+    "difficulty": "medium",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "SCI_145",
+    "domain": "Biology",
+    "task_type": "Biology General",
+    "prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation.Then the question is:What is the role of kidneys in circulatory system?\n\nA. Produce hormones and enzymes.\nB. Transport nutrients and oxygen.\nC. Control blood pressure and clotting.\nD. Filter blood and regulate water content.\n\nAnswer:",
+    "expected_answer": "D. Filter blood and regulate water content.",
+    "difficulty": "medium",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "SCI_152",
+    "domain": "Biology",
+    "task_type": "Biology General",
+    "prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation.Then the question is:What is the chemical equation for cellular respiration?\n\nA. C\u2086H\u2081\u2082O\u2086 + 6O\u2082 \u2192 6CO\u2082 + 6H\u2082O + energy\nB. C\u2086H\u2081\u2082O\u2086 + 6H\u2082O \u2192 6CO\u2082 + 6O\u2082 + energy\nC. C\u2086H\u2081\u2082O\u2086 + 6CO\u2082 \u2192 6O\u2082 + 6H\u2082O + energy\nD. 6O\u2082 + 6H\u2082O \u2192 C\u2086H\u2081\u2082O\u2086 + 6CO\u2082 + energy\n\nAnswer:",
+    "expected_answer": "A. C\u2086H\u2081\u2082O\u2086 + 6O\u2082 \u2192 6CO\u2082 + 6H\u2082O + energy",
+    "difficulty": "medium",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "SCI_165",
+    "domain": "Biology",
+    "task_type": "Biology General",
+    "prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation.Then the question is:How can sunlight damage your eyes?\n\nA. Sunlight causes the eye's lens to expand and break.\nB. Sunlight focused on the retina can burn and scar it.\nC. Sunlight leads to the growth of harmful bacteria in the eyes.\nD. Sunlight triggers chemical reactions that damage the cornea.\n\nAnswer:",
+    "expected_answer": "B. Sunlight focused on the retina can burn and scar it.",
+    "difficulty": "medium",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "SCI_166",
+    "domain": "Biology",
+    "task_type": "Biology General",
+    "prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation.Then the question is:Why do materials diffuse across a membrane?\n\nA. Materials diffuse across a membrane to store substances for future use.\nB. Materials diffuse across a membrane to generate energy for cellular functions.\nC. Materials diffuse across a membrane to maintain a constant concentration in all areas.\nD. Materials diffuse across a membrane to move from high to low concentration areas, using passive and active processes.\n\nAnswer:",
+    "expected_answer": "D. Materials diffuse across a membrane to move from high to low concentration areas, using passive and active processes.",
+    "difficulty": "medium",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "SCI_168",
+    "domain": "Biology",
+    "task_type": "Biology General",
+    "prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation.Then the question is:What are monomers and polymers?\n\nA. Monomers are the building blocks of polymers.\nB. Polymers are the building blocks of monomers.\nC. Monomers and polymers are types of carbohydrates.\nD. Polymers are single units that form monomers.\n\nAnswer:",
+    "expected_answer": "A. Monomers are the building blocks of polymers.",
+    "difficulty": "medium",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "SCI_169",
+    "domain": "Biology",
+    "task_type": "Biology General",
+    "prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation.Then the question is:How does a bacteria cell differ from a human cheek cell?\n\nA. Human cheek cells can reproduce faster than bacteria cells.\nB. Bacteria cells are larger and have more organelles than human cells.\nC. Bacteria cells have a more complex nucleus than human cells.\nD. Bacteria cells lack nuclear organization and membrane structures found in human cells.\n\nAnswer:",
+    "expected_answer": "D. Bacteria cells lack nuclear organization and membrane structures found in human cells.",
+    "difficulty": "medium",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "SCI_181",
+    "domain": "Biology",
+    "task_type": "Biology General",
+    "prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation.Then the question is:How does interstitial fluid affect the cells?\n\nA. Interstitial fluid only provides a cushion between cells, with no other functions.\nB. Interstitial fluid dehydrates cells, causing them to shrink and lose function.\nC. Interstitial fluid provides nutrients, regulates pH, salinity, temperature, and contains white blood cells for protection.\nD. Interstitial fluid creates a barrier that prevents cells from communicating with each other.\n\nAnswer:",
+    "expected_answer": "C. Interstitial fluid provides nutrients, regulates pH, salinity, temperature, and contains white blood cells for protection.",
+    "difficulty": "medium",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "SCI_189",
+    "domain": "Biology",
+    "task_type": "Biology General",
+    "prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation.Then the question is:What is exponential growth?\n\nA. Exponential growth is a linear function that increases over time, represented by the equation f(t)=At+b.\nB. Exponential growth is a function that increases at a constant rate, represented by the equation f(t)=Ab^t.\nC. Exponential growth is a function that decreases rapidly over time, represented by the equation f(t)=Ae^(-bt).\nD. Exponential growth is a function that increases rapidly over time, represented by the equation f(t)=Ae^(bt).\n\nAnswer:",
+    "expected_answer": "D. Exponential growth is a function that increases rapidly over time, represented by the equation f(t)=Ae^(bt).",
+    "difficulty": "medium",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "SCI_190",
+    "domain": "Biology",
+    "task_type": "Biology General",
+    "prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation.Then the question is:What is meant by complete and incomplete when talking about amino acids?\n\nA. Complete amino acids are found in animal-based proteins; incomplete ones are in plant-based proteins.\nB. Complete amino acids can be produced by the body; incomplete ones must be obtained from food.\nC. Complete amino acids form full proteins; incomplete ones only form partial proteins.\nD. Complete proteins have all 9 essential amino acids; incomplete proteins lack one or more.\n\nAnswer:",
+    "expected_answer": "D. Complete proteins have all 9 essential amino acids; incomplete proteins lack one or more.",
+    "difficulty": "medium",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "SCI_198",
+    "domain": "Biology",
+    "task_type": "Biology General",
+    "prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation.Then the question is:What is equilibrium in biology?\n\nA. An unstable condition in a living organism that leads to constant adaptation.\nB. The point at which an organism's growth rate becomes stagnant due to external factors.\nC. A temporary state of imbalance in a biological system causing rapid changes.\nD. A stable state of balance in a biological system with no tendency to change.\n\nAnswer:",
+    "expected_answer": "D. A stable state of balance in a biological system with no tendency to change.",
+    "difficulty": "medium",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "SCI_207",
+    "domain": "Biology",
+    "task_type": "Biology General",
+    "prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation.Then the question is:What is the definition of chemical defense in animals?\n\nA. Colors and patterns that camouflage prey.\nB. Behaviors that help prey escape predators.\nC. Chemicals that protect prey from predators.\nD. Physical structures that deter predators.\n\nAnswer:",
+    "expected_answer": "C. Chemicals that protect prey from predators.",
+    "difficulty": "medium",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "SCI_211",
+    "domain": "Biology",
+    "task_type": "Biology General",
+    "prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation.Then the question is:What is natural selection?\n\nA. Natural selection is the random process where organisms acquire new traits.\nB. Natural selection is the process where organisms adapt to their environment through learned behaviors.\nC. Natural selection is the intentional breeding of organisms to obtain desired traits.\nD. Natural selection is the process where organisms with favorable traits survive, reproduce, and pass on those traits.\n\nAnswer:",
+    "expected_answer": "D. Natural selection is the process where organisms with favorable traits survive, reproduce, and pass on those traits.",
+    "difficulty": "medium",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "SCI_225",
+    "domain": "Biology",
+    "task_type": "Biology General",
+    "prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation.Then the question is:What do molecular clocks measure?\n\nA. Molecular clocks track the movement of molecules in different environments.\nB. Molecular clocks measure changes and mutations in gene sequences over time to deduce species evolution and divergence.\nC. Molecular clocks determine the age of fossils by analyzing their molecular composition.\nD. Molecular clocks measure the speed of chemical reactions within cells.\n\nAnswer:",
+    "expected_answer": "B. Molecular clocks measure changes and mutations in gene sequences over time to deduce species evolution and divergence.",
+    "difficulty": "medium",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "SCI_229",
+    "domain": "Biology",
+    "task_type": "Biology General",
+    "prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation.Then the question is:If a protein common to two different species has many amino acid differences, what can be concluded?\n\nA. The species are closely related and diverged recently.\nB. The species are evolutionarily different and diverged not so recently.\nC. The species are identical despite the amino acid differences.\nD. The amino acid differences have no impact on evolution.\n\nAnswer:",
+    "expected_answer": "B. The species are evolutionarily different and diverged not so recently.",
+    "difficulty": "medium",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "SCI_232",
+    "domain": "Biology",
+    "task_type": "Biology General",
+    "prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation.Then the question is:What is Darwin's evolution theory?\n\nA. Darwin's evolution theory is based on natural selection and the idea that species change over time through variations in offspring.\nB. Darwin's evolution theory is based on the belief that species remain constant and do not change over time.\nC. Darwin's evolution theory states that organisms evolve through spontaneous generation and random mutations.\nD. Darwin's evolution theory focuses on the role of environmental catastrophes in shaping the development of species.\n\nAnswer:",
+    "expected_answer": "A. Darwin's evolution theory is based on natural selection and the idea that species change over time through variations in offspring.",
+    "difficulty": "medium",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "SCI_236",
+    "domain": "Biology",
+    "task_type": "Biology General",
+    "prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation.Then the question is:Are cytoskeleton filaments/rods a type of protein?\n\nA. Cytoskeletal elements are not related to proteins at all.\nB. Cytoskeletal elements are entirely made of protein.\nC. Proteins only provide support to cytoskeletal elements.\nD. Proteins are the subunits of cytoskeletal elements, not the elements themselves.\n\nAnswer:",
+    "expected_answer": "D. Proteins are the subunits of cytoskeletal elements, not the elements themselves.",
+    "difficulty": "medium",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "SCI_240",
+    "domain": "Biology",
+    "task_type": "Biology General",
+    "prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation.Then the question is:How do carbohydrates differ from fats?\n\nA. Carbohydrates are water-soluble polymers of monosaccharides and a primary structural component, while fats are water-insoluble esters of fatty acids and glycerol, serving as a secondary structural component and component of cell organelles.\nB. Carbohydrates are water-soluble polymers of nucleotides and a primary energy source, while fats are water-insoluble esters of fatty acids and glycerol, serving as a secondary energy source and component of cell nuclei.\nC. Carbohydrates are water-soluble polymers of monosaccharides and a primary energy source, while fats are water-insoluble esters of fatty acids and glycerol, serving as a secondary energy source and component of cell membranes.\nD. Carbohydrates are water-insoluble polymers of amino acids and a secondary energy source, while fats are water-soluble esters of fatty acids and glycerol, serving as a primary energy source and component of cell walls.\n\nAnswer:",
+    "expected_answer": "C. Carbohydrates are water-soluble polymers of monosaccharides and a primary energy source, while fats are water-insoluble esters of fatty acids and glycerol, serving as a secondary energy source and component of cell membranes.",
+    "difficulty": "medium",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "SCI_248",
+    "domain": "Biology",
+    "task_type": "Biology General",
+    "prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation.Then the question is:Sickle cell anemia is caused by a recessive allele. Roughly 1 out of every 500 african americans is afflicted with sickle cell anemia. How would you use the hardy weinberg equation to calculate the % of heterozygotes for sickle cell allele (.002=q^2)?\n\nA. 7.32%\nB. 9.21%\nC. 6.48%\nD. 8.54%\n\nAnswer:",
+    "expected_answer": "D. 8.54%",
+    "difficulty": "medium",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "SCI_254",
+    "domain": "Biology",
+    "task_type": "Biology General",
+    "prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation.Then the question is:How do moss plants exhibit alternation of generations?\n\nA. Moss plants exhibit alternation of generations by producing both haploid and diploid gametes in a single generation, without any alternation between generations.\nB. Moss plants exhibit alternation of generations through a cycle of haploid gametophytic and diploid sporophytic generations, reproducing sexually by gametes and asexually by meiospores, respectively.\nC. Moss plants exhibit alternation of generations by only producing haploid gametes through sexual reproduction, without any sporophytic generation.\nD. Moss plants exhibit alternation of generations by constantly switching between sexual and asexual reproduction, without distinct gametophytic and sporophytic generations.\n\nAnswer:",
+    "expected_answer": "B. Moss plants exhibit alternation of generations through a cycle of haploid gametophytic and diploid sporophytic generations, reproducing sexually by gametes and asexually by meiospores, respectively.",
+    "difficulty": "medium",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "SCI_261",
+    "domain": "Biology",
+    "task_type": "Biology General",
+    "prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation.Then the question is:Which step of aerobic cellular respiration produces the most atp?\n\nA. Glycolysis\nB. Citric acid cycle\nC. Oxidative phosphorylation\nD. Electron transport chain (ETS)\n\nAnswer:",
+    "expected_answer": "D. Electron transport chain (ETS)",
+    "difficulty": "medium",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "SCI_270",
+    "domain": "Biology",
+    "task_type": "Biology General",
+    "prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation.Then the question is:What foods help bone and muscle recovery?\n\nA. Orange juice, coffee, chocolate, avocado, rice\nB. Bread, pasta, ice cream, chicken, potatoes\nC. Yogurt, milk, spinach, fish, eggs, nut butter\nD. Soda, cookies, cheese, tomatoes, broccoli\n\nAnswer:",
+    "expected_answer": "C. Yogurt, milk, spinach, fish, eggs, nut butter",
+    "difficulty": "medium",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "SCI_271",
+    "domain": "Biology",
+    "task_type": "Biology General",
+    "prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation.Then the question is:What is the purpose of the Na+ and K+ pumps in animals?\n\nA. Produces energy, synthesizes proteins, regulates gene expression, and controls cell division.\nB. Maintains resting potential, aids transport, regulates cell volume, and controls neuron activity states.\nC. Assists in cell communication, repairs damaged tissues, protects cells from pathogens, and mediates cell adhesion.\nD. Facilitates diffusion, absorbs nutrients, expels waste products, and provides structural support.\n\nAnswer:",
+    "expected_answer": "B. Maintains resting potential, aids transport, regulates cell volume, and controls neuron activity states.",
+    "difficulty": "medium",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "SCI_275",
+    "domain": "Biology",
+    "task_type": "Biology General",
+    "prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation.Then the question is:Why do muscle cells contract?\n\nA. Muscle cells contract because of the pressure from surrounding tissues.\nB. Muscle cells contract as a response to external stimuli like heat or cold.\nC. Muscle cells contract due to interaction between actin and myosin proteins in sarcomeres.\nD. Muscle cells contract due to electrical impulses from the brain.\n\nAnswer:",
+    "expected_answer": "C. Muscle cells contract due to interaction between actin and myosin proteins in sarcomeres.",
+    "difficulty": "medium",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "SCI_283",
+    "domain": "Biology",
+    "task_type": "Biology General",
+    "prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation.Then the question is:What are telomeres and why are they important?\n\nA. Telomeres are cellular structures that protect chromosomes from external damage.\nB. Telomeres are DNA sequences at chromosome ends that maintain integrity and shorten with age.\nC. Telomeres are enzymes responsible for DNA replication and mutation prevention.\nD. Telomeres are proteins that repair DNA and increase cell longevity.\n\nAnswer:",
+    "expected_answer": "B. Telomeres are DNA sequences at chromosome ends that maintain integrity and shorten with age.",
+    "difficulty": "medium",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "SCI_287",
+    "domain": "Biology",
+    "task_type": "Biology General",
+    "prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation.Then the question is:Does milk really help strengthen bones?\n\nA. Milk only strengthens bones in children and has no effect on adults.\nB. Milk weakens bones because of its high fat content.\nC. Milk helps strengthen bones due to its high calcium content.\nD. Milk has no effect on bone strength due to its low calcium content.\n\nAnswer:",
+    "expected_answer": "C. Milk helps strengthen bones due to its high calcium content.",
+    "difficulty": "medium",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "SCI_288",
+    "domain": "Biology",
+    "task_type": "Biology General",
+    "prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation.Then the question is:How does drug resistance develop in bacteria?\n\nA. Bacteria develop drug resistance by sharing antibiotic-resistant genes through horizontal gene transfer.\nB. Drug resistance happens when antibiotics become less effective over time due to chemical degradation.\nC. Drug resistance in bacteria develops when antibiotic-resistant bacteria survive and multiply, especially if patients stop taking antibiotics too soon.\nD. Drug resistance occurs when bacteria evolve to produce enzymes that neutralize antibiotics.\n\nAnswer:",
+    "expected_answer": "C. Drug resistance in bacteria develops when antibiotic-resistant bacteria survive and multiply, especially if patients stop taking antibiotics too soon.",
+    "difficulty": "medium",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "SCI_298",
+    "domain": "Biology",
+    "task_type": "Biology General",
+    "prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation.Then the question is:Why are the water, nitrogen, carbon, and oxygen cycles important to an ecosystem?\n\nA. Cycles regulate species presence, quantities, and ecosystem changes over time.\nB. Cycles determine the size of an ecosystem.\nC. Cycles only affect the growth of plants.\nD. Cycles control weather patterns and temperature.\n\nAnswer:",
+    "expected_answer": "A. Cycles regulate species presence, quantities, and ecosystem changes over time.",
+    "difficulty": "medium",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "SCI_301",
+    "domain": "Biology",
+    "task_type": "Biology General",
+    "prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation.Then the question is:What's the difference between macro-evolution and micro-evolution?\n\nA. Micro-evolution occurs over short periods, while macro-evolution occurs over millions of years.\nB. Micro-evolution is the study of small organisms, while macro-evolution is the study of large organisms.\nC. Micro-evolution is change in an organism's DNA, while macro-evolution is change in an organism's physical traits.\nD. Micro-evolution is observable change within a species, while macro-evolution is unobserved change from one species to another.\n\nAnswer:",
+    "expected_answer": "D. Micro-evolution is observable change within a species, while macro-evolution is unobserved change from one species to another.",
+    "difficulty": "medium",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "SCI_310",
+    "domain": "Biology",
+    "task_type": "Biology General",
+    "prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation.Then the question is:Why are Calico cats only females?\n\nA. Calico cats are mostly females due to the fur coloration gene being on the X chromosome.\nB. Calico cats are females because of a specific gene on the Y chromosome.\nC. Calico cats are only females due to a hormonal difference.\nD. Calico cats are only females due to a unique environmental influence.\n\nAnswer:",
+    "expected_answer": "A. Calico cats are mostly females due to the fur coloration gene being on the X chromosome.",
+    "difficulty": "medium",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "SCI_314",
+    "domain": "Biology",
+    "task_type": "Biology General",
+    "prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation.Then the question is:How does an ecosystem differ from the biosphere?\n\nA. Ecosystem focuses on a specific species, while biosphere includes all species on Earth.\nB. Ecosystem is a smaller area within the biosphere, which only includes specific climate zones.\nC. Ecosystem includes all biotic and abiotic factors in an area, while biosphere encapsulates the entire area of planet occupied by life forms.\nD. Ecosystem only includes living organisms, while biosphere includes both living and non-living factors.\n\nAnswer:",
+    "expected_answer": "C. Ecosystem includes all biotic and abiotic factors in an area, while biosphere encapsulates the entire area of planet occupied by life forms.",
+    "difficulty": "medium",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "SCI_315",
+    "domain": "Biology",
+    "task_type": "Biology General",
+    "prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation.Then the question is:What is the function of a fruit?\n\nA. Provide nutrition to plant\nB. Protect and disperse seeds\nC. Store energy for growth\nD. Attract pollinators\n\nAnswer:",
+    "expected_answer": "B. Protect and disperse seeds",
+    "difficulty": "medium",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "SCI_330",
+    "domain": "Biology",
+    "task_type": "Biology General",
+    "prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation.Then the question is:What is the active site of an enzyme?\n\nA. A temporary storage area for substrates.\nB. A chemical reaction within the enzyme.\nC. A specific pocket in the enzyme that binds to the substrate.\nD. An external factor affecting enzyme function.\n\nAnswer:",
+    "expected_answer": "C. A specific pocket in the enzyme that binds to the substrate.",
+    "difficulty": "medium",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "SCI_332",
+    "domain": "Biology",
+    "task_type": "Biology General",
+    "prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation.Then the question is:What is an umbrella species?\n\nA. An umbrella species is chosen for conservation decisions because protecting it indirectly protects other species in its habitat.\nB. An umbrella species is a species that can adapt to climate change and other environmental pressures without needing protection.\nC. An umbrella species is one that can survive in various habitats and doesn't require specific conservation efforts.\nD. An umbrella species is a species that benefits from human intervention, such as artificial feeding and habitat management.\n\nAnswer:",
+    "expected_answer": "A. An umbrella species is chosen for conservation decisions because protecting it indirectly protects other species in its habitat.",
+    "difficulty": "medium",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "SCI_333",
+    "domain": "Biology",
+    "task_type": "Biology General",
+    "prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation.Then the question is:For each molecule of glucose that is metabolized by glycolysis and the citric acid cycle, what is the total number $FADH_2$ molecules produced?\n\nA. 2 FADH2 molecules\nB. 1 FADH2 molecule\nC. 4 FADH2 molecules\nD. 3 FADH2 molecules\n\nAnswer:",
+    "expected_answer": "A. 2 FADH2 molecules",
+    "difficulty": "medium",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "SCI_339",
+    "domain": "Biology",
+    "task_type": "Biology General",
+    "prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation.Then the question is:How do we hear sound?\n\nA. Sound travels through ear canal, vibrates eardrum, reaches inner ear, and is processed by the brain.\nB. Sound enters the nose, vibrates nasal passages, reaches inner ear, and is processed by the brain.\nC. Sound enters the mouth, vibrates the tongue, reaches inner ear, and is processed by the brain.\nD. Sound is absorbed by skin, travels through bloodstream, reaches inner ear, and is processed by the brain.\n\nAnswer:",
+    "expected_answer": "A. Sound travels through ear canal, vibrates eardrum, reaches inner ear, and is processed by the brain.",
+    "difficulty": "medium",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "SCI_343",
+    "domain": "Biology",
+    "task_type": "Biology General",
+    "prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation.Then the question is:Mendel's First Law is known as the Law of?\n\nA. Law of Segregation\nB. Law of Inheritance\nC. Law of Independent Assortment\nD. Law of Dominance\n\nAnswer:",
+    "expected_answer": "A. Law of Segregation",
+    "difficulty": "medium",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "SCI_348",
+    "domain": "Biology",
+    "task_type": "Biology General",
+    "prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation.Then the question is:Which organelles in plants that are responsible most of the ATP production?\n\nA. Golgi apparatus\nB. Ribosomes\nC. Chloroplasts\nD. Mitochondria\n\nAnswer:",
+    "expected_answer": "D. Mitochondria",
+    "difficulty": "medium",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "SCI_351",
+    "domain": "Biology",
+    "task_type": "Biology General",
+    "prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation.Then the question is:During which period did insects evolve?\n\nA. Insects evolved during the Permian period, around 298 to 252 million years ago.\nB. Insects evolved during the Devonian period, around 407 to 396 million years ago.\nC. Insects evolved during the Cambrian period, around 541 to 485 million years ago.\nD. Insects evolved during the Carboniferous period, around 359 to 299 million years ago.\n\nAnswer:",
+    "expected_answer": "B. Insects evolved during the Devonian period, around 407 to 396 million years ago.",
+    "difficulty": "medium",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "SCI_353",
+    "domain": "Biology",
+    "task_type": "Biology General",
+    "prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation.Then the question is:How does a plant get food after the stored food in the cotyledon is used up?\n\nA. Plants obtain food from cotyledon starch, converted into glucose for cellular respiration.\nB. Plants absorb nutrients from soil after cotyledon food is depleted.\nC. Plants consume insects for food when cotyledon reserves are gone.\nD. Plants rely on photosynthesis to produce food after cotyledon storage is used.\n\nAnswer:",
+    "expected_answer": "A. Plants obtain food from cotyledon starch, converted into glucose for cellular respiration.",
+    "difficulty": "medium",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "SCI_370",
+    "domain": "Biology",
+    "task_type": "Biology General",
+    "prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation.Then the question is:Both cytokinins and gibberellins promote plant growth. What are the ways in which these hormones stimulate growth?\n\nA. Cytokinins and gibberellins stimulate growth through cell division, increasing cell number and size.\nB. Cytokinins and gibberellins stimulate growth by enhancing photosynthesis and nutrient uptake.\nC. Cytokinins and gibberellins stimulate growth by regulating flowering and seed production.\nD. Cytokinins and gibberellins stimulate growth by promoting root development and water absorption.\n\nAnswer:",
+    "expected_answer": "A. Cytokinins and gibberellins stimulate growth through cell division, increasing cell number and size.",
+    "difficulty": "medium",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "SCI_372",
+    "domain": "Biology",
+    "task_type": "Biology General",
+    "prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation.Then the question is:Why is bacterial transformation important?\n\nA. Bacterial transformation increases the resistance of bacteria to external factors.\nB. Bacterial transformation prevents harmful mutations from occurring in the genome.\nC. Bacterial transformation allows artificial gene uptake, incorporation into the genome, and mass production of proteins.\nD. Bacterial transformation enables bacteria to communicate with each other more effectively.\n\nAnswer:",
+    "expected_answer": "C. Bacterial transformation allows artificial gene uptake, incorporation into the genome, and mass production of proteins.",
+    "difficulty": "medium",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "SCI_384",
+    "domain": "Biology",
+    "task_type": "Biology General",
+    "prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation.Then the question is:What are r-selected species?\n\nA. R-selected species reproduce quickly, have many offspring, and live in unstable environments.\nB. R-selected species focus on parental care, have large body sizes, and live in resource-rich environments.\nC. R-selected species have long lifespans, strong competition, and live in predictable environments.\nD. R-selected species reproduce slowly, have few offspring, and live in stable environments.\n\nAnswer:",
+    "expected_answer": "A. R-selected species reproduce quickly, have many offspring, and live in unstable environments.",
+    "difficulty": "medium",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "SCI_385",
+    "domain": "Biology",
+    "task_type": "Biology General",
+    "prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation.Then the question is:How are enzymes isolated?\n\nA. Enzymes are isolated by heating a sample and collecting the enzymes as they evaporate.\nB. Enzymes are isolated by breaking down cells and collecting the enzymes through filtration.\nC. Enzymes are isolated by adding chemicals that cause them to precipitate out of a solution.\nD. Enzymes are isolated using various types of chromatography, exploiting their unique physical properties.\n\nAnswer:",
+    "expected_answer": "D. Enzymes are isolated using various types of chromatography, exploiting their unique physical properties.",
+    "difficulty": "medium",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "SCI_391",
+    "domain": "Biology",
+    "task_type": "Biology General",
+    "prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation.Then the question is:What are the 3 basic parts of all cells?\n\nA. Golgi apparatus, lysosome, peroxisome\nB. Cell wall, mitochondria, nucleus\nC. Cell membrane, cytoplasm, genetic material\nD. Vacuole, ribosome, endoplasmic reticulum\n\nAnswer:",
+    "expected_answer": "C. Cell membrane, cytoplasm, genetic material",
+    "difficulty": "medium",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "SCI_400",
+    "domain": "Biology",
+    "task_type": "Biology General",
+    "prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation.Then the question is:Why is radial symmetry uncommon for land animals?\n\nA. Land animals evolved from radial-symmetrical ancestors.\nB. Radial symmetry limits land animals' ability to communicate.\nC. Radial symmetry is more energy-efficient for land animals.\nD. Radial symmetry is uncommon due to appendages and internal organ placement.\n\nAnswer:",
+    "expected_answer": "D. Radial symmetry is uncommon due to appendages and internal organ placement.",
+    "difficulty": "medium",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "SCI_404",
+    "domain": "Biology",
+    "task_type": "Biology General",
+    "prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation.Then the question is:How is the process of transcription different in prokaryotes and eukaryotes?\n\nA. Prokaryotes: cytoplasm, streamlined, -10/-35 promoters, sigma factor. Eukaryotes: nucleus, processed RNA, -30 promoter, transcription factors, pre-mRNA processing.\nB. Prokaryotes: nucleus, processed RNA, -30 promoter, transcription factors, pre-mRNA processing. Eukaryotes: cytoplasm, streamlined, -10/-35 promoters, sigma factor.\nC. Prokaryotes: cytoplasm, processed RNA, -30 promoter, transcription factors, pre-mRNA processing. Eukaryotes: nucleus, streamlined, -10/-35 promoters, sigma factor.\nD. Prokaryotes: nucleus, streamlined, -10/-35 promoters, sigma factor. Eukaryotes: cytoplasm, processed RNA, -30 promoter, transcription factors, pre-mRNA processing.\n\nAnswer:",
+    "expected_answer": "A. Prokaryotes: cytoplasm, streamlined, -10/-35 promoters, sigma factor. Eukaryotes: nucleus, processed RNA, -30 promoter, transcription factors, pre-mRNA processing.",
+    "difficulty": "medium",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "SCI_405",
+    "domain": "Biology",
+    "task_type": "Biology General",
+    "prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation.Then the question is:What is the difference between transformation and conjunction of bacteria?\n\nA. Transformation and conjugation are both processes of incorporating external DNA, but transformation occurs through direct contact, while conjugation uses cell membranes.\nB. Transformation is the exchange of genetic material through physical contact, while conjugation involves incorporating external DNA into the genome.\nC. Transformation involves incorporating external DNA into the genome, while conjugation is the exchange of genetic material through physical contact between bacteria.\nD. Transformation is the fusion of two bacteria, while conjugation is the process of picking up external DNA and incorporating it into the genome.\n\nAnswer:",
+    "expected_answer": "C. Transformation involves incorporating external DNA into the genome, while conjugation is the exchange of genetic material through physical contact between bacteria.",
+    "difficulty": "medium",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "SCI_421",
+    "domain": "Biology",
+    "task_type": "Biology General",
+    "prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation.Then the question is:How does the surface tension of water impact living things?\n\nA. Surface tension increases water's density, making it difficult for living organisms to swim.\nB. Surface tension prevents insects from entering water and causes water to evaporate faster in plants.\nC. Surface tension causes water to form bubbles, providing extra oxygen for aquatic life.\nD. Surface tension allows insects to walk on water and helps water move up xylem tissues in plants.\n\nAnswer:",
+    "expected_answer": "D. Surface tension allows insects to walk on water and helps water move up xylem tissues in plants.",
+    "difficulty": "medium",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "SCI_430",
+    "domain": "Biology",
+    "task_type": "Biology General",
+    "prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation.Then the question is:Why is enzyme activity similar to, but not exactly like, a \"lock\" and \"key\"?\n\nA. Enzyme activity is completely different from a lock and key mechanism.\nB. Enzyme specificity comes from its shape, but the best fit is for the intermediate transition state, not the substrate.\nC. Enzyme activity is an exact lock and key mechanism with no variations.\nD. Enzyme specificity comes from its chemical composition, not its shape.\n\nAnswer:",
+    "expected_answer": "B. Enzyme specificity comes from its shape, but the best fit is for the intermediate transition state, not the substrate.",
+    "difficulty": "medium",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "SCI_437",
+    "domain": "Biology",
+    "task_type": "Biology General",
+    "prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation.Then the question is:How can asexual reproduction be an advantage to an organism?\n\nA. Faster growth rate\nB. Less energy consumption\nC. Increased genetic diversity\nD. No need to find a mate\n\nAnswer:",
+    "expected_answer": "D. No need to find a mate",
+    "difficulty": "medium",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "SCI_439",
+    "domain": "Biology",
+    "task_type": "Biology General",
+    "prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation.Then the question is:What are genetically modified foods?\n\nA. Foods made from organic farming methods.\nB. Foods with extra genes for specific purposes, like Bt brinjal and Bt mustard.\nC. Foods enriched with vitamins and minerals.\nD. Foods preserved with artificial additives.\n\nAnswer:",
+    "expected_answer": "B. Foods with extra genes for specific purposes, like Bt brinjal and Bt mustard.",
+    "difficulty": "medium",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "SCI_443",
+    "domain": "Biology",
+    "task_type": "Biology General",
+    "prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation.Then the question is:What is QMEAN?\n\nA. QMEAN is a method for measuring protein-protein interactions in a cellular environment.\nB. QMEAN is a statistical approach for analyzing gene expression data in biological systems.\nC. QMEAN is a scoring function used in protein structure prediction to identify the best model within an ensemble of alternative models.\nD. QMEAN is a technique for determining the amino acid sequence of a protein from its structure.\n\nAnswer:",
+    "expected_answer": "C. QMEAN is a scoring function used in protein structure prediction to identify the best model within an ensemble of alternative models.",
+    "difficulty": "medium",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "SCI_445",
+    "domain": "Biology",
+    "task_type": "Biology General",
+    "prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation.Then the question is:Where does the chemical digestion of carbohydrates begin in the body?\n\nA. Bile in small intestine\nB. Salivary amylase in saliva\nC. Pancreatic amylase in pancreas\nD. Gastric juice in stomach\n\nAnswer:",
+    "expected_answer": "B. Salivary amylase in saliva",
+    "difficulty": "medium",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "SCI_452",
+    "domain": "Biology",
+    "task_type": "Biology General",
+    "prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation.Then the question is:What are the advantages of a large surface area in cells?\n\nA. Slower cell division\nB. Faster diffusion rate and easier molecule absorption\nC. Reduced energy consumption\nD. Increased cell protection\n\nAnswer:",
+    "expected_answer": "B. Faster diffusion rate and easier molecule absorption",
+    "difficulty": "medium",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "SCI_453",
+    "domain": "Biology",
+    "task_type": "Biology General",
+    "prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation.Then the question is:What are three functions of proteins?\n\nA. Building muscles, blood clotting, and immunity\nB. Catalyzing reactions, hormone regulation, and oxygen transport\nC. Hair and nail growth, muscle contractility, and DNA replication\nD. Responding to stimuli, wound healing, and pathogen inhibition\n\nAnswer:",
+    "expected_answer": "B. Catalyzing reactions, hormone regulation, and oxygen transport",
+    "difficulty": "medium",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "SCI_464",
+    "domain": "Biology",
+    "task_type": "Biology General",
+    "prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation.Then the question is:How many mass extinctions are recorded in the fossil record in addition to the one occurring now?\n\nA. Five mass extinctions\nB. Four mass extinctions\nC. Six mass extinctions\nD. Three mass extinctions\n\nAnswer:",
+    "expected_answer": "A. Five mass extinctions",
+    "difficulty": "medium",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "SCI_472",
+    "domain": "Biology",
+    "task_type": "Biology General",
+    "prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation.Then the question is:What is a biophysical environment?\n\nA. A biophysical environment is the study of how organisms communicate with each other.\nB. A biophysical environment is the process of organisms adapting to human interference.\nC. A biophysical environment is the combination of physical, biological, and environmental factors that affect organisms' survival and adaptation.\nD. A biophysical environment is a man-made ecosystem designed for specific species.\n\nAnswer:",
+    "expected_answer": "C. A biophysical environment is the combination of physical, biological, and environmental factors that affect organisms' survival and adaptation.",
+    "difficulty": "medium",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "SCI_478",
+    "domain": "Biology",
+    "task_type": "Biology General",
+    "prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation.Then the question is:Where do we find Nucleic acids?\n\nA. Nucleic acids are found in the nucleus, cytoplasm, mitochondria, and nucleoid.\nB. Nucleic acids are found in the vacuoles, lysosomes, and peroxisomes.\nC. Nucleic acids are found in the cell membrane, endoplasmic reticulum, and Golgi apparatus.\nD. Nucleic acids are found in the ribosomes, centrioles, and cilia.\n\nAnswer:",
+    "expected_answer": "A. Nucleic acids are found in the nucleus, cytoplasm, mitochondria, and nucleoid.",
+    "difficulty": "medium",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "SCI_489",
+    "domain": "Biology",
+    "task_type": "Biology General",
+    "prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation.Then the question is:How can compounds be broken apart?\n\nA. Compounds disintegrate through nuclear reactions like fission or fusion.\nB. Compounds split apart by biological processes like digestion or fermentation.\nC. Compounds separate by physical methods like filtration or evaporation.\nD. Compounds break apart through decomposition reactions like electrolysis or thermal decomposition.\n\nAnswer:",
+    "expected_answer": "D. Compounds break apart through decomposition reactions like electrolysis or thermal decomposition.",
+    "difficulty": "medium",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "SCI_490",
+    "domain": "Biology",
+    "task_type": "Biology General",
+    "prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation.Then the question is:What is the advantage of the small intestine being so long and having villi?\n\nA. Long length and villi allow more time for digestion and increase surface area for nutrient absorption.\nB. Long length and villi help to regulate body temperature and maintain homeostasis.\nC. Long length and villi allow for easier passage of waste materials.\nD. Long length and villi help to slow down food movement and prevent indigestion.\n\nAnswer:",
+    "expected_answer": "A. Long length and villi allow more time for digestion and increase surface area for nutrient absorption.",
+    "difficulty": "medium",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "SCI_491",
+    "domain": "Biology",
+    "task_type": "Biology General",
+    "prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation.Then the question is:What is cytology?\n\nA. Analysis of cell reproduction\nB. Examination of cell mutations\nC. Study of cell structure and function\nD. Study of tissue organization\n\nAnswer:",
+    "expected_answer": "C. Study of cell structure and function",
+    "difficulty": "medium",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "SCI_492",
+    "domain": "Biology",
+    "task_type": "Biology General",
+    "prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation.Then the question is:What are some invasive species to North America?\n\nA. Common yarrow, mayweed, killer algae, bull thistle\nB. Cane toad, brown tree snake, red-eared slider, Japanese knotweed\nC. Asian carp, zebra mussel, lionfish, kudzu\nD. European starling, house sparrow, emerald ash borer, gypsy moth\n\nAnswer:",
+    "expected_answer": "A. Common yarrow, mayweed, killer algae, bull thistle",
+    "difficulty": "medium",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "SCI_493",
+    "domain": "Biology",
+    "task_type": "Biology General",
+    "prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation.Then the question is:What does mitosis involve?\n\nA. Formation of specialized cells from stem cells\nB. Cell growth and energy production\nC. DNA duplication and division into two identical cells\nD. Exchange of genetic material between cells\n\nAnswer:",
+    "expected_answer": "C. DNA duplication and division into two identical cells",
+    "difficulty": "medium",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "SCI_497",
+    "domain": "Biology",
+    "task_type": "Biology General",
+    "prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation.Then the question is:How does a virus harm a cell?\n\nA. A virus harms a cell by entering, multiplying, disrupting normal function, and possibly causing cancer.\nB. A virus strengthens a cell by repairing damaged cell walls, promoting growth, and increasing efficiency.\nC. A virus protects a cell by forming a barrier against harmful substances, neutralizing toxins, and improving immunity.\nD. A virus helps a cell by providing nutrients, boosting energy production, and enhancing communication.\n\nAnswer:",
+    "expected_answer": "A. A virus harms a cell by entering, multiplying, disrupting normal function, and possibly causing cancer.",
+    "difficulty": "medium",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "SCI_499",
+    "domain": "Biology",
+    "task_type": "Biology General",
+    "prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation.Then the question is:What is a life zone?\n\nA. A protected region designated for the conservation of wildlife.\nB. An area with a high concentration of diverse species.\nC. A specific habitat where a species thrives.\nD. A geographic region defined by its characteristic life forms and vegetation.\n\nAnswer:",
+    "expected_answer": "D. A geographic region defined by its characteristic life forms and vegetation.",
+    "difficulty": "medium",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "SCI_501",
+    "domain": "Biology",
+    "task_type": "Biology General",
+    "prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation.Then the question is:What muscles are used when walking?\n\nA. Flexor carpi radialis, extensor carpi radialis, palmaris longus, flexor digitorum superficialis, extensor digitorum, and lumbricals.\nB. Biceps, triceps, deltoids, pectorals, latissimus dorsi, trapezius, rhomboids, erector spinae, rectus abdominis, and obliques.\nC. Quadriceps, soleus, gastrocnemius, tibialis anterior/posterior, peroneals, gluteus, hamstrings, adductor magnus, sartorius, iliosoas, tensor fasciae latae, pectineus, adductor longus, and brevis.\nD. Scalene, sternocleidomastoid, splenius capitis, semispinalis capitis, levator scapulae, serratus anterior, and intercostals.\n\nAnswer:",
+    "expected_answer": "C. Quadriceps, soleus, gastrocnemius, tibialis anterior/posterior, peroneals, gluteus, hamstrings, adductor magnus, sartorius, iliosoas, tensor fasciae latae, pectineus, adductor longus, and brevis.",
+    "difficulty": "medium",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "SCI_511",
+    "domain": "Biology",
+    "task_type": "Biology General",
+    "prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation.Then the question is:What form does the radiation that is used to treat cancer take?\n\nA. Neutrons, Protons, Electrons, Beta particles\nB. Lasers, Photons, Acoustic waves, Magnetic fields\nC. Microwaves, Infrared rays, Ultraviolet rays, Alpha particles\nD. X-rays, Gamma rays, Charged particles, Radioactive Iodine\n\nAnswer:",
+    "expected_answer": "D. X-rays, Gamma rays, Charged particles, Radioactive Iodine",
+    "difficulty": "medium",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "SCI_520",
+    "domain": "Biology",
+    "task_type": "Biology General",
+    "prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation.Then the question is:Ms. Palmeri traveled to Italy this summer and went swimming in the Mediterranean Sea. Her skin felt very dry after a long day of swimming. Why does her skin feels dry?\n\nA. Skin feels dry due to a reaction with minerals in the Mediterranean Sea.\nB. Skin feels dry due to the water temperature in the Mediterranean Sea.\nC. Skin feels dry due to increased sun exposure while swimming.\nD. Skin feels dry due to water moving from skin cells to the saltier Mediterranean Sea by osmosis.\n\nAnswer:",
+    "expected_answer": "D. Skin feels dry due to water moving from skin cells to the saltier Mediterranean Sea by osmosis.",
+    "difficulty": "medium",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "SCI_521",
+    "domain": "Biology",
+    "task_type": "Biology General",
+    "prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation.Then the question is:When does secondary succession occur?\n\nA. Secondary succession occurs when ecosystems remain undisturbed for a long time.\nB. Secondary succession occurs during the growth of a new organism.\nC. Secondary succession occurs where life already existed, like after a forest fire.\nD. Secondary succession occurs where life never existed, like on a new volcanic island.\n\nAnswer:",
+    "expected_answer": "C. Secondary succession occurs where life already existed, like after a forest fire.",
+    "difficulty": "medium",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "SCI_522",
+    "domain": "Biology",
+    "task_type": "Biology General",
+    "prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation.Then the question is:What regulates your body temperature?\n\nA. Body temperature is regulated by vasoconstriction, perspiration cessation, shivering, and increased metabolic rate.\nB. Body temperature is regulated by external heat sources, increased heart rate, rapid breathing, and energy conservation.\nC. Body temperature is regulated by vasodilation, increased sweating, relaxation, and decreased metabolic rate.\nD. Body temperature is regulated by hydration, blood flow redirection, muscle contractions, and hormone fluctuations.\n\nAnswer:",
+    "expected_answer": "A. Body temperature is regulated by vasoconstriction, perspiration cessation, shivering, and increased metabolic rate.",
+    "difficulty": "medium",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "SCI_524",
+    "domain": "Biology",
+    "task_type": "Biology General",
+    "prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation.Then the question is:Is it true that insects can hear even though they don't have ears?\n\nA. No, insects rely on vibrations only.\nB. No, insects cannot hear at all.\nC. Yes, all insects have hidden ears.\nD. Yes, many insects can hear without ears.\n\nAnswer:",
+    "expected_answer": "D. Yes, many insects can hear without ears.",
+    "difficulty": "medium",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "SCI_529",
+    "domain": "Biology",
+    "task_type": "Biology General",
+    "prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation.Then the question is:How does the DNA sequence affect the structure of the protein?\n\nA. DNA sequence affects protein structure by coding amino acids; incorrect codons can cause mutations.\nB. DNA sequence determines protein structure through codon pairing.\nC. DNA sequence indirectly affects protein structure via RNA.\nD. DNA sequence has no impact on protein structure.\n\nAnswer:",
+    "expected_answer": "A. DNA sequence affects protein structure by coding amino acids; incorrect codons can cause mutations.",
+    "difficulty": "medium",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "SCI_530",
+    "domain": "Biology",
+    "task_type": "Biology General",
+    "prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation.Then the question is:What are some similarities between plant and animal cells?\n\nA. Both have cell components like ribosomes, nucleus, mitochondria, endoplasmic reticulum, lysosomes, and help build tissues.\nB. Both are prokaryotic, have flagella, and reproduce through binary fission.\nC. Both can regenerate lost parts, communicate using hormones, and require oxygen for respiration.\nD. Both have chloroplasts, cell walls, large central vacuoles, and help with photosynthesis.\n\nAnswer:",
+    "expected_answer": "A. Both have cell components like ribosomes, nucleus, mitochondria, endoplasmic reticulum, lysosomes, and help build tissues.",
+    "difficulty": "medium",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "SCI_531",
+    "domain": "Biology",
+    "task_type": "Biology General",
+    "prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation.Then the question is:What are heterotrophic algae?\n\nA. Heterotrophic algae obtain nutrients from complex organic substances and are consumers.\nB. Heterotrophic algae rely on photosynthesis for energy and nutrients.\nC. Heterotrophic algae produce their own energy from simple inorganic substances.\nD. Heterotrophic algae absorb nutrients directly from the surrounding environment.\n\nAnswer:",
+    "expected_answer": "A. Heterotrophic algae obtain nutrients from complex organic substances and are consumers.",
+    "difficulty": "medium",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "SCI_536",
+    "domain": "Biology",
+    "task_type": "Biology General",
+    "prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation.Then the question is:How do plants and animals obtain energy?\n\nA. Plants and animals obtain energy from water.\nB. Plants and animals obtain energy from air.\nC. Plants and animals obtain energy directly or indirectly from the sun.\nD. Plants and animals obtain energy from soil.\n\nAnswer:",
+    "expected_answer": "C. Plants and animals obtain energy directly or indirectly from the sun.",
+    "difficulty": "medium",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "SCI_541",
+    "domain": "Biology",
+    "task_type": "Biology General",
+    "prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation.Then the question is:How do you calculate the number of electrons in a neutral atom?\n\nA. Use the atom's atomic number.\nB. Subtract the number of protons from the atomic mass.\nC. Count the protons and neutrons.\nD. Divide the atomic mass by 2.\n\nAnswer:",
+    "expected_answer": "A. Use the atom's atomic number.",
+    "difficulty": "medium",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "SCI_543",
+    "domain": "Biology",
+    "task_type": "Biology General",
+    "prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation.Then the question is:How many disaccharides of d-glucopyranose are possible?\n\nA. 15 possible disaccharides\nB. 12 possible disaccharides\nC. 19 possible disaccharides\nD. 22 possible disaccharides\n\nAnswer:",
+    "expected_answer": "C. 19 possible disaccharides",
+    "difficulty": "medium",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "SCI_548",
+    "domain": "Biology",
+    "task_type": "Biology General",
+    "prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation.Then the question is:How do the alveoli in the lungs exchange gases?\n\nA. Alveoli exchange gases through diffusion with thin walls and blood capillaries.\nB. Alveoli exchange gases through osmosis with blood vessels.\nC. Alveoli exchange gases through filtration with blood capillaries.\nD. Alveoli exchange gases by active transport with blood capillaries.\n\nAnswer:",
+    "expected_answer": "A. Alveoli exchange gases through diffusion with thin walls and blood capillaries.",
+    "difficulty": "medium",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "SCI_559",
+    "domain": "Biology",
+    "task_type": "Biology General",
+    "prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation.Then the question is:How does a population differ from a community?\n\nA. Population: wolves interacting; Community: wolves and avocado interacting.\nB. Population: wolves in different areas; Community: wolves and avocado in different areas.\nC. Population: wolves and avocado living together; Community: wolves living together.\nD. Population: wolves living together; Community: wolves and avocado living together.\n\nAnswer:",
+    "expected_answer": "D. Population: wolves living together; Community: wolves and avocado living together.",
+    "difficulty": "medium",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "SCI_567",
+    "domain": "Biology",
+    "task_type": "Biology General",
+    "prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation.Then the question is:What is cell culture media?\n\nA. Cell culture media is a microscope slide for observing cell growth and behavior.\nB. Cell culture media is a storage container for harvested cells from tissues.\nC. Cell culture media is a technique for preserving cells in a dormant state.\nD. Cell culture media is a nutrient-rich solution used to grow and maintain cells in vitro, replicating their natural environment.\n\nAnswer:",
+    "expected_answer": "D. Cell culture media is a nutrient-rich solution used to grow and maintain cells in vitro, replicating their natural environment.",
+    "difficulty": "medium",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "SCI_582",
+    "domain": "Biology",
+    "task_type": "Biology General",
+    "prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation.Then the question is:Why is bacterial transformation used?\n\nA. Bacterial transformation is used for medicine and bioremediation.\nB. Bacterial transformation is used for genetic modification and pollution control.\nC. Bacterial transformation is used for agriculture and waste management.\nD. Bacterial transformation is used for food preservation and energy production.\n\nAnswer:",
+    "expected_answer": "A. Bacterial transformation is used for medicine and bioremediation.",
+    "difficulty": "medium",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "SCI_587",
+    "domain": "Biology",
+    "task_type": "Biology General",
+    "prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation.Then the question is:What is a notochord?\n\nA. A notochord is a midline structure, composed of glycoproteins and collagen, that provides support and signals during development in chordates.\nB. A notochord is a type of connective tissue that connects muscles to bones in chordates.\nC. A notochord is a flexible rod-like structure that forms the basis of the respiratory system in chordates.\nD. A notochord is a nerve structure that transmits signals between the brain and spinal cord in vertebrates.\n\nAnswer:",
+    "expected_answer": "A. A notochord is a midline structure, composed of glycoproteins and collagen, that provides support and signals during development in chordates.",
+    "difficulty": "medium",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "SCI_588",
+    "domain": "Biology",
+    "task_type": "Biology General",
+    "prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation.Then the question is:What is the function of enzymes?\n\nA. Enzymes regulate gene expression, synthesize molecules, and protect cells from viruses.\nB. Enzymes transport nutrients, maintain cell structure, and store energy.\nC. Enzymes increase reaction time, stabilize molecules, and prevent cell damage.\nD. Enzymes lower activation energy, control energy release, and enable reactions in cells.\n\nAnswer:",
+    "expected_answer": "D. Enzymes lower activation energy, control energy release, and enable reactions in cells.",
+    "difficulty": "medium",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "SCI_591",
+    "domain": "Biology",
+    "task_type": "Biology General",
+    "prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation.Then the question is:How are angiosperms and gymnosperms related?\n\nA. Angiosperms and gymnosperms are similar in their reproductive structures and vascular systems.\nB. Gymnosperms are more advanced than angiosperms with enclosed ovules and efficient vascular bundles.\nC. Angiosperms are more advanced than gymnosperms with enclosed ovules and efficient vascular bundles.\nD. Angiosperms and gymnosperms are unrelated plant groups with no significant differences.\n\nAnswer:",
+    "expected_answer": "C. Angiosperms are more advanced than gymnosperms with enclosed ovules and efficient vascular bundles.",
+    "difficulty": "medium",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "SCI_599",
+    "domain": "Biology",
+    "task_type": "Biology General",
+    "prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation.Then the question is:What is the daughter element of carbon-14?\n\nA. Beryllium\nB. Carbon-13\nC. Oxygen\nD. Nitrogen\n\nAnswer:",
+    "expected_answer": "D. Nitrogen",
+    "difficulty": "medium",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "SCI_611",
+    "domain": "Biology",
+    "task_type": "Biology General",
+    "prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation.Then the question is:How does the oxidation of one glucose molecule compare to the oxidation of palmitic acid (palmitate)?\n\nA. Both glucose and palmitic acid oxidation yield 129 ATP each.\nB. Glucose oxidation yields 129 ATP, while palmitic acid oxidation yields 34 ATP.\nC. Both glucose and palmitic acid oxidation yield 34 ATP each.\nD. Glucose oxidation yields 34 ATP, while palmitic acid oxidation yields 129 ATP.\n\nAnswer:",
+    "expected_answer": "D. Glucose oxidation yields 34 ATP, while palmitic acid oxidation yields 129 ATP.",
+    "difficulty": "medium",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "SCI_625",
+    "domain": "Biology",
+    "task_type": "Biology General",
+    "prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation.Then the question is:What is adaptive radiation?\n\nA. The process of a species becoming extinct.\nB. Species adapting to specific environments.\nC. Evolution of organisms in response to changes.\nD. Species diversifying to fill new niches.\n\nAnswer:",
+    "expected_answer": "D. Species diversifying to fill new niches.",
+    "difficulty": "medium",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "SCI_629",
+    "domain": "Biology",
+    "task_type": "Biology General",
+    "prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation.Then the question is:Why is alcohol a good antiseptic at the cellular level?\n\nA. Dissolves lipids\nB. Disrupts cell membranes\nC. Denatures proteins\nD. Inhibits enzyme activity\n\nAnswer:",
+    "expected_answer": "C. Denatures proteins",
+    "difficulty": "medium",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "SCI_631",
+    "domain": "Biology",
+    "task_type": "Biology General",
+    "prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation.Then the question is:What are the three major parts of the cell?\n\nA. Cell Wall, Mitochondria, Nucleus\nB. Cell Membrane, Chromatin, Cytoplasm\nC. Endoplasmic Reticulum, Golgi Apparatus, Lysosome\nD. Ribosome, Vacuole, Peroxisome\n\nAnswer:",
+    "expected_answer": "B. Cell Membrane, Chromatin, Cytoplasm",
+    "difficulty": "medium",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "SCI_634",
+    "domain": "Biology",
+    "task_type": "Biology General",
+    "prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation.Then the question is:What is the impact of water pollution on aquatic life?\n\nA. Water pollution only affects land animals, not aquatic life.\nB. Water pollution benefits aquatic life by providing nutrients.\nC. Water pollution harms aquatic life, spreads diseases, and can destroy entire ecosystems.\nD. Water pollution has no significant impact on aquatic life.\n\nAnswer:",
+    "expected_answer": "C. Water pollution harms aquatic life, spreads diseases, and can destroy entire ecosystems.",
+    "difficulty": "medium",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "SCI_640",
+    "domain": "Biology",
+    "task_type": "Biology General",
+    "prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation.Then the question is:What is the function of adenosine triphosphate?\n\nA. ATP stores genetic information.\nB. ATP provides energy for metabolic reactions.\nC. ATP synthesizes proteins in cells.\nD. ATP transports substances across cell membranes.\n\nAnswer:",
+    "expected_answer": "B. ATP provides energy for metabolic reactions.",
+    "difficulty": "medium",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "SCI_641",
+    "domain": "Biology",
+    "task_type": "Biology General",
+    "prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation.Then the question is:What do HOX genes do?\n\nA. HOX genes regulate the production of proteins in cells.\nB. HOX genes are responsible for genetic mutations in humans.\nC. HOX genes determine the basic body plan of humans during development.\nD. HOX genes control the aging process in humans.\n\nAnswer:",
+    "expected_answer": "C. HOX genes determine the basic body plan of humans during development.",
+    "difficulty": "medium",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "SCI_646",
+    "domain": "Biology",
+    "task_type": "Biology General",
+    "prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation.Then the question is:Why are transport proteins needed in the cell membrane?\n\nA. Produce energy for the cell\nB. Provide structural support for the membrane\nC. Facilitate molecule movement across membrane\nD. Block molecule movement across membrane\n\nAnswer:",
+    "expected_answer": "C. Facilitate molecule movement across membrane",
+    "difficulty": "medium",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "SCI_648",
+    "domain": "Biology",
+    "task_type": "Biology General",
+    "prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation.Then the question is:How does a diploid organism differ from a haploid organism?\n\nA. Diploid organisms are multicellular, while haploid organisms are unicellular.\nB. Diploid organisms have two sets of chromosomes, while haploid organisms have one set.\nC. Diploid organisms have double the number of cells, while haploid organisms have half.\nD. Diploid organisms reproduce sexually, while haploid organisms reproduce asexually.\n\nAnswer:",
+    "expected_answer": "B. Diploid organisms have two sets of chromosomes, while haploid organisms have one set.",
+    "difficulty": "medium",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "SCI_658",
+    "domain": "Biology",
+    "task_type": "Biology General",
+    "prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation.Then the question is:Why are few genetic disorders controlled by dominant alleles?\n\nA. Genetic disorders are mostly controlled by dominant alleles because they have a greater impact on the organism's overall health.\nB. Genetic disorders are mostly controlled by dominant alleles because they are more likely to be passed down through generations.\nC. Genetic disorders are mostly controlled by recessive alleles because dominant alleles get rejected by nature more easily due to their higher expression rate.\nD. Genetic disorders are mostly controlled by recessive alleles because they are less harmful to the organism.\n\nAnswer:",
+    "expected_answer": "C. Genetic disorders are mostly controlled by recessive alleles because dominant alleles get rejected by nature more easily due to their higher expression rate.",
+    "difficulty": "medium",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "SCI_670",
+    "domain": "Biology",
+    "task_type": "Biology General",
+    "prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation.Then the question is:Do plants perform cellular respiration?\n\nA. Plants perform cellular respiration only during the night.\nB. No, plants only perform photosynthesis to produce energy.\nC. Yes, plants perform cellular respiration to transfer energy from carbohydrates to ATP molecules.\nD. Plants perform a different process called \"plant respiration\" to produce energy.\n\nAnswer:",
+    "expected_answer": "C. Yes, plants perform cellular respiration to transfer energy from carbohydrates to ATP molecules.",
+    "difficulty": "medium",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "SCI_672",
+    "domain": "Biology",
+    "task_type": "Biology General",
+    "prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation.Then the question is:How does the measles virus replicate?\n\nA. Measles virus replicates by entering host cells and hijacking their DNA replication machinery.\nB. Measles virus replicates by merging with other viruses inside host cells.\nC. Measles virus replicates by dividing itself into multiple smaller viruses.\nD. Measles virus replicates by creating copies of itself outside host cells.\n\nAnswer:",
+    "expected_answer": "A. Measles virus replicates by entering host cells and hijacking their DNA replication machinery.",
+    "difficulty": "medium",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "SCI_674",
+    "domain": "Biology",
+    "task_type": "Biology General",
+    "prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation.Then the question is:How do biomes change with altitude?\n\nA. Biomes change with altitude due to temperature and oxygen availability.\nB. Biomes change with altitude due to differences in atmospheric pressure.\nC. Biomes change with altitude due to increased sunlight exposure.\nD. Biomes change with altitude due to variations in soil composition.\n\nAnswer:",
+    "expected_answer": "A. Biomes change with altitude due to temperature and oxygen availability.",
+    "difficulty": "medium",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "SCI_680",
+    "domain": "Biology",
+    "task_type": "Biology General",
+    "prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation.Then the question is:What does it mean for a species to be in stasis?\n\nA. A species in stasis is constantly migrating to find new habitats.\nB. A species in stasis is rapidly adapting to its environment.\nC. A species in stasis is not evolving or changing over a long period of time.\nD. A species in stasis is becoming extinct due to environmental changes.\n\nAnswer:",
+    "expected_answer": "C. A species in stasis is not evolving or changing over a long period of time.",
+    "difficulty": "medium",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "SCI_683",
+    "domain": "Biology",
+    "task_type": "Biology General",
+    "prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation.Then the question is:Why does optic nerve cause a blind spot?\n\nA. Optic nerve blocks light entering the eye.\nB. Optic disc lacks photoreceptors, causing the blind spot.\nC. Optic nerve interferes with brain's processing of images.\nD. Optic nerve damages photoreceptors over time.\n\nAnswer:",
+    "expected_answer": "B. Optic disc lacks photoreceptors, causing the blind spot.",
+    "difficulty": "medium",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "SCI_685",
+    "domain": "Biology",
+    "task_type": "Biology General",
+    "prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation.Then the question is:How does the fossil record support Darwin's theories?\n\nA. Fossil record contradicts Darwin's theory by showing no connection between different life forms.\nB. Fossil record supports Darwin's theory by proving punctuated equilibrium as the main mechanism.\nC. Fossil record supports Darwin's theory by showing life progressing from simple to complex forms.\nD. Fossil record is inconclusive and neither supports nor contradicts Darwin's theory.\n\nAnswer:",
+    "expected_answer": "C. Fossil record supports Darwin's theory by showing life progressing from simple to complex forms.",
+    "difficulty": "medium",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "SCI_686",
+    "domain": "Biology",
+    "task_type": "Biology General",
+    "prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation.Then the question is:How do scientists tell a fossil's age?\n\nA. By measuring remaining carbon and comparing to carbon half-life.\nB. By analyzing the size and shape of the fossil.\nC. By observing the depth of the fossil in the earth.\nD. By examining the surrounding rocks and minerals.\n\nAnswer:",
+    "expected_answer": "A. By measuring remaining carbon and comparing to carbon half-life.",
+    "difficulty": "medium",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "SCI_688",
+    "domain": "Biology",
+    "task_type": "Biology General",
+    "prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation.Then the question is:What happens at a DNA replication fork during replication?\n\nA. Helicases form the replication fork, breaking hydrogen bonds and unwinding the DNA helix for polymerases to start replication.\nB. DNA strands fold onto themselves at the replication fork, creating a loop for replication.\nC. Replication fork is a region where DNA strands are temporarily fused together during replication.\nD. Replication fork is where DNA strands reconnect after replication.\n\nAnswer:",
+    "expected_answer": "A. Helicases form the replication fork, breaking hydrogen bonds and unwinding the DNA helix for polymerases to start replication.",
+    "difficulty": "medium",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "SCI_689",
+    "domain": "Biology",
+    "task_type": "Biology General",
+    "prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation.Then the question is:What are two vestigial structures?\n\nA. Wisdom teeth, tailbone\nB. Gills in humans, goosebumps\nC. Male nipple, coccyx\nD. Blind fish eye socket, human appendix\n\nAnswer:",
+    "expected_answer": "D. Blind fish eye socket, human appendix",
+    "difficulty": "medium",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "SCI_699",
+    "domain": "Biology",
+    "task_type": "Biology General",
+    "prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation.Then the question is:How do you explain the development of antibiotic resistance in bacteria?\n\nA. Bacteria develop resistance by gaining new genetic information from other organisms.\nB. Antibiotic resistance in bacteria develops from existing genetic variations, mutations, and evolutionary trade-offs.\nC. Antibiotic resistance occurs due to increased production of enzymes in bacteria.\nD. Antibiotic resistance is caused by the overuse of antibiotics, leading to bacterial adaptation.\n\nAnswer:",
+    "expected_answer": "B. Antibiotic resistance in bacteria develops from existing genetic variations, mutations, and evolutionary trade-offs.",
+    "difficulty": "medium",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "SCI_704",
+    "domain": "Biology",
+    "task_type": "Biology General",
+    "prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation.Then the question is:What is the RNA interface?\n\nA. RNA interface aids in cell division and replication.\nB. RNA interference silences unwanted genes by cleaving specific mRNA.\nC. RNA interface repairs damaged DNA sequences.\nD. RNA interface translates genes into proteins.\n\nAnswer:",
+    "expected_answer": "B. RNA interference silences unwanted genes by cleaving specific mRNA.",
+    "difficulty": "medium",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "SCI_706",
+    "domain": "Biology",
+    "task_type": "Biology General",
+    "prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation.Then the question is:What is the primary role of fungi in most ecosystems?\n\nA. Fungi primarily produce oxygen through photosynthesis.\nB. Fungi decompose dead organic matter, releasing nutrients for plants and keeping the environment clean.\nC. Fungi primarily provide shelter and habitats for other organisms.\nD. Fungi mainly consume plants and animals as predators.\n\nAnswer:",
+    "expected_answer": "B. Fungi decompose dead organic matter, releasing nutrients for plants and keeping the environment clean.",
+    "difficulty": "medium",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "SCI_715",
+    "domain": "Biology",
+    "task_type": "Biology General",
+    "prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation.Then the question is:How does mitosis in animal cells differ from mitosis in higher plant cells?\n\nA. Animal cells have centrioles and astral rays; plant cells don't. Animal cells use cleavage furrow for cytokinesis; plant cells use cell plate.\nB. Animal cells have chloroplasts; plant cells don't. Animal cells use cell plate for cytokinesis; plant cells use cleavage furrow.\nC. Animal cells have large central vacuoles; plant cells don't. Animal cells use centrioles for cytokinesis; plant cells use astral rays.\nD. Animal cells have cell walls; plant cells don't. Animal cells use astral rays for cytokinesis; plant cells use centrioles.\n\nAnswer:",
+    "expected_answer": "A. Animal cells have centrioles and astral rays; plant cells don't. Animal cells use cleavage furrow for cytokinesis; plant cells use cell plate.",
+    "difficulty": "medium",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "SCI_720",
+    "domain": "Biology",
+    "task_type": "Biology General",
+    "prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation.Then the question is:How do red blood cells work?\n\nA. Red blood cells produce energy and synthesize proteins for the body.\nB. Red blood cells regulate body temperature and maintain fluid balance.\nC. Red blood cells fight infections and remove waste from the body.\nD. Red blood cells transport oxygen from lungs to body tissues and carry carbon dioxide back to the lungs.\n\nAnswer:",
+    "expected_answer": "D. Red blood cells transport oxygen from lungs to body tissues and carry carbon dioxide back to the lungs.",
+    "difficulty": "medium",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "SCI_721",
+    "domain": "Biology",
+    "task_type": "Biology General",
+    "prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation.Then the question is:Which is more important: producers or decomposers?\n\nA. Neither is important.\nB. Both are important in a two-way relationship.\nC. Producers are more important.\nD. Decomposers are more important.\n\nAnswer:",
+    "expected_answer": "B. Both are important in a two-way relationship.",
+    "difficulty": "medium",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "SCI_734",
+    "domain": "Biology",
+    "task_type": "Biology General",
+    "prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation.Then the question is:What is the metabolic pool?\n\nA. Metabolic pools are reservoirs of molecules in cells that allow one type of molecule to be changed into another, such as carbohydrates into fats.\nB. Metabolic pools are groups of enzymes that break down nutrients in the digestive system.\nC. Metabolic pools are specialized structures within cells that store energy for later use.\nD. Metabolic pools are collections of water molecules that help regulate cellular temperature.\n\nAnswer:",
+    "expected_answer": "A. Metabolic pools are reservoirs of molecules in cells that allow one type of molecule to be changed into another, such as carbohydrates into fats.",
+    "difficulty": "medium",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "SCI_735",
+    "domain": "Biology",
+    "task_type": "Biology General",
+    "prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation.Then the question is:How is bacterial transformation useful to humans?\n\nA. Bacterial communication, antibiotic production, and waste digestion\nB. Disease prevention, vaccine development, and energy production\nC. DNA cloning, producing human proteins, and genetic modification\nD. Enhancing plant growth, water purification, and food preservation\n\nAnswer:",
+    "expected_answer": "C. DNA cloning, producing human proteins, and genetic modification",
+    "difficulty": "medium",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "SCI_738",
+    "domain": "Biology",
+    "task_type": "Biology General",
+    "prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation.Then the question is:Why do you need to perform PCR on DNA evidence from a crime scene?\n\nA. To change the DNA structure for analysis.\nB. To break down DNA samples for disposal.\nC. To merge multiple DNA samples for comparison.\nD. To amplify DNA samples for easier identification in the lab.\n\nAnswer:",
+    "expected_answer": "D. To amplify DNA samples for easier identification in the lab.",
+    "difficulty": "medium",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "SCI_739",
+    "domain": "Biology",
+    "task_type": "Biology General",
+    "prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation.Then the question is:How does the water cycle change during the year?\n\nA. Water cycle speeds up in summer.\nB. Water cycle slows down in winter.\nC. Water cycle stops during extreme temperatures.\nD. Water cycle remains the same; only precipitation type changes.\n\nAnswer:",
+    "expected_answer": "D. Water cycle remains the same; only precipitation type changes.",
+    "difficulty": "medium",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "SCI_748",
+    "domain": "Biology",
+    "task_type": "Biology General",
+    "prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation.Then the question is:How do producers make their own food?\n\nA. Producers consume other organisms to create energy.\nB. Producers rely on chemical reactions to synthesize their food.\nC. Producers absorb nutrients from the soil to generate food.\nD. Producers make food through photosynthesis, using chlorophyll to trap sunlight and converting it into glucose.\n\nAnswer:",
+    "expected_answer": "D. Producers make food through photosynthesis, using chlorophyll to trap sunlight and converting it into glucose.",
+    "difficulty": "medium",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "SCI_753",
+    "domain": "Biology",
+    "task_type": "Biology General",
+    "prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation.Then the question is:How can geographic isolation lead to speciation?\n\nA. Geographic isolation has no impact on speciation, as populations maintain genetic diversity through other means.\nB. Geographic isolation leads to speciation by allowing populations to drift apart without interbreeding.\nC. Geographic isolation prevents speciation by keeping populations in constant contact and interbreeding.\nD. Geographic isolation leads to speciation by causing populations to migrate and merge with other species.\n\nAnswer:",
+    "expected_answer": "B. Geographic isolation leads to speciation by allowing populations to drift apart without interbreeding.",
+    "difficulty": "medium",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "SCI_763",
+    "domain": "Biology",
+    "task_type": "Biology General",
+    "prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation.Then the question is:How are bacteria and archaea similar?\n\nA. Both belong to the same domain.\nB. Both are single-celled prokaryotes.\nC. Both are multicellular eukaryotes.\nD. Both have a cell nucleus.\n\nAnswer:",
+    "expected_answer": "B. Both are single-celled prokaryotes.",
+    "difficulty": "medium",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "SCI_764",
+    "domain": "Biology",
+    "task_type": "Biology General",
+    "prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation.Then the question is:How does perception influence our five senses?\n\nA. Perception combines our five senses into one unified sense.\nB. Perception enhances the strength of our five senses.\nC. Perception interprets signals from our five senses to make sense of the world.\nD. Perception filters out unnecessary information from our five senses.\n\nAnswer:",
+    "expected_answer": "C. Perception interprets signals from our five senses to make sense of the world.",
+    "difficulty": "medium",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "SCI_765",
+    "domain": "Biology",
+    "task_type": "Biology General",
+    "prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation.Then the question is:How do punnett squares exemplify the law of segregation?\n\nA. Punnett Squares show the separation of alleles and the chances of offspring having a certain genotype.\nB. Punnett Squares display the genetic makeup of the parents.\nC. Punnett Squares predict the physical appearance of offspring.\nD. Punnett Squares determine the exact genes an offspring will inherit.\n\nAnswer:",
+    "expected_answer": "A. Punnett Squares show the separation of alleles and the chances of offspring having a certain genotype.",
+    "difficulty": "medium",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "SCI_770",
+    "domain": "Biology",
+    "task_type": "Biology General",
+    "prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation.Then the question is:What are abiogenesis and spontaneous generation?\n\nA. Abiogenesis refers to the evolution of living organisms, while spontaneous generation is the idea that life can form from inorganic substances.\nB. Abiogenesis is the study of the origin of life on Earth, while spontaneous generation is the theory that life emerged from a primordial soup.\nC. Abiogenesis is the theory that life originated from non-life, while spontaneous generation is the outdated belief that life could arise spontaneously from non-living matter.\nD. Abiogenesis is the process of creating life from existing cells, while spontaneous generation is the belief that life can be created from non-living materials.\n\nAnswer:",
+    "expected_answer": "C. Abiogenesis is the theory that life originated from non-life, while spontaneous generation is the outdated belief that life could arise spontaneously from non-living matter.",
+    "difficulty": "medium",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "SCI_772",
+    "domain": "Biology",
+    "task_type": "Biology General",
+    "prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation.Then the question is:What is the main purpose of circulation?\n\nA. Distribute heat evenly in the body.\nB. Transport hormones and regulate body functions.\nC. Supply necessary materials to cells and remove waste.\nD. Regulate blood pressure and heart rate.\n\nAnswer:",
+    "expected_answer": "C. Supply necessary materials to cells and remove waste.",
+    "difficulty": "medium",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "SCI_776",
+    "domain": "Biology",
+    "task_type": "Biology General",
+    "prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation.Then the question is:How would a food web be affected if a species disappeared from an ecosystem?\n\nA. Increase in population for other species.\nB. No significant impact on the ecosystem.\nC. Loss of food for other animals, causing a chain reaction.\nD. Introduction of new species to fill the gap.\n\nAnswer:",
+    "expected_answer": "C. Loss of food for other animals, causing a chain reaction.",
+    "difficulty": "medium",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "SCI_777",
+    "domain": "Biology",
+    "task_type": "Biology General",
+    "prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation.Then the question is:Where in Africa did Jane Goodall first begin her studies?\n\nA. Lake Victoria, Kenya\nB. Gombe Stream Reserve, Lake Tanganyika\nC. South Kinangop, Kenya\nD. Coryndon Museum, Nairobi\n\nAnswer:",
+    "expected_answer": "B. Gombe Stream Reserve, Lake Tanganyika",
+    "difficulty": "medium",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "SCI_781",
+    "domain": "Biology",
+    "task_type": "Biology General",
+    "prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation.Then the question is:You would expect a cell with many chloroplasts to, secrete a lot of fats, make $ATP$, do photosynthesis, or store water?\n\nA. Do photosynthesis\nB. Make ATP\nC. Secrete a lot of fats\nD. Store water\n\nAnswer:",
+    "expected_answer": "A. Do photosynthesis",
+    "difficulty": "medium",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "SCI_784",
+    "domain": "Biology",
+    "task_type": "Biology General",
+    "prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation.Then the question is:What are some marine biome plants?\n\nA. Algae, sea grasses, phytoplankton, seaweed, marsh grasses, sea cabbage\nB. Coral, kelp, mangroves, seagrass, anemones, sea lettuce\nC. Sea moss, water lilies, lotus, water hyacinth, duckweed, hornwort\nD. Ocean fern, marine cactus, sea palm, tidal bush, brackish reeds, saltwater shrub\n\nAnswer:",
+    "expected_answer": "A. Algae, sea grasses, phytoplankton, seaweed, marsh grasses, sea cabbage",
+    "difficulty": "medium",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "SCI_791",
+    "domain": "Biology",
+    "task_type": "Biology General",
+    "prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation.Then the question is:Over time staph bacteria have become resistant to the antibiotic penicillin. Which process explains how penicillin resistance developed?\n\nA. Penicillin resistance developed through increased production of antibiotic-degrading enzymes.\nB. Penicillin resistance developed by bacteria mutating to avoid penicillin binding.\nC. Penicillin resistance developed through the blaZ gene, which codes for penicillinase.\nD. Penicillin resistance developed by altering the bacteria's cell wall structure.\n\nAnswer:",
+    "expected_answer": "C. Penicillin resistance developed through the blaZ gene, which codes for penicillinase.",
+    "difficulty": "medium",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "SCI_793",
+    "domain": "Biology",
+    "task_type": "Biology General",
+    "prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation.Then the question is:What benefit do bacteria gain by producing restriction enzymes?\n\nA. Enhanced nutrient absorption\nB. Increased reproduction rate\nC. Improved cellular communication\nD. Protection from bacteriophages\n\nAnswer:",
+    "expected_answer": "D. Protection from bacteriophages",
+    "difficulty": "medium",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "SCI_797",
+    "domain": "Biology",
+    "task_type": "Biology General",
+    "prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation.Then the question is:What trophic level are oak trees in?\n\nA. Fourth trophic level\nB. Third trophic level\nC. First trophic level\nD. Second trophic level\n\nAnswer:",
+    "expected_answer": "C. First trophic level",
+    "difficulty": "medium",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "SCI_811",
+    "domain": "Biology",
+    "task_type": "Biology General",
+    "prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation.Then the question is:What is the function of cellular respiration?\n\nA. Convert food into cellular structures\nB. Release energy from food molecules for ATP production\nC. Synthesize proteins for cell growth\nD. Transport nutrients across cell membrane\n\nAnswer:",
+    "expected_answer": "B. Release energy from food molecules for ATP production",
+    "difficulty": "medium",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "SCI_816",
+    "domain": "Biology",
+    "task_type": "Biology General",
+    "prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation.Then the question is:What fish are \"keystone\" species?\n\nA. Catfish, carp, and goldfish\nB. Tuna, mackerel, and swordfish\nC. Anadromous fish, Pacific salmon, and sharks\nD. Clownfish, angelfish, and lionfish\n\nAnswer:",
+    "expected_answer": "C. Anadromous fish, Pacific salmon, and sharks",
+    "difficulty": "medium",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "SCI_817",
+    "domain": "Biology",
+    "task_type": "Biology General",
+    "prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation.Then the question is:How does temperature affect cell membrane?\n\nA. Temperature has no effect on cell membrane.\nB. High temperature strengthens cell membrane, while low temperature weakens it.\nC. Temperature affects cell membrane fluidity, with high temperature increasing fluidity and low temperature decreasing it, allowing materials to enter or exit.\nD. Temperature affects cell membrane color, with high temperature turning it red and low temperature turning it blue.\n\nAnswer:",
+    "expected_answer": "C. Temperature affects cell membrane fluidity, with high temperature increasing fluidity and low temperature decreasing it, allowing materials to enter or exit.",
+    "difficulty": "medium",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "SCI_818",
+    "domain": "Biology",
+    "task_type": "Biology General",
+    "prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation.Then the question is:What is the connection between senescence and apoptosis?\n\nA. Senescence is irreversible cell proliferation arrest, while apoptosis is self-destruction of cells. Both processes are induced by DNA damage and evolved to suppress tumor formation.\nB. Senescence is cell repair, while apoptosis is cell death. Both are unrelated and occur independently in response to different stimuli.\nC. Senescence is the aging of cells, while apoptosis is cell division. Both processes are essential for maintaining tissue homeostasis.\nD. Senescence is reversible cell growth, while apoptosis is programmed cell death. Both are triggered by external factors and contribute to aging.\n\nAnswer:",
+    "expected_answer": "A. Senescence is irreversible cell proliferation arrest, while apoptosis is self-destruction of cells. Both processes are induced by DNA damage and evolved to suppress tumor formation.",
+    "difficulty": "medium",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "SCI_823",
+    "domain": "Biology",
+    "task_type": "Biology General",
+    "prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation.Then the question is:What type of radiometric dating do archeologists use to date an artifact that was once a living organism?\n\nA. Rubidium-Strontium\nB. Potassium-Argon\nC. Carbon 14\nD. Uranium-Lead\n\nAnswer:",
+    "expected_answer": "C. Carbon 14",
+    "difficulty": "medium",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "SCI_825",
+    "domain": "Biology",
+    "task_type": "Biology General",
+    "prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation.Then the question is:How does the plasma membrane differ between eukaryotes and prokaryotes?\n\nA. Prokaryotes: lipid bilayer with hopanoids; Eukaryotes: lipid bilayer with sterols\nB. Prokaryotes: lipid bilayer without sterols; Eukaryotes: lipid bilayer with hopanoids\nC. Prokaryotes: lipid monolayer with sterols; Eukaryotes: lipid bilayer with hopanoids\nD. Prokaryotes: lipid bilayer with cholesterol; Eukaryotes: lipid monolayer with hopanoids\n\nAnswer:",
+    "expected_answer": "A. Prokaryotes: lipid bilayer with hopanoids; Eukaryotes: lipid bilayer with sterols",
+    "difficulty": "medium",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "SCI_826",
+    "domain": "Biology",
+    "task_type": "Biology General",
+    "prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation.Then the question is:What are three evolutionary innovations that improved the probability of survival on land among vascular plants?\n\nA. Tropism, dormancy, symbiotic relationships\nB. Seed dispersal, root development, photosynthesis\nC. Cell walls, chlorophyll, flower production\nD. Embryo retention, thick cuticle, stomata presence\n\nAnswer:",
+    "expected_answer": "D. Embryo retention, thick cuticle, stomata presence",
+    "difficulty": "medium",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "SCI_828",
+    "domain": "Biology",
+    "task_type": "Biology General",
+    "prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation.Then the question is:What system of the echinoderms enables them to move about?\n\nA. Water vascular system\nB. Nervous system\nC. Circulatory system\nD. Muscular system\n\nAnswer:",
+    "expected_answer": "A. Water vascular system",
+    "difficulty": "medium",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "SCI_829",
+    "domain": "Biology",
+    "task_type": "Biology General",
+    "prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation.Then the question is:How many species of bugs are there?\n\nA. 98,000 species of bugs in the United States\nB. 164,000 species of bugs in the United States\nC. 150,000 species of bugs in the United States\nD. 125,000 species of bugs in the United States\n\nAnswer:",
+    "expected_answer": "B. 164,000 species of bugs in the United States",
+    "difficulty": "medium",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "SCI_845",
+    "domain": "Biology",
+    "task_type": "Biology General",
+    "prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation.Then the question is:What is the immediate physiological effect of tobacco smoke on the lungs?\n\nA. Tobacco smoke relaxes bronchial muscles, reduces inflammation, and stimulates lung regeneration.\nB. Tobacco smoke irritates lungs, increases mucus production, paralyzes cilia, and causes congestion.\nC. Tobacco smoke strengthens lung tissue, increases oxygen absorption, and promotes healthy respiration.\nD. Tobacco smoke dilates airways, reduces mucus, enhances cilia function, and improves lung capacity.\n\nAnswer:",
+    "expected_answer": "B. Tobacco smoke irritates lungs, increases mucus production, paralyzes cilia, and causes congestion.",
+    "difficulty": "medium",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "SCI_846",
+    "domain": "Biology",
+    "task_type": "Biology General",
+    "prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation.Then the question is:What is somatic embryogenesis?\n\nA. Somatic embryogenesis is the study of plant growth and development using genetic engineering and tissue culture techniques.\nB. Somatic embryogenesis is the process of producing seeds without fertilization, allowing plants to reproduce asexually.\nC. Somatic embryogenesis is generating embryos from somatic cells in vitro for lab purposes, clonal propagation, virus elimination, genetic transformation, and whole plant generation.\nD. Somatic embryogenesis is the natural process of plant fertilization involving the fusion of gametes to form a zygote.\n\nAnswer:",
+    "expected_answer": "C. Somatic embryogenesis is generating embryos from somatic cells in vitro for lab purposes, clonal propagation, virus elimination, genetic transformation, and whole plant generation.",
+    "difficulty": "medium",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "SCI_850",
+    "domain": "Biology",
+    "task_type": "Biology General",
+    "prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation.Then the question is:How is the cell membrane involved in cell communication?\n\nA. Cell membrane receptors allow cells to receive information from other cells.\nB. Cell membrane prevents communication between cells.\nC. Cell membrane directly transfers information to other cells.\nD. Cell membrane only identifies cells through antigens.\n\nAnswer:",
+    "expected_answer": "A. Cell membrane receptors allow cells to receive information from other cells.",
+    "difficulty": "medium",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "SCI_851",
+    "domain": "Biology",
+    "task_type": "Biology General",
+    "prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation.Then the question is:Why are prokaryotes able to successfully divide every 20 minutes but eukaryotic division is significantly longer?\n\nA. Prokaryotes have more energy reserves for faster division.\nB. Eukaryotic division is slower due to additional protective mechanisms.\nC. No membrane-bound organelles or nucleus to copy, just DNA replication and binary fission.\nD. Eukaryotes divide faster due to more complex structures.\n\nAnswer:",
+    "expected_answer": "C. No membrane-bound organelles or nucleus to copy, just DNA replication and binary fission.",
+    "difficulty": "medium",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "SCI_862",
+    "domain": "Biology",
+    "task_type": "Biology General",
+    "prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation.Then the question is:How does a change in dna affect the protein produced?\n\nA. A change in DNA sequence has no impact on the protein produced.\nB. A change in DNA sequence affects the protein's amino acid sequence and function, called mutations.\nC. A change in DNA sequence only affects the protein's function in extreme cases.\nD. A change in DNA sequence alters the protein's shape but not its function.\n\nAnswer:",
+    "expected_answer": "B. A change in DNA sequence affects the protein's amino acid sequence and function, called mutations.",
+    "difficulty": "medium",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "SCI_867",
+    "domain": "Biology",
+    "task_type": "Biology General",
+    "prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation.Then the question is:What are endothermic vertebrates?\n\nA. Endothermic vertebrates, also called heterothermic organisms, alternate between maintaining a constant body temperature and adapting to the environment.\nB. Endothermic vertebrates, also called warm-blooded organisms, maintain a constant body temperature regardless of environmental changes.\nC. Endothermic vertebrates, also called ectothermic organisms, rely on external heat sources to regulate their body temperature.\nD. Endothermic vertebrates, also called cold-blooded organisms, adapt their body temperature to match the environment.\n\nAnswer:",
+    "expected_answer": "B. Endothermic vertebrates, also called warm-blooded organisms, maintain a constant body temperature regardless of environmental changes.",
+    "difficulty": "medium",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "SCI_872",
+    "domain": "Biology",
+    "task_type": "Biology General",
+    "prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation.Then the question is:What is the importance of bacteria in carbon, nitrogen, and phosphorus cycles?\n\nA. Bacteria only play a minor role in carbon, nitrogen, and phosphorus cycles by consuming nutrients.\nB. Bacteria help in fixing atmospheric nutrients and decomposing organic matter in carbon, nitrogen, and phosphorus cycles.\nC. Bacteria hinder the cycling of carbon, nitrogen, and phosphorus by competing with other organisms.\nD. Bacteria have no direct involvement in carbon, nitrogen, and phosphorus cycles but support other organisms.\n\nAnswer:",
+    "expected_answer": "B. Bacteria help in fixing atmospheric nutrients and decomposing organic matter in carbon, nitrogen, and phosphorus cycles.",
+    "difficulty": "medium",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "SCI_873",
+    "domain": "Biology",
+    "task_type": "Biology General",
+    "prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation.Then the question is:What are the phases of mitosis?\n\nA. Prophase, Metaphase, Anaphase, Cytokinesis\nB. Prophase, Metaphase, Anaphase, Telophase\nC. Interphase, Metaphase, Anaphase, Telophase\nD. Interphase, Prometaphase, Cytokinesis, Telophase\n\nAnswer:",
+    "expected_answer": "B. Prophase, Metaphase, Anaphase, Telophase",
+    "difficulty": "medium",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "SCI_874",
+    "domain": "Biology",
+    "task_type": "Biology General",
+    "prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation.Then the question is:What is the Golgi complex?\n\nA. Membranous structure for packaging\nB. Protein synthesis site\nC. Cell waste disposal system\nD. Energy-producing organelle\n\nAnswer:",
+    "expected_answer": "A. Membranous structure for packaging",
+    "difficulty": "medium",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "SCI_880",
+    "domain": "Biology",
+    "task_type": "Biology General",
+    "prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation.Then the question is:What do biomechanics scientists study?\n\nA. Biomechanists analyze the psychological factors affecting sports performance.\nB. Biomechanists research the biological systems and structures in athletes' bodies.\nC. Biomechanists develop new training techniques and equipment for athletes.\nD. Biomechanists study the physics of human movement, athlete performance, and injury prevention.\n\nAnswer:",
+    "expected_answer": "D. Biomechanists study the physics of human movement, athlete performance, and injury prevention.",
+    "difficulty": "medium",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "SCI_894",
+    "domain": "Biology",
+    "task_type": "Biology General",
+    "prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation.Then the question is:How does a lack of lignin limit the height of bryophytes?\n\nA. Lack of lignin hinders photosynthesis in bryophytes, restricting their energy production and growth.\nB. Lack of lignin makes bryophytes more susceptible to diseases, limiting their growth.\nC. Lack of lignin prevents bryophytes from developing a transport system for water and nutrients, limiting their height.\nD. Lack of lignin reduces the strength of bryophyte cell walls, causing them to collapse under their own weight.\n\nAnswer:",
+    "expected_answer": "C. Lack of lignin prevents bryophytes from developing a transport system for water and nutrients, limiting their height.",
+    "difficulty": "medium",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "SCI_903",
+    "domain": "Biology",
+    "task_type": "Biology General",
+    "prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation.Then the question is:Are there decomposers in the desert?\n\nA. Decomposers only exist in forests, not in deserts.\nB. No, there are no decomposers in the desert.\nC. Yes, there are decomposers in the desert, such as ants.\nD. Decomposers in the desert are limited to bacteria and fungi.\n\nAnswer:",
+    "expected_answer": "C. Yes, there are decomposers in the desert, such as ants.",
+    "difficulty": "medium",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "SCI_906",
+    "domain": "Biology",
+    "task_type": "Biology General",
+    "prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation.Then the question is:What is genetic diversity and what is species diversity?\n\nA. Genetic diversity refers to variations within a species' genome, while species diversity refers to the variety of species in an ecosystem.\nB. Genetic diversity refers to the differences in habitat, while species diversity refers to the variations in mating habits.\nC. Genetic diversity refers to the variety of organisms in a biome, while species diversity refers to the differences in their niches.\nD. Genetic diversity refers to the number of different species, while species diversity refers to the variations within a species' genome.\n\nAnswer:",
+    "expected_answer": "A. Genetic diversity refers to variations within a species' genome, while species diversity refers to the variety of species in an ecosystem.",
+    "difficulty": "medium",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "SCI_908",
+    "domain": "Biology",
+    "task_type": "Biology General",
+    "prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation.Then the question is:Why is water an important solvent for living things?\n\nA. Water eliminates waste products.\nB. Water transports nutrients to cells.\nC. Water maintains body temperature.\nD. Water dissolves many essential substances in living organisms.\n\nAnswer:",
+    "expected_answer": "D. Water dissolves many essential substances in living organisms.",
+    "difficulty": "medium",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "SCI_910",
+    "domain": "Biology",
+    "task_type": "Biology General",
+    "prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation.Then the question is:How does water impact life processes?\n\nA. Water helps dissolve compounds, maintain osmolarity, regulate temperature, and support chemical reactions in cells.\nB. Water transports nutrients, provides buoyancy, prevents dehydration, and aids in waste removal.\nC. Water enhances vision, promotes growth, enables movement, and protects against pathogens.\nD. Water generates energy, facilitates communication, maintains pressure, and supports structural integrity.\n\nAnswer:",
+    "expected_answer": "A. Water helps dissolve compounds, maintain osmolarity, regulate temperature, and support chemical reactions in cells.",
+    "difficulty": "medium",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "SCI_913",
+    "domain": "Biology",
+    "task_type": "Biology General",
+    "prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation.Then the question is:How do cytokines affect the humoral immune response?\n\nA. Cytokines (IL4 and IL5) from TH2 helper T cells stimulate B cells to mature, proliferate, and differentiate into plasma cells (secreting antibodies) and memory B cells, while also inducing class switching.\nB. Cytokines suppress B cell activity, preventing antibody production and limiting the humoral immune response.\nC. Cytokines stimulate the production of T cells, which then attack pathogens without involving B cells or antibodies.\nD. Cytokines cause B cells to release toxins that directly kill pathogens without the need for antibody production.\n\nAnswer:",
+    "expected_answer": "A. Cytokines (IL4 and IL5) from TH2 helper T cells stimulate B cells to mature, proliferate, and differentiate into plasma cells (secreting antibodies) and memory B cells, while also inducing class switching.",
+    "difficulty": "medium",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "SCI_915",
+    "domain": "Biology",
+    "task_type": "Biology General",
+    "prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation.Then the question is:What are the stages of oogenesis?\n\nA. Primary oocyte, first meiotic division, secondary oocyte, second meiotic division, functional ovum\nB. Germ cell, first meiotic division, secondary germ cell, second meiotic division, functional zygote\nC. Primary oogonium, first mitotic division, secondary oogonium, second mitotic division, functional egg cell\nD. Primary spermatocyte, first mitotic division, secondary spermatocyte, second mitotic division, functional sperm\n\nAnswer:",
+    "expected_answer": "A. Primary oocyte, first meiotic division, secondary oocyte, second meiotic division, functional ovum",
+    "difficulty": "medium",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "SCI_919",
+    "domain": "Biology",
+    "task_type": "Biology General",
+    "prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation.Then the question is:What is a genotype?\n\nA. Genotype is the study of genetic traits.\nB. Genotype is the genetic constitution of an organism.\nC. Genotype is the physical appearance of an organism.\nD. Genotype is the process of gene expression.\n\nAnswer:",
+    "expected_answer": "B. Genotype is the genetic constitution of an organism.",
+    "difficulty": "medium",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "SCI_927",
+    "domain": "Biology",
+    "task_type": "Biology General",
+    "prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation.Then the question is:What is the role of microfilaments in cytokinesis?\n\nA. Microfilaments enable cells to move and divide during cytokinesis.\nB. Microfilaments give cells their shape during cytokinesis.\nC. Microfilaments provide structural strength to cells during cytokinesis.\nD. Microfilaments act as tracks for organelle movement during cytokinesis.\n\nAnswer:",
+    "expected_answer": "A. Microfilaments enable cells to move and divide during cytokinesis.",
+    "difficulty": "medium",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "SCI_939",
+    "domain": "Biology",
+    "task_type": "Biology General",
+    "prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation.Then the question is:What are ecologists trying to figure out by using food webs?\n\nA. Ecologists use food webs to analyze the impact of human activities on plant growth.\nB. Ecologists use food webs to predict weather patterns and natural disasters.\nC. Ecologists use food webs to detect ecosystem changes due to pollution, habitat change, or environmental conditions.\nD. Ecologists use food webs to study animal migration patterns.\n\nAnswer:",
+    "expected_answer": "C. Ecologists use food webs to detect ecosystem changes due to pollution, habitat change, or environmental conditions.",
+    "difficulty": "medium",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "SCI_945",
+    "domain": "Biology",
+    "task_type": "Biology General",
+    "prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation.Then the question is:How are cancer and mitosis related?\n\nA. Cancer and mitosis are unrelated processes in cells.\nB. Cancer is uncontrolled cell division due to faulty regulation or stimulation of mitosis.\nC. Cancer is caused by a lack of mitosis in cells.\nD. Mitosis prevents cancer by repairing damaged cells.\n\nAnswer:",
+    "expected_answer": "B. Cancer is uncontrolled cell division due to faulty regulation or stimulation of mitosis.",
+    "difficulty": "medium",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "SCI_947",
+    "domain": "Biology",
+    "task_type": "Biology General",
+    "prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation.Then the question is:What is the size of an alveoli?\n\nA. 100 micrometers\nB. 300 micrometers\nC. 400 micrometers\nD. 200 micrometers\n\nAnswer:",
+    "expected_answer": "D. 200 micrometers",
+    "difficulty": "medium",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "SCI_949",
+    "domain": "Biology",
+    "task_type": "Biology General",
+    "prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation.Then the question is:What is chromatofocusing?\n\nA. Chromatofocusing is a color-based technique to identify different proteins.\nB. Chromatofocusing is a technique for visualizing protein structures using light.\nC. Chromatofocusing is a purification technique using ion exchange resins and a pH gradient to separate similar proteins.\nD. Chromatofocusing is a method to measure protein concentration in a sample.\n\nAnswer:",
+    "expected_answer": "C. Chromatofocusing is a purification technique using ion exchange resins and a pH gradient to separate similar proteins.",
+    "difficulty": "medium",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "SCI_952",
+    "domain": "Biology",
+    "task_type": "Biology General",
+    "prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation.Then the question is:Where does transcription occur and where does translation occur in the cell?\n\nA. Transcription occurs in the nucleus, translation occurs in the cytoplasm.\nB. Transcription occurs in the cytoplasm, translation occurs in the nucleus.\nC. Transcription occurs in the mitochondria, translation occurs in the nucleus.\nD. Transcription occurs in the nucleus, translation occurs in the endoplasmic reticulum.\n\nAnswer:",
+    "expected_answer": "A. Transcription occurs in the nucleus, translation occurs in the cytoplasm.",
+    "difficulty": "medium",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "SCI_963",
+    "domain": "Biology",
+    "task_type": "Biology General",
+    "prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation.Then the question is:What is the function of vesicles in the synthesis of proteins and the release of those proteins outside the cell?\n\nA. Vesicles produce proteins by translating mRNA within the cell.\nB. Vesicles store proteins inside the cell and protect them from degradation.\nC. Vesicles recycle proteins by breaking them down into amino acids for reuse.\nD. Vesicles transport proteins from the rough endoplasmic reticulum to the plasma membrane, releasing them outside the cell.\n\nAnswer:",
+    "expected_answer": "D. Vesicles transport proteins from the rough endoplasmic reticulum to the plasma membrane, releasing them outside the cell.",
+    "difficulty": "medium",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "SCI_965",
+    "domain": "Biology",
+    "task_type": "Biology General",
+    "prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation.Then the question is:What are seedless plants?\n\nA. Seedless plants are in Division Pteridophyta and reproduce only asexually.\nB. Seedless plants are in Division Spermatophyta and reproduce through seeds.\nC. Seedless plants are in Division Spermatophyta and reproduce through alternation of generations.\nD. Seedless plants are in Division Pteridophyta and reproduce through alternation of generations, not by seeds.\n\nAnswer:",
+    "expected_answer": "D. Seedless plants are in Division Pteridophyta and reproduce through alternation of generations, not by seeds.",
+    "difficulty": "medium",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "SCI_966",
+    "domain": "Biology",
+    "task_type": "Biology General",
+    "prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation.Then the question is:How were signal transduction pathways discovered?\n\nA. Discovered by Charles Darwin while studying the finches on the Galapagos Islands.\nB. Found accidentally during DNA sequencing experiments in the 1980s.\nC. Identified by Albert Einstein while researching the photoelectric effect.\nD. Discovered by Martin Rodbell in 1970 while studying glucagon's effects on rat liver cell membrane receptors.\n\nAnswer:",
+    "expected_answer": "D. Discovered by Martin Rodbell in 1970 while studying glucagon's effects on rat liver cell membrane receptors.",
+    "difficulty": "medium",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "SCI_970",
+    "domain": "Biology",
+    "task_type": "Biology General",
+    "prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation.Then the question is:What enzyme helps with DNA replication?\n\nA. DNA ligase\nB. RNA polymerase\nC. DNA helicase\nD. DNA polymerase\n\nAnswer:",
+    "expected_answer": "D. DNA polymerase",
+    "difficulty": "medium",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "SCI_977",
+    "domain": "Biology",
+    "task_type": "Biology General",
+    "prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation.Then the question is:What function do plasmids have and how are they used in  recombinant DNA technology?\n\nA. Plasmids play a role in gene therapy, recombinant DNA technology, and antibiotic resistance.\nB. Plasmids contribute to nutrient absorption, waste removal, and signal transduction.\nC. Plasmids are involved in photosynthesis, energy storage, and cell division.\nD. Plasmids help in cellular respiration, protein synthesis, and immune response.\n\nAnswer:",
+    "expected_answer": "A. Plasmids play a role in gene therapy, recombinant DNA technology, and antibiotic resistance.",
+    "difficulty": "medium",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "SCI_981",
+    "domain": "Biology",
+    "task_type": "Biology General",
+    "prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation.Then the question is:Why is the oxygen cycle important?\n\nA. Decreases air quality.\nB. Limits energy production.\nC. Maintains atmospheric balance and supports life.\nD. Produces only carbon dioxide.\n\nAnswer:",
+    "expected_answer": "C. Maintains atmospheric balance and supports life.",
+    "difficulty": "medium",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "SCI_982",
+    "domain": "Biology",
+    "task_type": "Biology General",
+    "prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation.Then the question is:How does leaf loss in deciduous trees in the fall aid the plant?\n\nA. Leaf loss helps plants conserve water.\nB. Leaf loss helps plants withstand severe cold and hot conditions.\nC. Leaf loss increases photosynthesis efficiency.\nD. Leaf loss promotes rapid growth.\n\nAnswer:",
+    "expected_answer": "B. Leaf loss helps plants withstand severe cold and hot conditions.",
+    "difficulty": "medium",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "SCI_985",
+    "domain": "Biology",
+    "task_type": "Biology General",
+    "prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation.Then the question is:During what stage of the cell cycle does DNA replication occur?\n\nA. Prophase of Mitosis\nB. S phase of Interphase\nC. G2 phase of Interphase\nD. G1 phase of Interphase\n\nAnswer:",
+    "expected_answer": "B. S phase of Interphase",
+    "difficulty": "medium",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "SCI_986",
+    "domain": "Biology",
+    "task_type": "Biology General",
+    "prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation.Then the question is:What species are humans?\n\nA. Homo habilis\nB. Homo sapiens sapiens\nC. Homo erectus\nD. Homo neanderthalensis\n\nAnswer:",
+    "expected_answer": "B. Homo sapiens sapiens",
+    "difficulty": "medium",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "SCI_989",
+    "domain": "Biology",
+    "task_type": "Biology General",
+    "prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation.Then the question is:Why can red algae live in deeper water than green algae?\n\nA. Red algae can absorb blue light, allowing them to live in deeper water.\nB. Red algae have a more efficient energy storage system.\nC. Red algae require less sunlight for photosynthesis.\nD. Green algae cannot survive high water pressure.\n\nAnswer:",
+    "expected_answer": "A. Red algae can absorb blue light, allowing them to live in deeper water.",
+    "difficulty": "medium",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "SCI_993",
+    "domain": "Biology",
+    "task_type": "Biology General",
+    "prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation.Then the question is:How is ADP converted into ATP?\n\nA. ADP converts into ATP in the presence of inorganic phosphate, energy, and the enzyme ATPase.\nB. ADP converts into ATP through the fusion of hydrogen ions in the mitochondria.\nC. ADP converts into ATP by breaking down glucose molecules in the cell.\nD. ADP converts into ATP by absorbing energy from the surrounding environment.\n\nAnswer:",
+    "expected_answer": "A. ADP converts into ATP in the presence of inorganic phosphate, energy, and the enzyme ATPase.",
+    "difficulty": "medium",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "SCI_1004",
+    "domain": "Biology",
+    "task_type": "Biology General",
+    "prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation.Then the question is:How did evolution occur according to the theory of Neo-Darwinism?\n\nA. Evolution took place through the intervention of a divine creator and guided processes.\nB. Evolution occurred by spontaneous generation and the influence of cosmic forces.\nC. Evolution occurred through DNA mutations and natural selection, increasing information and complexity.\nD. Evolution happened through the inheritance of acquired traits and environmental adaptation.\n\nAnswer:",
+    "expected_answer": "C. Evolution occurred through DNA mutations and natural selection, increasing information and complexity.",
+    "difficulty": "medium",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "SCI_1006",
+    "domain": "Biology",
+    "task_type": "Biology General",
+    "prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation.Then the question is:Why are coral reefs home to a huge diverse variety of species?\n\nA. Coral reefs have a uniform environment, limited nutrients, and host only a few specialized species.\nB. Coral reefs provide protection, recycle nutrients, support symbiotic relationships, and host various species with different feeding habits and hiding times.\nC. Coral reefs are isolated ecosystems, with limited interaction between species and minimal nutrient recycling.\nD. Coral reefs are primarily composed of rocks and sand, providing little shelter or resources for diverse species.\n\nAnswer:",
+    "expected_answer": "B. Coral reefs provide protection, recycle nutrients, support symbiotic relationships, and host various species with different feeding habits and hiding times.",
+    "difficulty": "medium",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "SCI_1009",
+    "domain": "Biology",
+    "task_type": "Biology General",
+    "prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation.Then the question is:What role do spores play in the reproduction of fungi?\n\nA. Spores help fungi attach to surfaces and are diploid.\nB. Spores reproduce fungi in favorable conditions and are haploid.\nC. Spores protect fungi from predators and are diploid.\nD. Spores provide nutrients for fungi growth and are haploid.\n\nAnswer:",
+    "expected_answer": "B. Spores reproduce fungi in favorable conditions and are haploid.",
+    "difficulty": "medium",
+    "evaluation_metric": "exact_match"
+  }
+]

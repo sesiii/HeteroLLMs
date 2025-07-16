@@ -1,0 +1,11 @@
+[
+  {
+    "task_id": "SCI_887",
+    "domain": "Biology",
+    "task_type": "Oncology",
+    "prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation.Then the question is:How do cancer cells travel through the body?\n\nA. Cancer cells travel by releasing chemicals that attract other cells to transport them.\nB. Cancer cells travel by attaching to healthy cells and moving together.\nC. Cancer cells use cellular propulsion to move throughout the body.\nD. Cancer cells travel through the body via bloodstream or lymphatic system, forming new tumors in different parts.\n\nAnswer:",
+    "expected_answer": "D. Cancer cells travel through the body via bloodstream or lymphatic system, forming new tumors in different parts.",
+    "difficulty": "medium",
+    "evaluation_metric": "exact_match"
+  }
+]

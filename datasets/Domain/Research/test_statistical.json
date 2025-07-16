@@ -1,0 +1,56 @@
+[
+      {
+    "task_id": "RES_STAT_0",
+    "domain": "Research",
+    "task_type": "Statistical Methods",
+    "prompt": "What is the difference between a null hypothesis and an alternative hypothesis in statistical testing?",
+    "expected_answer": "The null hypothesis (H0) states there is no effect or difference, while the alternative hypothesis (H1) states there is an effect or difference.",
+    "difficulty": "easy",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "RES_STAT_1",
+    "domain": "Research",
+    "task_type": "Statistical Methods",
+    "prompt": "What does a 95% confidence interval represent in a research study?",
+    "expected_answer": "A 95% confidence interval indicates that if the study were repeated many times, 95% of the intervals would contain the true population parameter.",
+    "difficulty": "easy",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "RES_STAT_2",
+    "domain": "Research",
+    "task_type": "Statistical Methods",
+    "prompt": "A researcher conducts a t-test to compare the means of two groups and obtains a p-value of 0.07. What does this indicate at a 5% significance level?",
+    "expected_answer": "A p-value of 0.07 indicates that the results are not statistically significant at the 5% level (since 0.07 > 0.05), so the null hypothesis cannot be rejected.",
+    "difficulty": "medium",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "RES_STAT_3",
+    "domain": "Research",
+    "task_type": "Statistical Methods",
+    "prompt": "Explain the difference between Type I and Type II errors in hypothesis testing.",
+    "expected_answer": "A Type I error is rejecting a true null hypothesis (false positive), while a Type II error is failing to reject a false null hypothesis (false negative).",
+    "difficulty": "medium",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "RES_STAT_4",
+    "domain": "Research",
+    "task_type": "Statistical Methods",
+    "prompt": "A researcher uses ANOVA to compare the means of three groups and obtains an F-statistic of 4.5 with a p-value of 0.02. Interpret these results at a 5% significance level.",
+    "expected_answer": "The p-value of 0.02 is less than 0.05, indicating that there is a statistically significant difference between the means of at least two groups at the 5% significance level.",
+    "difficulty": "hard",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "RES_STAT_5",
+    "domain": "Research",
+    "task_type": "Statistical Methods",
+    "prompt": "In a study, a researcher performs a chi-square test for independence on a 2x2 contingency table and obtains a chi-square statistic of 5.99 with 1 degree of freedom. Using a critical value of 3.84 for a 5% significance level, what is the conclusion? (JEE Advanced level)",
+    "expected_answer": "Since the chi-square statistic (5.99) exceeds the critical value (3.84) at the 5% significance level, the null hypothesis of independence is rejected, indicating a significant association between the variables.",
+    "difficulty": "hard",
+    "evaluation_metric": "exact_match"
+  }
+]

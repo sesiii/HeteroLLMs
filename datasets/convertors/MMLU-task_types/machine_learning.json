@@ -1,0 +1,74 @@
+[
+  {
+    "task_id": "MMLU_137",
+    "domain": "Machine Learning",
+    "task_type": "Machine Learning",
+    "prompt": "Statement 1| Linear regression estimator has the smallest variance among all unbiased estimators. Statement 2| The coefficients \u03b1 assigned to the classifiers assembled by AdaBoost are always non-negative.\n\nFor this question, four choices are provided:\n(A) True, True\n(B) False, False\n(C) True, False\n(D) False, True\n\nPlease choose the correct answer from the above choices.",
+    "expected_answer": "(D) False, True",
+    "difficulty": "hard",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "MMLU_369",
+    "domain": "Machine Learning",
+    "task_type": "Machine Learning",
+    "prompt": "Statement 1| Density estimation (using say, the kernel density estimator) can be used to perform classification. Statement 2| The correspondence between logistic regression and Gaussian Naive Bayes (with identity class covariances) means that there is a one-to-one correspondence between the parameters of the two classifiers.\n\nFor this question, four choices are provided:\n(A) True, True\n(B) False, False\n(C) True, False\n(D) False, True\n\nPlease choose the correct answer from the above choices.",
+    "expected_answer": "(C) True, False",
+    "difficulty": "hard",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "MMLU_417",
+    "domain": "Machine Learning",
+    "task_type": "Machine Learning",
+    "prompt": "Statement 1| PCA and Spectral Clustering (such as Andrew Ng\u2019s) perform eigendecomposition on two different matrices. However, the size of these two matrices are the same. Statement 2| Since classification is a special case of regression, logistic regression is a special case of linear regression.\n\nFor this question, four choices are provided:\n(A) True, True\n(B) False, False\n(C) True, False\n(D) False, True\n\nPlease choose the correct answer from the above choices.",
+    "expected_answer": "(B) False, False",
+    "difficulty": "hard",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "MMLU_423",
+    "domain": "Machine Learning",
+    "task_type": "Machine Learning",
+    "prompt": "What is the dimensionality of the null space of the following matrix? A = [[3, 2, \u22129], [\u22126, \u22124, 18], [12, 8, \u221236]]\n\nFor this question, four choices are provided:\n(A) 0\n(B) 1\n(C) 2\n(D) 3\n\nPlease choose the correct answer from the above choices.",
+    "expected_answer": "(C) 2",
+    "difficulty": "hard",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "MMLU_485",
+    "domain": "Machine Learning",
+    "task_type": "Machine Learning",
+    "prompt": "Statement 1| The F1 score can be especially useful for datasets with class high imbalance. Statement 2| The area under the ROC curve is one of the main metrics used to assess anomaly detectors.\n\nFor this question, four choices are provided:\n(A) True, True\n(B) False, False\n(C) True, False\n(D) False, True\n\nPlease choose the correct answer from the above choices.",
+    "expected_answer": "(A) True, True",
+    "difficulty": "hard",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "MMLU_596",
+    "domain": "Machine Learning",
+    "task_type": "Machine Learning",
+    "prompt": "High entropy means that the partitions in classification are\n\nFor this question, four choices are provided:\n(A) pure\n(B) not pure\n(C) useful\n(D) useless\n\nPlease choose the correct answer from the above choices.",
+    "expected_answer": "(B) not pure",
+    "difficulty": "hard",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "MMLU_640",
+    "domain": "Machine Learning",
+    "task_type": "Machine Learning",
+    "prompt": "Statement 1| The Stanford Sentiment Treebank contained movie reviews, not book reviews. Statement 2| The Penn Treebank has been used for language modeling.\n\nFor this question, four choices are provided:\n(A) True, True\n(B) False, False\n(C) True, False\n(D) False, True\n\nPlease choose the correct answer from the above choices.",
+    "expected_answer": "(A) True, True",
+    "difficulty": "hard",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "MMLU_807",
+    "domain": "Machine Learning",
+    "task_type": "Machine Learning",
+    "prompt": "Which of the following is/are true regarding an SVM?\n\nFor this question, four choices are provided:\n(A) For two dimensional data points, the separating hyperplane learnt by a linear SVM will be a straight line.\n(B) In theory, a Gaussian kernel SVM cannot model any complex separating hyperplane.\n(C) For every kernel function used in a SVM, one can obtain an equivalent closed form basis expansion.\n(D) Overfitting in an SVM is not a function of number of support vectors.\n\nPlease choose the correct answer from the above choices.",
+    "expected_answer": "(A) For two dimensional data points, the separating hyperplane learnt by a linear SVM will be a straight line.",
+    "difficulty": "hard",
+    "evaluation_metric": "exact_match"
+  }
+]

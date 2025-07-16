@@ -1,0 +1,74 @@
+[
+  {
+    "task_id": "STAT_0",
+    "domain": "Statistics",
+    "task_type": "Descriptive Statistics",
+    "prompt": "Calculate the mean of the following data set: 5, 7, 9, 11, 13.",
+    "expected_answer": "9",
+    "difficulty": "easy",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "STAT_1",
+    "domain": "Statistics",
+    "task_type": "Descriptive Statistics",
+    "prompt": "Find the mode of the data set: 2, 3, 3, 4, 5, 5, 5, 6.",
+    "expected_answer": "5",
+    "difficulty": "easy",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "STAT_2",
+    "domain": "Statistics",
+    "task_type": "Descriptive Statistics",
+    "prompt": "Determine the median of the data set: 10, 4, 8, 12, 6, 9, 15.",
+    "expected_answer": "9",
+    "difficulty": "medium",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "STAT_3",
+    "domain": "Statistics",
+    "task_type": "Descriptive Statistics",
+    "prompt": "Calculate the range of the data set: 22, 17, 19, 25, 30, 14.",
+    "expected_answer": "16",
+    "difficulty": "medium",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "STAT_4",
+    "domain": "Statistics",
+    "task_type": "Inferential Statistics",
+    "prompt": "A sample of 15 students has a mean exam score of 80 with a standard deviation of 6. Calculate the standard error of the mean.",
+    "expected_answer": "1.55",
+    "difficulty": "medium",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "STAT_5",
+    "domain": "Statistics",
+    "task_type": "Descriptive Statistics",
+    "prompt": "Compute the variance of the data set: 3, 5, 7, 9 (assume it is a population).",
+    "expected_answer": "5",
+    "difficulty": "medium",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "STAT_6",
+    "domain": "Statistics",
+    "task_type": "Inferential Statistics",
+    "prompt": "A data set follows a normal distribution with a mean of 100 and a standard deviation of 15. What is the z-score for a value of 130?",
+    "expected_answer": "2",
+    "difficulty": "hard",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "STAT_7",
+    "domain": "Statistics",
+    "task_type": "Inferential Statistics",
+    "prompt": "A sample of 25 observations has a mean of 45 and a sample standard deviation of 10. Construct a 95% confidence interval for the population mean (use z = 1.96 for 95% confidence).",
+    "expected_answer": "[41.08, 48.92]",
+    "difficulty": "hard",
+    "evaluation_metric": "exact_match"
+  }
+]

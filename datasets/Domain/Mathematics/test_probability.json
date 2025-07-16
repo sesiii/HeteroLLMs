@@ -1,0 +1,74 @@
+[
+  {
+    "task_id": "PROB_0",
+    "domain": "Mathematics",
+    "task_type": "Probability",
+    "prompt": "A fair coin is flipped three times. What is the probability of getting exactly two heads?",
+    "expected_answer": "3/8",
+    "difficulty": "easy",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "PROB_1",
+    "domain": "Mathematics",
+    "task_type": "Probability",
+    "prompt": "A bag contains 4 red marbles and 6 blue marbles. What is the probability of drawing a blue marble at random?",
+    "expected_answer": "3/5",
+    "difficulty": "easy",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "PROB_2",
+    "domain": "Mathematics",
+    "task_type": "Probability",
+    "prompt": "A standard deck of 52 cards is used. What is the probability of drawing a heart or a king?",
+    "expected_answer": "4/13",
+    "difficulty": "medium",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "PROB_3",
+    "domain": "Mathematics",
+    "task_type": "Probability",
+    "prompt": "Two dice are rolled. What is the probability that the sum of the numbers is 7?",
+    "expected_answer": "1/6",
+    "difficulty": "medium",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "PROB_4",
+    "domain": "Mathematics",
+    "task_type": "Probability",
+    "prompt": "A box contains 3 defective and 7 non-defective items. If two items are selected without replacement, what is the probability that both are non-defective?",
+    "expected_answer": "7/15",
+    "difficulty": "medium",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "PROB_5",
+    "domain": "Mathematics",
+    "task_type": "Probability",
+    "prompt": "In a class of 20 students, 12 are male and 8 are female. If 3 students are chosen at random, what is the probability that exactly 2 are male?",
+    "expected_answer": "27/95",
+    "difficulty": "hard",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "PROB_6",
+    "domain": "Mathematics",
+    "task_type": "Probability",
+    "prompt": "A machine produces parts, 4% of which are defective. If 5 parts are selected at random, what is the probability that at least one is defective? (Use the binomial probability complement.)",
+    "expected_answer": "0.1849",
+    "difficulty": "hard",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "PROB_7",
+    "domain": "Mathematics",
+    "task_type": "Probability",
+    "prompt": "Events A and B are independent, with P(A) = 0.3 and P(B) = 0.4. What is the probability that neither A nor B occurs?",
+    "expected_answer": "0.42",
+    "difficulty": "hard",
+    "evaluation_metric": "exact_match"
+  }
+]

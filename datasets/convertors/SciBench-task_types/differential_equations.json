@@ -1,0 +1,218 @@
+[
+  {
+    "task_id": "SCI_001",
+    "domain": "Physics",
+    "task_type": "Differential Equations",
+    "prompt": "A mass of $0.25 \\mathrm{~kg}$ is dropped from rest in a medium offering a resistance of $0.2|v|$, where $v$ is measured in $\\mathrm{m} / \\mathrm{s}$.\r\nIf the mass is to attain a velocity of no more than $10 \\mathrm{~m} / \\mathrm{s}$, find the maximum height from which it can be dropped.",
+    "expected_answer": "13.45",
+    "difficulty": "expert",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "SCI_021",
+    "domain": "Physics",
+    "task_type": "Differential Equations",
+    "prompt": "Your swimming pool containing 60,000 gal of water has been contaminated by $5 \\mathrm{~kg}$ of a nontoxic dye that leaves a swimmer's skin an unattractive green. The pool's filtering system can take water from the pool, remove the dye, and return the water to the pool at a flow rate of $200 \\mathrm{gal} / \\mathrm{min}$. Find the time $T$ at which the concentration of dye first reaches the value $0.02 \\mathrm{~g} / \\mathrm{gal}$.",
+    "expected_answer": "7.136",
+    "difficulty": "expert",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "SCI_028",
+    "domain": "Physics",
+    "task_type": "Differential Equations",
+    "prompt": "A mass weighing $8 \\mathrm{lb}$ stretches a spring 1.5 in. The mass is also attached to a damper with coefficient $\\gamma$. Determine the value of $\\gamma$ for which the system is critically damped; be sure to give the units for $\\gamma$",
+    "expected_answer": "8",
+    "difficulty": "expert",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "SCI_050",
+    "domain": "Physics",
+    "task_type": "Differential Equations",
+    "prompt": "A tank originally contains $100 \\mathrm{gal}$ of fresh water. Then water containing $\\frac{1}{2} \\mathrm{lb}$ of salt per gallon is poured into the tank at a rate of $2 \\mathrm{gal} / \\mathrm{min}$, and the mixture is allowed to leave at the same rate. After $10 \\mathrm{~min}$ the process is stopped, and fresh water is poured into the tank at a rate of $2 \\mathrm{gal} / \\mathrm{min}$, with the mixture again leaving at the same rate. Find the amount of salt in the tank at the end of an additional $10 \\mathrm{~min}$.",
+    "expected_answer": "7.42",
+    "difficulty": "expert",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "SCI_065",
+    "domain": "Physics",
+    "task_type": "Differential Equations",
+    "prompt": "A mass weighing $2 \\mathrm{lb}$ stretches a spring 6 in. If the mass is pulled down an additional 3 in. and then released, and if there is no damping, by determining the position $u$ of the mass at any time $t$, find the frequency of the motion",
+    "expected_answer": "0.7854",
+    "difficulty": "expert",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "SCI_068",
+    "domain": "Physics",
+    "task_type": "Differential Equations",
+    "prompt": "Consider the initial value problem\r\n$$\r\n9 y^{\\prime \\prime}+12 y^{\\prime}+4 y=0, \\quad y(0)=a>0, \\quad y^{\\prime}(0)=-1\r\n$$\r\nFind the critical value of $a$ that separates solutions that become negative from those that are always positive.",
+    "expected_answer": "1.5",
+    "difficulty": "expert",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "SCI_082",
+    "domain": "Physics",
+    "task_type": "Differential Equations",
+    "prompt": "If $y_1$ and $y_2$ are a fundamental set of solutions of $t y^{\\prime \\prime}+2 y^{\\prime}+t e^t y=0$ and if $W\\left(y_1, y_2\\right)(1)=2$, find the value of $W\\left(y_1, y_2\\right)(5)$.",
+    "expected_answer": "0.08",
+    "difficulty": "expert",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "SCI_090",
+    "domain": "Physics",
+    "task_type": "Differential Equations",
+    "prompt": "A radioactive material, such as the isotope thorium-234, disintegrates at a rate proportional to the amount currently present. If $Q(t)$ is the amount present at time $t$, then $d Q / d t=-r Q$, where $r>0$ is the decay rate. If $100 \\mathrm{mg}$ of thorium-234 decays to $82.04 \\mathrm{mg}$ in 1 week, determine the decay rate $r$.",
+    "expected_answer": "0.02828",
+    "difficulty": "expert",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "SCI_094",
+    "domain": "Physics",
+    "task_type": "Differential Equations",
+    "prompt": "Newton's law of cooling states that the temperature of an object changes at a rate proportional to the difference between its temperature and that of its surroundings. Suppose that the temperature of a cup of coffee obeys Newton's law of cooling. If the coffee has a temperature of $200^{\\circ} \\mathrm{F}$ when freshly poured, and $1 \\mathrm{~min}$ later has cooled to $190^{\\circ} \\mathrm{F}$ in a room at $70^{\\circ} \\mathrm{F}$, determine when the coffee reaches a temperature of $150^{\\circ} \\mathrm{F}$.",
+    "expected_answer": "6.07",
+    "difficulty": "expert",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "SCI_098",
+    "domain": "Physics",
+    "task_type": "Differential Equations",
+    "prompt": "A mass of $100 \\mathrm{~g}$ stretches a spring $5 \\mathrm{~cm}$. If the mass is set in motion from its equilibrium position with a downward velocity of $10 \\mathrm{~cm} / \\mathrm{s}$, and if there is no damping, determine when does the mass first return to its equilibrium position.",
+    "expected_answer": "0.2244",
+    "difficulty": "expert",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "SCI_127",
+    "domain": "Physics",
+    "task_type": "Differential Equations",
+    "prompt": "Suppose that a mass weighing $10 \\mathrm{lb}$ stretches a spring $2 \\mathrm{in}$. If the mass is displaced an additional 2 in. and is then set in motion with an initial upward velocity of $1 \\mathrm{ft} / \\mathrm{s}$, by determining the position of the mass at any later time, calculate the phase of the motion.",
+    "expected_answer": "-0.40864",
+    "difficulty": "expert",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "SCI_144",
+    "domain": "Physics",
+    "task_type": "Differential Equations",
+    "prompt": "At time $t=0$ a tank contains $Q_0 \\mathrm{lb}$ of salt dissolved in 100 gal of water. Assume that water containing $\\frac{1}{4} \\mathrm{lb}$ of salt/gal is entering the tank at a rate of $r \\mathrm{gal} / \\mathrm{min}$ and that the well-stirred mixture is draining from the tank at the same rate. Set up the initial value problem that describes this flow process. By finding the amount of salt $Q(t)$ in the tank at any time, and the limiting amount $Q_L$ that is present after a very long time, if $r=3$ and $Q_0=2 Q_L$, find the time $T$ after which the salt level is within $2 \\%$ of $Q_L$.",
+    "expected_answer": "130.400766848",
+    "difficulty": "expert",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "SCI_148",
+    "domain": "Physics",
+    "task_type": "Differential Equations",
+    "prompt": "Consider the initial value problem (see Example 5)\r\n$$\r\ny^{\\prime \\prime}+5 y^{\\prime}+6 y=0, \\quad y(0)=2, \\quad y^{\\prime}(0)=\\beta\r\n$$\r\nwhere $\\beta>0$.\r\nDetermine the smallest value of $\\beta$ for which $y_m \\geq 4$.",
+    "expected_answer": "16.3923",
+    "difficulty": "expert",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "SCI_150",
+    "domain": "Physics",
+    "task_type": "Differential Equations",
+    "prompt": "Consider the initial value problem\r\n$$\r\ny^{\\prime}=t y(4-y) /(1+t), \\quad y(0)=y_0>0 .\r\n$$\r\nIf $y_0=2$, find the time $T$ at which the solution first reaches the value 3.99.",
+    "expected_answer": "2.84367",
+    "difficulty": "expert",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "SCI_155",
+    "domain": "Physics",
+    "task_type": "Differential Equations",
+    "prompt": "A recent college graduate borrows $\\$ 100,000$ at an interest rate of $9 \\%$ to purchase a condominium. Anticipating steady salary increases, the buyer expects to make payments at a monthly rate of $800(1+t / 120)$, where $t$ is the number of months since the loan was made.\r\nAssuming that this payment schedule can be maintained, when will the loan be fully paid?",
+    "expected_answer": "135.36",
+    "difficulty": "expert",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "SCI_163",
+    "domain": "Physics",
+    "task_type": "Differential Equations",
+    "prompt": "Consider the initial value problem\r\n$$\r\n5 u^{\\prime \\prime}+2 u^{\\prime}+7 u=0, \\quad u(0)=2, \\quad u^{\\prime}(0)=1\r\n$$\r\nFind the smallest $T$ such that $|u(t)| \\leq 0.1$ for all $t>T$.",
+    "expected_answer": "14.5115",
+    "difficulty": "expert",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "SCI_165",
+    "domain": "Physics",
+    "task_type": "Differential Equations",
+    "prompt": "A young person with no initial capital invests $k$ dollars per year at an annual rate of return $r$. Assume that investments are made continuously and that the return is compounded continuously.\r\nIf $r=7.5 \\%$, determine $k$ so that $\\$ 1$ million will be available for retirement in 40 years.",
+    "expected_answer": "3930",
+    "difficulty": "expert",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "SCI_170",
+    "domain": "Physics",
+    "task_type": "Differential Equations",
+    "prompt": "An investor deposits $1000 in an account paying interest at a rate of 8% compounded monthly, and also makes additional deposits of \\$25 per month. Find the balance in the account after 3 years.",
+    "expected_answer": "2283.63",
+    "difficulty": "expert",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "SCI_211",
+    "domain": "Physics",
+    "task_type": "Differential Equations",
+    "prompt": "Find the value of $y_0$ for which the solution of the initial value problem\r\n$$\r\ny^{\\prime}-y=1+3 \\sin t, \\quad y(0)=y_0\r\n$$\r\nremains finite as $t \\rightarrow \\infty$",
+    "expected_answer": "-2.5",
+    "difficulty": "expert",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "SCI_215",
+    "domain": "Physics",
+    "task_type": "Differential Equations",
+    "prompt": "Consider the initial value problem\r\n$$\r\n2 y^{\\prime \\prime}+3 y^{\\prime}-2 y=0, \\quad y(0)=1, \\quad y^{\\prime}(0)=-\\beta,\r\n$$\r\nwhere $\\beta>0$.\r\nFind the smallest value of $\\beta$ for which the solution has no minimum point.",
+    "expected_answer": "2",
+    "difficulty": "expert",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "SCI_219",
+    "domain": "Physics",
+    "task_type": "Differential Equations",
+    "prompt": "If $\\mathbf{x}=\\left(\\begin{array}{c}2 \\\\ 3 i \\\\ 1-i\\end{array}\\right)$ and $\\mathbf{y}=\\left(\\begin{array}{c}-1+i \\\\ 2 \\\\ 3-i\\end{array}\\right)$, find $(\\mathbf{y}, \\mathbf{y})$.",
+    "expected_answer": "16",
+    "difficulty": "expert",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "SCI_224",
+    "domain": "Physics",
+    "task_type": "Differential Equations",
+    "prompt": "The logistic model has been applied to the natural growth of the halibut population in certain areas of the Pacific Ocean. ${ }^{12}$ Let $y$, measured in kilograms, be the total mass, or biomass, of the halibut population at time $t$. The parameters in the logistic equation are estimated to have the values $r=0.71 /$ year and $K=80.5 \\times 10^6 \\mathrm{~kg}$. If the initial biomass is $y_0=0.25 K$, find the biomass 2 years later. ",
+    "expected_answer": "46.7",
+    "difficulty": "expert",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "SCI_229",
+    "domain": "Physics",
+    "task_type": "Differential Equations",
+    "prompt": "Let a metallic rod $20 \\mathrm{~cm}$ long be heated to a uniform temperature of $100^{\\circ} \\mathrm{C}$. Suppose that at $t=0$ the ends of the bar are plunged into an ice bath at $0^{\\circ} \\mathrm{C}$, and thereafter maintained at this temperature, but that no heat is allowed to escape through the lateral surface. Determine the temperature at the center of the bar at time $t=30 \\mathrm{~s}$ if the bar is made of silver.",
+    "expected_answer": "35.91",
+    "difficulty": "expert",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "SCI_234",
+    "domain": "Physics",
+    "task_type": "Differential Equations",
+    "prompt": "Consider the initial value problem\r\n$$\r\ny^{\\prime \\prime}+2 a y^{\\prime}+\\left(a^2+1\\right) y=0, \\quad y(0)=1, \\quad y^{\\prime}(0)=0 .\r\n$$\r\nFor $a=1$ find the smallest $T$ such that $|y(t)|<0.1$ for $t>T$.",
+    "expected_answer": "1.8763",
+    "difficulty": "expert",
+    "evaluation_metric": "exact_match"
+  }
+]

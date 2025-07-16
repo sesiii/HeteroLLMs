@@ -1,0 +1,19 @@
+2025-07-14 17:16:02,202 [INFO] Ollama reachable
+2025-07-14 17:16:02,233 [INFO] Starting llama3.2:1b (8 tasks)
+2025-07-14 17:16:02,233 [INFO] Starting qwen2.5:1.5b (8 tasks)
+2025-07-14 17:17:50,021 [INFO] Finished llama3.2:1b
+2025-07-14 17:18:46,507 [INFO] Finished qwen2.5:1.5b
+2025-07-14 17:18:46,521 [INFO] Saved qwen2.5:1.5b to Results1/Mathematics/qwen2.5_1.5B/test_algebra_results_iter_5.json
+2025-07-14 17:18:46,522 [INFO] === qwen2.5:1.5b summary ===
+2025-07-14 17:18:46,522 [INFO] Tasks: 8 | Success: 8 | Accuracy: 12.50%
+2025-07-14 17:18:46,522 [INFO] Avg latency: 20530.58 ms
+2025-07-14 17:18:46,522 [INFO] Avg memory-peak: 50.50 MB
+2025-07-14 17:18:46,522 [INFO] Avg throughput: 17.22 t/s
+2025-07-14 17:18:46,523 [INFO] Total tokens processed: 2739
+2025-07-14 17:18:46,524 [INFO] Saved llama3.2:1b to Results1/Mathematics/llama3.2_1B/test_algebra_results_iter_5.json
+2025-07-14 17:18:46,525 [INFO] === llama3.2:1b summary ===
+2025-07-14 17:18:46,525 [INFO] Tasks: 8 | Success: 8 | Accuracy: 12.50%
+2025-07-14 17:18:46,525 [INFO] Avg latency: 13469.72 ms
+2025-07-14 17:18:46,525 [INFO] Avg memory-peak: 50.70 MB
+2025-07-14 17:18:46,525 [INFO] Avg throughput: 15.72 t/s
+2025-07-14 17:18:46,525 [INFO] Total tokens processed: 1614

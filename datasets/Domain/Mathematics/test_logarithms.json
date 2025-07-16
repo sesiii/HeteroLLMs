@@ -1,0 +1,19 @@
+[{
+    "task_id": "MATH_012",
+    "domain": "Mathematics",
+    "task_type": "Logarithms",
+    "prompt": "The value of log2 4 is: Choose the correct answer from the following options:\nA)2\nB)4\nC)6\nD)8\nE)12",
+    "expected_answer": "Answer: Option A",
+    "difficulty": "medium",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "MATH_159",
+    "domain": "Mathematics",
+    "task_type": "Logarithms",
+    "prompt": "At my favorite fruit stand, an orange costs 18 dollars, a pineapple costs 27 dollars, and a grape costs 15 dollars. Using the same logic, can you tell how much a mango costs? Choose the correct answer from the following options:\nA)22 dollars\nB)15 dollars\nC)20 dollars\nD)18 dollars\nE)10 dollars",
+    "expected_answer": "He cost is equal to 3 dollars for each letter in the fruits name.",
+    "difficulty": "easy",
+    "evaluation_metric": "exact_match"
+  }
+]

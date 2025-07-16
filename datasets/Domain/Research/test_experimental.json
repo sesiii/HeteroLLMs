@@ -1,0 +1,56 @@
+[
+    {
+    "task_id": "RES_EXP_0",
+    "domain": "Research",
+    "task_type": "Experimental Design",
+    "prompt": "What is the primary purpose of including a control group in an experimental study?",
+    "expected_answer": "To provide a baseline for comparison to isolate the effect of the independent variable.",
+    "difficulty": "easy",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "RES_EXP_1",
+    "domain": "Research",
+    "task_type": "Experimental Design",
+    "prompt": "Define the difference between an independent variable and a dependent variable in an experiment.",
+    "expected_answer": "The independent variable is the factor manipulated by the researcher, while the dependent variable is the factor measured or tested in response to changes in the independent variable.",
+    "difficulty": "easy",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "RES_EXP_2",
+    "domain": "Research",
+    "task_type": "Experimental Design",
+    "prompt": "A researcher is testing a new drug’s effect on blood pressure. Suggest one method to ensure the study is double-blind.",
+    "expected_answer": "Use a placebo identical in appearance to the drug, and ensure neither participants nor researchers know who receives the drug or placebo until the study is complete.",
+    "difficulty": "medium",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "RES_EXP_3",
+    "domain": "Research",
+    "task_type": "Experimental Design",
+    "prompt": "Explain why randomization is important in assigning participants to experimental and control groups.",
+    "expected_answer": "Randomization minimizes bias by ensuring that participant characteristics are evenly distributed across groups, reducing the influence of confounding variables.",
+    "difficulty": "medium",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "RES_EXP_4",
+    "domain": "Research",
+    "task_type": "Experimental Design",
+    "prompt": "A study tests the effect of a new teaching method on student performance. The researcher uses one class as the experimental group and another as the control group. Identify one potential confounding variable and suggest how to control for it.",
+    "expected_answer": "A potential confounding variable is teacher experience. To control for it, ensure the same teacher delivers both the experimental and control teaching methods, or use multiple teachers with similar experience levels across both groups.",
+    "difficulty": "hard",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "RES_EXP_5",
+    "domain": "Research",
+    "task_type": "Experimental Design",
+    "prompt": "Design a factorial experiment to study the effects of study time (2 hours vs. 4 hours) and teaching method (lecture vs. interactive) on exam scores. How many treatment combinations are there, and describe one possible interaction effect.",
+    "expected_answer": "There are 4 treatment combinations (2 study times × 2 teaching methods). An interaction effect could be that 4 hours of study with the interactive method leads to significantly higher exam scores than expected from the individual effects of study time and teaching method alone.",
+    "difficulty": "hard",
+    "evaluation_metric": "exact_match"
+  }
+]

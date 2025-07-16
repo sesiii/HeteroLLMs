@@ -1,0 +1,29 @@
+[
+  {
+    "task_id": "MED_029",
+    "domain": "Medicine",
+    "task_type": "Orthopedic Surgery",
+    "prompt": "Answer the question based on the following context: This study evaluated supply and demand trends for orthopedic postgraduate year 1 (PGY1) positions from 1984 to 2011 for the purpose of estimating national intercandidate competition over time. National Resident Matching Program (NRMP) data for orthopedic surgery from 1984 to 2011 were collected. Proxy variables including (total number of orthopedic applicants/number of orthopedic PGY1 positions), (number of US senior applicants to orthopedics/number of orthopedic PGY1 positions), (number of US seniors matching into orthopedics/number of US senior orthopedic applicants), (total number of matched orthopedic applicants/total number of orthopedic applicants), and (total number of US applicants who fail to match into orthopedics/total number of US senior applicants into orthopedics) as well as average United States Medical Licensing Examination Step 1 scores were used to gauge the level of competition between candidates and were compared over time. Academic medical center in the Midwestern United States. Medical professors and medical students. The NRMP data suggested that the number of positions per applicant decreased or remained stable since 1984 and that the percentage of applicants who did not match was no higher now than in the past. This finding was primarily because of the relative decrease in the ratio of applicants to available PGY1 positions, which stems from the number of positions increasing more rapidly than the number of applicants.\nQuestion: Is orthopedics more competitive today than when my attending matched?",
+    "expected_answer": "The NRMP data from 1984 to 2011 supported our hypothesis that intercandidate competition intensity for orthopedic PGY1 positions has not increased over time. The misconception that orthopedics is becoming more competitive likely arises from the increased number of applications submitted per candidate and the resulting relative importance placed on objective criteria such as United States Medical Licensing Examination Step 1 scores when programs select interview cohorts.",
+    "difficulty": "expert",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "MED_260",
+    "domain": "Medicine",
+    "task_type": "Orthopedic Surgery",
+    "prompt": "Answer the question based on the following context: The increasing incidence of hip fractures in our aging population challenges orthopedic surgeons and hospital administrators to effectively care for these patients. Many patients present to regional hospitals and are transferred to tertiary care centres for surgical management, resulting in long delays to surgery. Providing timely care may improve outcomes, as delay carries an increased risk of morbidity and mortality. We retrospectively reviewed the cases of all patients with hip fractures treated in a single Level 1 trauma centre in Canada between 2005 and 2012. We compared quality indicators and outcomes between patients transferred from a peripheral hospital and those directly admitted to the trauma centre. Of the 1191 patients retrospectively reviewed, 890 met our inclusion criteria: 175 who were transferred and 715 admitted directly to the trauma centre. Transfer patients' median delay from admission to operation was 93 hours, whereas nontransfer patients waited 44 hours (p<0.001). The delay predominantly occurred before transfer, as the patients had to wait for a bed to become available at the trauma centre. The median length of stay in hospital was 20 days for transfer patients compared with 13 days for nontransfer patients (p<0.001). Regional policy changes enacted in 2011 decreased the median transfer delay from regional hospital to tertiary care centre from 47 to 27 hours (p = 0.005).\nQuestion: A comparison of surgical delays in directly admitted versus transferred patients with hip fractures: opportunities for improvement?",
+    "expected_answer": "Policy changes can have a significant impact on patient care. Prioritizing patients and expediting transfer will decrease overall mortality, reduce hospital stay and reduce the cost of hip fracture care.",
+    "difficulty": "expert",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "MED_269",
+    "domain": "Medicine",
+    "task_type": "Orthopedic Surgery",
+    "prompt": "Answer the question based on the following context: To determine whether women are proportionately underselected at the level of the annual residency match. Data were obtained from the Royal College of Physicians and Surgeons of Canada and the Canadian Residency Matching Service. The odds of men being rejected from their top choice of surgical discipline were compared with the corresponding odds for women for the surgical specialties of general surgery, orthopedic surgery, neurosurgery, otolaryngology, urology, cardiac surgery and plastic surgery. Women continue to be underrepresented among surgery residents and surgeons in practice; however, the number of women has increased. Neither sex was overselected among the surgical specialties examined.\nQuestion: Does sex affect residency application to surgery?",
+    "expected_answer": "There was no evidence of overselection of either sex at the level of the annual resident selection committee.",
+    "difficulty": "expert",
+    "evaluation_metric": "exact_match"
+  }
+]

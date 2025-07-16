@@ -1,0 +1,42 @@
+[
+  {
+    "task_id": "MATH_001",
+    "prompt": "Calculate: (15*12) + 7. Provide only the final answer.",
+    "expected": "187",
+    "predicted": "207",
+    "correct": false,
+    "score": 0.0,
+    "metric": "exact_match",
+    "latency_ms": 1729.2547225952148,
+    "memory_peak_mb": 46.55078125,
+    "prompt_tokens": 48,
+    "completion_tokens": 4,
+    "total_tokens": 52,
+    "throughput_tps": 30.070757836046226,
+    "ref_prompt_tokens": 18,
+    "ref_completion_tokens": 1,
+    "ref_total_tokens": 19,
+    "ref_throughput_tps": 10.98739228624766,
+    "success": true
+  },
+  {
+    "task_id": "MATH_002",
+    "prompt": "Solve for x: 3x - 7 = 14. Provide only the final answer.",
+    "expected": "x = 7",
+    "predicted": "x = 5",
+    "correct": false,
+    "score": 0.0,
+    "metric": "exact_match",
+    "latency_ms": 343.0778980255127,
+    "memory_peak_mb": 47.92578125,
+    "prompt_tokens": 51,
+    "completion_tokens": 5,
+    "total_tokens": 56,
+    "throughput_tps": 163.228235693095,
+    "ref_prompt_tokens": 18,
+    "ref_completion_tokens": 3,
+    "ref_total_tokens": 21,
+    "ref_throughput_tps": 61.21058838491063,
+    "success": true
+  }
+]

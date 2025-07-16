@@ -1,0 +1,83 @@
+[
+  {
+    "task_id": "MMLU_121",
+    "domain": "Physics",
+    "task_type": "Physics",
+    "prompt": "A satellite of mass m orbits a planet of mass M in a circular orbit of radius R. The time required for one revolution is\n\nFor this question, four choices are provided:\n(A) independent of M\n(B) proportional to m^(1/2)\n(C) linear in R\n(D) proportional to R^(3/2)\n\nPlease choose the correct answer from the above choices.",
+    "expected_answer": "(D) proportional to R^(3/2)",
+    "difficulty": "hard",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "MMLU_413",
+    "domain": "Physics",
+    "task_type": "Physics",
+    "prompt": "Characteristic X rays, appearing as sharp lines on a continuous background, are produced when high-energy electrons bombard a metal target. Which of the following processes results in the characteristic X rays?\n\nFor this question, four choices are provided:\n(A) Electrons producing \u010cerenkov radiation\n(B) Electrons colliding with phonons in the metal\n(C) Electrons filling inner shell vacancies that are created in the metal atoms\n(D) Electrons combining with protons to form neutrons\n\nPlease choose the correct answer from the above choices.",
+    "expected_answer": "(C) Electrons filling inner shell vacancies that are created in the metal atoms",
+    "difficulty": "hard",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "MMLU_455",
+    "domain": "Physics",
+    "task_type": "Physics",
+    "prompt": "One end of a horizontal, massless spring is attached to a wall. A mass of 0.30 kg is attached to the other end of the spring and rests on a table. The mass is displaced 0.030 m from its equilibrium position and released. It has a speed of 0.040 m/s as it passes through its equilibrium position. In the absence of friction, what is the total mechanical energy of the system?\n\nFor this question, four choices are provided:\n(A) 0.24 mJ\n(B) 0.38 mJ\n(C) 0.48 mJ\n(D) 0.75 mJ\n\nPlease choose the correct answer from the above choices.",
+    "expected_answer": "(A) 0.24 mJ",
+    "difficulty": "hard",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "MMLU_536",
+    "domain": "Physics",
+    "task_type": "Physics",
+    "prompt": "Protons used in cancer therapy are typically accelerated to about 0.6c. How much work must be done on a particle of mass m in order for it to reach this speed, assuming it starts at rest?\n\nFor this question, four choices are provided:\n(A) 0.25mc^2\n(B) 0.60mc^2\n(C) 0.67mc^2\n(D) 1.25mc^2\n\nPlease choose the correct answer from the above choices.",
+    "expected_answer": "(A) 0.25mc^2",
+    "difficulty": "hard",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "MMLU_548",
+    "domain": "Physics",
+    "task_type": "Physics",
+    "prompt": "The energy from electromagnetic waves in equilibrium in a cavity is used to melt ice. If the Kelvin temperature of the cavity is increased by a factor of two, the mass of ice that can be melted in a fixed amount of time is increased by a factor of\n\nFor this question, four choices are provided:\n(A) 2\n(B) 4\n(C) 8\n(D) 16\n\nPlease choose the correct answer from the above choices.",
+    "expected_answer": "(D) 16",
+    "difficulty": "hard",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "MMLU_591",
+    "domain": "Physics",
+    "task_type": "Physics",
+    "prompt": "The coefficient of static friction between a small coin and the surface of a turntable is 0.30. The turntable rotates at 33.3 revolutions per minute. What is the maximum distance from the center of the turntable at which the coin will not slide?\n\nFor this question, four choices are provided:\n(A) 0.024 m\n(B) 0.048 m\n(C) 0.121 m\n(D) 0.242 m\n\nPlease choose the correct answer from the above choices.",
+    "expected_answer": "(D) 0.242 m",
+    "difficulty": "hard",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "MMLU_680",
+    "domain": "Physics",
+    "task_type": "Physics",
+    "prompt": "A magnetic field is directed perpendicular to the plane of a circular coil of area 0.2 m^2 and 250 turns. If the magnetic field is increased from 0.01 T to 0.06 T during a time interval of 0.25 s, the average induced EMF in the coil is\n\nFor this question, four choices are provided:\n(A) 0.04 V\n(B) 0.1 V\n(C) 2.5 V\n(D) 10 V\n\nPlease choose the correct answer from the above choices.",
+    "expected_answer": "(D) 10 V",
+    "difficulty": "hard",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "MMLU_685",
+    "domain": "Physics",
+    "task_type": "Physics",
+    "prompt": "A rod measures 1.00 m in its rest system. How fast must an observer move parallel to the rod to measure its length to be 0.80 m?\n\nFor this question, four choices are provided:\n(A) 0.50c\n(B) 0.60c\n(C) 0.70c\n(D) 0.80c\n\nPlease choose the correct answer from the above choices.",
+    "expected_answer": "(B) 0.60c",
+    "difficulty": "hard",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "MMLU_932",
+    "domain": "Physics",
+    "task_type": "Physics",
+    "prompt": "A heat pump is to extract heat from an outdoor environment at 7\u00b0C and heat the environment indoors to 27\u00b0C. For each 15,000 J of heat delivered indoors, the smallest amount of work that must be supplied to the heat pump is approximately\n\nFor this question, four choices are provided:\n(A) 500 J\n(B) 1,000 J\n(C) 1,100 J\n(D) 2,000 J\n\nPlease choose the correct answer from the above choices.",
+    "expected_answer": "(B) 1,000 J",
+    "difficulty": "hard",
+    "evaluation_metric": "exact_match"
+  }
+]

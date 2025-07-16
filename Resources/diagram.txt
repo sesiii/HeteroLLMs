@@ -1,0 +1,26 @@
+---
+config:
+  look: neo
+---
+
+sequenceDiagram
+  actor user as user
+  participant MAS as MAS
+
+  box framework
+    actor agent as agent
+    participant MCP as MCP
+    participant Tools as Tools
+    participant Database as Database
+  end
+
+  user ->> MAS: User input
+  MAS ->> user: Final Output
+  agent ->> MCP: Input-Query
+  MAS ->> agent: Query from MAS
+  MCP ->> Tools: Tool call
+  agent ->> MAS: Response with suitable LLM for MAS
+  Tools ->> MCP: Tool Message
+  MCP ->> agent: Output-Query
+  Tools ->> Database: Request
+  Database ->> Tools: Response

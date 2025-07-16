@@ -1,0 +1,506 @@
+[
+  {
+    "task_id": "SCI_022",
+    "domain": "Science General",
+    "task_type": "Science General",
+    "prompt": "Use differentials to estimate the amount of tin in a closed tin can with diameter $8 \\mathrm{~cm}$ and height $12 \\mathrm{~cm}$ if the tin is $0.04 \\mathrm{~cm}$ thick.",
+    "expected_answer": "16",
+    "difficulty": "hard",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "SCI_023",
+    "domain": "Science General",
+    "task_type": "Science General",
+    "prompt": "Frozen-core $\\mathrm{SCF} / \\mathrm{DZP}$ and CI-SD/DZP calculations on $\\mathrm{H}_2 \\mathrm{O}$ at its equilibrium geometry gave energies of -76.040542 and -76.243772 hartrees. Application of the Davidson correction brought the energy to -76.254549 hartrees. Find the coefficient of $\\Phi_0$ in the normalized CI-SD wave function.",
+    "expected_answer": "0.9731",
+    "difficulty": "hard",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "SCI_026",
+    "domain": "Science General",
+    "task_type": "Science General",
+    "prompt": "Calculate the de Broglie wavelength of an electron moving at 1/137th the speed of light. (At this speed, the relativistic correction to the mass is negligible.)",
+    "expected_answer": "0.332",
+    "difficulty": "hard",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "SCI_039",
+    "domain": "Science General",
+    "task_type": "Science General",
+    "prompt": "Carbon-14 is a radioactive nucleus with a half-life of 5760 years. Living matter exchanges carbon with its surroundings (for example, through $\\mathrm{CO}_2$ ) so that a constant level of ${ }^{14} \\mathrm{C}$ is maintained, corresponding to 15.3 decay events per minute. Once living matter has died, carbon contained in the matter is not exchanged with the surroundings, and the amount of ${ }^{14} \\mathrm{C}$ that remains in the dead material decreases with time due to radioactive decay. Consider a piece of fossilized wood that demonstrates $2.4{ }^{14} \\mathrm{C}$ decay events per minute. How old is the wood?",
+    "expected_answer": "4.86",
+    "difficulty": "hard",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "SCI_041",
+    "domain": "Science General",
+    "task_type": "Science General",
+    "prompt": "Determine the total collisional frequency for $\\mathrm{CO}_2$ at $1 \\mathrm{~atm}$ and $298 \\mathrm{~K}$.",
+    "expected_answer": "8.44",
+    "difficulty": "hard",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "SCI_042",
+    "domain": "Science General",
+    "task_type": "Science General",
+    "prompt": "The dye dilution method is used to measure cardiac output with $6 \\mathrm{mg}$ of dye. The dye concentrations, in $\\mathrm{mg} / \\mathrm{L}$, are modeled by $c(t)=20 t e^{-0.6 t}, 0 \\leqslant t \\leqslant 10$, where $t$ is measured in seconds. Find the cardiac output.",
+    "expected_answer": "6.6",
+    "difficulty": "hard",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "SCI_044",
+    "domain": "Science General",
+    "task_type": "Science General",
+    "prompt": "A gas sample is known to be a mixture of ethane and butane. A bulb having a $230.0 \\mathrm{~cm}^3$ capacity is filled with the gas to a pressure of $97.5 \\times 10^3 \\mathrm{~Pa}$ at $23.1^{\\circ} \\mathrm{C}$. If the mass of the gas in the bulb is $0.3554 \\mathrm{~g}$, what is the mole percent of butane in the mixture?\r\n",
+    "expected_answer": "32",
+    "difficulty": "hard",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "SCI_045",
+    "domain": "Science General",
+    "task_type": "Science General",
+    "prompt": "Calculate the pressure exerted by Ar for a molar volume of $1.31 \\mathrm{~L} \\mathrm{~mol}^{-1}$ at $426 \\mathrm{~K}$ using the van der Waals equation of state. The van der Waals parameters $a$ and $b$ for Ar are 1.355 bar dm ${ }^6 \\mathrm{~mol}^{-2}$ and $0.0320 \\mathrm{dm}^3 \\mathrm{~mol}^{-1}$, respectively. Is the attractive or repulsive portion of the potential dominant under these conditions?\r\n",
+    "expected_answer": "26.9",
+    "difficulty": "hard",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "SCI_051",
+    "domain": "Science General",
+    "task_type": "Science General",
+    "prompt": "When an electron in a certain excited energy level in a one-dimensional box of length $2.00  \u00c5$ makes a transition to the ground state, a photon of wavelength $8.79 \\mathrm{~nm}$ is emitted. Find the quantum number of the initial state.",
+    "expected_answer": "4",
+    "difficulty": "hard",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "SCI_066",
+    "domain": "Science General",
+    "task_type": "Science General",
+    "prompt": "The lowest-frequency pure-rotational absorption line of ${ }^{12} \\mathrm{C}^{32} \\mathrm{~S}$ occurs at $48991.0 \\mathrm{MHz}$. Find the bond distance in ${ }^{12} \\mathrm{C}^{32} \\mathrm{~S}$.",
+    "expected_answer": "1.5377",
+    "difficulty": "hard",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "SCI_069",
+    "domain": "Science General",
+    "task_type": "Science General",
+    "prompt": "Use the normalized Numerov-method harmonic-oscillator wave functions found by going from -5 to 5 in steps of 0.1 to estimate the probability of being in the classically forbidden region for the $v=0$ state.",
+    "expected_answer": "0.16",
+    "difficulty": "hard",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "SCI_071",
+    "domain": "Science General",
+    "task_type": "Science General",
+    "prompt": "Calculate $\\Delta G$ for the isothermal expansion of $2.25 \\mathrm{~mol}$ of an ideal gas at $325 \\mathrm{~K}$ from an initial pressure of 12.0 bar to a final pressure of 2.5 bar.",
+    "expected_answer": "-9.54",
+    "difficulty": "hard",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "SCI_073",
+    "domain": "Science General",
+    "task_type": "Science General",
+    "prompt": "In this problem, 3.00 mol of liquid mercury is transformed from an initial state characterized by $T_i=300 . \\mathrm{K}$ and $P_i=1.00$ bar to a final state characterized by $T_f=600 . \\mathrm{K}$ and $P_f=3.00$ bar.\r\nCalculate $\\Delta S$ for this process; $\\beta=1.81 \\times 10^{-4} \\mathrm{~K}^{-1}, \\rho=13.54 \\mathrm{~g} \\mathrm{~cm}^{-3}$, and $C_{P, m}$ for $\\mathrm{Hg}(l)=27.98 \\mathrm{~J} \\mathrm{~mol}^{-1} \\mathrm{~K}^{-1}$.",
+    "expected_answer": "58.2",
+    "difficulty": "hard",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "SCI_084",
+    "domain": "Science General",
+    "task_type": "Science General",
+    "prompt": "For water, $\\Delta H_{\\text {vaporization }}$ is $40.656 \\mathrm{~kJ} \\mathrm{~mol}^{-1}$, and the normal boiling point is $373.12 \\mathrm{~K}$. Calculate the boiling point for water on the top of Mt. Everest (elevation $8848 \\mathrm{~m}$ ), where the barometric pressure is 253 Torr.",
+    "expected_answer": "344",
+    "difficulty": "hard",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "SCI_086",
+    "domain": "Science General",
+    "task_type": "Science General",
+    "prompt": "Find the work done by a force $\\mathbf{F}=8 \\mathbf{i}-6 \\mathbf{j}+9 \\mathbf{k}$ that moves an object from the point $(0,10,8)$ to the point $(6,12,20)$ along a straight line. The distance is measured in meters and the force in newtons.",
+    "expected_answer": "144",
+    "difficulty": "hard",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "SCI_097",
+    "domain": "Science General",
+    "task_type": "Science General",
+    "prompt": "Calculate the Debye-H\u00fcckel screening length $1 / \\kappa$ at $298 \\mathrm{~K}$ in a $0.0075 \\mathrm{~m}$ solution of $\\mathrm{K}_3 \\mathrm{PO}_4$.",
+    "expected_answer": "1.4",
+    "difficulty": "hard",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "SCI_099",
+    "domain": "Science General",
+    "task_type": "Science General",
+    "prompt": "A model for the surface area of a human body is given by $S=0.1091 w^{0.425} h^{0.725}$, where $w$ is the weight (in pounds), $h$ is the height (in inches), and $S$ is measured in square feet. If the errors in measurement of $w$ and $h$ are at most $2 \\%$, use differentials to estimate the maximum percentage error in the calculated surface area.",
+    "expected_answer": "2.3",
+    "difficulty": "hard",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "SCI_100",
+    "domain": "Science General",
+    "task_type": "Science General",
+    "prompt": "A ball is thrown at an angle of $45^{\\circ}$ to the ground. If the ball lands $90 \\mathrm{~m}$ away, what was the initial speed of the ball?\r\n",
+    "expected_answer": "30",
+    "difficulty": "hard",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "SCI_106",
+    "domain": "Science General",
+    "task_type": "Science General",
+    "prompt": "A force of $40 \\mathrm{~N}$ is required to hold a spring that has been stretched from its natural length of $10 \\mathrm{~cm}$ to a length of $15 \\mathrm{~cm}$. How much work is done in stretching the spring from $15 \\mathrm{~cm}$ to $18 \\mathrm{~cm}$ ?",
+    "expected_answer": "1.56",
+    "difficulty": "hard",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "SCI_107",
+    "domain": "Science General",
+    "task_type": "Science General",
+    "prompt": "Calculate the ratio of the electrical and gravitational forces between a proton and an electron.",
+    "expected_answer": "2",
+    "difficulty": "hard",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "SCI_108",
+    "domain": "Science General",
+    "task_type": "Science General",
+    "prompt": "A crude model for the molecular distribution of atmospheric gases above Earth's surface (denoted by height $h$ ) can be obtained by considering the potential energy due to gravity:\r\n$$\r\nP(h)=e^{-m g h / k T}\r\n$$\r\nIn this expression $m$ is the per-particle mass of the gas, $g$ is the acceleration due to gravity, $k$ is a constant equal to $1.38 \\times 10^{-23} \\mathrm{~J} \\mathrm{~K}^{-1}$, and $T$ is temperature. Determine $\\langle h\\rangle$ for methane $\\left(\\mathrm{CH}_4\\right)$ using this distribution function.",
+    "expected_answer": "1.6",
+    "difficulty": "hard",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "SCI_113",
+    "domain": "Science General",
+    "task_type": "Science General",
+    "prompt": "For a two-level system where $v=1.50 \\times 10^{13} \\mathrm{~s}^{-1}$, determine the temperature at which the internal energy is equal to $0.25 \\mathrm{Nhv}$, or $1 / 2$ the limiting value of $0.50 \\mathrm{Nhv}$.",
+    "expected_answer": "655",
+    "difficulty": "hard",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "SCI_115",
+    "domain": "Science General",
+    "task_type": "Science General",
+    "prompt": "Calculate the magnitude of the spin angular momentum of a proton. Give a numerical answer. ",
+    "expected_answer": "9.13",
+    "difficulty": "hard",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "SCI_118",
+    "domain": "Science General",
+    "task_type": "Science General",
+    "prompt": "The base of a solid is a circular disk with radius 3 . Find the volume of the solid if parallel cross-sections perpendicular to the base are isosceles right triangles with hypotenuse lying along the base.",
+    "expected_answer": "36",
+    "difficulty": "hard",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "SCI_121",
+    "domain": "Science General",
+    "task_type": "Science General",
+    "prompt": "Find the number of CSFs in a full CI calculation of $\\mathrm{CH}_2 \\mathrm{SiHF}$ using a 6-31G** basis set.",
+    "expected_answer": "1.86",
+    "difficulty": "hard",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "SCI_141",
+    "domain": "Science General",
+    "task_type": "Science General",
+    "prompt": "Find the probability that the electron in the ground-state $\\mathrm{H}$ atom is less than a distance $a$ from the nucleus.",
+    "expected_answer": "0.323",
+    "difficulty": "hard",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "SCI_142",
+    "domain": "Science General",
+    "task_type": "Science General",
+    "prompt": "$\\mathrm{N}_2 \\mathrm{O}_3$ dissociates according to the equilibrium $\\mathrm{N}_2 \\mathrm{O}_3(\\mathrm{~g}) \\rightleftharpoons \\mathrm{NO}_2(\\mathrm{~g})+\\mathrm{NO}(\\mathrm{g})$. At $298 \\mathrm{~K}$ and one bar pressure, the degree of dissociation defined as the ratio of moles of $\\mathrm{NO}_2(g)$ or $\\mathrm{NO}(g)$ to the moles of the reactant assuming no dissociation occurs is $3.5 \\times 10^{-3}$. Calculate $\\Delta G_R^{\\circ}$ for this reaction.",
+    "expected_answer": "28",
+    "difficulty": "hard",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "SCI_146",
+    "domain": "Science General",
+    "task_type": "Science General",
+    "prompt": "A particle is subject to the potential energy $V=a x^4+b y^4+c z^4$. If its ground-state energy is $10 \\mathrm{eV}$, calculate $\\langle V\\rangle$ for the ground state.",
+    "expected_answer": "3.333333333",
+    "difficulty": "hard",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "SCI_147",
+    "domain": "Science General",
+    "task_type": "Science General",
+    "prompt": "For a macroscopic object of mass $1.0 \\mathrm{~g}$ moving with speed $1.0 \\mathrm{~cm} / \\mathrm{s}$ in a one-dimensional box of length $1.0 \\mathrm{~cm}$, find the quantum number $n$.",
+    "expected_answer": "3",
+    "difficulty": "hard",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "SCI_151",
+    "domain": "Science General",
+    "task_type": "Science General",
+    "prompt": "At $298.15 \\mathrm{~K}, \\Delta G_f^{\\circ}(\\mathrm{HCOOH}, g)=-351.0 \\mathrm{~kJ} \\mathrm{~mol}^{-1}$ and $\\Delta G_f^{\\circ}(\\mathrm{HCOOH}, l)=-361.4 \\mathrm{~kJ} \\mathrm{~mol}^{-1}$. Calculate the vapor pressure of formic acid at this temperature.",
+    "expected_answer": "1.51",
+    "difficulty": "hard",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "SCI_154",
+    "domain": "Science General",
+    "task_type": "Science General",
+    "prompt": " If $R$ is the total resistance of three resistors, connected in parallel, with resistances $R_1, R_2, R_3$, then\r\n$$\r\n\\frac{1}{R}=\\frac{1}{R_1}+\\frac{1}{R_2}+\\frac{1}{R_3}\r\n$$\r\nIf the resistances are measured in ohms as $R_1=25 \\Omega$, $R_2=40 \\Omega$, and $R_3=50 \\Omega$, with a possible error of $0.5 \\%$ in each case, estimate the maximum error in the calculated value of $R$.",
+    "expected_answer": "0.05882352941",
+    "difficulty": "hard",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "SCI_157",
+    "domain": "Science General",
+    "task_type": "Science General",
+    "prompt": "The sedimentation coefficient of lysozyme $\\left(\\mathrm{M}=14,100 \\mathrm{~g} \\mathrm{~mol}^{-1}\\right)$ in water at $20^{\\circ} \\mathrm{C}$ is $1.91 \\times 10^{-13} \\mathrm{~s}$ and the specific volume is $0.703 \\mathrm{~cm}^3 \\mathrm{~g}^{-1}$. The density of water at this temperature is $0.998 \\mathrm{~g} \\mathrm{~cm}^{-3}$ and $\\eta=1.002 \\mathrm{cP}$. Assuming lysozyme is spherical, what is the radius of this protein?",
+    "expected_answer": "1.94",
+    "difficulty": "hard",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "SCI_161",
+    "domain": "Science General",
+    "task_type": "Science General",
+    "prompt": "A planning engineer for a new alum plant must present some estimates to his company regarding the capacity of a silo designed to contain bauxite ore until it is processed into alum. The ore resembles pink talcum powder and is poured from a conveyor at the top of the silo. The silo is a cylinder $100 \\mathrm{ft}$ high with a radius of $200 \\mathrm{ft}$. The conveyor carries ore at a rate of $60,000 \\pi \\mathrm{~ft}^3 / \\mathrm{h}$ and the ore maintains a conical shape whose radius is 1.5 times its height. If, at a certain time $t$, the pile is $60 \\mathrm{ft}$ high, how long will it take for the pile to reach the top of the silo?",
+    "expected_answer": "9.8",
+    "difficulty": "hard",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "SCI_162",
+    "domain": "Science General",
+    "task_type": "Science General",
+    "prompt": "The $J=2$ to 3 rotational transition in a certain diatomic molecule occurs at $126.4 \\mathrm{GHz}$, where $1 \\mathrm{GHz} \\equiv 10^9 \\mathrm{~Hz}$. Find the frequency of the $J=5$ to 6 absorption in this molecule.",
+    "expected_answer": "252.8",
+    "difficulty": "hard",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "SCI_175",
+    "domain": "Science General",
+    "task_type": "Science General",
+    "prompt": "The volatile liquids $A$ and $\\mathrm{B}$, for which $P_A^*=165$ Torr and $P_B^*=85.1$ Torr are confined to a piston and cylinder assembly. Initially, only the liquid phase is present. As the pressure is reduced, the first vapor is observed at a total pressure of 110 . Torr. Calculate $x_{\\mathrm{A}}$",
+    "expected_answer": "0.312",
+    "difficulty": "hard",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "SCI_178",
+    "domain": "Science General",
+    "task_type": "Science General",
+    "prompt": "A muscle fiber contracts by $3.5 \\mathrm{~cm}$ and in doing so lifts a weight. Calculate the work performed by the fiber. Assume the muscle fiber obeys Hooke's law $F=-k x$ with a force constant $k$ of $750 . \\mathrm{N} \\mathrm{m}^{-1}$.",
+    "expected_answer": "0.46",
+    "difficulty": "hard",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "SCI_179",
+    "domain": "Science General",
+    "task_type": "Science General",
+    "prompt": "The vibrational frequency of $I_2$ is $208 \\mathrm{~cm}^{-1}$. At what temperature will the population in the first excited state be half that of the ground state?",
+    "expected_answer": "432",
+    "difficulty": "hard",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "SCI_180",
+    "domain": "Science General",
+    "task_type": "Science General",
+    "prompt": "A $360-\\mathrm{lb}$ gorilla climbs a tree to a height of $20 \\mathrm{~ft}$. Find the work done if the gorilla reaches that height in 5 seconds.",
+    "expected_answer": "7200",
+    "difficulty": "hard",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "SCI_181",
+    "domain": "Science General",
+    "task_type": "Science General",
+    "prompt": "Determine the diffusion coefficient for Ar at $298 \\mathrm{~K}$ and a pressure of $1.00 \\mathrm{~atm}$.",
+    "expected_answer": "1.1",
+    "difficulty": "hard",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "SCI_184",
+    "domain": "Science General",
+    "task_type": "Science General",
+    "prompt": "A force of $30 \\mathrm{~N}$ is required to maintain a spring stretched from its natural length of $12 \\mathrm{~cm}$ to a length of $15 \\mathrm{~cm}$. How much work is done in stretching the spring from $12 \\mathrm{~cm}$ to $20 \\mathrm{~cm}$ ?\r\n",
+    "expected_answer": "3.2",
+    "difficulty": "hard",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "SCI_185",
+    "domain": "Science General",
+    "task_type": "Science General",
+    "prompt": "In a rotational spectrum of $\\operatorname{HBr}\\left(B=8.46 \\mathrm{~cm}^{-1}\\right)$, the maximum intensity transition in the R-branch corresponds to the $J=4$ to 5 transition. At what temperature was the spectrum obtained?",
+    "expected_answer": "4943",
+    "difficulty": "hard",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "SCI_186",
+    "domain": "Science General",
+    "task_type": "Science General",
+    "prompt": "A camper stranded in snowy weather loses heat by wind convection. The camper is packing emergency rations consisting of $58 \\%$ sucrose, $31 \\%$ fat, and $11 \\%$ protein by weight. Using the data provided in Problem P4.32 and assuming the fat content of the rations can be treated with palmitic acid data and the protein content similarly by the protein data in Problem P4.32, how much emergency rations must the camper consume in order to compensate for a reduction in body temperature of $3.5 \\mathrm{~K}$ ? Assume the heat capacity of the body equals that of water. Assume the camper weighs $67 \\mathrm{~kg}$.",
+    "expected_answer": "49",
+    "difficulty": "hard",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "SCI_191",
+    "domain": "Science General",
+    "task_type": "Science General",
+    "prompt": "The activation energy for a reaction is $50 . \\mathrm{J} \\mathrm{mol}^{-1}$. Determine the effect on the rate constant for this reaction with a change in temperature from $273 \\mathrm{~K}$ to $298 \\mathrm{~K}$.",
+    "expected_answer": "0.15",
+    "difficulty": "hard",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "SCI_192",
+    "domain": "Science General",
+    "task_type": "Science General",
+    "prompt": "A hawk flying at $15 \\mathrm{~m} / \\mathrm{s}$ at an altitude of $180 \\mathrm{~m}$ accidentally drops its prey. The parabolic trajectory of the falling prey is described by the equation\r\n$$\r\ny=180-\\frac{x^2}{45}\r\n$$\r\nuntil it hits the ground, where $y$ is its height above the ground and $x$ is the horizontal distance traveled in meters. Calculate the distance traveled by the prey from the time it is dropped until the time it hits the ground. Express your answer correct to the nearest tenth of a meter.",
+    "expected_answer": "209.1",
+    "difficulty": "hard",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "SCI_198",
+    "domain": "Science General",
+    "task_type": "Science General",
+    "prompt": "Imagine gaseous $\\mathrm{Ar}$ at $298 \\mathrm{~K}$ confined to move in a two-dimensional plane of area $1.00 \\mathrm{~cm}^2$. What is the value of the translational partition function?",
+    "expected_answer": "3.9",
+    "difficulty": "hard",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "SCI_201",
+    "domain": "Science General",
+    "task_type": "Science General",
+    "prompt": "One liter of fully oxygenated blood can carry 0.18 liters of $\\mathrm{O}_2$ measured at $T=298 \\mathrm{~K}$ and $P=1.00 \\mathrm{~atm}$. Calculate the number of moles of $\\mathrm{O}_2$ carried per liter of blood. Hemoglobin, the oxygen transport protein in blood has four oxygen binding sites. How many hemoglobin molecules are required to transport the $\\mathrm{O}_2$ in $1.0 \\mathrm{~L}$ of fully oxygenated blood?",
+    "expected_answer": "1.11",
+    "difficulty": "hard",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "SCI_202",
+    "domain": "Science General",
+    "task_type": "Science General",
+    "prompt": "Determine the molar standard Gibbs energy for ${ }^{35} \\mathrm{Cl}^{35} \\mathrm{Cl}$ where $\\widetilde{\\nu}=560 . \\mathrm{cm}^{-1}, B=0.244 \\mathrm{~cm}^{-1}$, and the ground electronic state is nondegenerate.",
+    "expected_answer": "-57.2",
+    "difficulty": "hard",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "SCI_204",
+    "domain": "Science General",
+    "task_type": "Science General",
+    "prompt": "The temperature at the point $(x, y, z)$ in a substance with conductivity $K=6.5$ is $u(x, y, z)=2 y^2+2 z^2$. Find the rate of heat flow inward across the cylindrical surface $y^2+z^2=6$, $0 \\leqslant x \\leqslant 4$",
+    "expected_answer": "3920.70763168",
+    "difficulty": "hard",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "SCI_206",
+    "domain": "Science General",
+    "task_type": "Science General",
+    "prompt": "Find $Y_l^m(\\theta, \\phi)$  for  $l=0$.",
+    "expected_answer": "0.28209479",
+    "difficulty": "hard",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "SCI_213",
+    "domain": "Science General",
+    "task_type": "Science General",
+    "prompt": "Approximately how many oxygen molecules arrive each second at the mitochondrion of an active person with a mass of $84 \\mathrm{~kg}$ ? The following data are available: Oxygen consumption is about $40 . \\mathrm{mL}$ of $\\mathrm{O}_2$ per minute per kilogram of body weight, measured at $T=300 . \\mathrm{K}$ and $P=1.00 \\mathrm{~atm}$. In an adult there are about $1.6 \\times 10^{10}$ cells per kg body mass. Each cell contains about 800 . mitochondria.",
+    "expected_answer": "1.27",
+    "difficulty": "hard",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "SCI_214",
+    "domain": "Science General",
+    "task_type": "Science General",
+    "prompt": "The AM1 valence electronic energies of the atoms $\\mathrm{H}$ and $\\mathrm{O}$ are $-11.396 \\mathrm{eV}$ and $-316.100 \\mathrm{eV}$, respectively. For $\\mathrm{H}_2 \\mathrm{O}$ at its AM1-calculated equilibrium geometry, the AM1 valence electronic energy (core-core repulsion omitted) is $-493.358 \\mathrm{eV}$ and the AM1 core-core repulsion energy is $144.796 \\mathrm{eV}$. For $\\mathrm{H}(g)$ and $\\mathrm{O}(g), \\Delta H_{f, 298}^{\\circ}$ values are 52.102 and $59.559 \\mathrm{kcal} / \\mathrm{mol}$, respectively. Find the AM1 prediction of $\\Delta H_{f, 298}^{\\circ}$ of $\\mathrm{H}_2 \\mathrm{O}(g)$.",
+    "expected_answer": "-59.24",
+    "difficulty": "hard",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "SCI_230",
+    "domain": "Science General",
+    "task_type": "Science General",
+    "prompt": "Calculate $K_P$ at $600 . \\mathrm{K}$ for the reaction $\\mathrm{N}_2 \\mathrm{O}_4(l) \\rightleftharpoons 2 \\mathrm{NO}_2(g)$ assuming that $\\Delta H_R^{\\circ}$ is constant over the interval 298-725 K.",
+    "expected_answer": "4.76",
+    "difficulty": "hard",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "SCI_232",
+    "domain": "Science General",
+    "task_type": "Science General",
+    "prompt": "At 303 . K, the vapor pressure of benzene is 120 . Torr and that of hexane is 189 Torr. Calculate the vapor pressure of a solution for which $x_{\\text {benzene }}=0.28$ assuming ideal behavior.",
+    "expected_answer": "170",
+    "difficulty": "hard",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "SCI_233",
+    "domain": "Science General",
+    "task_type": "Science General",
+    "prompt": "Find the area of the region enclosed by the parabolas $y=x^2$ and $y=2 x-x^2$",
+    "expected_answer": "0.333333333333333",
+    "difficulty": "hard",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "SCI_240",
+    "domain": "Science General",
+    "task_type": "Science General",
+    "prompt": "One model for the spread of an epidemic is that the rate of spread is jointly proportional to the number of infected people and the number of uninfected people. In an isolated town of 5000 inhabitants, 160 people have a disease at the beginning of the week and 1200 have it at the end of the week. How long does it take for $80 \\%$ of the population to become infected?",
+    "expected_answer": "15",
+    "difficulty": "hard",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "SCI_248",
+    "domain": "Science General",
+    "task_type": "Science General",
+    "prompt": "A CAT scan produces equally spaced cross-sectional views of a human organ that provide information about the organ otherwise obtained only by surgery. Suppose that a CAT scan of a human liver shows cross-sections spaced $1.5 \\mathrm{~cm}$ apart. The liver is $15 \\mathrm{~cm}$ long and the cross-sectional areas, in square centimeters, are $0,18,58,79,94,106,117,128,63, 39, 0$. Use the Midpoint Rule to estimate the volume of the liver.\r\n",
+    "expected_answer": "1110",
+    "difficulty": "hard",
+    "evaluation_metric": "exact_match"
+  }
+]

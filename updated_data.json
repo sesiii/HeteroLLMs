@@ -1,0 +1,24 @@
+[
+  {
+    "task_id": "MATH_5",
+    "prompt": "Toulouse has twice as many sheep as Charleston. Charleston has 4 times as many sheep as Seattle. How many sheep do Toulouse, Charleston, and Seattle have together if Seattle has 20 sheep?",
+    "expected": "260",
+    "predicted": "To determine the total number of sheep for Toulouse, Charleston, and Seattle, we can follow these steps:\n\n1. First, identify how many sheep Seattle has:\n   \\[\n   \\text{Seattle's sheep} = 20\n   \\]\n\n2. Next, since Charleston has 4 times as many sheep as Seattle, we calculate the number of sheep in Charleston:\n   \\[\n   \\text{Charleston's sheep} = 4 \\times \\text{Seattle's sheep} = 4 \\times 20 = 80\n   \\]\n\n3. Then, since Toulouse has twice as many sheep as Charleston, we calculate the number of sheep in Toulouse:\n   \\[\n   \\text{Toulouse's sheep} = 2 \\times \\text{Charleston's sheep} = 2 \\times 80 = 160\n   \\]\n\n4. Now, sum up the total number of sheep for all three cities:\n   \\[\n   \\text{Total sheep} = \\text{Toulouse's sheep} + \\text{Charleston's sheep} + \\text{Seattle's sheep}\n   \\]\n   \\[\n   \\text{Total sheep} = 160 + 80 + 20 = 260\n   \\]\n\nSo, the total number of sheep for Toulouse, Charleston, and Seattle is:\n\\[\n\\boxed{260}\n\\]",
+    "correct": true,
+    "score": 1.0,
+    "metric": "exact_match",
+    "latency_ms": 15845.435857772827,
+    "memory_peak_mb": 50.6875,
+    "prompt_tokens": 71,
+    "completion_tokens": 298,
+    "total_tokens": 369,
+    "throughput_tps": 23.287462920686437,
+    "ref_prompt_tokens": 41,
+    "ref_completion_tokens": 317,
+    "ref_total_tokens": 358,
+    "ref_throughput_tps": 22.593256708958656,
+    "success": true,
+    "eval_reasoning": "The total number of sheep was calculated by summing the individual sheep counts of Toulouse, Charleston, and Seattle, which were determined through a series of multiplications based on the given ratios and Seattle's initial sheep count of 20.",
+    "extracted_answer": "260"
+  }
+]

@@ -1,0 +1,443 @@
+[
+  {
+    "task_id": "MED_012",
+    "domain": "Medicine",
+    "task_type": "Microbiology",
+    "prompt": "A 30-year-old man is brought to the emergency department with complaints of fever (41.5\u2103 (106.7\u2109)) and diarrhea for the past 12 hours. There is no history of headaches, vomiting, or loss of consciousness. The past medical history is unobtainable due to a language barrier (the patient recently immigrated from abroad), but his wife says her husband had a motor vehicle accident when he was a teenager that required surgery. He is transferred to the ICU after a few hours in the ED because of dyspnea, cyanosis, and near-collapse. There are no signs of a meningeal infection. The Blood pressure was 70/30 mm Hg at the time of transfer. A chest X-ray at the time of admission showed interstitial infiltrates without homogeneous opacities. The initial laboratory results reveal metabolic acidosis, leukopenia with a count of 2,000/mm\u00b3, thrombocytopenia (15,000/mm\u00b3), and a coagulation profile suggestive of disseminated coagulation. A peripheral smear was performed and is shown below. Despite ventilatory support, administration of intravenous fluids, antibiotics, and vasopressor agents, the patient died the next day. A gram stain from an autopsy specimen of the lungs revealed gram-positive, lancet-shaped diplococci occurring singly or in chains. Which of the following organisms is most likely? Choose the correct answer from the following options:\n(A) Staphylococcus aureus\n(B) Streptococcus pyogene\n(C) Streptococcus pneumoniae\n(D) Neisseria meningitidis\n(E) Non-typeable H. influenzae",
+    "expected_answer": "The correct answer is: (C) Streptococcus pneumoniae",
+    "difficulty": "expert",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "MED_019",
+    "domain": "Medicine",
+    "task_type": "Microbiology",
+    "prompt": "An 83-year-old man is admitted to the hospital with fever, weakness, and decreased responsiveness. He is diagnosed with urosepsis based on urinalysis and culture and started on ceftriaxone and intravenous fluids. By hospital day 3, he is clinically improving. During the evening, the patient becomes irritable. He is talking to someone despite nobody being present in the room. He is easily agitated and attempts to strike a nurse with a remote control to his TV. Subsequently, the patient keeps getting out of bed and trying to walk away despite being a fall risk. Which of the following is the most appropriate next step in management? Choose the correct answer from the following options:\n(A) Diphenhydramine\n(B) Lorazepam\n(C) Olanzapine\n(D) Phenobarbital\n(E) Physical restraints",
+    "expected_answer": "The correct answer is: (C) Olanzapine",
+    "difficulty": "expert",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "MED_022",
+    "domain": "Medicine",
+    "task_type": "Microbiology",
+    "prompt": "A 26-year-old male presents to his primary care physician with complaints of burning with urination, penile discharge, and intermittent fevers. A urethral smear shows gram negative diplococci within white blood cells. The organism grows well when cultured on Thayer-Martin agar. The patient is prescribed a course of ceftriaxone and the infection resolves without further complication. One year later, the patient returns with the same infection. Which of the following best explains this lack of lasting immunity? Choose the correct answer from the following options:\n(A) Exotoxin release\n(B) Antigenic variation\n(C) Polysaccharide capsule\n(D) Bruton's agammaglobulinemia\n(E) Lack of necessary vaccination",
+    "expected_answer": "The correct answer is: (B) Antigenic variation",
+    "difficulty": "expert",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "MED_037",
+    "domain": "Medicine",
+    "task_type": "Microbiology",
+    "prompt": "A 3-month-old girl is brought to a pediatrician by her parents. She has central cyanosis without signs of respiratory distress or signs of heart failure. An echocardiogram reveals severe pulmonary outflow obstruction, right ventricular hypertrophy, a ventricular septal defect, and an overriding of the aorta. An elective primary surgical repair is planned at 4 months of age. Which of the following statements is true about this girl\u2019s condition? Choose the correct answer from the following options:\n(A) The tricuspid valve is the most common valve affected by bacterial endocarditis in uncorrected tetralogy of Fallot.\n(B) Normal hemoglobin in patients with tetralogy of Fallot does not rule out iron deficiency anemia.\n(C) Cerebral arterial thrombosis is more common than cerebral venous thrombosis.\n(D) Refractory heart failure is a common complication of tetralogy of Fallot.\n(E) The most common age of presentation for brain abscess is between 6 and 12 months.",
+    "expected_answer": "The correct answer is: (B) Normal hemoglobin in patients with tetralogy of Fallot does not rule out iron deficiency anemia.",
+    "difficulty": "expert",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "MED_053",
+    "domain": "Medicine",
+    "task_type": "Microbiology",
+    "prompt": "A 23-year-old woman, gravida 2, para 1, at 20 weeks of gestation comes to the physician for a routine prenatal exam. Her last pregnancy was unremarkable and she gave birth to a healthy rhesus (RhD) positive girl. Her past medical history is notable for a blood transfusion after a car accident with a complex femur fracture about 3 years ago. Her temperature is 37.2\u00b0C (99\u00b0F), pulse is 92/min, and blood pressure is 138/82 mm Hg. Examination shows that the uterus is at the umbilicus. Ultrasound examination reveals normal fetal heart rate, movement, and anatomy. Routine prenatal labs show the following:\nBlood type A Rh-\nLeukocyte count 11,000/mm3\nHemoglobin 12.5 g/dL\nPlatelet count 345,000/mm3\nSerum\nAnti-D antibody screen Negative\nRubella IgM Negative\nRubella IgG Negative\nVaricella IgM Negative\nVaricella IgG Positive\nSTD panel Negative\nUrine\nProtein Trace\nCulture No growth\nCervical cytology Normal\nWhich of the following is the best next step in management of this patient?\" Choose the correct answer from the following options:\n(A) Administer anti-D immunoglobulin now and repeat antibody screening shortly before delivery.\n(B) Repeat antibody screening at 28 weeks. Administer anti-D immunoglobulin at 28 weeks and after delivery if the newborn is Rh(D) positive.\n(C) Repeat antibody screening at 28 weeks and administer anti-D immunoglobulin at 28 weeks. No further management is needed.\n(D) No further screening is needed. Administer anti-D immunoglobulin shortly after delivery\n(E) No further management is needed\n\"",
+    "expected_answer": "The correct answer is: (B) Repeat antibody screening at 28 weeks. Administer anti-D immunoglobulin at 28 weeks and after delivery if the newborn is Rh(D) positive.",
+    "difficulty": "expert",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "MED_096",
+    "domain": "Medicine",
+    "task_type": "Microbiology",
+    "prompt": "A researcher conducts multiple experiments to establish an infection and disease model for Clostridium perfringens in chickens. To ensure that all instruments are free of the pathogenic organism, he uses a disinfectant that oxidizes and denatures proteins. Which of the following disinfectants did the researcher most likely use? Choose the correct answer from the following options:\n(A) Chlorine dioxide\n(B) Isopropyl alcohol\n(C) Phenol\n(D) Povidone-iodine\n(E) Benzalkonium chloride",
+    "expected_answer": "The correct answer is: (A) Chlorine dioxide",
+    "difficulty": "expert",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "MED_117",
+    "domain": "Medicine",
+    "task_type": "Microbiology",
+    "prompt": "A 40-year-old man comes to the emergency department with a 4-day history of left leg pain. Over the weekend, he scraped his left thigh when he fell on a muddy field while playing flag football with some friends. Since that time, he has had progressively worsening redness and pain in his left thigh. Past medical history is unremarkable. His temperature is 39.4\u00b0C (103.0\u00b0F), heart rate is 120/min, and blood pressure is 95/60 mm Hg. Physical exam is significant for a poorly-demarcated area of redness on his left thigh, extending to about a 10 cm radius from a small scrape. This area is extremely tender to palpation, and palpation elicits an unusual 'crunchy' sensation. CT scan shows free air in the soft tissue of the left leg. The organism that is most likely responsible for this patient's presentation is also a common cause of which of the following conditions? Choose the correct answer from the following options:\n(A) Bacterial endocarditis\n(B) Bacterial pneumonia\n(C) Bacterial sinusitis\n(D) Food-borne illness\n(E) Urinary tract infection",
+    "expected_answer": "The correct answer is: (D) Food-borne illness",
+    "difficulty": "expert",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "MED_174",
+    "domain": "Medicine",
+    "task_type": "Microbiology",
+    "prompt": "A medical student decides to join an immunology research center, which specifically works on capsular polysaccharide vaccine development against bacteria, such as Haemophilus influenzae type b (Hib), Neisseria meningitidis, and Streptococcus pneumoniae. As a member of a research team working on the Hib vaccine, he asks his senior colleague why capsular polysaccharides are conjugated to protein carriers like tetanus toxoid during vaccine development. Which of the following is the best response to this question? Choose the correct answer from the following options:\n(A) Conjugation with a protein carrier generates IgG2 dominant antibody responses\n(B) Conjugation with a protein carrier generates IgM dominant antibody responses\n(C) Polysaccharides conjugated with proteins are T cell-independent antigens\n(D) Conjugation with a protein carrier improves vaccine stability\n(E) Conjugation with a protein carrier provides effective protection to infants",
+    "expected_answer": "The correct answer is: (E) Conjugation with a protein carrier provides effective protection to infants",
+    "difficulty": "expert",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "MED_209",
+    "domain": "Medicine",
+    "task_type": "Microbiology",
+    "prompt": "A 61-year-old man presents to the clinic with complaints of excessive thirst, frequent urination, and partial visual loss in both eyes for 1 day. His family history is significant for type 2 diabetes mellitus in his mother and cousin. His weight is 112 kg ( 246.9 lb), height 187 cm (6 ft 1 in), blood pressure: 150/90 mm Hg, heart rate: 89/min, respiratory rate: 14/min, and temperature: 36.7\u2103 (98.4\u2109). The physical examination is significant for dry skin, a pustular rash over the patient\u2019s shoulders and back, an accentuated second heart sound (S2) best heard in the second intercostal space at the right sternal border, and distal loss of vibration sensitivity in both feet. A fundoscopic examination shows small red dots in the superficial retinal layers suggestive of microaneurysms. The HbA1c is 9% and the urinalysis shows the following:\nColor Pale yellow (light/pale-to-dark/deep amber)\nClarity Cloudy\npH 6.6\nSpecific gravity 1.010\nGlucose 199 mg/dl\nKetones None\nNitrites Negative\nLeukocyte esterase Negative\nBilirubin Negative\nUrinary bilirubin Traces\nRed blood cells 3 RBCs\nProtein 120 mg/d\nRBCs \u2264 2 RBCs/hpf\nWBCs 22 WBCs/hpf\nEpithelial cells 27 squamous epithelial cells/hpf\nCasts 5 hyaline casts/lpf\nCrystals Occasional\nBacteria None\nYeast Present\nWhich of the following statements best describes the cause of this patient\u2019s glucosuria? Choose the correct answer from the following options:\n(A) Yeasts metabolize glucogenic amino acids which are filtered in the urine into glucose\n(B) There is a disruption of primary active transport of glucose in the proximal renal tubules\n(C) Secondary active transporters fail to completely reabsorb glucose in the renal tubules\n(D) There is a disruption of passive transport of the glucose in the proximal renal tubules\n(E) Glucosuria results from increased glomerular filtration rate",
+    "expected_answer": "The correct answer is: (C) Secondary active transporters fail to completely reabsorb glucose in the renal tubules",
+    "difficulty": "expert",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "MED_210",
+    "domain": "Medicine",
+    "task_type": "Microbiology",
+    "prompt": "The only immunoglobulin found as a dimer has what primary function? Choose the correct answer from the following options:\n(A) Protect against invasive helminth infection\n(B) Protect against viral infections\n(C) Provide an initial humoral immune response to newly presenting bacterial antigens\n(D) Inhibiting bacterial adherance and colonization of mucous membranes\n(E) Provides the most specific recognition to circulating antigens in the bloodstream",
+    "expected_answer": "The correct answer is: (D) Inhibiting bacterial adherance and colonization of mucous membranes",
+    "difficulty": "expert",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "MED_249",
+    "domain": "Medicine",
+    "task_type": "Microbiology",
+    "prompt": "A 7-day-old infant boy presents to an emergency department due to poor feeding. His parents are recent immigrants to the United States. He was born in a traditional home birth and has never seen a medical provider. Mom had no prenatal care, has no medical issues, and is unvaccinated. The baby had been breastfeeding well until 24 hours ago when mom noticed he started having trouble latching. In the last 12 hours, he has completely refused to feed. He has had a decreased number of wet diapers and has stooled twice in the last 24 hours. His temperature is 98.6\u00b0F (37.0\u00b0C), pulse is 180/min, respirations are 52/min, and blood pressure is 70/50 mmHg. On exam, the infant has increased tone, a clenched jaw, no head lag, and clenched hands. Initial screening bloodwork is normal. What is the most likely organism causing this infant's presentation? Choose the correct answer from the following options:\n(A) Clostridium botulinum\n(B) Clostridium tetani\n(C) Escherichia coli\n(D) Group B streptococcus\n(E) Listeria monocytogenes",
+    "expected_answer": "The correct answer is: (B) Clostridium tetani",
+    "difficulty": "expert",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "MED_288",
+    "domain": "Medicine",
+    "task_type": "Microbiology",
+    "prompt": "A 4-year-old previously healthy boy presents with 4 days of intermittent vomiting and 5-6 daily loose stools. His mother noted bloody stools and decreased oral intake of food and water over the last 24 hours. He is normally in daycare; however, he has been home for the past 3 days. On physical exam his temperature is 102.2\u00b0F (39\u00b0C), blood pressure is 140/90 mmHg, pulse is 120/min, respirations are 22/min and O2 saturation is 99% on room air. He has dry mucous membranes. On abdominal exam you note diffuse tenderness to palpation without rebound or guarding. There are no masses, hepatosplenomegaly, and bowel sounds are hyperactive. Ultrasound of the right lower quadrant is negative for appendicitis. Stool is guaiac positive. He receives 15mg/kg acetaminophen and fluids are started. The next day, he complains of lower extremity weakness and tingling. On repeat exam, lower extremity strength is 3/5 with diminished patellar deep tendon reflexes. Which of the following lab findings would most likely be seen in this patient? Choose the correct answer from the following options:\n(A) Gram stain positive CSF\n(B) Peripheral eosinophilia\n(C) Xanthochromia on cerebrospinal fluid analysis\n(D) Increased cerebrospinal fluid protein with normal cell count\n(E) Oligoclonal bands on cerebrospinal fluid analysis",
+    "expected_answer": "The correct answer is: (D) Increased cerebrospinal fluid protein with normal cell count",
+    "difficulty": "expert",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "MED_311",
+    "domain": "Medicine",
+    "task_type": "Microbiology",
+    "prompt": "A 55-year-old man comes to the emergency department with the complaint of pain in his right toe for the past hour. The pain is so severe that it woke him up. The patient has smoked a pack of cigarettes daily for the last 40 years and binge drinks alcohol after work and on the weekends. He underwent an appendectomy when he was 14 years old. He is a long-distance truck driver. Neither of his parents had any significant medical history. His temperature is 37.7\u00b0C (100\u00b0F), blood pressure is 135/75 mm Hg, pulse is 102/min, respiratory rate is 20/min, and BMI is 25 kg/m2. On examination, his right first metatarsophalangeal joint is very tender, swollen, warm, and red in color. Range of motion cannot be assessed due to extreme tenderness.\nLaboratory test\nComplete blood count:\nHemoglobin 11.5 g/dL\nLeukocytes 16,000/mm3\nPlatelets 150,000/mm3\nESR 50 mm/hr\nSynovial fluid is aspirated from the joint. The findings are:\nAppearance Cloudy, dense yellow\nWBC 30,000 cells/\u00b5L\nCulture Negative\nNeedle-shaped birefringent crystals are observed in the joint aspirate. Which of the following is the most likely underlying cause of the patient\u2019s condition? Choose the correct answer from the following options:\n(A) Organic acids competing with urate for tubular secretion\n(B) Increased renal reabsorption of urate\n(C) Lysis of large numbers of cells\n(D) Deficiency of HGPRT\n(E) High-purine diet",
+    "expected_answer": "The correct answer is: (A) Organic acids competing with urate for tubular secretion",
+    "difficulty": "expert",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "MED_366",
+    "domain": "Medicine",
+    "task_type": "Microbiology",
+    "prompt": "An investigator is studying bacterial adaptations to the environment in an infectious isolate and a noninfectious isolate of Hemophilus influenzae type B. Animals exposed to the noninfectious isolate do not develop symptoms of infection. The investigator cultivates the noninfectious isolate in a culture with lysed bacteria from the infectious isolate. Some of the animals exposed to these bacteria develop symptoms of infection. Which of the following processes is most likely responsible for the described findings? Choose the correct answer from the following options:\n(A) Conjugation\n(B) Reassortment\n(C) Transformation\n(D) Generalized transduction\n(E) Recombination",
+    "expected_answer": "The correct answer is: (C) Transformation",
+    "difficulty": "expert",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "MED_403",
+    "domain": "Medicine",
+    "task_type": "Microbiology",
+    "prompt": "A 32-year-old male presents to the emergency department because of fever and diarrhea. He was in his normal state of health until 2 weeks ago when he went abroad on a vacation. During his trip he went kayaking, visited spas, interacted with local animals, and ate local foods. Since returning he has had 3-day history of fever, cough, headache, and diarrhea. He drinks socially and has a 15-pack-year history of smoking. On presentation his temperature is 102.3\u00b0F (39.1\u00b0C), blood pressure is 105/62 mmHg, pulse is 91/min, respirations are 18/min, and O2 saturation is 91% on room air. Chest exam reveals fine crackles on auscultation. Chest radiograph reveals patchy infiltrates in both lungs and labs reveal mild hyponatremia and mild elevation of AST/ALT levels. The organism that is most likely responsible for this patient's symptoms is associated with which of the following characteristics? Choose the correct answer from the following options:\n(A) Can form an endospore\n(B) Has a rabbit reservoir\n(C) Has no cell wall\n(D) Is more common in parrot owners\n(E) Is transmitted by air conditioning",
+    "expected_answer": "The correct answer is: (E) Is transmitted by air conditioning",
+    "difficulty": "expert",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "MED_439",
+    "domain": "Medicine",
+    "task_type": "Microbiology",
+    "prompt": "A 34-year-old man presents to the emergency department complaining of headache, fever, chills, cough, shortness of breath, and chest pain for the past 4 days. He smokes 2 packs per day and drinks 2\u20133 beers every day. He denies any previous medical problems except for seasonal allergies for which he takes diphenhydramine on occasions. At the hospital, the vital signs include: temperature 40.0\u00b0C (104.0\u00b0F), blood pressure 140/80 mm Hg, heart rate 98/min, and respiratory rate 28/min. On physical exam, he is thin and poorly kept. His clothes appear dirty. Small scars are visible in the decubitus region of both arms. The lung sounds are equal with bilateral crackles, and heart auscultation reveals a systolic murmur that radiates to the left axilla. Petechiae are seen on the hard palate and palms of his hands. A chest X-ray and blood cultures are ordered. What is the most likely organism causing his symptoms? Choose the correct answer from the following options:\n(A) Streptococci viridans\n(B) Enterococci\n(C) Staphylococcus aureus\n(D) Aspergillus fumigatus\n(E) Staphylococcus epidermidis",
+    "expected_answer": "The correct answer is: (C) Staphylococcus aureus",
+    "difficulty": "expert",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "MED_461",
+    "domain": "Medicine",
+    "task_type": "Microbiology",
+    "prompt": "A 27-year-old college student presents to his physician for constant fatigue. The patient states that for the past several weeks he has felt oddly fatigued and has struggled to complete his work. He is a foreign exchange student and is concerned he will fail out of his academic program. He has experienced some occasional nausea and vomiting which has caused him to lose weight. The patient is a first year college student, drinks alcohol regularly, smokes marijuana, and has unprotected sex with multiple partners. His temperature is 99.5\u00b0F (37.5\u00b0C), blood pressure is 127/68 mmHg, pulse is 90/min, respirations are 17/min, and oxygen saturation is 98% on room air. Laboratory values are ordered as seen below.\n\nSerum:\nNa+: 139 mEq/L\nCl-: 100 mEq/L\nK+: 4.3 mEq/L\nHCO3-: 25 mEq/L\nBUN: 20 mg/dL\nGlucose: 99 mg/dL\nCreatinine: 1.1 mg/dL\nCa2+: 10.2 mg/dL\nTotal bilirubin: 2.0 mg/dL\nAST: 85 U/L\nALT: 92 U/L\n\nUrine\nColor: Amber/brown\nMarijuana: Positive\nAmphetamines: Positive\nCocaine: Positive\n\nThe patient refuses an examination of his genitals. Which of the following is the best diagnostic test? Choose the correct answer from the following options:\n(A) CAGE questions\n(B) Direct influenza antigen\n(C) Uretheral swab and culture\n(D) Viral core antibody\n(E) Viral surface antibody",
+    "expected_answer": "The correct answer is: (D) Viral core antibody",
+    "difficulty": "expert",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "MED_463",
+    "domain": "Medicine",
+    "task_type": "Microbiology",
+    "prompt": "A 42-year-old man is brought to the emergency department because of a 2-day history of dyspnea, chest pain, and hemoptysis that were preceded by 4 days of myalgia and a low-grade fever. He is currently visiting the United States as a tourist from Turkey, where he works at a factory that processes sheep wool and hide. An x-ray of the chest shows widening of the mediastinum. A sputum culture grows gram-positive rods in gray colonies that have irregular margins with wavy projections on microscopy. Which of the following virulence factors of the causal organism increased its survival in host tissue? Choose the correct answer from the following options:\n(A) Glutamate capsule\n(B) Toxin B\n(C) Protein A\n(D) IgA protease\n(E) Sulfatides",
+    "expected_answer": "The correct answer is: (A) Glutamate capsule",
+    "difficulty": "expert",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "MED_475",
+    "domain": "Medicine",
+    "task_type": "Microbiology",
+    "prompt": "A 48-year-old woman comes to the physician because of a 7-day history of progressively worsening shortness of breath. She has a history of asthma and has frequent exacerbations despite receiving maximal medical therapy. Physical examination shows scattered expiratory wheezing. Laboratory studies show a leukocyte count of 9,800/mm3 (13% eosinophils) and elevated serum concentration of immunoglobulin E. An x-ray of the chest shows thickened bronchial walls and perihilar opacities. Sputum culture shows scattered septate hyphae that branch at 45 degrees. Which of the following is most likely to be increased in this patient? Choose the correct answer from the following options:\n(A) IL-28\n(B) C5a\n(C) TGF-\u03b2\n(D) IFN-\u03b1\n(E) IL-4",
+    "expected_answer": "The correct answer is: (E) IL-4",
+    "difficulty": "expert",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "MED_479",
+    "domain": "Medicine",
+    "task_type": "Microbiology",
+    "prompt": "A 14-year-old girl is brought to the physician by her father because of fever, chills, abdominal pain, and profuse non-bloody diarrhea. Her symptoms began one week ago, when she had several days of low-grade fever and constipation. She returned from Indonesia 2 weeks ago, where she spent the summer with her grandparents. Her temperature is 39.3\u00b0C (102.8\u00b0F). Examination shows diffuse abdominal tenderness and mild hepatosplenomegaly. There is a faint salmon-colored maculopapular rash on her trunk and abdomen. Which of the following is the most likely causal organism? Choose the correct answer from the following options:\n(A) Giardia lamblia\n(B) Schistosoma mansoni\n(C) Campylobacter jejuni\n(D) Salmonella typhi\n(E) Clostridium perfringens",
+    "expected_answer": "The correct answer is: (D) Salmonella typhi",
+    "difficulty": "expert",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "MED_481",
+    "domain": "Medicine",
+    "task_type": "Microbiology",
+    "prompt": "A 36-year-old man undergoes open reduction and internal fixation of a left femur fracture sustained after a motor vehicle collision. Three days after the surgery, he develops fever and redness around the surgical site. His temperature is 39.5\u00b0C (103.1\u00b0F). Physical examination shows purulent discharge from the wound with erythema of the surrounding skin. Wound culture of the purulent discharge shows gram-positive cocci in clusters. Treatment with oral dicloxacillin is initiated. Four days later, the patient continues to have high-grade fever, pain, and purulent discharge. Which of the following characteristics of the infecting organism best explains the failure to improve with antibiotic therapy? Choose the correct answer from the following options:\n(A) Secretion of a pyrogenic toxin\n(B) Presence of an impenetrable outer membrane\n(C) Ability to cleave \u03b2-lactam rings\n(D) Development of efflux pumps\n(E) Adaptation in binding proteins",
+    "expected_answer": "The correct answer is: (E) Adaptation in binding proteins",
+    "difficulty": "expert",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "MED_491",
+    "domain": "Medicine",
+    "task_type": "Microbiology",
+    "prompt": "A previously healthy 17-year-old female college student comes to the emergency department because of a 1-day history of fever, chills, and severe headache. Her temperature is 39.4\u00b0C (103\u00b0F). Physical examination shows nuchal rigidity and photophobia. Blood cultures are obtained and a lumbar puncture is performed. A Gram stain of cerebrospinal fluid shows gram-negative cocci in pairs. Which of the following virulence factors was most likely involved in the initial step of this patient's infection? Choose the correct answer from the following options:\n(A) Protein A\n(B) Lipooligosaccharides\n(C) Adhesive pili\n(D) Biofilm formation\n(E) Polysaccharide capsule",
+    "expected_answer": "The correct answer is: (C) Adhesive pili",
+    "difficulty": "expert",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "MED_492",
+    "domain": "Medicine",
+    "task_type": "Microbiology",
+    "prompt": "A 62-year-old patient has been hospitalized for a week due to a stroke. One week into the hospitalization, he develops a fever and purulent cough. His vitals include: heart rate 88/min, respiratory rate 20/min, temperature 38.4\u00b0C (101.1\u00b0F), and blood pressure 110/85 mm Hg. On physical examination, he has basal crackles on the right side of the chest. Chest radiography shows a new consolidation on the same side. Complete blood count is as follows:\nHemoglobin 16 mg/dL\nHematocrit 50%\nLeukocyte count 8,900/mm3\nNeutrophils 72%\nBands 4%\nEosinophils 2%\nBasophils 0%\nLymphocytes 17%\nMonocytes 5%\nPlatelet count 280,000/mm3\nWhat is the most likely causal microorganism? Choose the correct answer from the following options:\n(A) Pseudomona aeruginosa\n(B) Streptococcus pneumoniae\n(C) Mycobacterium tuberculosis\n(D) Haemophilus influenzae\n(E) Staphylococcus aureus",
+    "expected_answer": "The correct answer is: (E) Staphylococcus aureus",
+    "difficulty": "expert",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "MED_501",
+    "domain": "Medicine",
+    "task_type": "Microbiology",
+    "prompt": "A 6-year-old boy is brought in by his parents to a pediatrician\u2019s office for persistent fever. His temperature has ranged from 38.6\u00b0C\u201339.5\u00b0C (101.5\u00b0F\u2013103.1\u00b0F) over the past week. He was diagnosed with a gene defect on chromosome 7, which has caused dysfunction in a transmembrane protein. This defect has resulted in several hospitalizations for various respiratory infections. At the present time, he is struggling with a cough with thick purulent sputum. A sputum sample is sent for culture and the patient is started on vancomycin.The pediatrician tells the patient\u2019s family that there is a collection of mucus in the respiratory tree which increases the patient's chances of future infections. He will have to undergo chest physiotherapy and they should report any signs of infection immediately to a medical professional. Which of the following pathogens will most likely infect this patient in adulthood? Choose the correct answer from the following options:\n(A) Staphylococcus\n(B) Pseudomonas\n(C) Burkholderia\n(D) Influenza\n(E) Candida",
+    "expected_answer": "The correct answer is: (B) Pseudomonas",
+    "difficulty": "expert",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "MED_541",
+    "domain": "Medicine",
+    "task_type": "Microbiology",
+    "prompt": "An 11-month-old boy is brought to the clinic by his mother for a rash on his trunk, which he has had for the past 2 days. She notes that he is eating less and is more cranky than usual. His birth history is insignificant, and his immunizations are up to date. Vital signs include: temperature is 37.8\u00b0C (100.0\u00b0F), pulse is 98/min, and respiratory rate is 16/min. The rash features thin-walled, fluid-filled blisters that rupture easily. Fluid samples from the lesions are sent for analysis to a microbiology lab. The results reveal an infection by the gram-positive bacterium Staphylococcus aureus. The patient is diagnosed with staphylococcal scalded skin syndrome. Which of the following is involved with the primary defense in response to the bacteria and toxins produced by this organism? Choose the correct answer from the following options:\n(A) Immunoglobulin- IgG\n(B) Immunoglobulin- IgE\n(C) Immunoglobulin- IgD\n(D) Immunoglobulin- IgA\n(E) Immunoglobulin- IgM",
+    "expected_answer": "The correct answer is: (E) Immunoglobulin- IgM",
+    "difficulty": "expert",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "MED_548",
+    "domain": "Medicine",
+    "task_type": "Microbiology",
+    "prompt": "A previously healthy 52-year-old woman is brought to the emergency department after sustaining burns over 45% of her body in a house fire. On arrival, she is in acute distress but is fully oriented. Aggressive intravenous fluid resuscitation is begun and the patient is transferred to the intensive care unit of a burn center. 20 hours later, she has several large, tarry black stools and develops hypotension and tachycardia. Despite appropriate lifesaving measures, she dies. Which of the following is the most likely underlying cause of the patient's tarry black stools? Choose the correct answer from the following options:\n(A) Decreased prostaglandin synthesis\n(B) Erosion of tortuous submucosal arteriole\n(C) Bacterial colonization of the gastric antrum\n(D) Decreased gastric blood flow\n(E) Increased stomach acid production",
+    "expected_answer": "The correct answer is: (D) Decreased gastric blood flow",
+    "difficulty": "expert",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "MED_559",
+    "domain": "Medicine",
+    "task_type": "Microbiology",
+    "prompt": "A 26-year-old woman developed rapidly progressive septic shock associated with nuchal rigidity, petechiae, and purpura. She tested positive for both Kernig and Brudzinski's signs and shows signs of confusion, dyspnea, and hypotension. The blood culture results confirmed the presence of Neisseria meningitidis, and a complete blood count (CBC) revealed leukocytosis. Which one of the cytokines below takes part in the pathogenesis of septic shock? Choose the correct answer from the following options:\n(A) Tumor necrosis factor-\u03b1\n(B) Interleukin-5\n(C) Interleukin-12\n(D) Interferon-\u03b1\n(E) Interleukin-4",
+    "expected_answer": "The correct answer is: (A) Tumor necrosis factor-\u03b1",
+    "difficulty": "expert",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "MED_594",
+    "domain": "Medicine",
+    "task_type": "Microbiology",
+    "prompt": "A 24-year-old married woman presents to the emergency department with severe abdominal pain since last night. She also complains of scant vaginal bleeding. She says she visited a physician last year who said she had a pelvic infection, but she was never treated because of insurance issues. She also says her period has been delayed this month. She is afebrile. The pulse is 124/min and the blood pressure is 100/70 mm Hg. On examination, her abdomen is distended and tender. A pregnancy test was positive. A complication of infection with which of the following organisms most likely led to this patient\u2019s condition? Choose the correct answer from the following options:\n(A) Candida albicans\n(B) Neisseria gonorrhoeae\n(C) Chlamydia trachomatis\n(D) Mycoplasma genitalium\n(E) Haemophilus influenzae",
+    "expected_answer": "The correct answer is: (C) Chlamydia trachomatis",
+    "difficulty": "expert",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "MED_598",
+    "domain": "Medicine",
+    "task_type": "Microbiology",
+    "prompt": "A previously healthy 6-year-old boy is brought to the physician because of generalized malaise and a palpable swelling in the left axilla. The parents report that 2 weeks ago, his daycare group visited an animal shelter, after which he developed a rash on the left hand. His temperature is 38.5\u00b0C (101.3\u00b0F). Physical examination shows three linear crusts on an erythematous background on the dorsum of the left hand. There is tender left-sided axillary and cervical lymphadenopathy. Histopathologic examination of an axillary lymph node shows necrotizing granulomas. The most likely causal organism of this patient's clinical findings is also involved in the pathogenesis of which of the following conditions? Choose the correct answer from the following options:\n(A) Bacillary angiomatosis\n(B) Burkitt lymphoma\n(C) Condylomata lata\n(D) Brucellosis\n(E) Bubonic plague",
+    "expected_answer": "The correct answer is: (A) Bacillary angiomatosis",
+    "difficulty": "expert",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "MED_638",
+    "domain": "Medicine",
+    "task_type": "Microbiology",
+    "prompt": "An investigator is studying the growth pattern of a particular bacterial strain that caused a respiratory disease outbreak in children in rural Venezuela. The bacteria are found to be able to grow in a specialized culture that contains sheep blood, cystine, and potassium tellurite; the colonies are black and have a shining surface. The isolated bacteria are most likely which of the following? Choose the correct answer from the following options:\n(A) Legionella pneumophila\n(B) Mycobacterium tuberculosis\n(C) Haemophilus influenzae\n(D) Bordetella pertussis\n(E) Corynebacterium diphtheriae",
+    "expected_answer": "The correct answer is: (E) Corynebacterium diphtheriae",
+    "difficulty": "expert",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "MED_650",
+    "domain": "Medicine",
+    "task_type": "Microbiology",
+    "prompt": "A 39-year-old woman is brought to the emergency department because of fevers, chills, and left lower quadrant pain. Her temperature is 39.1\u00b0C (102.3\u00b0F), pulse is 126/min, respirations are 28/min, and blood pressure is 80/50 mm Hg. There is blood oozing around the site of a peripheral intravenous line. Pelvic examination shows mucopurulent discharge from the cervical os and left adnexal tenderness. Laboratory studies show:\nPlatelet count 14,200/mm3\nFibrinogen 83 mg/mL (N = 200\u2013430 mg/dL)\nD-dimer 965 ng/mL (N < 500 ng/mL)\nWhen phenol is applied to a sample of the patient's blood at 90\u00b0C, a phosphorylated N-acetylglucosamine dimer with 6 fatty acids attached to a polysaccharide side chain is identified. A blood culture is most likely to show which of the following?\" Choose the correct answer from the following options:\n(A) Coagulase-positive, gram-positive cocci forming mauve-colored colonies on methicillin-containing agar\n(B) Encapsulated, gram-negative coccobacilli forming grey-colored colonies on charcoal blood agar\n(C) Spore-forming, gram-positive bacilli forming yellow colonies on casein agar\n(D) Lactose-fermenting, gram-negative rods forming pink colonies on MacConkey agar\n(E) Gamma-hemolytic, gram-positive cocci forming green colonies on vancomycin agar",
+    "expected_answer": "The correct answer is: (D) Lactose-fermenting, gram-negative rods forming pink colonies on MacConkey agar",
+    "difficulty": "expert",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "MED_653",
+    "domain": "Medicine",
+    "task_type": "Microbiology",
+    "prompt": "A 4-month-old boy is brought to the pediatrician by his parents. He presents to the pediatric ward with fever, dyspnea, and cough, which he developed 3 days ago. His mother also reports he had poor weight gain despite a good appetite during the past 2 months as well as frequent stools with an unpleasant smell. He was born at 29 weeks via spontaneous vaginal delivery. He is meeting all of his milestones and is up to date with all vaccines. The child is breastfed exclusively. His blood pressure is 80/50 mm Hg, the heart rate is 109/min, the respiratory rate is 29/min, and the temperature is 39.1\u00b0C (102.4\u00b0F). The patient\u2019s weight is between the 5th and 10th percentile. His length is between the 50th and 75th percentile. The patient is sluggish and reacts torpidly to examination. His skin is pale and dry with decreased turgor and elasticity. On auscultation, there are diminished vesicular sounds and disseminated moist rales at the bases of both lungs. Heart sounds are normal. The abdomen is distended without palpable masses. The patient\u2019s blood analysis shows the following findings:\nComplete blood count \n Erythrocytes  3.3 x 106/mm3\n Hb  12 g/dL\n Total leukocyte count  17,500/mm3\n Neutrophils\n 59%\n Lymphocytes\n 32%\n Eosinophils\n 3%\n Monocytes\n 6%\n Basophils\n 0\nPlatelet count\n232,000/mm3\nSputum culture grows Pseudomonas aeruginosa. A sweat test shows chloride concentration of 85 mEq/L (elevated). Which of the following is involved in the pathogenesis of this patient\u2019s symptoms? Choose the correct answer from the following options:\n(A) Neutrophil elastase damages lung tissue due to lack of alpha-1-antitrypsin.\n(B) Abnormal CFTR protein\n(C) Eosinophils infiltrate blood vessel walls.\n(D) Electron transport chain in mitochondria is disrupted due to lack of glycerol-3-phosphate dehydrogenase.\n(E) Due to mutations in dynein, the ciliary epithelium fails to provide appropriate mucociliary clearance.",
+    "expected_answer": "The correct answer is: (B) Abnormal CFTR protein",
+    "difficulty": "expert",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "MED_654",
+    "domain": "Medicine",
+    "task_type": "Microbiology",
+    "prompt": "A 6-year-old Russian boy who recently immigrated to the United States presents to your office with fever and dyspnea. On examination of the oropharynx, you note a grayish-white pseudomembrane and uneven elevation of the soft palate. The patient displays marked enlargement of the cervical lymph nodes. Which of the following describes the organism responsible for this patient's disease? Choose the correct answer from the following options:\n(A) Yeast with pseudohyphae\n(B) Gram-positive bacteria producing exotoxin that acts via ADP ribosylation\n(C) Gram-positive cocci with hyaluronic acid capsule\n(D) Gram-negative encapsulated bacteria producing IgA protease\n(E) Gram-negative bacteria producing exotoxin that inactivates elongation factor 2",
+    "expected_answer": "The correct answer is: (B) Gram-positive bacteria producing exotoxin that acts via ADP ribosylation",
+    "difficulty": "expert",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "MED_659",
+    "domain": "Medicine",
+    "task_type": "Microbiology",
+    "prompt": "A 65-year-old woman presents to a physician with painful ankles for 2 days. Her symptoms began 1 week ago with a severe fever (40\u2103 (104\u2109)) for 3 days. When the fever subsided, she developed a maculopapular rash over the trunk and extremities with painful wrists and fingers. She also reports abdominal pain, nausea, vomiting, and headaches. Last week she returned from a trip to Africa where she spent several weeks, mostly in rural areas. Her temperature is 37.5\u2103 (99.5\u2109); pulse is 75/min; respiratory rate is 13/min, and blood pressure is 115/70 mm Hg. A maculopapular rash is observed over the trunk and limbs. Both ankles are swollen and painful to active and passive motion. The abdomen is soft without organomegaly. Laboratory studies show the following:\nLaboratory test\nHemoglobin 11.4 g/d\nMean corpuscular volume 90 \u00b5m3\nLeukocyte count 4,500/mm3\nSegmented neutrophils 70%\nLymphocytes 15%\nPlatelet count 250,000/mm3\nRing-form trophozoites are absent on the peripheral blood smear. Which of the following organisms is the most likely cause of this patient\u2019s illness? Choose the correct answer from the following options:\n(A) Babesia babesia\n(B) Chikungunya virus\n(C) Dengue virus\n(D) Leishmania major\n(E) Tropheryma whipplei",
+    "expected_answer": "The correct answer is: (B) Chikungunya virus",
+    "difficulty": "expert",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "MED_698",
+    "domain": "Medicine",
+    "task_type": "Microbiology",
+    "prompt": "A four-day-old neonate is brought to the pediatrician with vaginal discharge for the last two days. Her mother is concerned about the blood-tinged discharge but states that her daughter has been feeding and voiding well. The neonate was delivered at 39 weeks gestation by an uncomplicated vaginal delivery, and she and her mother were discharged home after two days. The prenatal course was complicated by chlamydia in the mother during the first trimester, for which she and the partner were both treated with a negative test of cure. The neonate\u2019s biological father is no longer involved the patient's care, but her mother\u2019s boyfriend has been caring for the baby whenever the mother rests. At this visit, the neonate\u2019s temperature is 98.5\u00b0F (36.9\u00b0C), pulse is 138/min, and respirations are 51/min. She appears comfortable, and cardiopulmonary and abdominal exams are unremarkable. There are no bruises or marks on her skin. Examination of the genitals reveals no vulvar irritation or skin changes, but there is scant pink mucoid discharge at the introitus. Which of the following is the best next step in management? Choose the correct answer from the following options:\n(A) Vaginal exam under anesthesia\n(B) Report to child protective services\n(C) Vaginal culture\n(D) Warm water irrigation of the vagina\n(E) Reassurance",
+    "expected_answer": "The correct answer is: (E) Reassurance",
+    "difficulty": "expert",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "MED_714",
+    "domain": "Medicine",
+    "task_type": "Microbiology",
+    "prompt": "A 24-year-old primigravida presents to her physician at 20 weeks gestation. She was diagnosed with asymptomatic bacteriuria at her last appointment 2 weeks ago, and was treated with amoxicillin. She has no concurrent diseases and no complaints. Her vital signs are as follows: blood pressure 110/80 mm Hg, heart rate 82/min, respiratory rate 11/min, and temperature 36.6\u2103 (97.7\u2109). The physical examination reveals no abnormalities. On gynecologic examination, the cervix is soft and non-tender with no discharge from the external os. The uterus is enlarged to the umbilicus and the fetal heart rate is normal. Which of the following statements is the most accurate with respect to the presented case? Choose the correct answer from the following options:\n(A) This patient does not require further urinary tests unless she becomes symptomatic.\n(B) Urinalysis should be performed on each subsequent antenatal visit to screen for possible recurrence of bacteriuria.\n(C) Urine culture should be performed in this patient again.\n(D) Perform urine dipstick assay for leukocyte esterase.\n(E) Urinalysis should be performed to check for leukocytes, blood, and bacteria; if positive, perform a urine culture.",
+    "expected_answer": "The correct answer is: (C) Urine culture should be performed in this patient again.",
+    "difficulty": "expert",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "MED_732",
+    "domain": "Medicine",
+    "task_type": "Microbiology",
+    "prompt": "A 37-year-old man comes to the emergency department with the chief complaint of a high fever for several days. In addition to the fever, he has had malaise, chest pain, and a dry cough. He recently went on vacation to South America but has returned to his job delivering packages. He has several friends who recently had influenza. Hi temperature is 102.8\u00b0F (39.3 \u00b0C), blood pressure is 137/80 mmHg, pulse is 104/min, respirations are 19/min, and oxygen saturation is 98%. Chest exam reveals a deep noise found bilaterally in the lung bases. Chest radiograph reveals a wider area of opacity near the heart and bilateral lung infiltrates. Which of the following is characteristic of the most likely organism responsible for this patient's symptoms? Choose the correct answer from the following options:\n(A) Captain's wheel appearance\n(B) Cultured on charcoal and yeast\n(C) D-glutamate capsule\n(D) Found in desert sand\n(E) Polyribosyl-ribitol-phosphate capsule",
+    "expected_answer": "The correct answer is: (C) D-glutamate capsule",
+    "difficulty": "expert",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "MED_735",
+    "domain": "Medicine",
+    "task_type": "Microbiology",
+    "prompt": "A scientist observes a myocyte beating in cell culture. Which step is the most direct necessary component of relaxation for this cell? Choose the correct answer from the following options:\n(A) Influx of sodium ions\n(B) Efflux of potassium ions\n(C) Influx of calcium ions from the sacroplasmic reticulum\n(D) Influx of calcium ions from outside the myocyte\n(E) Efflux of calcium ions",
+    "expected_answer": "The correct answer is: (E) Efflux of calcium ions",
+    "difficulty": "expert",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "MED_755",
+    "domain": "Medicine",
+    "task_type": "Microbiology",
+    "prompt": "A 78-year-old woman presents to the office for an annual health check-up with her family physician accompanied by her daughter. She has no complaints during this visit but her daughter states that she is having difficulty locating objects such as the television remote, car keys, and her purse. Her medical history is significant for Alzheimer\u2019s dementia, coronary artery disease, diabetes mellitus, hypothyroidism, congestive heart failure, osteoarthritis and centrilobular emphysema. The patient takes memantine, atorvastatin, metformin, levothyroxine, lisinopril, aspirin, albuterol, and ipratropium. The patient\u2019s vitals are within normal limits today. Physical exam reveals an elderly female in no acute distress, oriented to person, place and year, but not to month or day of the week. She has a 3/6 holosystolic murmur at the left sternal border along with an S3 gallop. There are mild crackles at the lung bases. The remainder of the exam is normal. A previous urine culture reports growth of > 100,000 CFU of Enterobacter. Urinalysis findings are offered below:\nLeukocyte esterase  positive\nWBCs 50-100 cell/HPF\nNitrites positive\nRBCs 2 cell/HPF\nEpithelial cells 2 cell/HPF\nUrine pH 5.7\nWhich of the following is the most appropriate next step? Choose the correct answer from the following options:\n(A) TMP-SMX\n(B) Nitrofurantoin\n(C) Levofloxacin\n(D) Cephalexin\n(E) No treatment is necessary",
+    "expected_answer": "The correct answer is: (E) No treatment is necessary",
+    "difficulty": "expert",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "MED_775",
+    "domain": "Medicine",
+    "task_type": "Microbiology",
+    "prompt": "A 2-day-old infant male is brought to the emergency department with a 5-hour history of vomiting and irritability. He was born at home and had unreliable prenatal care because his parents have been experiencing housing instability. About a day after birth, he started to become lethargic and was feeding poorly. His parents thought that he might just be tired so they put him to bed; however, by the next morning he started to vomit and act extremely irritable. On presentation, he is found to have nuchal rigidity and bulging fontanelles. Based on this presentation, appropriate cultures are obtained and he is placed on empiric antibiotics. After all cultures grow out the same gram-positive bacteria, the patient is narrowed to penicillin G. Which of the following is a characteristic of the most likely organism that is causing this patient's symptoms? Choose the correct answer from the following options:\n(A) Creates a green zone of hemolysis on blood agar\n(B) Enlarges hemolytic area of Staphylococcus aureus\n(C) Produces lipooligosaccharide rather than lipopolysaccharide\n(D) Produces toxin that increases cAMP levels\n(E) Tumbling motility in broth at 22 degrees",
+    "expected_answer": "The correct answer is: (B) Enlarges hemolytic area of Staphylococcus aureus",
+    "difficulty": "expert",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "MED_792",
+    "domain": "Medicine",
+    "task_type": "Microbiology",
+    "prompt": "A 24-year-old woman gravida 2, para 1 at 24 weeks' gestation comes to the physician for a prenatal visit. She feels well. Her earlier pregnancy was uncomplicated. This is her 4th prenatal visit. She had an ultrasound scan 2 weeks ago that showed a live intrauterine pregnancy consistent with a 22-week gestation with no anomalies. She had a normal Pap smear 2 years ago. Vital signs are within normal limits. Pelvic examination shows a uterus consistent in size with a 24-week gestation. Her blood group and type is B positive. Which of the following is the most appropriate next step in management? Choose the correct answer from the following options:\n(A) Oral glucose challenge test\n(B) Cardiotocography\n(C) Rh antibody testing\n(D) Swab for GBS culture\n(E) Tdap vaccination",
+    "expected_answer": "The correct answer is: (A) Oral glucose challenge test",
+    "difficulty": "expert",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "MED_811",
+    "domain": "Medicine",
+    "task_type": "Microbiology",
+    "prompt": "A 3-year-old girl is brought to the physician because of a 3-day history of fever, cough, purulent nasal discharge. She has experienced 7 similar episodes, each lasting 2\u20135 days in the previous 2 years. She has also had intermittent abdominal cramps and recurrent episodes of foul-smelling greasy diarrhea in the past year. She is at the 55th percentile for height and 35th percentile for weight. Her temperature is 38.9\u00b0C (102\u00b0F), pulse is 100/min, respirations are 24/min, and blood pressure is 110/60 mm Hg. Physical examination shows an erythematous oropharynx without exudate and tenderness over the frontoethmoidal sinuses. The abdomen is distended, nontender, and tympanitic to percussion. Bowel sounds are increased. Stool microscopy shows pear-shaped multi-flagellated organisms. This patient is at increased risk for which of the following? Choose the correct answer from the following options:\n(A) Progressive peripheral neuropathy\n(B) Anaphylactic transfusion reactions\n(C) Cutaneous granulomas\n(D) Non-Hodgkin lymphoma\n(E) Disseminated tuberculosis",
+    "expected_answer": "The correct answer is: (B) Anaphylactic transfusion reactions",
+    "difficulty": "expert",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "MED_853",
+    "domain": "Medicine",
+    "task_type": "Microbiology",
+    "prompt": "A 22-year-old woman is brought to the emergency department because of a 2-day history of fever, intermittent rigors, and night sweats. She also has a 1-month history of progressive fatigue. Five weeks ago, she was hospitalized and received intravenous antibiotics for treatment of bacterial meningitis while visiting relatives in Guatemala. Her temperature is 39.4\u00b0C (102.9\u00b0F), pulse is 130/min, and blood pressure is 105/70 mm Hg. Examination shows pallor and scattered petechiae and ecchymoses. Laboratory studies show a hemoglobin concentration of 9.0 g/dL, a leukocyte count of 1,100/mm3 with 30% segmented neutrophils, and a platelet count of 20,000/mm3 . Blood cultures grow coagulase-negative staphylococci. The patient was most likely treated with which of the following antibiotics? Choose the correct answer from the following options:\n(A) Doxycycline\n(B) Trimethoprim/sulfamethoxazole\n(C) Vancomycin\n(D) Linezolid\n(E) Chloramphenicol",
+    "expected_answer": "The correct answer is: (E) Chloramphenicol",
+    "difficulty": "expert",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "MED_882",
+    "domain": "Medicine",
+    "task_type": "Microbiology",
+    "prompt": "Two hours after admission to the hospital for rupture of membranes, a 35-year-old woman, gravida 3, para 2, at 40 weeks\u2019 gestation is evaluated for the sudden onset of chills, dyspnea, confusion, and hypotension. The patient successfully underwent combined spinal-epidural anesthesia 1 hour ago. Her pregnancy was uncomplicated with the exception of a positive vaginal swab for group B streptococci 3 weeks ago, for which she received one dose of intravenous penicillin. Her temperature is 37.6\u00b0C (99.8\u00b0F), pulse is 130/min, respirations are 30/min, and blood pressure is 70/30 mm Hg. Pulse oximetry on room air shows an oxygen saturation of 82%. Physical examination shows labored breathing and thready pulses. Crackles are heard at both lung bases. The abdomen is nontender. Speculum examination shows pooling of bright red blood in the cervical canal. Laboratory studies show a hemoglobin concentration of 7.6 mg/dL and an undetectable fibrinogen concentration. Which of the following is the most likely underlying cause of this patient\u2019s current condition? Choose the correct answer from the following options:\n(A) Apical ballooning of the left ventricle\n(B) Allergic reaction to anesthetic agent\n(C) Amniotic fluid entering the endocervical veins\n(D) Anesthetic agent entering the subarachnoid space\n(E) Systemic bacterial infection",
+    "expected_answer": "The correct answer is: (C) Amniotic fluid entering the endocervical veins",
+    "difficulty": "expert",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "MED_940",
+    "domain": "Medicine",
+    "task_type": "Microbiology",
+    "prompt": "A 5-year-old male is brought to the pediatrician with complaints of a painful mouth/gums, and vesicular lesions on the lips and buccal mucosa for the past 4 days. The patient has not been able to eat or drink due to the pain and has been irritable. The patient also reports muscle aches. His vital signs are as follows: T 39.1, HR 110, BP 90/62, RR 18, SpO2 99%. Physical examination is significant for vesicular lesions noted on the tongue, gingiva, and lips, with some vesicles having ruptured and ulcerated, as well as palpable cervical and submandibular lymphadenopathy. Which of the following is the most likely causative organism in this patient's presentation? Choose the correct answer from the following options:\n(A) CMV\n(B) EBV\n(C) HIV\n(D) HSV-1\n(E) HSV-2",
+    "expected_answer": "The correct answer is: (D) HSV-1",
+    "difficulty": "expert",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "MED_941",
+    "domain": "Medicine",
+    "task_type": "Microbiology",
+    "prompt": "A 66-year-old man is brought to the emergency room by his wife due to abdominal distension and persistent somnolence for the past 2 weeks. The patient\u2019s wife says that he has been sleeping much more than usual for the past 5 days. His bowel and bladder habit have not changed. His past medical history is significant for alcoholic liver cirrhosis. His vital signs include: pulse 76/min, respiratory rate 15/min, temperature 38.0\u00b0C (100.4\u00b0F) and blood pressure 122/75 mm Hg. On physical examination, the patient is altered and not responsive to commands. Oriented x 0. The abdomen is significantly distended. Shifting dullness is present and a positive fluid wave can be elicited. Hyperreflexia and asterixis are noted. Laboratory findings are significant for the following:\nLaboratory test\nSodium 140 mEq/L\nPotassium 3.5 mEq/L\nChloride 97 mEq/L\nGlucose 90 mg/dL\nAmmonia 100 \u00b5g/dL (ref: 19-60 \u00b5g/dL)\nArterial blood gas\npH 7.4\npCO2 40 mm Hg\npO2 90 mm Hg\nHCO3 26 mEq/L\nAn abdominal ultrasound shows surface nodularity compatible with cirrhosis but no other changes aside from ascites. An upper GI endoscopy is performed which shows gastric varices with no signs of active bleeding. An MRI of the brain is insignificant. What is the most likely precipitating factor that led to this patient\u2019s condition? Choose the correct answer from the following options:\n(A) Spontaneous bacterial peritonitis\n(B) Metabolic alkalosis\n(C) Variceal gastrointestinal bleeding\n(D) Portal vein thrombosis\n(E) Hypoglycemia",
+    "expected_answer": "The correct answer is: (A) Spontaneous bacterial peritonitis",
+    "difficulty": "expert",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "MED_968",
+    "domain": "Medicine",
+    "task_type": "Microbiology",
+    "prompt": "An 18-year-old woman makes an appointment with a gynecologist for her first gynecologic examination. She did not disclose her past medical history, but her sexual debut occurred with her boyfriend 3 weeks ago. She is now complaining of a yellow-green, diffuse, malodorous vaginal discharge that she noticed 1 week ago for the first time. She also reported mild pelvic and abdominal pain. cervical motion tenderness was noted during the pelvic examination. The gynecologist also noticed a pink and inflamed nulliparous cervix with a preponderance of small red punctate spots. There was a frothy white discharge with a malodorous odor in the vaginal vault. A wet mount was prepared for a light microscopic examination, which revealed numerous squamous cells and motile organisms. The gynecologist concluded that this was a sexually-transmitted infection. What is the causative organism? Choose the correct answer from the following options:\n(A) Chlamydia trachomatis\n(B) Neisseria gonorrhoeae\n(C) Ureaplasma urealyticum\n(D) Trichomonas vaginalis\n(E) Enterobius vermicularis",
+    "expected_answer": "The correct answer is: (D) Trichomonas vaginalis",
+    "difficulty": "expert",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "MED_978",
+    "domain": "Medicine",
+    "task_type": "Microbiology",
+    "prompt": "A 52-year-old man presents to the physician because of ongoing shortness of breath, which is more prominent when he lies down. Occasionally, he experiences palpitations, especially during strenuous activities. In addition to this, he has been experiencing difficulty in digestion and often experiences regurgitation and dysphagia. He reports that he emigrated from Mexico 20 years ago and visits his hometown twice a year. The vital signs include: blood pressure 120/75 mm Hg, respiratory rate 19/min, and pulse 100/min. The physical examination shows jugular vein distention along with pitting edema in the ankles. Bilateral basilar crackles and an S3 gallop are heard on auscultation of the chest. A chest X-ray is taken. An electrocardiogram (ECG) shows no significant findings. What is the most likely explanation for this patient\u2019s physical and diagnostic findings? Choose the correct answer from the following options:\n(A) Alcohol abuse\n(B) Hypertensive changes\n(C) Parasitic infection\n(D) Myocardial infarction\n(E) Bacterial infection",
+    "expected_answer": "The correct answer is: (C) Parasitic infection",
+    "difficulty": "expert",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "MED_992",
+    "domain": "Medicine",
+    "task_type": "Microbiology",
+    "prompt": "A 14-year-old girl presents with sudden drooping of the right side of her face with drooling and excessive tearing. The patient\u2019s mother says that the patient was recently in northern Maine and spent most of her time during the trip outdoors. Physical examination reveals a slight asymmetry of the facial muscles with an inability to whistle or close the right eye. A circular red rash with central clearing is present on the trunk. There is also decreased taste sensation. Which of the following most likely transmitted the organism responsible for this patient\u2019s illness? Choose the correct answer from the following options:\n(A) Ixodes scapularis\n(B) Tsetse fly\n(C) Culicidae\n(D) Dermacentor variabilis\n(E) Anopheles",
+    "expected_answer": "The correct answer is: (A) Ixodes scapularis",
+    "difficulty": "expert",
+    "evaluation_metric": "exact_match"
+  }
+]

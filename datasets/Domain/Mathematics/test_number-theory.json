@@ -1,0 +1,137 @@
+[
+  {
+    "task_id": "NT_0",
+    "domain": "Mathematics",
+    "task_type": "Number Theory",
+    "prompt": "Find the greatest common divisor (GCD) of 48 and 36.",
+    "expected_answer": "12",
+    "difficulty": "easy",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "NT_1",
+    "domain": "Mathematics",
+    "task_type": "Number Theory",
+    "prompt": "Determine if 97 is a prime number.",
+    "expected_answer": "Yes",
+    "difficulty": "easy",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "NT_2",
+    "domain": "Mathematics",
+    "task_type": "Number Theory",
+    "prompt": "Find the least common multiple (LCM) of 15 and 25.",
+    "expected_answer": "75",
+    "difficulty": "medium",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "NT_3",
+    "domain": "Mathematics",
+    "task_type": "Number Theory",
+    "prompt": "Solve the linear Diophantine equation: 3x + 5y = 11, where x and y are integers. Find one solution.",
+    "expected_answer": "x = 2, y = 1",
+    "difficulty": "medium",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "NT_4",
+    "domain": "Mathematics",
+    "task_type": "Number Theory",
+    "prompt": "Find the remainder when 7^10 is divided by 4 (use modular arithmetic).",
+    "expected_answer": "1",
+    "difficulty": "medium",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "NT_5",
+    "domain": "Mathematics",
+    "task_type": "Number Theory",
+    "prompt": "How many positive divisors does 360 have, and what is their sum?",
+    "expected_answer": "24 divisors, sum = 1170",
+    "difficulty": "hard",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "NT_6",
+    "domain": "Mathematics",
+    "task_type": "Number Theory",
+    "prompt": "Find all positive integers n such that n^2 + 1 is divisible by 7.",
+    "expected_answer": "n ≡ 3 or 4 (mod 7)",
+    "difficulty": "hard",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "NT_7",
+    "domain": "Mathematics",
+    "task_type": "Number Theory",
+    "prompt": "Prove that there are infinitely many primes of the form 4k + 3, where k is a non-negative integer. Provide the key steps of the proof. (JEE Advanced level)",
+    "expected_answer": "Assume finitely many primes of the form 4k + 3: p1, p2, ..., pm. Construct N = 4p1p2...pm + 3. N is of the form 4k + 3. Since N is odd and greater than 3, it is either prime or composite. If prime, it is a new prime of the form 4k + 3. If composite, it has a prime factor of the form 4k + 3 (since primes of the form 4k + 1 cannot produce N ≡ 3 (mod 4)). This contradicts the assumption, so there are infinitely many such primes.",
+    "difficulty": "hard",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "MATH_001",
+    "domain": "Mathematics",
+    "task_type": "Number Theory",
+    "prompt": "Find the sum of all integer bases $b>9$ for which $17_{b}$ is a divisor of $97_{b}$.",
+    "expected_answer": "70",
+    "difficulty": "hard",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "MATH_005",
+    "domain": "Mathematics",
+    "task_type": "Number Theory",
+    "prompt": "There are $8!=40320$ eight-digit positive integers that use each of the digits $1,2,3,4,5,6,7,8$ exactly once. Let $N$ be the number of these integers that are divisible by 22. Find the difference between $N$ and 2025.",
+    "expected_answer": "279",
+    "difficulty": "hard",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "MATH_015",
+    "domain": "Mathematics",
+    "task_type": "Number Theory",
+    "prompt": "Let $N$ denote the number of ordered triples of positive integers $(a,b,c)$ such that $a,b,c\\leq3^6$ and $a^3+b^3+c^3$ is a multiple of $3^7$. Find the remainder when $N$ is divided by $1000$.",
+    "expected_answer": "735",
+    "difficulty": "hard",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "MATH_008",
+    "domain": "Mathematics",
+    "task_type": "Number Theory",
+    "prompt": "Find out which of the following values is the multiple of X, if it is divisible by 9 and 12? Choose the correct answer from the following options:\nA)36\nB)15\nC)17\nD)5\nE)7",
+    "expected_answer": "Answer is A",
+    "difficulty": "hard",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "MATH_014",
+    "domain": "Mathematics",
+    "task_type": "Number Theory",
+    "prompt": "On dividing 2272 and 875 by a 3-digit number N, we get the same remainder. The sum of the digits of N is: Choose the correct answer from the following options:\nA)10\nB)11\nC)12\nD)13\nE)14",
+    "expected_answer": "ANSWER:A",
+    "difficulty": "medium",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "MATH_137",
+    "domain": "Mathematics",
+    "task_type": "Number Theory",
+    "prompt": "Roberts has a property worth of $1023.65. But in a record his property worth is written as greatest positive even integer less than or equal to his property worth and it is divisible by 100. Find the difference between actual property and recorded property worth? Choose the correct answer from the following options:\nA)23.65\nB)1000\nC)35.62\nD)2.65\nE)1023.65",
+    "expected_answer": "23.65",
+    "difficulty": "medium",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "MATH_174",
+    "domain": "Mathematics",
+    "task_type": "Number Theory",
+    "prompt": "If 6 yrs are subtracted from the present age of Ajay and the remainder is divided by 18, then the present age of Rahul is obtained. If Rahul is 2 yrs younger to Denis whose age is 5 yrs, then what is Ajay's present age? Choose the correct answer from the following options:\nA)40\nB)60\nC)70\nD)80\nE)90",
+    "expected_answer": "B",
+    "difficulty": "hard",
+    "evaluation_metric": "exact_match"
+  }
+]

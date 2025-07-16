@@ -1,0 +1,11 @@
+[
+  {
+    "task_id": "MMLU_012",
+    "domain": "Medicine",
+    "task_type": "Physiology",
+    "prompt": "The energy for all forms of muscle contraction is provided by:\n\nFor this question, four choices are provided:\n(A) ATP.\n(B) ADP.\n(C) phosphocreatine.\n(D) oxidative phosphorylation.\n\nPlease choose the correct answer from the above choices.",
+    "expected_answer": "(A) ATP.",
+    "difficulty": "hard",
+    "evaluation_metric": "exact_match"
+  }
+]

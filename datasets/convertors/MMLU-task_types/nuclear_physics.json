@@ -1,0 +1,11 @@
+[
+  {
+    "task_id": "MMLU_017",
+    "domain": "Physics",
+    "task_type": "Nuclear Physics",
+    "prompt": "The primary source of the Sun\u2019s energy is a series of thermonuclear reactions in which the energy produced is c^2 times the mass difference between\n\nFor this question, four choices are provided:\n(A) two hydrogen atoms and one helium atom\n(B) four hydrogen atoms and one helium atom\n(C) six hydrogen atoms and two helium atoms\n(D) three helium atoms and one carbon atom\n\nPlease choose the correct answer from the above choices.",
+    "expected_answer": "(B) four hydrogen atoms and one helium atom",
+    "difficulty": "hard",
+    "evaluation_metric": "exact_match"
+  }
+]

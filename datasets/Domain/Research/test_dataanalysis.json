@@ -1,0 +1,56 @@
+[
+    {
+    "task_id": "RES_DA_0",
+    "domain": "Research",
+    "task_type": "Data Analysis",
+    "prompt": "What is the difference between qualitative and quantitative data in research?",
+    "expected_answer": "Qualitative data is non-numerical, descriptive data (e.g., interview responses), while quantitative data is numerical and measurable (e.g., test scores).",
+    "difficulty": "easy",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "RES_DA_1",
+    "domain": "Research",
+    "task_type": "Data Analysis",
+    "prompt": "Calculate the mean of the following data set: 10, 20, 30, 40, 50.",
+    "expected_answer": "30",
+    "difficulty": "easy",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "RES_DA_2",
+    "domain": "Research",
+    "task_type": "Data Analysis",
+    "prompt": "A researcher collects data on plant growth (in cm) under different light conditions: [12, 15, 14, 13, 16]. Calculate the standard deviation of this data set.",
+    "expected_answer": "1.41",
+    "difficulty": "medium",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "RES_DA_3",
+    "domain": "Research",
+    "task_type": "Data Analysis",
+    "prompt": "Explain the purpose of using a box plot in data analysis.",
+    "expected_answer": "A box plot visually summarizes the distribution of a data set, showing the median, quartiles, and potential outliers, helping to identify data spread and skewness.",
+    "difficulty": "medium",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "RES_DA_4",
+    "domain": "Research",
+    "task_type": "Data Analysis",
+    "prompt": "A researcher finds a correlation coefficient of 0.85 between study time and exam scores. Interpret this value and state whether it implies causation.",
+    "expected_answer": "A correlation coefficient of 0.85 indicates a strong positive relationship between study time and exam scores. However, correlation does not imply causation, as other factors may influence the relationship.",
+    "difficulty": "hard",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "RES_DA_5",
+    "domain": "Research",
+    "task_type": "Data Analysis",
+    "prompt": "In a study, the p-value for a hypothesis test is 0.03. Explain what this means and whether the result is statistically significant at a 5% significance level.",
+    "expected_answer": "A p-value of 0.03 means there is a 3% chance of observing the data (or more extreme) if the null hypothesis is true. Since 0.03 < 0.05, the result is statistically significant at the 5% level, and the null hypothesis can be rejected.",
+    "difficulty": "hard",
+    "evaluation_metric": "exact_match"
+  }
+]

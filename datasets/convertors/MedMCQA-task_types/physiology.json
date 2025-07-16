@@ -1,0 +1,479 @@
+[
+  {
+    "task_id": "MED_001",
+    "domain": "Medicine",
+    "task_type": "Physiology",
+    "prompt": "The following enzyme is responsible for thirst mechanism during dehydration?\n\nChoose the correct answer from the following options:\n(A) ADH\n(B) Noradrenaline\n(C) Epinephrine\n(D) Dopamine",
+    "expected_answer": "The correct answer is: (A) ADH",
+    "difficulty": "hard",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "MED_017",
+    "domain": "Medicine",
+    "task_type": "Physiology",
+    "prompt": "Histamine is present on surface of:\n\nChoose the correct answer from the following options:\n(A) Lymphocytes\n(B) Mast cells\n(C) Neutrophils\n(D) Erythrocytes",
+    "expected_answer": "The correct answer is: (B) Mast cells",
+    "difficulty": "hard",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "MED_025",
+    "domain": "Medicine",
+    "task_type": "Physiology",
+    "prompt": "Sequential arrangement question on JVP. Staing with \"a\" wave. A-First hea sound B-T wave C-R wave D-Rapid ejection phase\n\nChoose the correct answer from the following options:\n(A) A,B,C,D\n(B) A,C,D,B\n(C) C,A,D,B\n(D) D,C,B,A",
+    "expected_answer": "The correct answer is: (C) C,A,D,B",
+    "difficulty": "hard",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "MED_027",
+    "domain": "Medicine",
+    "task_type": "Physiology",
+    "prompt": "myasthenia gravis is a disorder of\n\nChoose the correct answer from the following options:\n(A) Peripheral nerve\n(B) Spinal cord\n(C) Motor neuron\n(D) Neuromuscular junction",
+    "expected_answer": "The correct answer is: (D) Neuromuscular junction",
+    "difficulty": "hard",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "MED_053",
+    "domain": "Medicine",
+    "task_type": "Physiology",
+    "prompt": "Gut associated lymphoid tissue (GALT) is primarily located in\n\nChoose the correct answer from the following options:\n(A) Lamina propria\n(B) Submucosa\n(C) Muscularis\n(D) Serosa",
+    "expected_answer": "The correct answer is: (A) Lamina propria",
+    "difficulty": "hard",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "MED_073",
+    "domain": "Medicine",
+    "task_type": "Physiology",
+    "prompt": "Which of the following is not a physiological method of heat loss from the body?\n\nChoose the correct answer from the following options:\n(A) Sweating\n(B) Vasodilation\n(C) Posture\n(D) Peripheral vasoconstriction",
+    "expected_answer": "The correct answer is: (D) Peripheral vasoconstriction",
+    "difficulty": "hard",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "MED_095",
+    "domain": "Medicine",
+    "task_type": "Physiology",
+    "prompt": "Name the structure marked with arrow\n\nChoose the correct answer from the following options:\n(A) Mitochondria\n(B) Golgi bodies\n(C) Secretory vesicles\n(D) Rough Endoplasmic reticulum",
+    "expected_answer": "The correct answer is: (C) Secretory vesicles",
+    "difficulty": "expert",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "MED_123",
+    "domain": "Medicine",
+    "task_type": "Physiology",
+    "prompt": "Considering the latent period of muscle twitch to be 10 ms, contraction time 40 ms and relaxation time 50 ms, what will be the tetanizing frequency for this muscle?\n\nChoose the correct answer from the following options:\n(A) 25 Hz\n(B) 50 Hz\n(C) 100 Hz\n(D) 75 Hz",
+    "expected_answer": "The correct answer is: (A) 25 Hz",
+    "difficulty": "hard",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "MED_138",
+    "domain": "Medicine",
+    "task_type": "Physiology",
+    "prompt": "T-lymphocytes play a primary role in\n\nChoose the correct answer from the following options:\n(A) Production of Antibodies\n(B) Production\tof\tlymphokines\tand\tdelayed hypersensitivity\n(C) Activation of complement system\n(D) Immediate Hypersensitivity",
+    "expected_answer": "The correct answer is: (B) Production\tof\tlymphokines\tand\tdelayed hypersensitivity",
+    "difficulty": "hard",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "MED_157",
+    "domain": "Medicine",
+    "task_type": "Physiology",
+    "prompt": "Which of the following defines the pressure in the vascular system in the absence of blood flow?\n\nChoose the correct answer from the following options:\n(A) Pulse pressure\n(B) Critical closing pressure\n(C) Mean circulatory filling pressure\n(D) Perfusion pressure",
+    "expected_answer": "The correct answer is: (C) Mean circulatory filling pressure",
+    "difficulty": "hard",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "MED_160",
+    "domain": "Medicine",
+    "task_type": "Physiology",
+    "prompt": "Anatomical dead space measured by -\n\nChoose the correct answer from the following options:\n(A) Bohler's method\n(B) Xenon dilution technique\n(C) Spirometry\n(D) Single breath nitrogen test",
+    "expected_answer": "The correct answer is: (D) Single breath nitrogen test",
+    "difficulty": "hard",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "MED_207",
+    "domain": "Medicine",
+    "task_type": "Physiology",
+    "prompt": "In a blood sample antiserum A and antiserum B and Rh +ve factor is added. No agglutination is seen. This is:\n\nChoose the correct answer from the following options:\n(A) O group and Rh+ve\n(B) O group and Rh-ve\n(C) AB group and Rh+ve\n(D) AB group and Rh-ve",
+    "expected_answer": "The correct answer is: (B) O group and Rh-ve",
+    "difficulty": "hard",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "MED_252",
+    "domain": "Medicine",
+    "task_type": "Physiology",
+    "prompt": "Cell membrane of a cell is freely permeable to three ions X, Y and Z. At resting membrane potential, the respective equilibrium potentials of Xand Y are -30mV and -40 mV.What will happen to the membrane potential if a drug is infused which can block the permeability of Z?\n\nChoose the correct answer from the following options:\n(A) Depolarisation\n(B) Hyperpolarization\n(C) No change\n(D) Hyperpolarization following repolarization",
+    "expected_answer": "The correct answer is: (A) Depolarisation",
+    "difficulty": "hard",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "MED_294",
+    "domain": "Medicine",
+    "task_type": "Physiology",
+    "prompt": "Which of the following nerve root is the control center for the stapedial reflex?\n\nChoose the correct answer from the following options:\n(A) Superior olivary complex\n(B) Lateral lemniscus\n(C) Inferior colliculus\n(D) Medial geniculate body",
+    "expected_answer": "The correct answer is: (A) Superior olivary complex",
+    "difficulty": "hard",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "MED_298",
+    "domain": "Medicine",
+    "task_type": "Physiology",
+    "prompt": "Immunologicaly active cells are:\n\nChoose the correct answer from the following options:\n(A) Plasma cells\n(B) MAST cells\n(C) Eosinophils\n(D) R.B.C s",
+    "expected_answer": "The correct answer is: (A) Plasma cells",
+    "difficulty": "hard",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "MED_311",
+    "domain": "Medicine",
+    "task_type": "Physiology",
+    "prompt": "What is responsible for rhythm generation of inspiration?\n\nChoose the correct answer from the following options:\n(A) Dorsal nucleus of vagus\n(B) Pre botzinger complex\n(C) ventral respiratory neurons\n(D) Pneumotaxic center",
+    "expected_answer": "The correct answer is: (B) Pre botzinger complex",
+    "difficulty": "hard",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "MED_330",
+    "domain": "Medicine",
+    "task_type": "Physiology",
+    "prompt": "Stretch fibers are present in striated muscle, innervation is carried by\n\nChoose the correct answer from the following options:\n(A) A delta fiber\n(B) C fiber\n(C) unmyelinated fiber\n(D) Gamma fiber",
+    "expected_answer": "The correct answer is: (D) Gamma fiber",
+    "difficulty": "hard",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "MED_338",
+    "domain": "Medicine",
+    "task_type": "Physiology",
+    "prompt": "Contractile element in myofibril is:\n\nChoose the correct answer from the following options:\n(A) H band\n(B) Sarcoplasm\n(C) Sarcomere\n(D) A line",
+    "expected_answer": "The correct answer is: (C) Sarcomere",
+    "difficulty": "hard",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "MED_339",
+    "domain": "Medicine",
+    "task_type": "Physiology",
+    "prompt": "Which of the following site doesn't contain brown adipose tissues?\n\nChoose the correct answer from the following options:\n(A) Scapula\n(B) Subcutaneous tissue\n(C) Around blood vessel\n(D) Around adrenal coex",
+    "expected_answer": "The correct answer is: (A) Scapula",
+    "difficulty": "hard",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "MED_343",
+    "domain": "Medicine",
+    "task_type": "Physiology",
+    "prompt": "Which hormone has permissive role in pubey?\n\nChoose the correct answer from the following options:\n(A) Leptin\n(B) GnRH\n(C) Insulin\n(D) GH",
+    "expected_answer": "The correct answer is: (B) GnRH",
+    "difficulty": "expert",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "MED_346",
+    "domain": "Medicine",
+    "task_type": "Physiology",
+    "prompt": "Release of synaptic vesicle from presynaptic terminal is inhibited by\n\nChoose the correct answer from the following options:\n(A) Inhibition of conduction of nerve impulse\n(B) Prevention of sodium influx\n(C) Prevention of calcium influx\n(D) Prevention of depolarization of nerve terminal",
+    "expected_answer": "The correct answer is: (C) Prevention of calcium influx",
+    "difficulty": "hard",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "MED_351",
+    "domain": "Medicine",
+    "task_type": "Physiology",
+    "prompt": "The transport of CO is diffusion limited because\n\nChoose the correct answer from the following options:\n(A) Binds avidly with Hb\n(B) Partial pressure of CO is less\n(C) CO is less absorbed in water\n(D) Alveolar membrane is less permeable",
+    "expected_answer": "The correct answer is: (A) Binds avidly with Hb",
+    "difficulty": "hard",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "MED_354",
+    "domain": "Medicine",
+    "task_type": "Physiology",
+    "prompt": "Autogenic inhibition is afunction of\n\nChoose the correct answer from the following options:\n(A) Intrafusal fibre\n(B) Extrafusal fibre\n(C) Muscle spindle\n(D) Golgi tendon organ",
+    "expected_answer": "The correct answer is: (D) Golgi tendon organ",
+    "difficulty": "hard",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "MED_380",
+    "domain": "Medicine",
+    "task_type": "Physiology",
+    "prompt": "Which centre first gets the input from neural control of CVS?\n\nChoose the correct answer from the following options:\n(A) RVLM\n(B) NTS\n(C) Nucleus ambiguous\n(D) Raphe Nucleus",
+    "expected_answer": "The correct answer is: (B) NTS",
+    "difficulty": "hard",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "MED_411",
+    "domain": "Medicine",
+    "task_type": "Physiology",
+    "prompt": "During exercise:\n\nChoose the correct answer from the following options:\n(A) Cerebral bood flow increases if there is increase in systolic blood pressure\n(B) Body temperature increases\n(C) Blood flow to muscle increases after 1\u00bd minute\n(D) Lymphatic flow from muscle decreases",
+    "expected_answer": "The correct answer is: (B) Body temperature increases",
+    "difficulty": "hard",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "MED_436",
+    "domain": "Medicine",
+    "task_type": "Physiology",
+    "prompt": "Wave patterns of EEF, ECG and EMG are depicted below. The B pattern belongs to (Figure was not provided in the exam):\n\nChoose the correct answer from the following options:\n(A) NREM sleep\n(B) REM sleep\n(C) Wakefulness\n(D) Quiet wakefulness",
+    "expected_answer": "The correct answer is: (C) Wakefulness",
+    "difficulty": "hard",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "MED_447",
+    "domain": "Medicine",
+    "task_type": "Physiology",
+    "prompt": "Which of the following rightly describes the mechanism of \"Pressor Escape\" in SIADH?\n\nChoose the correct answer from the following options:\n(A) Characterized by sudden increase in urine volume with decrease in urine osmolality independent of circulating vasopressin levels.\n(B) Characterized by sudden increase in urine volume with decrease in urine osmolality dependent of circulating vasopressin levels.\n(C) Characterized by sudden decrease in urine volume with increase in urine osmolality independent of circulating vasopressin levels.\n(D) Characterized by sudden decrease in urine volume with increase in urine osmolality dependent of circulating vasopressin levels.=",
+    "expected_answer": "The correct answer is: (A) Characterized by sudden increase in urine volume with decrease in urine osmolality independent of circulating vasopressin levels.",
+    "difficulty": "hard",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "MED_456",
+    "domain": "Medicine",
+    "task_type": "Physiology",
+    "prompt": "Glucocorticoids decrease inflammatory reaction by reducing:\n\nChoose the correct answer from the following options:\n(A) Activity of histamine\n(B) Release of histamine\n(C) Fibroblastic activity\n(D) Neutrophils",
+    "expected_answer": "The correct answer is: (B) Release of histamine",
+    "difficulty": "hard",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "MED_480",
+    "domain": "Medicine",
+    "task_type": "Physiology",
+    "prompt": "Not a monomeric intermediate filament:\n\nChoose the correct answer from the following options:\n(A) Vimentin\n(B) Keratin\n(C) Tubulin\n(D) Desmin",
+    "expected_answer": "The correct answer is: (C) Tubulin",
+    "difficulty": "hard",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "MED_536",
+    "domain": "Medicine",
+    "task_type": "Physiology",
+    "prompt": "crossed extensor reflex is a\n\nChoose the correct answer from the following options:\n(A) Withdrawal reflex\n(B) Postural reflex\n(C) Sympathetic\n(D) Monosynaptic reflex",
+    "expected_answer": "The correct answer is: (A) Withdrawal reflex",
+    "difficulty": "hard",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "MED_551",
+    "domain": "Medicine",
+    "task_type": "Physiology",
+    "prompt": "The temperature of body is controlled by:\n\nChoose the correct answer from the following options:\n(A) Medulla\n(B) Precentral gyrus\n(C) Diencephalon\n(D) Hypothalamus",
+    "expected_answer": "The correct answer is: (D) Hypothalamus",
+    "difficulty": "hard",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "MED_558",
+    "domain": "Medicine",
+    "task_type": "Physiology",
+    "prompt": "Which of the following is the diluting segment of kidney?\n\nChoose the correct answer from the following options:\n(A) PCT\n(B) Collecting duct\n(C) Ascending thick loop Henle\n(D) Descending loop of Henle",
+    "expected_answer": "The correct answer is: (C) Ascending thick loop Henle",
+    "difficulty": "expert",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "MED_583",
+    "domain": "Medicine",
+    "task_type": "Physiology",
+    "prompt": "plate endings are features of\n\nChoose the correct answer from the following options:\n(A) Nuclear chain fibres\n(B) Nuclear bag fibres\n(C) Golgi tendon\n(D) Extra fusal",
+    "expected_answer": "The correct answer is: (B) Nuclear bag fibres",
+    "difficulty": "hard",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "MED_589",
+    "domain": "Medicine",
+    "task_type": "Physiology",
+    "prompt": "Bezold-Jarisch reflex is mediated by:\n\nChoose the correct answer from the following options:\n(A) Serotonin\n(B) Angiotensin\n(C) Prostaglandin\n(D) Histamine",
+    "expected_answer": "The correct answer is: (A) Serotonin",
+    "difficulty": "hard",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "MED_620",
+    "domain": "Medicine",
+    "task_type": "Physiology",
+    "prompt": "Which of the following nucleus has cardio inhibitory function?\n\nChoose the correct answer from the following options:\n(A) Nucleus Ambiguus\n(B) Nucleus Tractus Solitarius\n(C) Rostral Ventrolateral Medulla\n(D) Dorsal motor nucleus of vagus",
+    "expected_answer": "The correct answer is: (A) Nucleus Ambiguus",
+    "difficulty": "hard",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "MED_647",
+    "domain": "Medicine",
+    "task_type": "Physiology",
+    "prompt": "In the formula for urea clearance, C = U x V/P, U denotes:\n\nChoose the correct answer from the following options:\n(A) Urinary concentration in gm/24 hours\n(B) Urine osmolarity\n(C) Urinary concentration in mg/ml\n(D) Urine volume per minute",
+    "expected_answer": "The correct answer is: (C) Urinary concentration in mg/ml",
+    "difficulty": "hard",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "MED_668",
+    "domain": "Medicine",
+    "task_type": "Physiology",
+    "prompt": "Absolute refractoriness of a neuron is due to?\n\nChoose the correct answer from the following options:\n(A) Closure of activated Na channels\n(B) Closure of inactivated Na channels\n(C) Hyperpolarization of CI channels\n(D) Opening of rectifier K + channels",
+    "expected_answer": "The correct answer is: (B) Closure of inactivated Na channels",
+    "difficulty": "expert",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "MED_689",
+    "domain": "Medicine",
+    "task_type": "Physiology",
+    "prompt": "Central wrapping is done by:\n\nChoose the correct answer from the following options:\n(A) Golgi tendon\n(B) Type 2 fibre\n(C) Flower spray ending\n(D) Annulospiral ending",
+    "expected_answer": "The correct answer is: (D) Annulospiral ending",
+    "difficulty": "hard",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "MED_716",
+    "domain": "Medicine",
+    "task_type": "Physiology",
+    "prompt": "Which of the following is rapid source of energy by resynthesizing ATP for exercising muscles is?\n\nChoose the correct answer from the following options:\n(A) Glycolysis\n(B) Glycogenolysis\n(C) TCA cycle\n(D) Phosphocreatine",
+    "expected_answer": "The correct answer is: (A) Glycolysis",
+    "difficulty": "hard",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "MED_733",
+    "domain": "Medicine",
+    "task_type": "Physiology",
+    "prompt": "Which of the following does golgi tendon organ detect?\n\nChoose the correct answer from the following options:\n(A) Muscle Tension\n(B) Dynamic muscle length\n(C) Static muscle length\n(D) Muscle action",
+    "expected_answer": "The correct answer is: (A) Muscle Tension",
+    "difficulty": "hard",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "MED_797",
+    "domain": "Medicine",
+    "task_type": "Physiology",
+    "prompt": "Which of following causes lysis of clot :\n\nChoose the correct answer from the following options:\n(A) Fibrin\n(B) Plasmin\n(C) Hyaluronidase\n(D) Coagulase",
+    "expected_answer": "The correct answer is: (B) Plasmin",
+    "difficulty": "hard",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "MED_805",
+    "domain": "Medicine",
+    "task_type": "Physiology",
+    "prompt": "Which of the following hormones is controlled by feedforward control?\n\nChoose the correct answer from the following options:\n(A) ADH\n(B) Insulin\n(C) Coicosteroids\n(D) Prolactin",
+    "expected_answer": "The correct answer is: (A) ADH",
+    "difficulty": "hard",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "MED_814",
+    "domain": "Medicine",
+    "task_type": "Physiology",
+    "prompt": "The contractile element in a skeletal muscle is present in:\n\nChoose the correct answer from the following options:\n(A) Sarcolemma\n(B) Sarcoplasm\n(C) Myofibril\n(D) Endomysium",
+    "expected_answer": "The correct answer is: (C) Myofibril",
+    "difficulty": "hard",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "MED_827",
+    "domain": "Medicine",
+    "task_type": "Physiology",
+    "prompt": "Which of the following hea sound may be a normal finding during pregnancy?\n\nChoose the correct answer from the following options:\n(A) Fixed splitting of S2\n(B) S3\n(C) S4\n(D) Pericardial knock",
+    "expected_answer": "The correct answer is: (B) S3",
+    "difficulty": "hard",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "MED_831",
+    "domain": "Medicine",
+    "task_type": "Physiology",
+    "prompt": "The primary site of action of antidiuretic hormone is on the:\n\nChoose the correct answer from the following options:\n(A) Distal tubules and collecting ducts in the kidney\n(B) Afferent arterioles of the glomeruli\n(C) Thirst center in the hypothalamus\n(D) Osmoreceptors in the hypothalamus",
+    "expected_answer": "The correct answer is: (A) Distal tubules and collecting ducts in the kidney",
+    "difficulty": "hard",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "MED_851",
+    "domain": "Medicine",
+    "task_type": "Physiology",
+    "prompt": "Calculate net filtration pressure with the following data: PGC = 42 mm Hg pGC = 12 mm Hg PBC= 16 mm Hg Assume that no proteins were filtered.\n\nChoose the correct answer from the following options:\n(A) 34 mm Hg\n(B) Data not sufficient\n(C) 14 mm Hg\n(D) 28 mm Hg",
+    "expected_answer": "The correct answer is: (C) 14 mm Hg",
+    "difficulty": "expert",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "MED_880",
+    "domain": "Medicine",
+    "task_type": "Physiology",
+    "prompt": "Centre of activity of autonomic nervous system is:\n\nChoose the correct answer from the following options:\n(A) Midbrain\n(B) Cerebrum\n(C) Hypothalamus\n(D) Pons",
+    "expected_answer": "The correct answer is: (C) Hypothalamus",
+    "difficulty": "hard",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "MED_884",
+    "domain": "Medicine",
+    "task_type": "Physiology",
+    "prompt": "Which of the following hormones increases the sensitivity of heart to epinephrine:\n\nChoose the correct answer from the following options:\n(A) Parathyroid\n(B) Insulin\n(C) Thyroid\n(D) Glucagon",
+    "expected_answer": "The correct answer is: (C) Thyroid",
+    "difficulty": "hard",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "MED_901",
+    "domain": "Medicine",
+    "task_type": "Physiology",
+    "prompt": "Within which parts of a gastric gland are chief cells located\n\nChoose the correct answer from the following options:\n(A) Fundus\n(B) Isthmus\n(C) Neck\n(D) Gastric pit",
+    "expected_answer": "The correct answer is: (A) Fundus",
+    "difficulty": "hard",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "MED_916",
+    "domain": "Medicine",
+    "task_type": "Physiology",
+    "prompt": "In the formula for urea clearance, C = U x V/P, what does U stands for:\n\nChoose the correct answer from the following options:\n(A) Urinary concentration in g/24 hour\n(B) Urinary concentration in mg/ml\n(C) Urine osmolarity\n(D) Urine volume per minute",
+    "expected_answer": "The correct answer is: (B) Urinary concentration in mg/ml",
+    "difficulty": "hard",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "MED_925",
+    "domain": "Medicine",
+    "task_type": "Physiology",
+    "prompt": "In female adrenal gland secretes which hormone?\n\nChoose the correct answer from the following options:\n(A) Progesterone\n(B) Testosterone\n(C) Estrogen\n(D) DHEA",
+    "expected_answer": "The correct answer is: (D) DHEA",
+    "difficulty": "hard",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "MED_954",
+    "domain": "Medicine",
+    "task_type": "Physiology",
+    "prompt": "In excitable cells, repolarization is closely associated with one of the following events:\n\nChoose the correct answer from the following options:\n(A) Na+ efflux\n(B) Na+ influx\n(C) K+ efflux\n(D) K+ influx",
+    "expected_answer": "The correct answer is: (C) K+ efflux",
+    "difficulty": "hard",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "MED_1000",
+    "domain": "Medicine",
+    "task_type": "Physiology",
+    "prompt": "Interstitial fluid volume can be determined by:\n\nChoose the correct answer from the following options:\n(A) Radioactive iodine and radiolabelled water\n(B) Radioactive water and radiolabelled albumin\n(C) Radioactive sodium and radioactive water\n(D) Radioactive sodium and radioactive labelled albumin",
+    "expected_answer": "The correct answer is: (D) Radioactive sodium and radioactive labelled albumin",
+    "difficulty": "hard",
+    "evaluation_metric": "exact_match"
+  }
+]

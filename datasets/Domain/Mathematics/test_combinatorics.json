@@ -1,0 +1,110 @@
+[
+  {
+    "task_id": "COMB_0",
+    "domain": "Mathematics",
+    "task_type": "Combinatorics",
+    "prompt": "How many ways can you arrange 4 different books on a shelf?",
+    "expected_answer": "24",
+    "difficulty": "easy",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "COMB_1",
+    "domain": "Mathematics",
+    "task_type": "Combinatorics",
+    "prompt": "How many ways can you choose 3 apples from a basket of 5 identical apples?",
+    "expected_answer": "10",
+    "difficulty": "easy",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "COMB_2",
+    "domain": "Mathematics",
+    "task_type": "Combinatorics",
+    "prompt": "A committee of 4 people is to be formed from a group of 7 people. How many different committees are possible?",
+    "expected_answer": "35",
+    "difficulty": "medium",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "COMB_3",
+    "domain": "Mathematics",
+    "task_type": "Combinatorics",
+    "prompt": "How many 3-letter words (including nonsense words) can be formed from the letters A, B, C, D, E if repetition is not allowed?",
+    "expected_answer": "60",
+    "difficulty": "medium",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "COMB_4",
+    "domain": "Mathematics",
+    "task_type": "Combinatorics",
+    "prompt": "How many ways can you distribute 5 identical candies to 3 children, with each child receiving at least one candy?",
+    "expected_answer": "6",
+    "difficulty": "medium",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "COMB_5",
+    "domain": "Mathematics",
+    "task_type": "Combinatorics",
+    "prompt": "A pizza shop offers 8 different toppings. How many different pizzas can be made with exactly 3 toppings?",
+    "expected_answer": "56",
+    "difficulty": "medium",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "COMB_6",
+    "domain": "Mathematics",
+    "task_type": "Combinatorics",
+    "prompt": "In a group of 5 men and 4 women, how many ways can you form a team of 5 people that includes at least 2 women?",
+    "expected_answer": "105",
+    "difficulty": "hard",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "COMB_7",
+    "domain": "Mathematics",
+    "task_type": "Combinatorics",
+    "prompt": "How many ways can you arrange the letters in the word 'MISSISSIPPI'?",
+    "expected_answer": "34650",
+    "difficulty": "hard",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "MATH_003",
+    "domain": "Mathematics",
+    "task_type": "Combinatorics",
+    "prompt": "The 9 members of a baseball team went to an ice cream parlor after their game. Each player had a singlescoop cone of chocolate, vanilla, or strawberry ice cream. At least one player chose each flavor, and the number of players who chose chocolate was greater than the number of players who chose vanilla, which was greater than the number of players who chose strawberry. Let $N$ be the number of different assignments of flavors to players that meet these conditions. Find the remainder when $N$ is divided by 1000.",
+    "expected_answer": "16",
+    "difficulty": "hard",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "MATH_007",
+    "domain": "Mathematics",
+    "task_type": "Combinatorics",
+    "prompt": "The twelve letters $A,B,C,D,E,F,G,H,I,J,K$, and $L$ are randomly grouped into six pairs of letters. The two letters in each pair are placed next to each other in alphabetical order to form six two-letter words, and those six words are listed alphabetically. For example, a possible result is $AB,CJ,DG,EK,FL,HI$. The probability that the last word listed contains $G$ is $\\frac{m}{n}$, where $m$ and $n$ are relatively prime positive integers. Find $m+n$.",
+    "expected_answer": "821",
+    "difficulty": "hard",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "MATH_010",
+    "domain": "Mathematics",
+    "task_type": "Combinatorics",
+    "prompt": "The 27 cells of a $3\\times9$ grid are filled in using the numbers 1 through 9 so that each row contains 9 different numbers, and each of the three $3\\times3$ blocks heavily outlined in the example below contains 9 different numbers, as in the first three rows of a Sudoku puzzle. \n | 4 | 2 | 8 | 9 | 6 | 3 | 1 | 7 | 5 | \n | 3 | 7 | 9 | 5 | 2 | 1 | 6 | 8 | 4 | \n | 5 | 6 | 1 | 8 | 4 | 7 | 9 | 2 | 3 | \n The number of different ways to fill such a grid can be written as $p^a\\cdot q^b\\cdot r^c\\cdot s^d$, where $p,q,r,$ and $s$ are distinct prime numbers and $a,b,c,$ and $d$ are positive integers. Find $p\\cdot a+q\\cdot b+r\\cdot c+s\\cdot d$.",
+    "expected_answer": "81",
+    "difficulty": "hard",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "MATH_013",
+    "domain": "Mathematics",
+    "task_type": "Combinatorics",
+    "prompt": "Alex divides a disk into four quadrants with two perpendicular diameters intersecting at the center of the disk. He draws 25 more line segments through the disk, drawing each segment by selecting two points at random on the perimeter of the disk in different quadrants and connecting those two points. Find the expected number of regions into which these 27 line segments divide the disk.",
+    "expected_answer": "204",
+    "difficulty": "hard",
+    "evaluation_metric": "exact_match"
+  }
+]

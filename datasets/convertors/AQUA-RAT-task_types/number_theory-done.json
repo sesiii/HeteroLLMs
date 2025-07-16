@@ -1,0 +1,38 @@
+[
+  {
+    "task_id": "MATH_008",
+    "domain": "Mathematics",
+    "task_type": "Number Theory",
+    "prompt": "Find out which of the following values is the multiple of X, if it is divisible by 9 and 12? Choose the correct answer from the following options:\nA)36\nB)15\nC)17\nD)5\nE)7",
+    "expected_answer": "Answer is A",
+    "difficulty": "hard",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "MATH_014",
+    "domain": "Mathematics",
+    "task_type": "Number Theory",
+    "prompt": "On dividing 2272 and 875 by a 3-digit number N, we get the same remainder. The sum of the digits of N is: Choose the correct answer from the following options:\nA)10\nB)11\nC)12\nD)13\nE)14",
+    "expected_answer": "ANSWER:A",
+    "difficulty": "medium",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "MATH_137",
+    "domain": "Mathematics",
+    "task_type": "Number Theory",
+    "prompt": "Roberts has a property worth of $1023.65. But in a record his property worth is written as greatest positive even integer less than or equal to his property worth and it is divisible by 100. Find the difference between actual property and recorded property worth? Choose the correct answer from the following options:\nA)23.65\nB)1000\nC)35.62\nD)2.65\nE)1023.65",
+    "expected_answer": "23.65",
+    "difficulty": "medium",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "MATH_174",
+    "domain": "Mathematics",
+    "task_type": "Number Theory",
+    "prompt": "If 6 yrs are subtracted from the present age of Ajay and the remainder is divided by 18, then the present age of Rahul is obtained. If Rahul is 2 yrs younger to Denis whose age is 5 yrs, then what is Ajay's present age? Choose the correct answer from the following options:\nA)40\nB)60\nC)70\nD)80\nE)90",
+    "expected_answer": "B",
+    "difficulty": "hard",
+    "evaluation_metric": "exact_match"
+  }
+]
