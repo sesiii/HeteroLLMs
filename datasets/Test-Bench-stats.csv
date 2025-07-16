@@ -1,0 +1,98 @@
+Domain,Sub domain,Count-no of testcases
+,,
+Coding,Datascience,1000
+,Java,1357
+,Python,1138
+,,
+Finance,Accounting,7
+,Business Overview,1
+,Corporate Finance,166
+,Economics,45
+,Financial Analysis,901
+,Sentiment analysis,1000
+,,
+General Khowledge,Current-affairs,10
+,general-GK,2865
+,HIstory,13
+,Nutrition,15
+,Science,6
+,Sexuality,8
+,,
+Law,Global justice,2
+,General-Law,79
+,Legal agreements,90
+,Property Law,6
+,Public relations,3
+,Security studies,16
+,Torts,12
+,,
+Mathematics,Algebra,310
+,arithmetic,1065
+,calculus,40
+,Combinatorial Probability,35
+,combinatorics,12
+,complex numbers,1
+,differential equations,24
+,elementary maths,18
+,geometry,46
+,logarithms,2
+,logical reasoning,8
+,number theory,46
+,probability,8
+,statistics,9
+,Word problems,78
+,,
+Medicine,anaesthesia,9
+,anatomy,43
+,biology,234
+,cell biology,3
+,clinical diagnosis,214
+,clinical medicine ,89
+,dental ,311
+,hepatalogy,1
+,general medicine,1107
+,micro biology,49
+,nephrology,1
+,neurology,31
+,obstretics,62
+,oncology,3
+,orthopedic surgery,3
+,Orthopaedics,7
+,Pathophysiology,29
+,Pediatrics,1
+,Pharmacology,271
+,Physiology,54
+,Social physchology,4
+,Surgery,94
+,,
+Research ,Data analysis,6
+,ethics in research,6
+,experimental design,6
+,literature ,6
+,Machine learning,8
+,neural networks ,2
+,statistical research,6
+,,
+Science,astrophysics,40
+,classical mechanics,30
+,condensed matter physics,103
+,electrical engineering ,6
+,electromagnetism,1
+,electrostatistics,30
+,general chemistry,486
+,general physics,247
+,general science,71
+,genetics ,16
+,Mechanics,15
+,medicinal chemistry,182
+,molecular biology,62
+,nuclear physics,1
+,organic chemistry,200
+,organic synthesis,106
+,physical chemistry,13
+,protein biochemistry,9
+,quantum chemistry,13
+,quantum mechanics,78
+,relativistic mechanics,9
+,statistical mechanics,4
+,thermodynamics,49
