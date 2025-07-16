@@ -1,0 +1,32 @@
+[
+  {
+    "task_id": "MED_033",
+    "domain": "Medicine",
+    "task_type": "Oncology",
+    "prompt": "Answer the question based on the following context: We report the radiographic and clinical response rate of stereotactic body radiation therapy (SBRT) compared with conventional fractionated external beam radiation therapy (CF-EBRT) for renal cell carcinoma (RCC) bone lesions treated at our institution. Forty-six consecutive patients were included in the study, with 95 total lesions treated (50 SBRT, 45 CF-EBRT). We included patients who had histologic confirmation of primary RCC and radiographic evidence of metastatic bone lesions. The most common SBRT regimen used was 27 Gy in 3 fractions. Median follow-up was 10 months (range, 1-64 months). Median time to symptom control between SBRT and CF-EBRT were 2 (range, 0-6 weeks) and 4 weeks (range, 0-7 weeks), respectively. Symptom control rates with SBRT and CF-EBRT were significantly different (P = .020) with control rates at 10, 12, and 24 months of 74.9% versus 44.1%, 74.9% versus 39.9%, and 74.9% versus 35.7%, respectively. The median time to radiographic failure and unadjusted pain progression was 7 months in both groups. When controlling for gross tumor volume, dose per fraction, smoking, and the use of systemic therapy, biologically effective dose \u226580 Gy was significant for clinical response (hazard ratio [HR], 0.204; 95% confidence interval [CI], 0.043-0.963; P = .046) and radiographic (HR, 0.075; 95% CI, 0.013-0.430; P = .004). When controlling for gross tumor volume and total dose, biologically effective dose \u226580 Gy was again predictive of clinical local control (HR, 0.140; 95% CI, 0.025-0.787; P = .026). Toxicity rates were low and equivalent in both groups, with no grade 4 or 5 toxicity reported.\nQuestion: Local control rates of metastatic renal cell carcinoma (RCC) to the bone using stereotactic body radiation therapy: Is RCC truly radioresistant?",
+    "expected_answer": "SBRT is both safe and effective for treating RCC bone metastases, with rapid improvement in symptoms after treatment and more durable clinical and radiographic response rate. Future prospective trials are needed to further define efficacy and toxicity of treatment, especially in the setting of targeted agents.",
+    "difficulty": "expert",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "MED_256",
+    "domain": "Medicine",
+    "task_type": "Oncology",
+    "prompt": "Answer the question based on the following context: To determine if patients with non-small cell lung carcinoma (NSCLC) and positive supraclavicular nodes (SN+) have a similar outcome to other patients with Stage IIIB NSCLC (SN-) when treated with modern chemoradiotherapy. Using the Radiation Therapy Oncology Group (RTOG) database, data were retrospectively analyzed from five RTOG trials studying chemoradiotherapy for 88-04, 88-08 (chemo-RT arm), 90-15, 91-06, 92-04. Comparisons were made between the SN+ and SN- subgroups with respect to overall survival, progression-free survival (PFS), and metastases-free survival (MFS) using the log rank test. Cox multivariate proportional hazards regression analysis was used to determine the effect of several potential confounding variables, including histology (squamous vs. nonsquamous), age (>60 vs.<or = 60), Karnofsky Performance Status (KPS) (<90 vs.>or = 90), weight loss (>or = 5% vs.<5%), and gender. A total of 256 Stage IIIB patients were identified, of whom 47 had supraclavicular nodes (SN+) and 209 did not (SN-). Statistically significantly more SN+ patients had nonsquamous histology (p = 0.05); otherwise, known prognostic factors were well balanced. The median survival for SN+ patients was 16.2 months, vs. 15.6 months for SN- patients. The 4-year actuarial survival rates were 21% and 16% for SN+ and SN- patients respectively (p = 0.44). There was no statistically significant difference in the 4-year PFS rates (19% vs. 14%, p = 0.48). The Cox analysis did not show the presence or absence of supraclavicular nodal disease to be a prognostic factor for survival, MFS, or PFS. The only statistically significant factor on multivariate analysis was gender, with males having a 40% greater risk of mortality than females (p = 0.03). There were no clinically significant differences in toxicity when comparing SN+ vs. SN- patients. Among the 47 SN+ patients, there were no reported cases of brachial plexopathy or other>or = Grade 2 late neurologic toxicity.\nQuestion: Is prolonged survival possible for patients with supraclavicular node metastases in non-small cell lung cancer treated with chemoradiotherapy?",
+    "expected_answer": "When treated with modern chemoradiotherapy, the outcome for patients with supraclavicular metastases appears to be similar to that of other Stage IIIB patients. SN+ patients should continue to be enrolled in trials studying aggressive chemoradiotherapy regimens for locally advanced NSCLC.",
+    "difficulty": "expert",
+    "evaluation_metric": "exact_match"
+  }
+  ,
+  
+  {
+    "task_id": "SCI_887",
+    "domain": "Biology",
+    "task_type": "Oncology",
+    "prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation.Then the question is:How do cancer cells travel through the body?\n\nA. Cancer cells travel by releasing chemicals that attract other cells to transport them.\nB. Cancer cells travel by attaching to healthy cells and moving together.\nC. Cancer cells use cellular propulsion to move throughout the body.\nD. Cancer cells travel through the body via bloodstream or lymphatic system, forming new tumors in different parts.\n\nAnswer:",
+    "expected_answer": "D. Cancer cells travel through the body via bloodstream or lymphatic system, forming new tumors in different parts.",
+    "difficulty": "medium",
+    "evaluation_metric": "exact_match"
+  }
+
+]

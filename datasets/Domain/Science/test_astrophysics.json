@@ -1,5 +1,32 @@
 [
   {
+    "task_id": "SCI_023",
+    "domain": "Physics",
+    "task_type": "Astrophysics",
+    "prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation.\nThe question is:Which of the following statements about the self-interaction cross-section of dark matter is consistent with recent observations on a dwarf galaxy scale?\nA. The self-interaction cross-section of dark matter is greater than 1 cm\u00b2/g.\nB. The self-interaction cross-section of dark matter is exactly 0.1 cm\u00b2/g.\nC. The self-interaction cross-section of dark matter is less than 0.01 cm\u00b2/g.\nD. There is no expected self-interaction of dark matter in dwarf galaxies.",
+    "expected_answer": "A. The self-interaction cross-section of dark matter is greater than 1 cm\u00b2/g.",
+    "difficulty": "medium",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "SCI_164",
+    "domain": "Physics",
+    "task_type": "Astrophysics",
+    "prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation.\nThe question is:Which of the following observations or theoretical propositions was initially suggested as a method to account for the missing mass in galaxies and clusters of galaxies, leading to the conceptualization of dark matter?\nA. Hubble's 1929 Law\nB. Planck's Quantum Hypothesis\nC. Kapteyn's 1922 paper\nD. Einstein's Theory of General Relativity",
+    "expected_answer": "C. Kapteyn's 1922 paper",
+    "difficulty": "medium",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "SCI_802",
+    "domain": "Physics",
+    "task_type": "Astrophysics",
+    "prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation.\nThe question is:Which of the following phenomenon can be used to statistically study dark matter self-interaction in galaxy clusters without assuming any dynamical state?\nA. Cosmic microwave background radiation\nB. Gravitational lensing\nC. Pulsar timing arrays\nD. Galaxy rotation curves",
+    "expected_answer": "B. Gravitational lensing",
+    "difficulty": "medium",
+    "evaluation_metric": "exact_match"
+  },
+  {
     "task_id": "SCI_015",
     "domain": "Physics",
     "task_type": "Astrophysics",

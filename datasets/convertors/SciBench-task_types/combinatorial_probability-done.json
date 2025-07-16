@@ -1,0 +1,317 @@
+[
+  {
+    "task_id": "SCI_009",
+    "domain": "Statistics",
+    "task_type": "Combinatorial Probability",
+    "prompt": "The World Series in baseball continues until either the American League team or the National League team wins four games. How many different orders are possible (e.g., ANNAAA means the American League team wins in six games) if the series goes four games?",
+    "expected_answer": "2",
+    "difficulty": "medium",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "SCI_010",
+    "domain": "Statistics",
+    "task_type": "Combinatorial Probability",
+    "prompt": "Two components operate in parallel in a device, so the device fails when and only when both components fail. The lifetimes, $X_1$ and $X_2$, of the respective components are independent and identically distributed with an exponential distribution with $\\theta=2$. The cost of operating the device is $Z=2 Y_1+Y_2$, where $Y_1=\\min \\left(X_1, X_2\\right)$ and $Y_2=\\max \\left(X_1, X_2\\right)$. Compute $E(Z)$.",
+    "expected_answer": "5",
+    "difficulty": "medium",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "SCI_012",
+    "domain": "Statistics",
+    "task_type": "Combinatorial Probability",
+    "prompt": "Let $X_1$ and $X_2$ be independent Poisson random variables with respective means $\\lambda_1=2$ and $\\lambda_2=3$. Find $P\\left(X_1=3, X_2=5\\right)$. HINT. Note that this event can occur if and only if $\\left\\{X_1=1, X_2=0\\right\\}$ or $\\left\\{X_1=0, X_2=1\\right\\}$.",
+    "expected_answer": "0.0182",
+    "difficulty": "medium",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "SCI_029",
+    "domain": "Statistics",
+    "task_type": "Combinatorial Probability",
+    "prompt": "Let the distribution of $T$ be $t(17)$. Find $t_{0.01}(17)$.",
+    "expected_answer": "2.567",
+    "difficulty": "medium",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "SCI_032",
+    "domain": "Statistics",
+    "task_type": "Combinatorial Probability",
+    "prompt": "If $X$ is a random variable with mean 33 and variance 16, use Chebyshev's inequality to find A lower bound for $P(23 < X < 43)$.",
+    "expected_answer": "0.84",
+    "difficulty": "medium",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "SCI_033",
+    "domain": "Statistics",
+    "task_type": "Combinatorial Probability",
+    "prompt": "Let $X$ equal the tarsus length for a male grackle. Assume that the distribution of $X$ is $N(\\mu, 4.84)$. Find the sample size $n$ that is needed so that we are $95 \\%$ confident that the maximum error of the estimate of $\\mu$ is 0.4 .",
+    "expected_answer": "117",
+    "difficulty": "medium",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "SCI_036",
+    "domain": "Statistics",
+    "task_type": "Combinatorial Probability",
+    "prompt": "In order to estimate the proportion, $p$, of a large class of college freshmen that had high school GPAs from 3.2 to 3.6 , inclusive, a sample of $n=50$ students was taken. It was found that $y=9$ students fell into this interval. Give a point estimate of $p$.",
+    "expected_answer": "0.1800",
+    "difficulty": "medium",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "SCI_046",
+    "domain": "Statistics",
+    "task_type": "Combinatorial Probability",
+    "prompt": "A grade school boy has five blue and four white marbles in his left pocket and four blue and five white marbles in his right pocket. If he transfers one marble at random from his left to his right pocket, what is the probability of his then drawing a blue marble from his right pocket?",
+    "expected_answer": "0.444444444444444",
+    "difficulty": "medium",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "SCI_048",
+    "domain": "Statistics",
+    "task_type": "Combinatorial Probability",
+    "prompt": "A poker hand is defined as drawing 5 cards at random without replacement from a deck of 52 playing cards. Find the probability of four of a kind (four cards of equal face value and one card of a different value).",
+    "expected_answer": "0.00024",
+    "difficulty": "medium",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "SCI_054",
+    "domain": "Statistics",
+    "task_type": "Combinatorial Probability",
+    "prompt": "Let the distribution of $W$ be $F(8,4)$. Find the following: $F_{0.01}(8,4)$.",
+    "expected_answer": "14.80",
+    "difficulty": "medium",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "SCI_059",
+    "domain": "Statistics",
+    "task_type": "Combinatorial Probability",
+    "prompt": "To determine the effect of $100 \\%$ nitrate on the growth of pea plants, several specimens were planted and then watered with $100 \\%$ nitrate every day. At the end of\r\ntwo weeks, the plants were measured. Here are data on seven of them:\r\n$$\r\n\\begin{array}{lllllll}\r\n17.5 & 14.5 & 15.2 & 14.0 & 17.3 & 18.0 & 13.8\r\n\\end{array}\r\n$$\r\nAssume that these data are a random sample from a normal distribution $N\\left(\\mu, \\sigma^2\\right)$. Find the value of a point estimate of $\\mu$.",
+    "expected_answer": "15.757",
+    "difficulty": "medium",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "SCI_067",
+    "domain": "Statistics",
+    "task_type": "Combinatorial Probability",
+    "prompt": "If $\\bar{X}$ and $\\bar{Y}$ are the respective means of two independent random samples of the same size $n$, find $n$ if we want $\\bar{x}-\\bar{y} \\pm 4$ to be a $90 \\%$ confidence interval for $\\mu_X-\\mu_Y$. Assume that the standard deviations are known to be $\\sigma_X=15$ and $\\sigma_Y=25$.",
+    "expected_answer": "144",
+    "difficulty": "medium",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "SCI_089",
+    "domain": "Statistics",
+    "task_type": "Combinatorial Probability",
+    "prompt": "Let $\\bar{X}$ be the mean of a random sample of size 36 from an exponential distribution with mean 3 . Approximate $P(2.5 \\leq \\bar{X} \\leq 4)$",
+    "expected_answer": "0.8185",
+    "difficulty": "medium",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "SCI_092",
+    "domain": "Statistics",
+    "task_type": "Combinatorial Probability",
+    "prompt": "Bowl $B_1$ contains two white chips, bowl $B_2$ contains two red chips, bowl $B_3$ contains two white and two red chips, and bowl $B_4$ contains three white chips and one red chip. The probabilities of selecting bowl $B_1, B_2, B_3$, or $B_4$ are $1 / 2,1 / 4,1 / 8$, and $1 / 8$, respectively. A bowl is selected using these probabilities and a chip is then drawn at random. Find $P(W)$, the probability of drawing a white chip.",
+    "expected_answer": "0.65625",
+    "difficulty": "medium",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "SCI_104",
+    "domain": "Statistics",
+    "task_type": "Combinatorial Probability",
+    "prompt": "A boy found a bicycle lock for which the combination was unknown. The correct combination is a four-digit number, $d_1 d_2 d_3 d_4$, where $d_i, i=1,2,3,4$, is selected from $1,2,3,4,5,6,7$, and 8 . How many different lock combinations are possible with such a lock?",
+    "expected_answer": "4096",
+    "difficulty": "medium",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "SCI_105",
+    "domain": "Statistics",
+    "task_type": "Combinatorial Probability",
+    "prompt": "A doctor is concerned about the relationship between blood pressure and irregular heartbeats. Among her patients, she classifies blood pressures as high, normal, or low and heartbeats as regular or irregular and finds that 16\\% have high blood pressure; (b) 19\\% have low blood pressure; (c) $17 \\%$ have an irregular heartbeat; (d) of those with an irregular heartbeat, $35 \\%$ have high blood pressure; and (e) of those with normal blood pressure, $11 \\%$ have an irregular heartbeat. What percentage of her patients have a regular heartbeat and low blood pressure?",
+    "expected_answer": "15.1",
+    "difficulty": "medium",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "SCI_119",
+    "domain": "Statistics",
+    "task_type": "Combinatorial Probability",
+    "prompt": " A typical roulette wheel used in a casino has 38 slots that are numbered $1,2,3, \\ldots, 36,0,00$, respectively. The 0 and 00 slots are colored green. Half of the remaining slots are red and half are black. Also, half of the integers between 1 and 36 inclusive are odd, half are even, and 0 and 00 are defined to be neither odd nor even. A ball is rolled around the wheel and ends up in one of the slots; we assume that each slot has equal probability of $1 / 38$, and we are interested in the number of the slot into which the ball falls. Let $A=\\{0,00\\}$. Give the value of $P(A)$.",
+    "expected_answer": "0.0526315789",
+    "difficulty": "medium",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "SCI_120",
+    "domain": "Statistics",
+    "task_type": "Combinatorial Probability",
+    "prompt": "Let $X_1, X_2$ be independent random variables representing lifetimes (in hours) of two key components of a\r\ndevice that fails when and only when both components fail. Say each $X_i$ has an exponential distribution with mean 1000. Let $Y_1=\\min \\left(X_1, X_2\\right)$ and $Y_2=\\max \\left(X_1, X_2\\right)$, so that the space of $Y_1, Y_2$ is $ 0< y_1 < y_2 < \\infty $ Find $G\\left(y_1, y_2\\right)=P\\left(Y_1 \\leq y_1, Y_2 \\leq y_2\\right)$.",
+    "expected_answer": "0.5117",
+    "difficulty": "medium",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "SCI_130",
+    "domain": "Statistics",
+    "task_type": "Combinatorial Probability",
+    "prompt": "A quality engineer wanted to be $98 \\%$ confident that the maximum error of the estimate of the mean strength, $\\mu$, of the left hinge on a vanity cover molded by a machine is 0.25 . A preliminary sample of size $n=32$ parts yielded a sample mean of $\\bar{x}=35.68$ and a standard deviation of $s=1.723$. How large a sample is required?",
+    "expected_answer": "257",
+    "difficulty": "medium",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "SCI_135",
+    "domain": "Statistics",
+    "task_type": "Combinatorial Probability",
+    "prompt": "An urn contains 10 red and 10 white balls. The balls are drawn from the urn at random, one at a time. Find the probability that the fourth white ball is the fourth ball drawn if the sampling is done with replacement.",
+    "expected_answer": "0.0625",
+    "difficulty": "medium",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "SCI_137",
+    "domain": "Statistics",
+    "task_type": "Combinatorial Probability",
+    "prompt": "An insurance company sells several types of insurance policies, including auto policies and homeowner policies. Let $A_1$ be those people with an auto policy only, $A_2$ those people with a homeowner policy only, and $A_3$ those people with both an auto and homeowner policy (but no other policies). For a person randomly selected from the company's policy holders, suppose that $P\\left(A_1\\right)=0.3, P\\left(A_2\\right)=0.2$, and $P\\left(A_3\\right)=0.2$. Further, let $B$ be the event that the person will renew at least one of these policies. Say from past experience that we assign the conditional probabilities $P\\left(B \\mid A_1\\right)=0.6, P\\left(B \\mid A_2\\right)=0.7$, and $P\\left(B \\mid A_3\\right)=0.8$. Given that the person selected at random has an auto or homeowner policy, what is the conditional probability that the person will renew at least one of those policies?",
+    "expected_answer": "0.686",
+    "difficulty": "medium",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "SCI_158",
+    "domain": "Statistics",
+    "task_type": "Combinatorial Probability",
+    "prompt": "If $X$ is a random variable with mean 33 and variance 16, use Chebyshev's inequality to find An upper bound for $P(|X-33| \\geq 14)$.",
+    "expected_answer": "0.082",
+    "difficulty": "medium",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "SCI_171",
+    "domain": "Statistics",
+    "task_type": "Combinatorial Probability",
+    "prompt": "A device contains three components, each of which has a lifetime in hours with the pdf\r\n$$\r\nf(x)=\\frac{2 x}{10^2} e^{-(x / 10)^2}, \\quad 0 < x < \\infty .\r\n$$\r\nThe device fails with the failure of one of the components. Assuming independent lifetimes, what is the probability that the device fails in the first hour of its operation? HINT: $G(y)=P(Y \\leq y)=1-P(Y>y)=1-P$ (all three $>y$ ).",
+    "expected_answer": "0.03",
+    "difficulty": "medium",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "SCI_172",
+    "domain": "Statistics",
+    "task_type": "Combinatorial Probability",
+    "prompt": "Let $X_1, X_2, \\ldots, X_{16}$ be a random sample from a normal distribution $N(77,25)$. Compute $P(77<\\bar{X}<79.5)$.",
+    "expected_answer": "0.4772",
+    "difficulty": "medium",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "SCI_173",
+    "domain": "Statistics",
+    "task_type": "Combinatorial Probability",
+    "prompt": "If $P(A)=0.4, P(B)=0.5$, and $P(A \\cap B)=0.3$, find $P(B \\mid A)$.",
+    "expected_answer": "0.75",
+    "difficulty": "medium",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "SCI_194",
+    "domain": "Statistics",
+    "task_type": "Combinatorial Probability",
+    "prompt": "Roll a fair six-sided die three times. Let $A_1=$ $\\{1$ or 2 on the first roll $\\}, A_2=\\{3$ or 4 on the second roll $\\}$, and $A_3=\\{5$ or 6 on the third roll $\\}$. It is given that $P\\left(A_i\\right)=1 / 3, i=1,2,3 ; P\\left(A_i \\cap A_j\\right)=(1 / 3)^2, i \\neq j$; and $P\\left(A_1 \\cap A_2 \\cap A_3\\right)=(1 / 3)^3$. Use Theorem 1.1-6 to find $P\\left(A_1 \\cup A_2 \\cup A_3\\right)$.",
+    "expected_answer": "0.6296296296",
+    "difficulty": "medium",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "SCI_196",
+    "domain": "Statistics",
+    "task_type": "Combinatorial Probability",
+    "prompt": "An urn contains four colored balls: two orange and two blue. Two balls are selected at random without replacement, and you are told that at least one of them is orange. What is the probability that the other ball is also orange?",
+    "expected_answer": "0.2",
+    "difficulty": "medium",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "SCI_205",
+    "domain": "Statistics",
+    "task_type": "Combinatorial Probability",
+    "prompt": "Three drugs are being tested for use as the treatment of a certain disease. Let $p_1, p_2$, and $p_3$ represent the probabilities of success for the respective drugs. As three patients come in, each is given one of the drugs in a random order. After $n=10$ 'triples' and assuming independence, compute the probability that the maximum number of successes with one of the drugs exceeds eight if, in fact, $p_1=p_2=p_3=0.7$ ",
+    "expected_answer": "0.0384",
+    "difficulty": "medium",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "SCI_209",
+    "domain": "Statistics",
+    "task_type": "Combinatorial Probability",
+    "prompt": "Let $Y_1 < Y_2 < \\cdots < Y_8$ be the order statistics of eight independent observations from a continuous-type distribution with 70 th percentile $\\pi_{0.7}=27.3$. Determine $P\\left(Y_7<27.3\\right)$.",
+    "expected_answer": "0.2553",
+    "difficulty": "medium",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "SCI_210",
+    "domain": "Statistics",
+    "task_type": "Combinatorial Probability",
+    "prompt": "If the distribution of $Y$ is $b(n, 0.25)$, give a lower bound for $P(|Y / n-0.25|<0.05)$ when $n=1000$.",
+    "expected_answer": "0.925",
+    "difficulty": "medium",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "SCI_216",
+    "domain": "Statistics",
+    "task_type": "Combinatorial Probability",
+    "prompt": "What is the number of possible 5-card hands (in 5-card poker) drawn from a deck of 52 playing cards?",
+    "expected_answer": "2598960",
+    "difficulty": "medium",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "SCI_223",
+    "domain": "Statistics",
+    "task_type": "Combinatorial Probability",
+    "prompt": "Three students $(S)$ and six faculty members $(F)$ are on a panel discussing a new college policy. In how many different ways can the nine participants be lined up at a table in the front of the auditorium?",
+    "expected_answer": "362880",
+    "difficulty": "medium",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "SCI_241",
+    "domain": "Statistics",
+    "task_type": "Combinatorial Probability",
+    "prompt": " If $P(A)=0.8, P(B)=0.5$, and $P(A \\cup B)=0.9$. What is $P(A \\cap B)$?",
+    "expected_answer": "0.9",
+    "difficulty": "medium",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "SCI_245",
+    "domain": "Statistics",
+    "task_type": "Combinatorial Probability",
+    "prompt": "Suppose that a fair $n$-sided die is rolled $n$ independent times. A match occurs if side $i$ is observed on the $i$ th trial, $i=1,2, \\ldots, n$. Find the limit of this probability as $n$ increases without bound.",
+    "expected_answer": "0.6321205588",
+    "difficulty": "medium",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "SCI_249",
+    "domain": "Statistics",
+    "task_type": "Combinatorial Probability",
+    "prompt": "Given below example: Approximate $P(39.75 \\leq \\bar{X} \\leq 41.25)$, where $\\bar{X}$ is the mean of a random sample of size 32 from a distribution with mean $\\mu=40$ and variance $\\sigma^2=8$. In the above example, compute $P(1.7 \\leq Y \\leq 3.2)$ with $n=4$",
+    "expected_answer": "0.6749",
+    "difficulty": "medium",
+    "evaluation_metric": "exact_match"
+  }
+]

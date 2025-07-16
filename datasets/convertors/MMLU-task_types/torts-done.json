@@ -1,0 +1,110 @@
+[
+  {
+    "task_id": "MMLU_016",
+    "domain": "Law",
+    "task_type": "Torts",
+    "prompt": "A rider entered a subway car at the 42nd Street station. Because all of the seats were occupied, the rider stood in the subway car and grabbed a pole to secure his balance. As the subway car was proceeding downtown, the rider glanced at a girl standing next to him. Suddenly, the subway car made an unexpected stop. The rider momentarily lost his balance and grabbed the girl around the waist (to avoid falling). Once the rider regained his balance, he removed his hands from the girl's waist and grasped the pole again. In a civil action instituted by the girl against the rider, he will most likely be found\n\nFor this question, four choices are provided:\n(A) liable for battery.\n(B) liable, because the rider believed that the girl consented to the contact under the circumstances.\n(C) not liable, because the rider's conduct was socially acceptable under the circumstances.\n(D) not liable, because the girl was not harmed by the contact.\n\nPlease choose the correct answer from the above choices.",
+    "expected_answer": "(C) not liable, because the rider's conduct was socially acceptable under the circumstances.",
+    "difficulty": "expert",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "MMLU_019",
+    "domain": "Law",
+    "task_type": "Torts",
+    "prompt": "A resident in an exclusive residential area is a marine biologist. To aid in his study of sharks, he had a large tank built in his backyard in which he placed a great white shark. Aside from a smell that emanated from the tank, some neighbors were concerned and afraid to let their children outside for fear that they would wander onto the resident's property. In order to convince his neighbors that they had nothing to fear, the resident invited them over to view the shark tank. While a neighbor was standing near the tank, the shark splashed its tail, and the neighbor got very wet. The neighbor, who had a cold, developed bronchitis. If the neighbor sues the resident for damages incurred from being drenched by the shark and bases her suit on strict liability, she will most likely\n\nFor this question, four choices are provided:\n(A) recover, because the possessor of wild animals is strictly liable for all injuries caused to others by the animals.\n(B) recover, because the smell from the shark tank was a nuisance.\n(C) not recover, because she suffered injury only because she had a cold and, therefore, was unusually vulnerable to harm from being splashed with water.\n(D) not recover, because she did not suffer the type of harm normally inflicted by a shark.\n\nPlease choose the correct answer from the above choices.",
+    "expected_answer": "(D) not recover, because she did not suffer the type of harm normally inflicted by a shark.",
+    "difficulty": "expert",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "MMLU_020",
+    "domain": "Law",
+    "task_type": "Torts",
+    "prompt": "A man and a woman had a romantic relationship for one year, but the man ended it. The woman was unable to accept the breakup and continued trying to contact the man. The woman would call the man's home and cellphone many times each day, and also tried to visit the man's home and workplace frequently. The man tried to discourage the woman's behavior, but the woman persisted. If the man asserts a claim against the woman based on invasion of privacy, the most likely outcome is that the man will\n\nFor this question, four choices are provided:\n(A) prevail, because the telephone calls intruded upon his seclusion and solitude.\n(B) prevail, but only if the man is able to prove malice on the defendant's part.\n(C) not prevail, because the telephone calls did not cause the man to suffer any economic loss or hardship.\n(D) not prevail, unless the woman's conduct was a crime in some respect.\n\nPlease choose the correct answer from the above choices.",
+    "expected_answer": "(A) prevail, because the telephone calls intruded upon his seclusion and solitude.",
+    "difficulty": "expert",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "MMLU_027",
+    "domain": "Law",
+    "task_type": "Torts",
+    "prompt": "After a party where the adults all drank alcohol, with everyone having at least six beers, they started up a game of baseball. The host supplied the bats, balls and gloves. An argument arose at home plate after a controversial call by the umpire, who was inebriated like all of the other participants. The host of the party became enraged at the umpire's decision and hit him in the face, breaking his nose. The umpire pressed charges when he became sober, and the authorities charged the host with criminal battery. At trial, the defense raised the defense of voluntary intoxication, arguing that the host lacked the mentality to form an intent to commit a criminal battery. Will the defense of voluntary intoxication be successful under these facts?\n\nFor this question, four choices are provided:\n(A) Yes, criminal battery is a specific intent crime to which voluntary intoxication may be asserted as a defense.\n(B) Yes, voluntary intoxication is always at least a partial defense to any crime that requires mens rea.\n(C) No, the host was grossly negligent in allowing a group of drunk men to play a dangerous game of hardball, which precluded him from the benefit of the defense.\n(D) No, criminal battery in this case is a general intent crime and the defense of voluntary intoxication is not available.\n\nPlease choose the correct answer from the above choices.",
+    "expected_answer": "(D) No, criminal battery in this case is a general intent crime and the defense of voluntary intoxication is not available.",
+    "difficulty": "expert",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "MMLU_063",
+    "domain": "Law",
+    "task_type": "Torts",
+    "prompt": "Believing she was pregnant, a woman went to see a doctor, a licensed gynecologist, because she wanted an abortion. The doctor examined her and determined that she was not pregnant, but decided that he would tell her she was, in order to earn his $500 fee. After receiving the $500, the doctor proceeded to have the woman admitted to a hospital by falsely informing the hospital authorities that she had a benign tumor on her uterus, which he was going to remove. He performed all the surgical procedures appropriate for an abortion under adequate hygienic conditions, but the woman began hemorrhaging and died. The doctor should be found guilty of\n\nFor this question, four choices are provided:\n(A) murder and larceny by trick.\n(B) manslaughter and false pretenses.\n(C) battery and larceny by trick.\n(D) murder, battery, and false pretenses.\n\nPlease choose the correct answer from the above choices.",
+    "expected_answer": "(B) manslaughter and false pretenses.",
+    "difficulty": "expert",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "MMLU_145",
+    "domain": "Law",
+    "task_type": "Torts",
+    "prompt": "A customer went into a bar to have a drink. The bar was crowded because a championship boxing match was being shown on the television sets in the bar, and many people had gone to the bar to watch it. During the second round of the boxing match, someone bumped into the customer, causing him to spill a drink on his pants. \"Hey, watch what you're doing, jerk!\" the customer said. The person who had bumped the customer was an employee of the bar hired as a bouncer to deal with unruly customers. Angered by the customer's statement, the employee immediately turned around and punched the customer in the mouth. If the customer asserts a battery claim against the owner of the bar, the customer will most likely\n\nFor this question, four choices are provided:\n(A) prevail, because it was reasonably foreseeable that fights would occur in a crowd of people who were drinking a lot of alcohol.\n(B) prevail, because the person who punched the customer was employed as a bouncer.\n(C) not prevail, because the owner did not touch the customer.\n(D) not prevail, because the owner should not be responsible for the intentional acts of the employee.\n\nPlease choose the correct answer from the above choices.",
+    "expected_answer": "(B) prevail, because the person who punched the customer was employed as a bouncer.",
+    "difficulty": "expert",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "MMLU_175",
+    "domain": "Law",
+    "task_type": "Torts",
+    "prompt": "A boyfriend and his girlfriend were attending a house party. While the party was in progress, a few teenagers from the neighborhood vandalized some of the cars parked outside the house. They broke the headlights and stole the battery from the boyfriend's car. When the party ended, the boyfriend and his girlfriend left the house and got into his car. The boyfriend, who was about to drive his girlfriend home, was unaware of what had happened. He tried to start the car, but it wouldn't turn on. Two police officers, who were parked outside the house, watched the boyfriend as he tried to start the car. They then approached the boyfriend and charged him with attempting to violate a local ordinance making it a misdemeanor to drive at night without headlights. The boyfriend's best defense to the charge is\n\nFor this question, four choices are provided:\n(A) factual impossibility.\n(B) mistake of fact.\n(C) entrapment.\n(D) no requisite intent.\n\nPlease choose the correct answer from the above choices.",
+    "expected_answer": "(D) no requisite intent.",
+    "difficulty": "expert",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "MMLU_208",
+    "domain": "Law",
+    "task_type": "Torts",
+    "prompt": "A grocery store purchased a large mirror to hang on a wall in the store. Along with the mirror itself, the manufacturer provided brackets and bolts to be used for hanging the mirror. The grocery store paid a local carpenter to come in and hang the mirror. A few days after the carpenter installed the mirror, the mirror suddenly fell from the wall because of a defect in the brackets. It struck a shopper on the head, causing serious injuries to him. If the shopper asserts a claim against the carpenter based on strict liability in tort, the plaintiff will\n\nFor this question, four choices are provided:\n(A) prevail, because the brackets were defective when installed.\n(B) prevail, because it would be abnormally dangerous to maintain such a large mirror on the wall of a retail outlet.\n(C) not prevail, because the carpenter was not engaged in the sale of the mirror.\n(D) not prevail, because the carpenter had no relationship of privily with the plaintiff.\n\nPlease choose the correct answer from the above choices.",
+    "expected_answer": "(C) not prevail, because the carpenter was not engaged in the sale of the mirror.",
+    "difficulty": "expert",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "MMLU_239",
+    "domain": "Law",
+    "task_type": "Torts",
+    "prompt": "A woman was in a public restroom at a mall. While the woman was at the sink, a man entered the restroom and told her not to make a sound. Frightened, the woman ran to an open window in the bathroom and jumped onto the fire escape. As she exited down the fire escape, the woman accidentally fell, bruising her legs. Which of the following crimes, if any, would the man most likely be convicted of?\n\nFor this question, four choices are provided:\n(A) Assault.\n(B) Battery.\n(C) Assault with intent to commit rape.\n(D) No crime.\n\nPlease choose the correct answer from the above choices.",
+    "expected_answer": "(D) No crime.",
+    "difficulty": "expert",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "MMLU_616",
+    "domain": "Law",
+    "task_type": "Torts",
+    "prompt": "A manufacturer of snowmobiles produced one model, Model IA, which was a very popular snowmobile. On each of the Model 1 A snowmobiles produced, the manufacturer installed a speed-regulating device that prevented the snowmobiles from exceeding 50 m. p. h. The manufacturer distributed the snowmobile through wholesalers and retailers across the country. In its sales brochures and advertising materials, the manufacturer advises all of its distributors against making any modifications on snowmobiles without first conferring with the manufacturer's staff of engineers. The operator of a shop in a mountain community had the exclusive right to distribute Model 1A snowmobiles in the area. Amid complaints from previous buyers regarding Model lA's speed limitations, the operator removed the speed regulators from all the Model 1A snowmobiles in stock. A buyer purchased from the operator one of the Model 1A snowmobiles that had the speed regulator removed. One day, the buyer was driving the Model 1A snowmobile through a snow-covered field, at speeds in excess of 70 m. p. h. The snowmobile hit a snow-covered rock, causing the buyer to lose control of the snowmobile, crash into a tree, and suffer serious injuries. If the buyer institutes a strict liability in tort action, he will most likely recover against\n\nFor this question, four choices are provided:\n(A) the manufacturer only.\n(B) the manufacturer, even though it was unaware of the removal of the speed regulator.\n(C) the operator only.\n(D) both the manufacturer and the operator.\n\nPlease choose the correct answer from the above choices.",
+    "expected_answer": "(C) the operator only.",
+    "difficulty": "expert",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "MMLU_707",
+    "domain": "Law",
+    "task_type": "Torts",
+    "prompt": "A husband and wife had a stormy relationship. The husband, who was an alcoholic, frequently beat his wife when he became drunk. One day, the husband had been drinking beer while watching football on television. After his favorite team lost a close game, the husband went into a violent rage. As he was storming around the apartment, he suddenly grabbed his wife and led her outside to their car. He then ordered her to get inside the vehicle. The husband was driving around aimlessly when he negligently collided with another car. The other driver, who was injured in the accident, brought suit against the husband to recover damages. Thereafter, the husband retained an attorney to represent him. At his first consultation with the attorney, the husband was accompanied by his wife. During the conference, the attorney's secretary took notes of the meeting. Two weeks later, the wife separated from the husband. She then hired a lawyer to represent her in a suit against the husband for battery and false imprisonment. At the trial between the husband and the other driver, the other driver's attorney calls the wife to testify. She proposes to testify that her husband was intoxicated at the time of the accident. Upon objection by the husband's attorney, the wife's proposed testimony will most likely be\n\nFor this question, four choices are provided:\n(A) admissible as a proper lay opinion.\n(B) inadmissible, under the attorney-clientprivilege.\n(C) inadmissible, under the marital privilege.\n(D) inadmissible, because the wife is biased.\n\nPlease choose the correct answer from the above choices.",
+    "expected_answer": "(C) inadmissible, under the marital privilege.",
+    "difficulty": "expert",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "MMLU_767",
+    "domain": "Law",
+    "task_type": "Torts",
+    "prompt": "A defendant was playing cards with a group of friends at their weekly poker game. Earlier in the evening, one of the players handed the defendant a gun and told him it was unloaded. As a joke, the defendant pointed the gun at one of his friends and pulled the trigger. Unknown to the defendant, the gun was loaded and it discharged. The bullet grazed the friend's shoulder, slightly wounding him. The defendant was charged with assault with intent to kill. In this jurisdiction, battery is a lesser included offense of assault. At trial, the defendant requested that the court instruct the jury that if his mistake was honest, whether reasonable or unreasonable, it would be a valid defense to assault and the lesser included offense of battery. Conversely, the prosecution wanted the court to instruct the jury that in order for the defendant's mistake to be a valid defense for either crime, it must be reasonable. Regarding the jury instructions, which of the following statements is most accurate?\n\nFor this question, four choices are provided:\n(A) The defendant is correct with respect to assault, and the prosecution is correct with respect to battery.\n(B) The defendant is correct with respect to battery, and the prosecution is correct with respect to assault.\n(C) The prosecution is correct with respect to both the battery and assault charges.\n(D) The defendant is correct with respect to both the battery and assault charges.\n\nPlease choose the correct answer from the above choices.",
+    "expected_answer": "(A) The defendant is correct with respect to assault, and the prosecution is correct with respect to battery.",
+    "difficulty": "expert",
+    "evaluation_metric": "exact_match"
+  }
+]

@@ -1,0 +1,560 @@
+[
+  {
+    "task_id": "MED_018",
+    "domain": "Medicine",
+    "task_type": "Obstetrics",
+    "prompt": "A 29-year-old woman, gravida 3, para 2, at 24 weeks' gestation comes to the emergency department because of vaginal bleeding and mild pelvic pain for 2 hours. Her current pregnancy was achieved by means of in vitro fertilization due to azoospermia in her partner. Prenatal course has been uncomplicated with regular prenatal visits. After a period of having avoided sexual intercourse during her early pregnancy, she resumed sexual activity with her partner at week 22 of gestation. Her first child was delivered by lower segment transverse cesarean section because of a nonreassuring fetal heart rate; her other child was delivered vaginally. She has had abnormal Pap smears due to HPV in the past. Her pulse is 82/min, respirations are 18/min, and blood pressure is 134/76 mm Hg. The abdomen is nontender, the uterus is consistent with 24 weeks' gestation, and the fetus is in a cephalic presentation. There are traces of blood on the vulva and the introitus. Speculum examination shows a tender, bruised cervix, with a closed cervical os. Fetal heart rate is 166/min and CTG shows a reassuring fetal heart rate tracing. Ultrasound shows a uniformly echogenic placenta located at the fundal end of the posterior uterine wall. What is the most likely cause of this patient's antepartum bleeding? Choose the correct answer from the following options:\n(A) Pedunculated cervical growth\n(B) Inflammation of the cervix\n(C) Cervical trauma\n(D) Fetal vessels overlying cervical os\n(E) Premature separation of the placenta",
+    "expected_answer": "The correct answer is: (C) Cervical trauma",
+    "difficulty": "expert",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "MED_020",
+    "domain": "Medicine",
+    "task_type": "Obstetrics",
+    "prompt": "A 35-year-old woman comes to the physician for sleeping problems and the inability to concentrate for 3 months. She says she is worried because she and her husband have been trying to conceive for more than a year with no success. Conception by in vitro fertilization was attempted once 3 months ago but was unsuccessful. Analysis of her husband's semen has shown normal sperm counts and morphology. She has a 6-year-old daughter who was born at term after an uncomplicated pregnancy. She has no history of severe illness and tries to stay healthy by going to the gym an hour per day. Her menses occur at regular 28-day intervals and last 5 to 6 days; her last menstrual period started 2 days ago. Physical examination shows no abnormalities. Which of the following is the most likely cause of this patient's inability to conceive? Choose the correct answer from the following options:\n(A) Pelvic inflammatory disease\n(B) Asherman's syndrome\n(C) Diminished ovarian reserve\n(D) Hypogonadotropic hypogonadism\n(E) Premature ovarian failure",
+    "expected_answer": "The correct answer is: (C) Diminished ovarian reserve",
+    "difficulty": "expert",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "MED_073",
+    "domain": "Medicine",
+    "task_type": "Obstetrics",
+    "prompt": "A 23-year-old primigravida presents for a regular prenatal care visit at 16 weeks gestation. She complains of increased fatigability, but is otherwise well. She takes folic acid, iron, and vitamin D supplementation. Her vital signs are as follows: blood pressure, 110/70 mm Hg; heart rate, 86/min; respiratory rate, 13/min; and temperature, 36.6\u2103 (97.9\u2109). The physical examination is unremarkable. The complete blood count results are as below:\nErythrocyte count 3.9 million/mm3\nHb 11.1 g/dL\nHCT 32%\nReticulocyte count 0.2%\nMCV 90 fL\nPlatelet count 210,000/mm3\nLeukocyte count 8,100/mm3\nWhich of the following tests is required to investigate the cause of the patient\u2019s laboratory findings? Choose the correct answer from the following options:\n(A) Serum iron level\n(B) Serum B12 level\n(C) Transferrin\n(D) No tests required\n(E) Total bilirubin",
+    "expected_answer": "The correct answer is: (D) No tests required",
+    "difficulty": "expert",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "MED_085",
+    "domain": "Medicine",
+    "task_type": "Obstetrics",
+    "prompt": "A 27-year-old woman, gravida 1, para 0, at 38 weeks' gestation is admitted to the hospital for active labor. The pregnancy was complicated by gestational diabetes and fetal weight is estimated to be at the 90th percentile for gestational age. During delivery, there is an arrest in the second stage of labor, and a vacuum-assisted delivery is performed. Postpartum examination shows a third-degree laceration in the vagina extending into the perineum at the 6 o'clock position. This patient is most likely to experience which of the following complications? Choose the correct answer from the following options:\n(A) Urge incontinence\n(B) Vesicovaginal fistula\n(C) Fecal incontinence\n(D) Small bowel obstruction\n(E) Stress incontinence",
+    "expected_answer": "The correct answer is: (C) Fecal incontinence",
+    "difficulty": "expert",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "MED_086",
+    "domain": "Medicine",
+    "task_type": "Obstetrics",
+    "prompt": "A 29-year-old primigravid woman at 35 weeks' gestation is admitted to the hospital in labor. She has no history of serious medical illness. She has had an uncomplicated pregnancy. Her last ultrasound at 22 weeks' gestation was normal. On admission, fetal heartbeats cannot be detected by fetal doppler monitor. Ultrasound shows decreased amniotic fluid levels and no evidence of fetal movement, respiration, or heart activity. The patient gives birth to a 2296 g (5 lb 1 oz) male infant. Physical examination shows no signs of life. There are no visible malformations. The placenta is unremarkable. Which of the following is the most appropriate next step in management? Choose the correct answer from the following options:\n(A) Perform karyotyping of amniotic fluid\n(B) Recommend autopsy of the infant\n(C) Obtain photographs, x-ray imaging, and MRI\n(D) Perform maternal antibody and thrombophilia testing\n(E) Obtain consent for parental genetic testing",
+    "expected_answer": "The correct answer is: (B) Recommend autopsy of the infant",
+    "difficulty": "expert",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "MED_087",
+    "domain": "Medicine",
+    "task_type": "Obstetrics",
+    "prompt": "A 3-week-old male newborn is brought to the physician because of an inward turning of his left forefoot. He was born at 38 weeks' gestation by cesarean section because of breech presentation. The pregnancy was complicated by oligohydramnios. Examination shows concavity of the medial border of the left foot with a skin crease just below the ball of the great toe. The lateral border of the left foot is convex. The heel is in neutral position. Tickling the lateral border of the foot leads to correction of the deformity. The remainder of the examination shows no abnormalities. X-ray of the left foot shows an increased angle between the 1st and 2nd metatarsal bones. Which of the following is the most appropriate next step in the management of this patient? Choose the correct answer from the following options:\n(A) Foot abduction brace\n(B) Osteotomy of the metatarsals\n(C) Arthrodesis of the forefoot\n(D) Reassurance\n(E) Tarsometatarsal capsulotomy",
+    "expected_answer": "The correct answer is: (D) Reassurance",
+    "difficulty": "expert",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "MED_094",
+    "domain": "Medicine",
+    "task_type": "Obstetrics",
+    "prompt": "A 28-year-old G1P0 woman at 12 weeks estimated gestational age presents with malaise, joint pain, fever, and chills for the past 3 days. Physical examination reveals a mild lace-like rash and arthritis. The patient mentions her friend who is a medical student told her that her symptoms are suggestive of a parvovirus B19 infection which may adversely affect her baby. Which of the following statements regarding the effect of parvovirus B19 infection in this pregnant patient is correct? Choose the correct answer from the following options:\n(A) It can lead to hydrops fetalis secondary to fetal anemia.\n(B) It can cause aplastic crisis in the neonate.\n(C) Physical malformations are frequently associated with congenital infection.\n(D) Fetal loss occurs in more than 40% of primary infections.\n(E) The neonate may be born with a typical slapped-cheek rash.",
+    "expected_answer": "The correct answer is: (A) It can lead to hydrops fetalis secondary to fetal anemia.",
+    "difficulty": "expert",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "MED_095",
+    "domain": "Medicine",
+    "task_type": "Obstetrics",
+    "prompt": "A 23-year-old woman visits her obstetrician for an antenatal appointment. She is at the 24th week of gestation. She has had type 1 diabetes mellitus for 5 years and is on insulin. She also has mitral stenosis, for which she has been advised to undergo a balloon valvotomy. Her temperature is 37.1\u00b0C (98.7\u00b0F), blood pressure is 120/60 mm Hg, and pulse is 90/minute. Her random blood glucose is 220 mg/dL and HbA1C is 8.5%. She wants to discuss possible complications concerning her pregnancy. Which of the following cardiac complications is her infant at high risk for? Choose the correct answer from the following options:\n(A) Hypertrophic obstructive cardiomyopathy\n(B) Transient hypertrophic cardiomyopathy\n(C) Tetralogy of Fallot\n(D) Ebstein anomaly\n(E) Mitral valve prolapse",
+    "expected_answer": "The correct answer is: (B) Transient hypertrophic cardiomyopathy",
+    "difficulty": "expert",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "MED_106",
+    "domain": "Medicine",
+    "task_type": "Obstetrics",
+    "prompt": "A 30-year-old G4P3 woman at 38 weeks gestation is admitted to the labor and delivery unit complaining of contractions every 5 minutes for the past hour. Her previous births have been via uncomplicated caesarean sections, but she wishes to attempt vaginal delivery this time. Her prenatal care is notable for gestational diabetes controlled with diet and exercise. The delivery is prolonged, but the patient's pain is controlled with epidural analgesia. She delivers a male infant with Apgar scores of 8 and 9 at 1 and 5 minutes, respectively. Fundal massage is performed, but the placenta does not pass. The obstetrician manually removes the placenta, but a red mass protrudes through the vagina attached to the placenta. The patient loses 500 mL of blood over the next minute, during which her blood pressure decreases from 120/80 mmHg to 90/65 mmHg. What is the best next step in management? Choose the correct answer from the following options:\n(A) Uterine artery ligation\n(B) Hysterectomy\n(C) Intravenous oxytocin\n(D) Elevate posterior fornix\n(E) Red blood cell transfusion",
+    "expected_answer": "The correct answer is: (D) Elevate posterior fornix",
+    "difficulty": "expert",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "MED_113",
+    "domain": "Medicine",
+    "task_type": "Obstetrics",
+    "prompt": "A 22-year-old primigravida presents for a regular prenatal visit at 16 weeks gestation. She is concerned about the results of a dipstick test she performed at home, which showed 1+ glucose. She does not know  if her liquid consumption has increased, but she urinates more frequently than before. The course of her pregnancy has been unremarkable and she has no significant co-morbidities. The BMI is 25.6 kg/cm2 and she has gained 3 kg (6.72 lb) during the pregnancy. The blood pressure is 110/80 mm Hg, the heart rate is 82/min, the respiratory rate is 14/min, and the temperature is 36.6\u2103 (97.9\u2109). The lungs are clear to auscultation, the heart sounds are normal with no murmurs, and there is no abdominal or costovertebral angle tenderness. The laboratory tests show the following results:\nFasting glucose 97 mg/L\nALT 12 IU/L\nAST 14 IU/L\nTotal bilirubin 0.8 mg/dL(15 \u00b5mol/L)\nPlasma creatinine 0.7 mg/dL (61.9 \u00b5mol/L)\nWhich of the following tests are indicated to determine the cause of the abnormal dipstick test results? Choose the correct answer from the following options:\n(A) HbA1c measurement\n(B) No tests required\n(C) Urinalysis\n(D) Oral glucose tolerance test\n(E) Random plasma glucose",
+    "expected_answer": "The correct answer is: (B) No tests required",
+    "difficulty": "expert",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "MED_120",
+    "domain": "Medicine",
+    "task_type": "Obstetrics",
+    "prompt": "A 5-month-old boy is brought to the physician with a 3-day history of fever and cough. His mother reports that he has had multiple episodes of loose stools over the past 3 months. He has been treated for otitis media 4 times and bronchiolitis 3 times since birth. He was born at 37 weeks' gestation, and the neonatal period was uncomplicated. He is at the 10th percentile for height and 3rd percentile for weight. His temperature is 38.3\u00b0C (100.9\u00b0F), pulse is 126/min, and respirations are 35/min. Examination shows an erythematous scaly rash over his trunk and extremities. The white patches on the tongue and buccal mucosa bleed when scraped. Inspiratory crackles are heard in the right lung base. An X-ray of the chest shows an infiltrate in the right lower lobe and an absent thymic shadow. Which of the following is the most likely definitive treatment for this patient\u2019s condition? Choose the correct answer from the following options:\n(A) Hematopoietic cell transplantation\n(B) Interferon-\u03b3 therapy\n(C) Intravenous immune globulin\n(D) Leucovorin supplementation\n(E) Thymic transplantation",
+    "expected_answer": "The correct answer is: (A) Hematopoietic cell transplantation",
+    "difficulty": "expert",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "MED_132",
+    "domain": "Medicine",
+    "task_type": "Obstetrics",
+    "prompt": "A 26-year-old gravida 2 para 1 at 24 weeks gestation is admitted to the labor and delivery suite with mild abdominal cramps, uterine contractions, and a watery vaginal discharge. She has a history of preterm birth. The vital signs are as follows: blood pressure 125/80 mm Hg; heart rate 100/min; respiratory rate 13/min; and temperature 36.6\u2103 (97.9\u2109). The pelvic examination reveals cervical softening and shortening. Transvaginal ultrasound shows a cervical length of 12 mm, which is consistent with preterm labor. A tocolytic and a single dose of betamethasone are administered. Betamethasone stimulates which fetal cells? Choose the correct answer from the following options:\n(A) Type I pneumocytes\n(B) Goblet cells\n(C) Bronchial epithelial cells\n(D) Type II pneumocytes\n(E) Vascular smooth myocytes",
+    "expected_answer": "The correct answer is: (D) Type II pneumocytes",
+    "difficulty": "expert",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "MED_144",
+    "domain": "Medicine",
+    "task_type": "Obstetrics",
+    "prompt": "A 3-year-old male is brought by his mother to the pediatrician's office. The mother and child are refugees from Somalia and arrived in the United States one week ago. They were recently placed in temporary housing. The mother reports that the child has been chronically tired and subdued since before their arrival in the United States. The child was born at 38 weeks gestation with the help of a local midwife. The child\u2019s temperature is 98.2\u00b0F (36.8\u00b0C), blood pressure is 105/60 mmHg, pulse is 90/min, and respirations are 18/min. Physical examination reveals a listless child with a rotund abdomen and positive fluid wave. Notable lower extremity edema is present. This patient's condition is most likely caused by a deficiency in which of the following? Choose the correct answer from the following options:\n(A) Total caloric intake\n(B) Relative protein intake\n(C) Relative carbohydrate intake\n(D) Relative fat intake\n(E) Vitamin intake",
+    "expected_answer": "The correct answer is: (B) Relative protein intake",
+    "difficulty": "expert",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "MED_145",
+    "domain": "Medicine",
+    "task_type": "Obstetrics",
+    "prompt": "A transvaginal ultrasound shows an intrauterine heteroechoic mass with numerous anechoic spaces and no identifiable fetus or amniotic fluid. Both the ovaries are enlarged and have multiple thin-walled, septated cysts with clear content. Which of the following is the most likely cause of the ovarian findings? Choose the correct answer from the following options:\n(A) Chocolate cysts\n(B) Corpus luteum cysts\n(C) Yolk sac tumor\n(D) Luteoma of pregnancy\n(E) Theca leutein cysts",
+    "expected_answer": "The correct answer is: (E) Theca leutein cysts",
+    "difficulty": "expert",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "MED_165",
+    "domain": "Medicine",
+    "task_type": "Obstetrics",
+    "prompt": "A 32-year-old woman, gravida 2, para 0, at 22 weeks' gestation comes to the emergency department for abdominal pain and heavy vaginal bleeding for 2 hours. She has had no prenatal care. Her temperature is 37.2\u00b0C (99.0\u00b0F), pulse is 102/min, respirations are 16/min, and blood pressure is 138/82 mm Hg. The abdomen is nontender, and regular contractions are felt every 2 minutes. The uterus is consistent in size with a 20-week gestation. There is blood on the vulva, introitus, and medial aspect of the thighs. Ultrasound shows complete detachment of the placenta from the uterus. Fetal heart tones are absent. An emergent cesarean delivery is performed. Following the procedure, the patient becomes tearful and distraught. Which of the following is the most appropriate initial response by the physician? Choose the correct answer from the following options:\n(A) \u201cI'm sorry for your loss. This must be a difficult situation for you.\u201d\n(B) \u201cLosing a baby is difficult, but I'm sure next time it'll work out.\u201d\n(C) \u201cI'm sorry for your loss. Let's talk about how to move forward from here.\u201d\n(D) \u201cLosing a baby is difficult; but I see this every day, and I know you'll get through it.\u201d\n(E) \u201cI'm sorry for your loss. I can write you a prescription to help with your anxiety and grief.\u201d",
+    "expected_answer": "The correct answer is: (A) \u201cI'm sorry for your loss. This must be a difficult situation for you.\u201d",
+    "difficulty": "expert",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "MED_184",
+    "domain": "Medicine",
+    "task_type": "Obstetrics",
+    "prompt": "A 33-year-old G2P1 woman presents to the office because of poor diabetic control. She is currently at 18 weeks gestation and admits to having poor control of her type 1 diabetes before becoming pregnant. Her family history is non-contributory. The physical examination shows a pregnant woman with a fundal height of 20 cm (7.9 in). An abdominal ultrasound is ordered. Which of the following is the most likely congenital abnormality shown on the ultrasound? Choose the correct answer from the following options:\n(A) Amelia\n(B) Anencephaly\n(C) Sacral agenesis\n(D) Spina bifida\n(E) Ventricular septal defect",
+    "expected_answer": "The correct answer is: (E) Ventricular septal defect",
+    "difficulty": "expert",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "MED_185",
+    "domain": "Medicine",
+    "task_type": "Obstetrics",
+    "prompt": "A 6-day-old male newborn is brought to the physician because he has become increasingly irritable and restless over the past 2 days. During this period, he has had 12 bowel movements. He feeds 10 to 12 times a day. He was born at 38 weeks' gestation and weighed 1800 g (3 lb 15 oz); he currently weighs 1700 g (3 lb 12 oz). His mother has Graves' disease and received propylthiouracil during the last trimester of pregnancy. She has a history of intravenous heroin use. His temperature is 36.9\u00b0C (98.4\u00b0F), pulse is 180/min, and respirations are 50/min. Examination shows mild diaphoresis and a firm 2-cm midline neck swelling. The lungs are clear to auscultation. Which of the following is the most appropriate next step in management? Choose the correct answer from the following options:\n(A) Methimazole and propranolol therapy\n(B) Digoxin and furesomide therapy\n(C) Potassium iodide therapy\n(D) Naloxone therapy\n(E) Calcium gluconate therapy",
+    "expected_answer": "The correct answer is: (A) Methimazole and propranolol therapy",
+    "difficulty": "expert",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "MED_197",
+    "domain": "Medicine",
+    "task_type": "Obstetrics",
+    "prompt": "A 20-day-old child is brought to the emergency department by her parents. They are concerned about lethargy and easy bruising. Her mother reports that she has been eating less for the past few days. Today she was difficult to arouse. She normally nurses four-five times a day, but ate less yesterday and this morning. The girl was born at 39 weeks gestation via spontaneous vaginal delivery at home with minimal prenatal or postnatal care. This is her first visit to a physician of any type. The family is carefully questioned and child abuse is ruled out. The daughter\u2019s pulse is 97/min, respirations are 35/min, temperature is 35.8\u00b0C (96.4\u00b0F), and blood pressure is 71/46 mm Hg. Physical examination shows diffuse petechiae and bruising. Which of the following is the most likely cause? Choose the correct answer from the following options:\n(A) Group B streptococcus (GBS) infection\n(B) Hepatitis B infection\n(C) Thyroid stimulating hormone deficiency\n(D) Vitamin D deficiency\n(E) Vitamin K deficiency",
+    "expected_answer": "The correct answer is: (E) Vitamin K deficiency",
+    "difficulty": "expert",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "MED_233",
+    "domain": "Medicine",
+    "task_type": "Obstetrics",
+    "prompt": "A 25-year-old woman comes to the physician for the evaluation of nausea for the last two weeks. During this period, she has had increased urinary frequency and fatigue. She also reports two episodes of non-bloody vomiting. There is no personal history of serious illness. Her last menstrual period was 6 weeks ago. Physical examination shows bilateral breast tenderness. The remainder of the examination shows no abnormalities. A urine pregnancy test is positive. Which of the following is the most accurate predictor of the gestational age? Choose the correct answer from the following options:\n(A) Ratio of head to abdominal circumference\n(B) Serum \u03b2-hCG levels\n(C) Femoral length\n(D) Crown-rump length\n(E) Biparietal length",
+    "expected_answer": "The correct answer is: (D) Crown-rump length",
+    "difficulty": "expert",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "MED_237",
+    "domain": "Medicine",
+    "task_type": "Obstetrics",
+    "prompt": "A 47-year-old woman seeks evaluation at your office because she has had postcoital vaginal bleeding for the past 8 months with occasional intermenstrual watery, blood-tinged vaginal discharge. Her family history is negative for malignancies and inherited disorders. She is the result of a pregnancy complicated by numerous miscarriages in the 1960s, for which her mother received diethylstilbestrol. During a pelvic examination, you notice a polypoid mass on the anterior wall of the vagina. The bimanual examination is negative for adnexal masses. You suspect the presence of carcinoma and, therefore, send tissue samples to pathology, which confirmed the presence of malignant cells. Which of the following is the most likely malignant tumor in this patient? Choose the correct answer from the following options:\n(A) Clear cell adenocarcinoma\n(B) Melanoma\n(C) Botryoid sarcoma\n(D) Verrucous carcinoma\n(E) Squamous cell carcinoma (SCC)",
+    "expected_answer": "The correct answer is: (A) Clear cell adenocarcinoma",
+    "difficulty": "expert",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "MED_238",
+    "domain": "Medicine",
+    "task_type": "Obstetrics",
+    "prompt": "A 29-year-old woman presents to the clinic after several months of weight loss. She noticed a 6.8 kg (15 lb) unintentional weight loss over the preceding several months. She has not changed her diet or exercise habits. She also reports feuding with her boyfriend over the temperature of their shared apartment, as she always feels warmer than he does. The vital signs include: heart rate 110/min and blood pressure 146/78 mm Hg. The physical exam is notable for warm and slightly moist skin. She also exhibits a fine tremor in her hands when her arms are outstretched. The urine pregnancy test is negative. Which of the following is the best single treatment option for this patient? Choose the correct answer from the following options:\n(A) Glucocorticoids\n(B) Methimazole\n(C) Propranolol\n(D) Radioiodine therapy\n(E) Thyroidectomy",
+    "expected_answer": "The correct answer is: (B) Methimazole",
+    "difficulty": "expert",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "MED_261",
+    "domain": "Medicine",
+    "task_type": "Obstetrics",
+    "prompt": "A 28-year-old woman, gravida 2, para 1, at 40 weeks gestation is brought to the emergency department by her husband. She is in active labor and has lost a lot of blood in the past 2 hours, but appears alert and cooperative. At the hospital, her blood pressure is 88/65 mm Hg, the pulse is 110/min, and the respirations are 23/min. Neither the hospital nor the emergency department is equipped for high-risk pregnancies. The patient and her husband request a transfer to a more capable center. They are informed of the hospital\u2019s obligations under the Emergency Medical Treatment and Labor Act and the risks of transfer. They insist to be transferred. Which of the following is the most appropriate next step in management? Choose the correct answer from the following options:\n(A) After stabilizing the patient, allow the family to leave in their car to go to a different facility\n(B) Decline admission and refer the patient to the closest capable emergency department\n(C) Disregard patient\u2019s request and treat until delivery is complete\n(D) Treat and transfer the patient after she makes a written request\n(E) Transfer the patient only if the medical benefits of transfer outweigh the risks",
+    "expected_answer": "The correct answer is: (D) Treat and transfer the patient after she makes a written request",
+    "difficulty": "expert",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "MED_264",
+    "domain": "Medicine",
+    "task_type": "Obstetrics",
+    "prompt": "A 29-year-old G4P0 woman presents following a spontaneous pregnancy loss in the 18th week of her pregnancy. This is her fourth loss in the second trimester and she is concerned about her inability to have a successful pregnancy. She is otherwise healthy and has no acute complaints. Her vitals are unremarkable and exam is notable only for a firm, asymmetric uterus. Laboratory studies are ordered as seen below.\n\nHemoglobin: 9.0 g/dL\nHematocrit: 30%\nLeukocyte count: 6,800/mm^3 with normal differential\nPlatelet count: 199,000/mm^3\n\nSerum:\nNa+: 139 mEq/L\nCl-: 100 mEq/L\nK+: 4.3 mEq/L\nHCO3-: 25 mEq/L\nBUN: 20 mg/dL\nGlucose: 99 mg/dL\nCreatinine: 1.1 mg/dL\n\nWhich of the following tests is most likely to elucidate the cause of this patient's pregnancy losses? Choose the correct answer from the following options:\n(A) Anti-cardiolipin antibodies\n(B) Karotyping\n(C) Hysterosalpingogram\n(D) Prolactin level\n(E) TSH level",
+    "expected_answer": "The correct answer is: (C) Hysterosalpingogram",
+    "difficulty": "expert",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "MED_297",
+    "domain": "Medicine",
+    "task_type": "Obstetrics",
+    "prompt": "A 27-year-old G3P1010 makes an appointment with her gynecologist for evaluation of profuse bleeding, which began two days ago. She is 13 weeks pregnant based on the date of her last menstrual period. She is dizzy and weak, and is unable to move around the house and perform her daily tasks. Initially, she had only light spotting, but later on in the day the bleeding increased. Thus far, she has used six sanitary pads. The blood pressure is 90/60 mm Hg, the temperature is 37.8\u00b0C (100\u00b0F), the pulse is 125/min, and the respiratory rate is 14/min. A saline infusion is started, and blood and urine specimens are sent for analysis. On pelvic examination, the vagina contains blood and the cervical os is open. She also complains of cervical motion and adnexal tenderness on examination. An ultrasound shows an intrauterine gestational sac low in the uterine cavity. No fetal movement or cardiac activity are observed. She is advised to rest for a couple of hours, after which the scan is repeated. Slight downward migration of the gestational sac is observed with no change in the fetal status. Which of the following is the next step in management? Choose the correct answer from the following options:\n(A) Antibiotics\n(B) Bed rest and analgesics\n(C) Magnesium sulfate\n(D) Methotrexate\n(E) Dilation and curettage",
+    "expected_answer": "The correct answer is: (E) Dilation and curettage",
+    "difficulty": "expert",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "MED_352",
+    "domain": "Medicine",
+    "task_type": "Obstetrics",
+    "prompt": "A 3466-g (7-lb, 10-oz) female newborn is delivered at 38 weeks' gestation to a 32-year-old woman, gravida 2, para 1. Apgar scores are 7 and 8, at 1 and 5 minutes, respectively. The mother has a history of schizophrenia and was treated with lithium until 5 weeks' gestation, when she found out that she was pregnant. The mother was treated for alcohol abuse disorder 2 years ago. She has been sober for 14 months now. Examination shows that the child has micrognathia, a broad nasal bridge, a short philtrum, and small, low-set ears. Examination of the mouth shows a cleft palate. A grade 3/6 systolic ejection murmur can be heard over the left sternal border. Echocardiography shows a single overriding great vessel arising from the heart. Further evaluation is most likely to show which of the following findings? Choose the correct answer from the following options:\n(A) Low levels of parathyroid hormone in serum\n(B) Double bubble sign on abdominal x-ray\n(C) Chromosome 5p deletion on FISH studies\n(D) Elongated tricuspid valve leaflets on echocardiography\n(E) Bilateral cataracts on ocular examination",
+    "expected_answer": "The correct answer is: (A) Low levels of parathyroid hormone in serum",
+    "difficulty": "expert",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "MED_358",
+    "domain": "Medicine",
+    "task_type": "Obstetrics",
+    "prompt": "A 25-year-old woman comes to the physician because of irregular menstrual bleeding. Menses have occurred at 30- to 90-day intervals since menarche at the age of 12 years. Her last menstrual period was 6 weeks ago. She is sexually active with her husband and they do not use condoms. There is no personal or family history of serious illness. She is 170 cm (5 ft 7 in) tall and weighs 73 kg (161 lb); BMI is 25.3 kg/m2. Her vital signs are within normal limits. Examination shows oily skin and severe acne on the face. There is dark hair on the upper lip and around both nipples. Laboratory studies show:\nDehydroepiandrosterone sulfate 6.2 \u03bcg/mL (N=0.5\u20135.4)\nFollicle-stimulating hormone 20 mIU/mL\nLuteinizing hormone 160 mIU/mL\nTestosterone 4.1 nmol/L (N < 3.5)\nA urine pregnancy test is negative. Which of the following tests is the most appropriate next step in screening for comorbidities in this patient?\" Choose the correct answer from the following options:\n(A) 17-hydroxyprogesterone and cortisol level measurements\n(B) CA-125 level measurement\n(C) Blood glucose and cholesterol level measurements\n(D) TSH and T4 level measurements\n(E) Transvaginal ultrasonography\n\"",
+    "expected_answer": "The correct answer is: (C) Blood glucose and cholesterol level measurements",
+    "difficulty": "expert",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "MED_363",
+    "domain": "Medicine",
+    "task_type": "Obstetrics",
+    "prompt": "A 28-year-old woman, gravida 2, para 1, at 40 weeks of gestation is admitted to the hospital in active labor. The patient has attended many prenatal appointments and followed her physician's advice about screening for diseases, laboratory testing, diet, and exercise. Her pregnancy has been uncomplicated. She has no history of a serious illness. Her first child was delivered via normal vaginal delivery. Her vital signs are within normal limits. Cervical examination shows 100% effacement and 10 cm dilation. A cardiotocograph is shown. Which of the following is the most appropriate initial step in management? Choose the correct answer from the following options:\n(A) Amnioinfusion\n(B) Induced vaginal delivery\n(C) Reassurance\n(D) Repositioning\n(E) Urgent cesarean delivery",
+    "expected_answer": "The correct answer is: (C) Reassurance",
+    "difficulty": "expert",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "MED_367",
+    "domain": "Medicine",
+    "task_type": "Obstetrics",
+    "prompt": "A 23-year-old woman, gravida 2, para 1, at 28 weeks' gestation comes to the physician for a routine prenatal examination. Her previous pregnancy was uncomplicated and she gave birth to a healthy boy. Her blood group is A, Rh-negative. The father's blood group is B, Rh-positive. Administration of which of the following is most appropriate at this time? Choose the correct answer from the following options:\n(A) Anti-A IgG\n(B) Anti-D IgG\n(C) Anti-B IgG\n(D) Anti-D IgM\n(E) Anti-A IgM",
+    "expected_answer": "The correct answer is: (B) Anti-D IgG",
+    "difficulty": "expert",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "MED_372",
+    "domain": "Medicine",
+    "task_type": "Obstetrics",
+    "prompt": "A 25-year-old, G2P2L2 woman presents with a complaint of missed menstrual cycle for 4 weeks. Her previous menstrual cycles were regular, occurring every 28\u201335 days consistently. The patient does not have any other complaints currently. Her past medical history reveals two uncomplicated and normal vaginal deliveries at term. She has a 2-year-old boy and a 6-month-old girl. The patient and her partner use the withdrawal method for contraception. The urine pregnancy test result is positive. The patient returns to the clinic after 1 week expressing her desire to discontinue with the pregnancy and inquires about the possibility of an elective abortion. Which of the following procedures is the most appropriate for elective termination of pregnancy in this patient? Choose the correct answer from the following options:\n(A) Dilatation and evacuation (D&E)\n(B) Oxytocin-induced labor\n(C) Manual uterine aspiration\n(D) Dilatation and curettage (D & C) after vacuum evacuation\n(E) Oral mifepristone + misoprostol",
+    "expected_answer": "The correct answer is: (E) Oral mifepristone + misoprostol",
+    "difficulty": "expert",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "MED_392",
+    "domain": "Medicine",
+    "task_type": "Obstetrics",
+    "prompt": "A 24-year-old pregnant woman at 28 weeks gestation presents to the emergency department with complaints of fever with chills and pain in her knee and ankle joints for the past 2 days. She also complains of headaches and difficulty moving her neck. Further questioning reveals that she had a tick bite on her arm while gardening a few days ago. Past medical history is noncontributory. She takes a multivitamin with iron and folate every day and has been receiving regular prenatal care and the pregnancy is progressing normally. On examination, an erythematous rash is seen on her right arm, as shown in the accompanying photograph. Her obstetric examination is normal. Ultrasound of the fetus is reassuring with a normal heartbeat and no gross abnormalities. A specimen is collected to test for Lyme disease. What is the next best step for this patient? Choose the correct answer from the following options:\n(A) Ibuprofen\n(B) Doxycycline\n(C) Tetracycline\n(D) Amoxicilin\n(E) Gentamicin",
+    "expected_answer": "The correct answer is: (D) Amoxicilin",
+    "difficulty": "expert",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "MED_415",
+    "domain": "Medicine",
+    "task_type": "Obstetrics",
+    "prompt": "A 24-year-old Asian woman is admitted to the hospital at 30 weeks gestation with nausea, vomiting, and right upper quadrant pain. She is gravida 2 para 0 with a history of the same complaints in her last pregnancy which ended with a stillbirth at the 31st week. Her older sister had preeclampsia in both of her pregnancies. Currently, the patient is responsive but lethargic. The vital signs are as follows: blood pressure 150/90 mm Hg, heart rate 85/min, respiratory rate 15/min, and temperature 36.4\u00b0C (97.5\u00b0F). The physical examination shows jaundice, right upper quadrant tenderness, and 2+ pitting edema of the lower extremities. The patient\u2019s laboratory findings are as follows:\nErythrocyte count 2.7 million/mm3\nHemoglobin 10.1 g/dL\nHematocrit 0.56\nReticulocyte count 1.1%\nLeukocyte count 8,300/mm3\nThrombocyte count 190,000/mm3\nTotal bilirubin 5.3 mg/dL (91 \u00b5mol/L)\nConjugated bilirubin 4.2 mg/dL (72 \u00b5mol/L)\nAlanine Transaminase (ALT) 101 U/L\nAspartate Transaminase (AST) 99 U/L\nCreatinine 0.9 mg/dL (80 \u00b5mol/L)\nWhich of the following factors is a risk factor for this patient\u2019s condition? Choose the correct answer from the following options:\n(A) The patient\u2019s age\n(B) The patient\u2019s race\n(C) Nulliparity\n(D) History in the previous pregnancy\n(E) History of preeclampsia in a sibling",
+    "expected_answer": "The correct answer is: (D) History in the previous pregnancy",
+    "difficulty": "expert",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "MED_427",
+    "domain": "Medicine",
+    "task_type": "Obstetrics",
+    "prompt": "A 29-year-old G1P0 female presents at 22 weeks gestation for her first prenatal care appointment. Physical exam demonstrates a uterine size greater than expected for her gestational age and taut, shiny skin with scattered striae on her abdomen. Ultrasound examination of the fetus reveals 2.5 L of amniotic fluid (normal 1.5-2.0 L) with an amniotic fluid index (AFI) of 34 (normal AFI 20-25). Which of the following fetal abnormalities or dysfunctions could have contributed to these abnormal ultrasound findings? Choose the correct answer from the following options:\n(A) Renal agenesis\n(B) Pulmonary hypoplasia\n(C) Duodenal atresia\n(D) Posterior urethral valve\n(E) Polycystic kidney disease",
+    "expected_answer": "The correct answer is: (C) Duodenal atresia",
+    "difficulty": "expert",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "MED_443",
+    "domain": "Medicine",
+    "task_type": "Obstetrics",
+    "prompt": "A 17-year-old woman presents to your office concerned that she has not had her menstrual period in 4 months. She states that menses began at age of 13 and has been regular until two months ago. She denies sexual activity, and urine pregnancy test is negative. On exam, she appears well-nourished with a BMI of 21 kg/m^2, but you note that she has enlarged cheeks bilaterally and has calluses on the dorsum of her hands. She says that she has been very stressed with school and has recently been binge eating. What other finding do you expect to see in this patient? Choose the correct answer from the following options:\n(A) Malar rash\n(B) Increased blood glucose level\n(C) Erosion of tooth enamel\n(D) Enlarged thyroid\n(E) Elevated estrogen levels",
+    "expected_answer": "The correct answer is: (C) Erosion of tooth enamel",
+    "difficulty": "expert",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "MED_452",
+    "domain": "Medicine",
+    "task_type": "Obstetrics",
+    "prompt": "A 9-month-old boy is brought to his pediatrician by his mother for a routine health checkup. The boy was born at 39 weeks gestation via spontaneous vaginal delivery. He is up to date on all vaccines and is meeting all developmental milestones. He was breastfed for the first 3 months and then switched to cow\u2019s milk and about two months ago she started giving him fruits and vegetables. Family history is noncontributory. Today, his heart rate is 120/min, respiratory rate is 40/min, blood pressure is 90/50 mm Hg, and temperature of 37.0\u00b0C (98.6\u00b0F). On examination, he has a heartbeat with a regular rate and rhythm and his lungs are clear to auscultation bilaterally. Generally, the boy looks pale. His weight and height fall within the expected range. A complete blood count (CBC) shows the following:\nHemoglobin (Hb): 9.1 g/dL\nMean corpuscular volume (MCV): 65 fL\nTotal iron binding capacity (TIBC): 550 \u03bcg/dL\nSerum iron: 45 \u00b5g/dL\nSerum lead: < 5 \u00b5g/dL\nWhat is the best treatment for this patient? Choose the correct answer from the following options:\n(A) Iron supplementation only\n(B) Proper diet and iron supplementation\n(C) Multivitamins\n(D) Proper diet only\n(E) Lead chelation therapy",
+    "expected_answer": "The correct answer is: (B) Proper diet and iron supplementation",
+    "difficulty": "expert",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "MED_458",
+    "domain": "Medicine",
+    "task_type": "Obstetrics",
+    "prompt": "The first 24 hours after delivery, a 2888 g (6.37 lb) male newborn is not feeding well, has a high-pitched cry, and is diaphoretic. He was born at 38 weeks' gestation to a 30-year-old woman, gravida 2, para 1, after an uncomplicated labor and delivery. Apgar scores were 8 and 9 at 1 and 5 minutes, respectively. The mother did not receive prenatal care. She takes codeine syrup frequently for dry cough. The infant's temperature is 37.8\u00b0C (100\u00b0F), pulse is 165/min, and blood pressure is 83/50 mm Hg. Examination shows hyperreflexia, tremors, and an excessive startle response. The baby is swaddled to prevent excoriations, and fluid resuscitation is initiated. Complete blood count and serum levels of glucose, bilirubin, and calcium are within normal limits. What is the most appropriate next step in treatment of this newborn? Choose the correct answer from the following options:\n(A) Oral morphine therapy\n(B) Oral clonidine therapy\n(C) Intravenous ampicillin and gentamicin combination therapy\n(D) Oral methimazole therapy\n(E) Dextrose infusion",
+    "expected_answer": "The correct answer is: (A) Oral morphine therapy",
+    "difficulty": "expert",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "MED_462",
+    "domain": "Medicine",
+    "task_type": "Obstetrics",
+    "prompt": "A 1-day-old infant is in the neonatal intensive care unit due to respiratory failure from pulmonary hypoplasia. The mother is a healthy 32-year-old woman who did not have regular prenatal exams. On physical examination, you notice low-set ears and retrognathia with abnormal extremity development. Which of the following abnormalities is associated with the most likely cause of this patient's symptoms? Choose the correct answer from the following options:\n(A) Hepatosplenomegaly\n(B) Macroorchidism\n(C) Posterior urethral valves\n(D) Rocker bottom feet\n(E) Duodenal atresia",
+    "expected_answer": "The correct answer is: (C) Posterior urethral valves",
+    "difficulty": "expert",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "MED_527",
+    "domain": "Medicine",
+    "task_type": "Obstetrics",
+    "prompt": "A 29-year-old female presents to her primary care provider with an aching pain in her left leg that has progressively gotten worse over several days. She recently had an unfortunate sporting incident resulting in large bruises along both legs and lower thighs. An X-ray after the event was negative for fracture. Past medical history is positive for systemic lupus erythematosus. She also has a history of one spontaneous abortion at 12 weeks gestation. Today, her heart rate is 90/min, respiratory rate is 17/min, blood pressure is 119/80 mm Hg, and temperature is 37.0\u00b0C (98.6\u00b0F). On physical examination, her left leg appears pink and slightly swollen. Homan\u2019s sign is positive. A Doppler ultrasound reveals a thrombus in the left popliteal vein. Her lab results are as follows:\nPlatelets 250,000/mm3\nProthrombin Time 14 sec\nPartial Thromboplastin Time 90 sec\nMixing study (PTT) 89 sec\nWhat is the most likely cause of the patient\u2019s condition? Choose the correct answer from the following options:\n(A) Antibodies directed against platelet glycoprotein IIb/IIIa\n(B) Antibodies directed against phospholipids\n(C) Antibodies directed against endothelial cells\n(D) Vitamin K deficiency\n(E) Disseminated intravascular coagulation",
+    "expected_answer": "The correct answer is: (B) Antibodies directed against phospholipids",
+    "difficulty": "expert",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "MED_528",
+    "domain": "Medicine",
+    "task_type": "Obstetrics",
+    "prompt": "Thirty minutes after delivery, a 3600-g (7-lb 15-oz) newborn has noisy breathing, bluish discoloration of her lips, and intermittent respiratory distress. She was born at 38 weeks' gestation and required bag-mask resuscitation immediately after delivery. Pregnancy was uncomplicated. Her mother has noticed the bluish lip discoloration worsen when she fed and improve when she cried. The patient's pulse is 163/min, respirations are 62/min, and blood pressure is 60/30 mm Hg. The crying infant's lungs are clear to auscultation. Further evaluation of this patient is most likely to show which of the following? Choose the correct answer from the following options:\n(A) Diffuse reticulogranular densities on chest x-ray\n(B) Boot-shaped heart on chest x-ray\n(C) Passage of a gastric catheter through the mouth not possible\n(D) Passage of a catheter through the nasal cavity not possible\n(E) Scaphoid abdomen",
+    "expected_answer": "The correct answer is: (D) Passage of a catheter through the nasal cavity not possible",
+    "difficulty": "expert",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "MED_530",
+    "domain": "Medicine",
+    "task_type": "Obstetrics",
+    "prompt": "A 14-year-old girl comes to the physician because she has not yet had her period. She is at the 10th percentile for height and 25th percentile for weight. Examination shows a broad chest with widely spaced nipples, a low posterior hairline, forearms angled 20\u00b0 away from the body when fully extended, and shortened fourth metacarpals bilaterally. Sexual development is Tanner stage 1. Which of the following statements about this patient's fertility is most accurate? Choose the correct answer from the following options:\n(A) Pregnancy success rate with donor oocytes is similar to patients with primary ovarian failure\n(B) Administration of gonadotropins will increase the chances of conceiving\n(C) Impaired tubal ciliary function will prevent natural fertilization\n(D) The majority of patients become pregnant without medical assistance\n(E) Functional gametes and the absence of a uterus make surrogacy necessary",
+    "expected_answer": "The correct answer is: (A) Pregnancy success rate with donor oocytes is similar to patients with primary ovarian failure",
+    "difficulty": "expert",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "MED_563",
+    "domain": "Medicine",
+    "task_type": "Obstetrics",
+    "prompt": "A 6-week-old girl is brought to the pediatrician for a post-natal visit. She was born at 38 weeks gestation to a 25-year-old woman via an uncomplicated spontaneous vaginal delivery. The mother reports that prenatal screening revealed no developmental abnormalities and that the baby has been gaining weight, feeding, stooling, and urinating appropriately. Physical exam of the infant is unremarkable. The mother has a history of polycystic ovarian syndrome and is curious about the development of her daughter's ovaries. Which of the following is true regarding the baby\u2019s reproductive system at this time? Choose the correct answer from the following options:\n(A) The baby has not yet developed oocytes\n(B) The baby\u2019s oocytes are arrested in prophase\n(C) The baby\u2019s oocytes are arrested in metaphase\n(D) The baby\u2019s oocytes are arrested in interphase\n(E) The baby\u2019s oocytes are fully matured",
+    "expected_answer": "The correct answer is: (B) The baby\u2019s oocytes are arrested in prophase",
+    "difficulty": "expert",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "MED_621",
+    "domain": "Medicine",
+    "task_type": "Obstetrics",
+    "prompt": "A 29-year-old G1P0 woman is giving birth at 38 weeks gestation to a  boy via vaginal delivery. As soon as the infant is clear of the vagina, a congenital malformation of the abdomen is observed. The infant is removed from the delivery room for further evaluation. Visual inspection shows loops of intestine protruding out of his abdomen on the right side. His APGAR scores are 7 at 1 minute and 9 at 5 minutes. His heart rate is 125/min, and his respirations are 45/min. All reflexes appear normal. There are no other visible defects. Which of the following is the most appropriate next step in management? Choose the correct answer from the following options:\n(A) Wrap the intestines in a sterile bowel bag\n(B) Transfer the newborn to the NICU\n(C) Start IV fluids\n(D) Place the newborn under a warmer\n(E) Transfer the newborn for immediate surgery",
+    "expected_answer": "The correct answer is: (A) Wrap the intestines in a sterile bowel bag",
+    "difficulty": "expert",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "MED_661",
+    "domain": "Medicine",
+    "task_type": "Obstetrics",
+    "prompt": "A 15-year-old girl comes to the physician because she has not had menstrual bleeding for the past 3 months. Menses had previously occurred at irregular 15\u201345 day intervals with moderate to heavy flow. Menarche was at the age of 14 years. She started having sexual intercourse with her boyfriend about 3 months ago. Six months ago she had a manic episode, which was treated with risperidone. Her mother has PCOS and her father has diabetes mellitus. She is very conscious of her weight and appearance. She is 171 cm (5 ft 6 in) tall and weighs 79 kg (174 lb); BMI is 27.02 kg/m2. Her temperature is 37\u00b0C (98.6\u00b0F), pulse is 60/min, and blood pressure is 116/70 mm Hg. The abdomen is soft and nontender. Pelvic examination shows a normal vagina and cervix. Serum hormone studies show:\nProlactin 16 ng/mL\nThyroid-stimulating hormone 3.8 \u03bcU/mL\nFollicle-stimulating hormone 6 mIU/mL\nLuteinizing hormone 5.1 mIU/mL\nProgesterone 0.8 ng/mL (follicular N <3; luteal N >3\u20135)\nTestosterone 2.2 nmol/L (N <3.5)\nA urine pregnancy test is negative. Which of the following is the most likely cause of her symptoms?\" Choose the correct answer from the following options:\n(A) Uterine fibroids\n(B) Congenital defect of the Mullerian ducts\n(C) Purging behavior\n(D) Polycystic ovaries\n(E) Anovulation",
+    "expected_answer": "The correct answer is: (E) Anovulation",
+    "difficulty": "expert",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "MED_674",
+    "domain": "Medicine",
+    "task_type": "Obstetrics",
+    "prompt": "A one-day-old male is evaluated in the hospital nursery for bilious vomiting. The patient has urinated multiple times since birth but has not yet passed meconium. He was born at 38 weeks gestation to a 36-year-old gravida 3 via vaginal delivery. The pregnancy was complicated by gestational diabetes. The patient\u2019s mother received routine prenatal care and declined first trimester screening. She subsequently underwent a quadruple screen at 15 weeks gestation that demonstrated decreased maternal serum alpha-fetoprotein (AFP), increased beta-hCG, decreased unconjugated estriol, and increased inhibin A. Her last ultrasound prior to onset of labor demonstrated an amniotic fluid index (AFI) of 28 cm. The patient\u2019s two older siblings are both healthy. The patient\u2019s temperature is 97.8\u00b0F (36.6\u00b0C), blood pressure is 58/37 mmHg, pulse is 166/min, and respirations are 38/min. On physical exam, the patient is in moderate distress. His abdomen is firm and distended with hypoactive bowel sounds.\n\nWhich of the following is the most likely etiology of this fetus\u2019s presentation? Choose the correct answer from the following options:\n(A) Duodenal atresia\n(B) Intestinal malrotation\n(C) Meconium ileus\n(D) Necrotizing enterocolitis\n(E) Pyloric stenosis",
+    "expected_answer": "The correct answer is: (A) Duodenal atresia",
+    "difficulty": "expert",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "MED_737",
+    "domain": "Medicine",
+    "task_type": "Obstetrics",
+    "prompt": "A 42-year-old woman presents to her obstetrician for a prenatal care appointment at 10 weeks gestation. The patient recently found out she was pregnant after having unprotected intercourse with her husband for the past year. She states that she is feeling well and has experienced some nausea and vomiting. She is currently taking prenatal vitamins and folate supplements. Her temperature is 99.5\u00b0F (37.5\u00b0C), blood pressure is 127/68 mmHg, pulse is 90/min, respirations are 19/min, and oxygen saturation is 98% on room air. On physical exam, you notice a gravid uterus 10 cm above the pubic symphysis. The patient's external genitalia appear within normal limits. Which of the following is the next best step in management? Choose the correct answer from the following options:\n(A) Amniocentesis\n(B) Cell-free DNA testing\n(C) Chorionic villus sampling\n(D) Iron and vitamin D supplementation\n(E) Regular follow up appointments",
+    "expected_answer": "The correct answer is: (B) Cell-free DNA testing",
+    "difficulty": "expert",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "MED_740",
+    "domain": "Medicine",
+    "task_type": "Obstetrics",
+    "prompt": "A 3-day-old boy is admitted to the neonatal intensive care unit for seizures. He was born to a 33-year-old woman at 31 weeks gestation via cesarean section. His birth weight was 1400 grams. Vital signs are significant for systemic hypotension, bradycardia, and hypoventilation. On physical exam, the patient has an altered level of consciousness with decreased spontaneous and elicited movements. The patient is hypotonic on motor testing, has bulging anterior fontanelle, and appears cyanotic. Which of the following is the best next step in management? Choose the correct answer from the following options:\n(A) Complete blood count\n(B) Cranial ultrasonography\n(C) Electroencephalography\n(D) Head CT\n(E) MRI of the head",
+    "expected_answer": "The correct answer is: (B) Cranial ultrasonography",
+    "difficulty": "expert",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "MED_759",
+    "domain": "Medicine",
+    "task_type": "Obstetrics",
+    "prompt": "A 2050-g (4.5-lb) female newborn and a 2850-g (6.3-lb) female newborn are delivered at 37 weeks' gestation to a 23-year-old, gravida 2, para 1 woman. The mother had no prenatal care. Examination of the smaller newborn shows a flattened nose and left-sided clubfoot. The hematocrit is 42% for the smaller newborn and 71% for the larger newborn. This pregnancy was most likely which of the following? Choose the correct answer from the following options:\n(A) Monochorionic-diamniotic monozygotic\n(B) Dichorionic-diamniotic dizygotic\n(C) Monochorionic-monoamniotic monozygotic\n(D) Dichorionic-monoamniotic monozygotic\n(E) Conjoined twins",
+    "expected_answer": "The correct answer is: (A) Monochorionic-diamniotic monozygotic",
+    "difficulty": "expert",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "MED_762",
+    "domain": "Medicine",
+    "task_type": "Obstetrics",
+    "prompt": "A 5-day-old boy is brought to the emergency department because of a 1-day history of poor feeding, irritability, and noisy breathing. The mother did not receive any prenatal care. His respirations are 26/min. Physical examination shows sunken fontanelles, tightly clenched fists, and erythema around the umbilical cord stump. Which of the following best describes the pathogenesis of the disease process in this patient? Choose the correct answer from the following options:\n(A) Decreased release of acetylcholine\n(B) Inhibition of voltage-gated sodium channels\n(C) Destruction of Schwann cells\n(D) Decreased release of glycine\n(E) Destruction of anterior horn cells",
+    "expected_answer": "The correct answer is: (D) Decreased release of glycine",
+    "difficulty": "expert",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "MED_783",
+    "domain": "Medicine",
+    "task_type": "Obstetrics",
+    "prompt": "A 22-year-old woman from a rural area who recently discovered she was pregnant is referred for a cardiology consultation due to cyanosis, dyspnea, and a cardiac murmur revealed at the initial prenatal visit. She is gravida 1, para 0 with an estimated gestational age of 19 weeks. She says that the murmur was found in her childhood, and the doctor at that time placed her under observation only. However, she has been lost to follow-up and has not had proper follow up in years. Currently, she complains of dizziness and occasional dyspnea on exertion which has gradually increased during her pregnancy. Prior to her pregnancy, she did not have any symptoms. The vital signs are as follows: blood pressure 125/60 mm Hg, heart rate 81/min, respiratory rate 13/min, and temperature 36.7\u00b0C (98.0\u00b0F). Her examination is significant for acrocyanosis and a fixed splitting of S2 and grade 3/6 midsystolic murmur best heard over the left upper sternal border. Which of the following physiological pregnancy changes is causing the change in this patient\u2019s condition? Choose the correct answer from the following options:\n(A) Increase in pulmonary vascular resistance\n(B) Increase in heart rate\n(C) Decrease in systemic vascular resistance\n(D) Increase in cardiac output\n(E) Increase in blood volume",
+    "expected_answer": "The correct answer is: (C) Decrease in systemic vascular resistance",
+    "difficulty": "expert",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "MED_789",
+    "domain": "Medicine",
+    "task_type": "Obstetrics",
+    "prompt": "An 18-month-old boy is brought to his pediatrician because his mother is concerned about his walking. The boy was born at 37 weeks\u2019 gestation and spent 1 night in the neonatal intensive care unit for respiratory distress. He otherwise has been healthy and started walking independently at 12 months. However, his mother reports that he has stopped walking and appears weaker than he was a few months ago. He also has started having brief convulsive episodes over the past week. His parents are both healthy with no medical conditions. On exam, the child demonstrates muscle rigidity and diffuse muscle wasting. He is unable to stand or sit up straight. His patellar, Achilles, and brachioradialis reflexes are absent. Fundoscopic examination is unremarkable. A urine sample demonstrates metachromic granules. This patient\u2019s condition is caused by a defect in which of the following enzymes? Choose the correct answer from the following options:\n(A) Alpha-galactosidase A\n(B) Arylsulfatase A\n(C) Beta-galactocerebrosidase\n(D) Beta-glucocerebrosidase\n(E) Hexosaminidase A",
+    "expected_answer": "The correct answer is: (B) Arylsulfatase A",
+    "difficulty": "expert",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "MED_830",
+    "domain": "Medicine",
+    "task_type": "Obstetrics",
+    "prompt": "A 2-day-old boy delivered at 34 weeks gestation is found to have a murmur on routine exam. He is lying supine and is not cyanotic. He has a pulse of 195/min, and respirations of 59/min. He is found to have a nonradiating continuous machine-like murmur at the left upper sternal border. S1 and S2 are normal. The peripheral pulses are bounding. Assuming this patient has no other cardiovascular defects, what is the most appropriate treatment? Choose the correct answer from the following options:\n(A) Indomethacin\n(B) Thiazide diuretic\n(C) Aspirin\n(D) Penicillin\n(E) Reassurance",
+    "expected_answer": "The correct answer is: (A) Indomethacin",
+    "difficulty": "expert",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "MED_846",
+    "domain": "Medicine",
+    "task_type": "Obstetrics",
+    "prompt": "An 11-month-old male infant is brought to his pediatrician by his mother. She is concerned about his leg and his inability to stand. He was born vaginally to a 33-year-old woman (gravida 3, para 2) from an uncomplicated pregnancy at 39 weeks. He has met all developmental milestones and is up to date on all vaccinations. His mother explains that he can normally stand without help and can walk briefly on his own. However, he hit his right leg against a chair 2 days ago. The area became edematous and bruised overtime and the infant became unable to stand or crawl and cries when he puts weight on it. The mother denies any child abuse from her family or child care. The patient\u2019s vital signs are as follows: blood pressure 80/40 mm Hg, heart rate 137/min, respiratory rate 25/min, and temperature 36.7\u00b0C (97.0\u00b0F). His length and weight are both between the 15th and 25th percentile. On physical examination, blue-grayish discoloration of the sclerae are noted. Respiratory, cardiovascular, and abdominal examinations are within normal limits for his age. There is joint hypermobility and decreased tone in both upper and lower extremities. The patient\u2019s right calf appears slightly deformed, edematous, and warm to the tough. The patient begins to cry loudly when the physician palpates his leg. The patient\u2019s X-ray shows an incomplete fracture of the right tibial diaphysis. What is the most likely cause of the patient\u2019s symptoms? Choose the correct answer from the following options:\n(A) Child abuse\n(B) Insufficient production of procollagen type 1\n(C) Mutation in the gene encoding fibrillin-1\n(D) Defective collagen type 3\n(E) Dysfunctional structure of laminins",
+    "expected_answer": "The correct answer is: (B) Insufficient production of procollagen type 1",
+    "difficulty": "expert",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "MED_850",
+    "domain": "Medicine",
+    "task_type": "Obstetrics",
+    "prompt": "A stillborn infant is delivered at 38 weeks' gestation to a 32-year-old woman. The mother had no prenatal care. Examination of the stillborn shows a small pelvis, shallow intergluteal cleft, and club feet. An x-ray shows the absence of the sacrum and lumbar vertebrae. Which of the following is the strongest predisposing factor for this patient's condition? Choose the correct answer from the following options:\n(A) Maternal oligohydramnios\n(B) Intrauterine alcohol exposure\n(C) Chromosome 13 trisomy\n(D) Maternal diabetes\n(E) Chromosome 18 trisomy",
+    "expected_answer": "The correct answer is: (D) Maternal diabetes",
+    "difficulty": "expert",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "MED_864",
+    "domain": "Medicine",
+    "task_type": "Obstetrics",
+    "prompt": "A 6-week-old male infant is brought to the physician by his mother because of a 2-day history of recurrent nonbilious vomiting. Vomiting occurs almost immediately after most feeds. Each time, he becomes irritable while feeding and refuses to finish the bottle. He was born at 37 weeks' gestation and weighed 3300 g (7 lb 4 oz); he currently weighs 4000 g (8 lb 13 oz). He has Down syndrome. His vaccinations are up-to-date. He appears agitated and cries during the examination. His temperature is 37.2\u00b0C (99\u00b0F), pulse is 156/min, respirations are 32/min, and blood pressure is 100/49 mm Hg. Examination shows upward slanting of the eyelids, a broad and flat nasal bridge, and a single transverse palmar crease on both hands. The abdomen is soft and nontender. A 2.5-cm (1-inch) epigastric mass is palpated. Cardiac examination shows no abnormalities. Arterial blood gas analysis is within normal limits. Further diagnostic evaluation of the patient is most likely to show which of the following? Choose the correct answer from the following options:\n(A) Dilated colon segment on abdominal x-ray\n(B) A high serum 17-hydroxyprogesterone concentration\n(C) Detection of rotavirus antigen on enzyme immunoassay (EIA)\n(D) Elongated and thickened pylorus on abdominal ultrasound\n(E) Tripple bubble sign on abdominal x-ray",
+    "expected_answer": "The correct answer is: (D) Elongated and thickened pylorus on abdominal ultrasound",
+    "difficulty": "expert",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "MED_891",
+    "domain": "Medicine",
+    "task_type": "Obstetrics",
+    "prompt": "A 15-year-old girl comes to the physician because of episodic pelvic pain radiating to her back and thighs for 4 months. The pain occurs a few hours before her menstrual period and lasts for 2 days. She has been taking ibuprofen, which has provided some relief. Menses have occurred at regular 28-day intervals since menarche at the age of 12 years and last for 5 to 6 days. She is sexually active with two male partners and uses condoms inconsistently. Vital signs are within normal limits. Physical examination shows no abnormalities. Which of the following is the most likely cause of this patient's symptoms? Choose the correct answer from the following options:\n(A) Endometrial sloughing and uterine contractions mediated by prostaglandin\n(B) Ascending infection of the uterus, fallopian tubes, ovaries, or surrounding tissue\n(C) Fluid-filled sac within the ovary\n(D) Pregnancy\n(E) Hormone-sensitive smooth muscle tumor of the myometrium",
+    "expected_answer": "The correct answer is: (A) Endometrial sloughing and uterine contractions mediated by prostaglandin",
+    "difficulty": "expert",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "MED_893",
+    "domain": "Medicine",
+    "task_type": "Obstetrics",
+    "prompt": "A 29-year-old woman presents to her primary care doctor for a prenatal visit. She has just learned that she is pregnant and estimates she is approximately 6 weeks pregnant given the timing of her last menstrual cycle. She has a history of recurrent fetal loss. In total, she has had 4 miscarriages between the gestational ages of 8 and 15 weeks. She has a history of systemic lupus erythematosus and has had several DVTs in the past and a clot in her lung once. Her vitals today are unremarkable. She is asking if there are any treatments she should receive to prevent fetal loss. Which of the following is the most appropriate management of this patient? Choose the correct answer from the following options:\n(A) Aspirin\n(B) Aspirin and heparin\n(C) Aspirin and warfarin\n(D) No treatment indicated\n(E) Rivaroxaban",
+    "expected_answer": "The correct answer is: (B) Aspirin and heparin",
+    "difficulty": "expert",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "MED_907",
+    "domain": "Medicine",
+    "task_type": "Obstetrics",
+    "prompt": "A 28-year-old primigravid woman at 39 weeks gestation is admitted to the hospital in active labor. On examination, the cervix is 100% effaced and 10 cm dilated. After 5 minutes of pushing, there is a prolonged deceleration of the fetal heart rate to 90/min. A decision to perform an episiotomy is made to expedite vaginal delivery. The anesthesiologist locates the ischial spines by palpating the posterolateral vaginal sidewall and administers an anesthetic. Three minutes later, pinching the posterior vulva does not provoke pain. The anesthetized nerve most likely also supplies which of the following structures? Choose the correct answer from the following options:\n(A) Obturator externus muscle\n(B) Skin of the lateral thigh\n(C) External anal sphincter\n(D) Skin of the mons pubis\n(E) Detrusor muscle",
+    "expected_answer": "The correct answer is: (C) External anal sphincter",
+    "difficulty": "expert",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "MED_927",
+    "domain": "Medicine",
+    "task_type": "Obstetrics",
+    "prompt": "A 21-month-old boy is brought to the physician for a well-child examination. His mother noticed deformities in both of his legs since he started walking independently. He has been healthy apart from an upper respiratory tract infection 6 months ago. He was delivered at 38 weeks' gestation. His 6-year-old sister was treated for developmental dysplasia of the hip. He can kick a ball and say a 2-word phrase. He plays well with other children at his day care. His immunizations are up-to-date. He is at the 40th percentile for height and 50th percentile for weight. Vital signs are within normal limits. Examination shows closed anterior and posterior fontanelles. The knees do not stay together when both the feet and ankles are placed together. The gait is unremarkable. The mother is concerned that he has a growth disorder. Which of the following is the most appropriate next step in management? Choose the correct answer from the following options:\n(A) Vitamin D supplementation\n(B) Reassurance and follow-up\n(C) X-ray of the lower extremities\n(D) Bracing of the lower extremities\n(E) Tibial osteotomy",
+    "expected_answer": "The correct answer is: (B) Reassurance and follow-up",
+    "difficulty": "expert",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "MED_928",
+    "domain": "Medicine",
+    "task_type": "Obstetrics",
+    "prompt": "A 2-day-old male newborn is brought to the physician because of yellowing of the skin and sclerae for 16 hours. He had previously been well. He was born at 38 weeks' gestation via uncomplicated vaginal delivery and weighed 3.1 kg (6 lb 13 oz). The mother has no medical insurance and did not receive prenatal care. The newborn's 4-year-old brother has sickle cell disease. Examination shows jaundice. The abdomen is mildly distended. The liver is palpated 1 cm below the right costal margin and the spleen tip is palpated just below the left costal margin. Laboratory studies show:\nHemoglobin 11 g/dL\nReticulocytes 9%\nLeukocytes 9,100/mm3\nPlatelets 244,000/mm3\nMaternal blood group 0, Rh-negative\nAnti-Rh antibody titer positive\nFetal blood group B, Rh-negative\nSerum\nBilirubin, total 11.3 mg/dL\nDirect 0.3 mg/dL\nWhich of the following is the most likely cause of this patient's condition?\" Choose the correct answer from the following options:\n(A) RBC enzyme deficiency\n(B) RBC sickling\n(C) Anti-D antibodies\n(D) Biliary duct malformation\n(E) Anti-B antibodies",
+    "expected_answer": "The correct answer is: (E) Anti-B antibodies",
+    "difficulty": "expert",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "MED_932",
+    "domain": "Medicine",
+    "task_type": "Obstetrics",
+    "prompt": "A 32-year-old woman comes to the physician because of fatigue, breast tenderness, increased urinary frequency, and intermittent nausea for 2 weeks. Her last menstrual period was 7 weeks ago. She has a history of a seizure disorder treated with carbamazepine. Physical examination shows no abnormalities. A urine pregnancy test is positive. The child is at greatest risk of developing which of the following complications? Choose the correct answer from the following options:\n(A) Renal dysplasia\n(B) Meningocele\n(C) Teeth discoloration\n(D) Sensorineural hearing loss\n(E) Vaginal clear cell carcinoma",
+    "expected_answer": "The correct answer is: (B) Meningocele",
+    "difficulty": "expert",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "MED_947",
+    "domain": "Medicine",
+    "task_type": "Obstetrics",
+    "prompt": "A 38-year-old G4P3 presents to her obstetrician\u2019s office for her 20-week anatomy ultrasound. She reports that she feels well and has not experienced any contractions or vaginal bleeding. She also reports good fetal movement. The patient declined prenatal screening earlier in the pregnancy for religious reasons but would now like an anatomy ultrasound to ensure the fetus is growing appropriately. The patient\u2019s previous pregnancies were uncomplicated, and she delivered three healthy babies at full term. On the ultrasound, the technician observes a male fetus with likely intrauterine growth restriction (IUGR). She also notes microcephaly, convex-rounded feet, and clenched fists with overlapping fingers. The technician further notes a medium-sized ventricular septal defect (VSD). The amniotic fluid index (AFI) is 26 cm.\n\nWhich of the following additional findings is most likely to be observed in this fetus? Choose the correct answer from the following options:\n(A) Cleft palate\n(B) Epicanthal folds\n(C) Micropthlamia\n(D) Prominent occiput\n(E) Webbed neck",
+    "expected_answer": "The correct answer is: (D) Prominent occiput",
+    "difficulty": "expert",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "MED_950",
+    "domain": "Medicine",
+    "task_type": "Obstetrics",
+    "prompt": "A 2-hour-old, 3.2 kg (7.0 lb) newborn boy born by cesarean delivery is being evaluated by the resident on-call. The child was born to a gravida 2, para 0 mother with known hepatitis B. The mother made it to all of her prenatal appointments and took the recommended dose of folic acid since conception. She gave up smoking when she discovered she was pregnant. The infant\u2019s heart rate is 150/min, respiratory rate is 48/min, temperature is 37.5\u00b0C (99.5\u00b0F), and blood pressure is 80/52 mm Hg. APGAR testing exhibits a score of 7 and 8 at 1 and 5 minutes, respectively. The head is normocephalic. No neural tube defects are present on inspection or palpation of the spine. There is strong flexion in all 4 extremities. Cranial nerves 2\u201312 are intact. Sensory and deep tendon reflexes are without any abnormalities. Which of the following is the best course of action for the newborn child?\nHepatitis B serology\nHBsAg positive\nHBeAg positive\nIgM HBc negative\nTotal anti-HBc positive\nAnti-HBs negative\nAnti-HBc negative\nHBV DNA greater than 1 million IU/mL\nAlanine transferase normal Choose the correct answer from the following options:\n(A) Administer hepatitis B vaccine\n(B) Administer hepatitis B immunoglobulin (HBIG)\n(C) Administer hepatitis B vaccine and HBIG\n(D) Check hepatitis B serology\n(E) Check liver enzymes",
+    "expected_answer": "The correct answer is: (C) Administer hepatitis B vaccine and HBIG",
+    "difficulty": "expert",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "MED_997",
+    "domain": "Medicine",
+    "task_type": "Obstetrics",
+    "prompt": "A male newborn is evaluated 24 hours after delivery for high-pitched crying, poor feeding, rhinorrhea, and low-grade fever. He was born at 40 weeks' gestation at 2514 g (5.54 lb) to a 28-year-old woman, gravida 3, para 2, by an uncomplicated cesarean section. Apgar scores were 8 and 9 at 1 and 5 minutes, respectively. The mother did not receive prenatal care. The infant's temperature is 38.0\u00b0C (100.4\u00b0F), pulse is 170/min, and blood pressure is 71/39 mm Hg. Examination shows hyperreflexia, tremors, and an excessive startle response. These symptoms are mostly like due to maternal use of which of the following? Choose the correct answer from the following options:\n(A) GABAA receptor agonist\n(B) Mu receptor agonist\n(C) Nicotinic acetylcholine receptor agonist\n(D) Monoamine reuptake antagonist\n(E) Thyroperoxidase inhibitor",
+    "expected_answer": "The correct answer is: (B) Mu receptor agonist",
+    "difficulty": "expert",
+    "evaluation_metric": "exact_match"
+  }
+]

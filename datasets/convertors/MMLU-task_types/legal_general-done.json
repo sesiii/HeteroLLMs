@@ -1,0 +1,812 @@
+[
+  {
+    "task_id": "MMLU_030",
+    "domain": "Law",
+    "task_type": "Legal General",
+    "prompt": "A resident lived in a house across the street from a small office building. One of the offices in that building was that of a criminal defense lawyer. The resident hated the idea of the lawyer's office being close to her home. She felt that it meant dangerous criminals were coming and going in her neighborhood. The resident spent a lot of time looking out her window, trying to figure out which people going in and out of the office building were criminals, and imagining what sorts of crimes they had committed. The resident eventually decided that she needed to drive the lawyer out of the neighborhood. She made a telephone call to the lawyer and said, \"You are scum, and so are all of your clients. I know that you're conspiring to commit crimes with all those bad people you represent. The police should arrest you and put you in jail with your clients. \" The lawyer was very upset by what he heard. If the lawyer asserts a claim for defamation against the resident based on the telephone call, he will most likely\n\nFor this question, four choices are provided:\n(A) succeed, because the resident's remarks constituted slander per Se.\n(B) succeed, because the lawyer found the remarks to be upsetting.\n(C) not succeed, because the resident's remarks were a matter of personal opinion rather than statements of fact.\n(D) not succeed, because the resident's remarks were not published or communicated to anyone but the plaintiff.\n\nPlease choose the correct answer from the above choices.",
+    "expected_answer": "(D) not succeed, because the resident's remarks were not published or communicated to anyone but the plaintiff.",
+    "difficulty": "expert",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "MMLU_039",
+    "domain": "Law",
+    "task_type": "Legal General",
+    "prompt": "After a severe thunderstorm had struck the area, a homeowner discovered that her roof had suffered extensive damage. She telephoned a roofer to inquire about having the necessary repairs done to her roof. The roofer agreed to finish the work within 30 days, and the homeowner promised to pay$10,000. Which of the following statements is most accurate?\n\nFor this question, four choices are provided:\n(A) The performance of the roofer would be a constructive condition precedent to the performance by the homeowner.\n(B) The performance by the homeowner would be an implied condition subsequent to the performance by the roofer.\n(C) The performances of the homeowner and the roofer would be constructive concurrent conditions.\n(D) The contract would be unenforceable, because it was oral.\n\nPlease choose the correct answer from the above choices.",
+    "expected_answer": "(A) The performance of the roofer would be a constructive condition precedent to the performance by the homeowner.",
+    "difficulty": "expert",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "MMLU_042",
+    "domain": "Law",
+    "task_type": "Legal General",
+    "prompt": "A defendant decided to rob a bar because he knew that the bar was now utilizing a new security system that was faulty and that nighttime was the best time to break in. Late one night, the defendant broke into the bar and proceeded to load large kegs of beer onto his truck. As he was leaving, the defendant inadvertently threw his cigarette butt into a trash can behind the bar. Soon afterward, the trash ignited into a small fire. Although the defendant had time to douse the fire without any danger to himself, he did not do so. Instead, he climbed into the truck and drove away. Although the fire spread beyond the trashcan, the fire department responded quickly and was able to put it out. The floor behind the bar was charred. The statutes for both burglary and arson in this jurisdiction include residential and business structures. The defendant should be convicted of which of the following crimes?\n\nFor this question, four choices are provided:\n(A) Arson, burglary, and larceny.\n(B) Arson and burglary.\n(C) Larceny and burglary.\n(D) Arson, robbery, and burglary.\n\nPlease choose the correct answer from the above choices.",
+    "expected_answer": "(A) Arson, burglary, and larceny.",
+    "difficulty": "expert",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "MMLU_044",
+    "domain": "Law",
+    "task_type": "Legal General",
+    "prompt": "A company owns and operates a chemical plant that manufactures paraquat, an herbicide used primarily as a weed killer. The plant is located in a rural area in the southwestern part of the state. In its production of paraquat, the company emits putrid smelling fumes throughout the surrounding countryside. Although the fumes are harmless to health, they are rank and highly offensive. Despite extensive research by the company to alleviate the problem, there is no known way to manufacture paraquat without discharging malodorous fumes into the air. An owner of a large dairy farm that is adjacent to the plant finds the foul-smelling herbicide fumes to be extremely unpleasant and totally objectionable. The owner brings an action based on private nuisance against the company and seeks to enjoin the manufacture of paraquat at the chemical plant. Which of the following facts, if proven, will be most helpful to the company's defense?\n\nFor this question, four choices are provided:\n(A) Federal, state, and local agencies approved the design of the plant and equipment used to produce paraquat.\n(B) The company has a contract with the federal government whereby it supplies 80 percent of its paraquat production to the Drug Enforcement Agency, which uses the herbicide as a marijuana eradicator.\n(C) The company commenced the manufacture of paraquat at the plant before the owner acquired the land and built his dairy farm.\n(D) Paraquat is the only herbicide that can safely and effectively kill marijuana, which, if not controlled, poses a serious drug-enforcement problem.\n\nPlease choose the correct answer from the above choices.",
+    "expected_answer": "(D) Paraquat is the only herbicide that can safely and effectively kill marijuana, which, if not controlled, poses a serious drug-enforcement problem.",
+    "difficulty": "expert",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "MMLU_052",
+    "domain": "Law",
+    "task_type": "Legal General",
+    "prompt": "In a written contract, a seller agreed to deliver to a buyer 1,000 widgets at a stipulated price of $10 each, FOB at the seller's place of business. The contract stipulated that \"any party who wishes to assign this contract must have the written consent of the other party. \" On March 1, the seller placed the widgets on board a cargo vessel that was destined to transport the widgets to the buyer. On March 2, the buyer received the following telegram from the seller:\"Please be advised that the widgets are in transit. In addition, I hereby assign all my rights under our contract to our creditor. \"The buyer did not consent to the assignment. The next day, the ship carrying the widgets sank in a violent storm, destroying its entire cargo. If the creditor brings an appropriate action against the buyer, the former will most likely recover\n\nFor this question, four choices are provided:\n(A) nothing, because the buyer never assented to the assignment.\n(B) nothing, because the buyer never received the widgets.\n(C) the contract price of$10,000.\n(D) the difference between the contract price and the market value of the widgets.\n\nPlease choose the correct answer from the above choices.",
+    "expected_answer": "(C) the contract price of$10,000.",
+    "difficulty": "expert",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "MMLU_071",
+    "domain": "Law",
+    "task_type": "Legal General",
+    "prompt": "A homeowner contracted in writing with a kitchen contractor to renovate her kitchen for $25,000, \"subject to the homeowner's complete personal satisfaction.\" The contractor replaced the cabinets, flooring, and countertops and then sought payment from the homeowner. The homeowner paid the contractor only $20,000, truthfully saying that she did not like the finish on the cabinets and was therefore not satisfied. If the contractor sues the homeowner for the balance of the contract price, will the contractor be likely to prevail?\n\nFor this question, four choices are provided:\n(A) No, because a condition to the homeowner's obligation to pay was not satisfied.\n(B) No, because the contractor breached his duty of good faith and fair dealing by supplying unsatisfactory materials.\n(C) Yes, because the homeowner breached the covenant of good faith and fair dealing by rejecting the cabinets without justification.\n(D) Yes, because the homeowner was the first party to breach the contract.\n\nPlease choose the correct answer from the above choices.",
+    "expected_answer": "(A) No, because a condition to the homeowner's obligation to pay was not satisfied.",
+    "difficulty": "expert",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "MMLU_075",
+    "domain": "Law",
+    "task_type": "Legal General",
+    "prompt": "One evening, a defendant set fire to an occupied house. As a result of the blaze, the homeowner's daughter was killed. The defendant was charged with felony murder on the first count and arson on the second count of the two-count indictment. The jury found the defendant guilty on the first count, but returned a not guilty verdict on the second count. The defendant's attorney's motion to set aside the guilty verdict on the felony murder charge will be\n\nFor this question, four choices are provided:\n(A) granted, because the guilty verdict is plain error that adversely affects the defendant's constitutional rights.\n(B) granted, because the verdicts are legally inconsistent and should lead to an acquittal of both charges.\n(C) denied, because the verdicts do not amount to a reversible error.\n(D) denied, because the defendant's proper remedy is to seek an appellate review for a non-constitutional error.\n\nPlease choose the correct answer from the above choices.",
+    "expected_answer": "(B) granted, because the verdicts are legally inconsistent and should lead to an acquittal of both charges.",
+    "difficulty": "expert",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "MMLU_096",
+    "domain": "Law",
+    "task_type": "Legal General",
+    "prompt": "A young woman joined a social media service that provided networking with other business persons and entities nationwide. The woman discovered that the service was selling her personal profile information, and the information pertaining to thousands of other members, to third party purchasers for tracking of their Internet activities and buying habits. In her class action breach of contract action against the service, she alleged two theories of damages. First, she contended that she and the class members suffered \"embarrassment and humiliation\" from the disclosure, and second, that she and the others must be compensated for the market value of the information seized. Will the court likely recognize these allegations as sufficient to state a claim for breach of contract?\n\nFor this question, four choices are provided:\n(A) Yes, because the service breached the duty of good faith inherent in every contract.\n(B) Yes, because these are common types of damages that are authorized in breach of contract cases.\n(C) No, because Internet laws protect absolutely all communications and downloads of this nature as part of the service's guaranteed scope of free speech rights.\n(D) No, because humiliation is not an item of damages in a breach of contract case, and the unauthorized collection of personal data does not establish an economic loss.\n\nPlease choose the correct answer from the above choices.",
+    "expected_answer": "(D) No, because humiliation is not an item of damages in a breach of contract case, and the unauthorized collection of personal data does not establish an economic loss.",
+    "difficulty": "expert",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "MMLU_098",
+    "domain": "Law",
+    "task_type": "Legal General",
+    "prompt": "A city has undergone a massive redevelopment project aimed at remodeling and beautifying the downtown area. Recently the city council passed an ordinance prohibiting the placement of any sign with dimensions larger than six feet on the exterior of any commercial building. Furthermore, signs within the guidelines of the ordinance could only relate to advertising the business of the property's occupant. The intended purpose of the ordinance was to advance the municipality's interests in traffic safety and aesthetics. An owner of an office building in the newly developed section of town, placed a 10-foot sign on the outside of his building endorsing his brother's political candidacy. The city council has ordered the owner to remove the sign from his building, but he has refused to take it down until after the election. If the owner challenges the city ordinance, the most likely result is that he will\n\nFor this question, four choices are provided:\n(A) prevail, because the ordinance violates his freedom of speech.\n(B) prevail, because such a time, place, and manner restriction on private property is discriminatory and overbroad.\n(C) not prevail, because although commercial speech is protected by the First Amendment, it is subject to greater regulation than other forms of protected speech.\n(D) not prevail, because the ordinance is rationally related to a legitimate state interest.\n\nPlease choose the correct answer from the above choices.",
+    "expected_answer": "(B) prevail, because such a time, place, and manner restriction on private property is discriminatory and overbroad.",
+    "difficulty": "expert",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "MMLU_104",
+    "domain": "Law",
+    "task_type": "Legal General",
+    "prompt": "A football player sued a football team for breach of contract. He was a star player for the team before suffering a serious hip injury. Although the player attempted to continue playing for the team, he failed a physical examination and was cut from the team roster. After failing his physical, the team discontinued making contract payments to the player as per the terms of his employment contract. In his lawsuit, the player claimed that he was physically fit to continue playing but that he was cut from the team because they wanted to stop making contract payments. At trial, the team called its physician, an orthopedist, to testify that the player's hip injury was, in fact, career-threatening and, in his opinion, sufficiently serious to warrant failing his physical. The team physician stated during his testimony that his diagnosis was based, in part, upon an examination of the player's x-rays and review of an MRI test conducted by another doctor. Neither the x-rays nor the MRI test results have been admitted into evidence. In all likelihood, the team physician's testimony should be\n\nFor this question, four choices are provided:\n(A) admissible, provided that the other doctor testifies as to the validity of the MRI test results.\n(B) admissible, provided the team physician based his opinion on data reasonably relied upon by other orthopedic physicians in the field.\n(C) inadmissible, because neither the x-rays nor the MRI test results had been admitted into evidence at the time he formulated his opinion.\n(D) inadmissible, because the team physician's opinion was not based in part upon his own firsthand observation of the player's physical condition.\n\nPlease choose the correct answer from the above choices.",
+    "expected_answer": "(B) admissible, provided the team physician based his opinion on data reasonably relied upon by other orthopedic physicians in the field.",
+    "difficulty": "expert",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "MMLU_108",
+    "domain": "Law",
+    "task_type": "Legal General",
+    "prompt": "What is it called when a remainder in the grantor's heirs is invalid and becomes a reversion in the grantor?\n\nFor this question, four choices are provided:\n(A) Rule in Shelley's Case\n(B) Related Doctrine of Merger\n(C) Contingent remainder\n(D) Doctrine of Worthier Title\n\nPlease choose the correct answer from the above choices.",
+    "expected_answer": "(D) Doctrine of Worthier Title",
+    "difficulty": "expert",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "MMLU_117",
+    "domain": "Law",
+    "task_type": "Legal General",
+    "prompt": "An actress went to a plastic surgeon for removal of an abnormal growth on her right cheek. Under a written contract, the plastic surgeon agreed to surgically remove the growth for $1,000. As the actress subsequently recalled, just before signing the agreement the parties orally agreed that if any additional medical procedures were required during surgery, they would be included in the $1,000 fee. The plastic surgeon, however, has no recollection of any such oral agreement. As agreed, the surgery was performed on an outpatient basis at the plastic surgeon's office. She applied a localized anesthesia that enabled the actress to remain conscious during surgery. While the operation was being performed, the plastic surgeon noticed another growth on the actress's neck. As the plastic surgeon subsequently recalled, she informed the actress about the growth and recommended that it be removed as well. According to the plastic surgeon's account, the actress orally agreed to have the growth removed for an additional $500. The actress has no recollection of any such oral agreement. The plastic surgeon performed both removal procedures satisfactorily. Following the surgery, the actress paid the plastic surgeon $1,000, but refused to pay any additional money for the removal of the second growth. After unsuccessfully attempting to collect the $500, the plastic surgeon brought suit against the actress to recover the additional fee. At trial, the plastic surgeon objected to the introduction of testimony regarding any oral agreement made before the written contract was signed. By the same token, the actress objected to the introduction of testimony concerning any oral agreement made during surgery. Will the plastic surgeon be entitled to recover the additional $500 if both offerings of parol evidence are admitted and believed?\n\nFor this question, four choices are provided:\n(A) No, because the oral agreements contradict each other; neither would be enforceable under the so-called knock-out rule.\n(B) No, because in removing the growth from the actress's neck, the plastic surgeon performed a legal duty already owed her that was neither doubtful nor the subject of an honest dispute.\n(C) Yes, because the oral modification of the prior writing was fair and equitable in view of circumstances not anticipated by the parties when the writing was executed.\n(D) Yes, because the actress would be unjustly enriched by not paying the additional $500, and injustice can be avoided only by enforcement of her oral promise.\n\nPlease choose the correct answer from the above choices.",
+    "expected_answer": "(B) No, because in removing the growth from the actress's neck, the plastic surgeon performed a legal duty already owed her that was neither doubtful nor the subject of an honest dispute.",
+    "difficulty": "expert",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "MMLU_119",
+    "domain": "Law",
+    "task_type": "Legal General",
+    "prompt": "A victim and a defendant both worked as longshoremen at a shipyard. After the victim was shot to death, the defendant was tried for murder and acquitted. Following the acquittal, the victim's estate sued the defendant in a wrongful death action. During the civil trial, the victim's estate called a witness to testify. The witness, who worked with both men at the shipyard, testified that two weeks before the shooting, the victim came to work with a broken nose and said that the defendant had caused it. The attorney for the victim's estate then asked the witness the following question, \"Was the defendant present during your conversation with the victim, and if so, did he say anything about the victim's broken nose?\" The witness replied, \"Yes, the defendant was present, and after the victim told me that the defendant broke his nose, the defendant said, \u0080\u0098And that's only the beginning. \"Upon objection by the defendant's attorney, the witness's testimony is\n\nFor this question, four choices are provided:\n(A) admissible, because it reports a declaration against interest.\n(B) admissible, because it reports the defendant's adoptive admission of the victim's assertion.\n(C) inadmissible, because of the principle of collateral estoppel.\n(D) inadmissible, because it is hearsay not within any recognized exception.\n\nPlease choose the correct answer from the above choices.",
+    "expected_answer": "(B) admissible, because it reports the defendant's adoptive admission of the victim's assertion.",
+    "difficulty": "expert",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "MMLU_131",
+    "domain": "Law",
+    "task_type": "Legal General",
+    "prompt": "One day, while riding his motorcycle through a residential area, a man hit and injured a child who darted into his path. The child's mother files suit against the man. At trial, the mother is then called to testify as to her conversation with the man at the hospital where her son was rushed immediately following the accident. According to the mother, the man told her, \"Don't worry, my insurance company will pay for all of your son's medical expenses. \"If offered into evidence, the court will most likely rule that the mother's statement is\n\nFor this question, four choices are provided:\n(A) admissible, on the issue of the defendant's negligence.\n(B) admissible, to show that the defendant is able to pay for the medical expenses.\n(C) inadmissible, because the testimony was highly prejudicial.\n(D) admissible, only to prove ownership or control of the motorcycle.\n\nPlease choose the correct answer from the above choices.",
+    "expected_answer": "(D) admissible, only to prove ownership or control of the motorcycle.",
+    "difficulty": "expert",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "MMLU_133",
+    "domain": "Law",
+    "task_type": "Legal General",
+    "prompt": "A plaintiff sued a defendant in federal court for injuries arising out of an accident involving the parties. The plaintiff alleged and presented evidence at trial demonstrating that her injuries had left her legs permanently paralyzed. The jury found in favor of the plaintiff and awarded her $5 million in damages. Two months after the court entered judgment, the defendant was given a videotape made that day showing the plaintiff jogging with her doctor. What is the best way for the defendant to seek relief from the judgment?\n\nFor this question, four choices are provided:\n(A) Move for a new trial or in the alternative for remittitur to reduce the award in light of the shortened duration of the plaintiff's injuries.\n(B) Move for relief from the judgment on the ground that the judgment was based on the jury's mistaken belief that the plaintiff's injuries would be permanent.\n(C) Move for relief from the judgment on the ground that the plaintiff committed a fraud in obtaining damages for permanent injuries.\n(D) Move for relief from the judgment on the ground that there is newly discovered evidence that the plaintiff's injuries were not permanent.\n\nPlease choose the correct answer from the above choices.",
+    "expected_answer": "(C) Move for relief from the judgment on the ground that the plaintiff committed a fraud in obtaining damages for permanent injuries.",
+    "difficulty": "expert",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "MMLU_134",
+    "domain": "Law",
+    "task_type": "Legal General",
+    "prompt": "A minor-plaintiff suffered permanent head injuries as a result of being hit by a car driven by a defendant. The plaintiff's father commences this action as a parent in his own right and on behalf of his son. At trial, the plaintiff's attorney called the only witness to the accident, the plaintiff's friend, aged seven. The friend was four years of age at the time of the accident. It was determined that the friend lacked the capacity to perceive and relate the accident at the time it actually occurred. The court should rule that the friend would be\n\nFor this question, four choices are provided:\n(A) competent to testify, because he had personal knowledge of the accident.\n(B) competent to testify, because a seven-year-old is presumed to be chronologically mature.\n(C) incompetent, because he lacked the capacity to perceive and relate the accident at the time of its occurrence.\n(D) incompetent, because all children under the age of 10 are deemed incompetent to testify.\n\nPlease choose the correct answer from the above choices.",
+    "expected_answer": "(C) incompetent, because he lacked the capacity to perceive and relate the accident at the time of its occurrence.",
+    "difficulty": "expert",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "MMLU_169",
+    "domain": "Law",
+    "task_type": "Legal General",
+    "prompt": "A man is on trial for rape. The alleged victim testified that she went out to dinner with the man. Afterward, he invited her to his apartment for coffee. Upon entering the apartment, he violently assaulted her. Although she tried to resist, he overpowered and raped her. The man testified that during dinner, he and the victim drank two bottles of Champagne. When they returned to his apartment, he was so intoxicated that he honestly believed that she consented to the intercourse. The jury determined that the victim did not consent to the intercourse. The jury also found that the man, as a result of his intoxication, honestly but unreasonably believed that she was consenting. As a consequence, the defendant should be found\n\nFor this question, four choices are provided:\n(A) not guilty, because he honestly believed that the victim consented.\n(B) not guilty, because his intoxication negated his criminal intent.\n(C) guilty, because rape is a general intent crime.\n(D) guilty, because she did not consent, and his belief that she was consenting was unreasonable.\n\nPlease choose the correct answer from the above choices.",
+    "expected_answer": "(D) guilty, because she did not consent, and his belief that she was consenting was unreasonable.",
+    "difficulty": "expert",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "MMLU_172",
+    "domain": "Law",
+    "task_type": "Legal General",
+    "prompt": "In most states, the division of homicide into degrees is distinguished according to which of the following?\n\nFor this question, four choices are provided:\n(A) the causal relationship between the defendant's act and the resulting death.\n(B) the attendant circumstances surrounding the death.\n(C) the nature of the act causing the death.\n(D) the defendant's state of mind at the time the killing was committed.\n\nPlease choose the correct answer from the above choices.",
+    "expected_answer": "(D) the defendant's state of mind at the time the killing was committed.",
+    "difficulty": "expert",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "MMLU_192",
+    "domain": "Law",
+    "task_type": "Legal General",
+    "prompt": "A store owner noticed that an expensive electronic device was missing from the store. He assumed that a shoplifter had taken it. Later that day, the store owner was cleaning up the small room in the back of the store that the employees of the store used to store their personal items while they were at work. The store owner was straightening up the coat rack in the back room, when he accidentally knocked one of the employee's coats off the hanger. As the coat fell onto the floor, the missing electronic device fell out of the pocket of the coat. It was still in its original packaging, and the store owner checked the serial number on the package to confirm that it was the device missing from the store's shelves. The store owner knew that the coat belonged to a woman who worked as a cashier in the store. The store owner felt bad, but decided that he had no choice but to call the police. Two police officers arrived at the store. They gathered information from the store owner, who signed a criminal complaint against the woman. The officers then discussed the matter with the woman. Although she denied stealing anything, the officers arrested her and informed her that they would need to take her to the police station. After the police took the woman away, another employee of the store found out that the woman had been arrested. That employee immediately went to the store owner and admitted that he was actually the one who had stolen the device, and that he had hidden it in the woman's coat, intending to retrieve it later before the end of the woman's work shift. The store owner promptly called the police and told them that there had been a mistake and that the theft charge against the woman was invalid. The police released the woman, who spent a total of approximately 30 minutes in police custody. If the woman asserts a claim for false imprisonment against the arresting officers, will the woman prevail?\n\nFor this question, four choices are provided:\n(A) Yes, because the woman had not committed a crime at the time she was arrested.\n(B) Yes, because the woman was arrested and held in custody.\n(C) No, because the woman was detained for only 30 minutes.\n(D) No, because the officers had probable cause to arrest the woman based on the store owner's complaint and honest belief that the woman had stolen the device.\n\nPlease choose the correct answer from the above choices.",
+    "expected_answer": "(D) No, because the officers had probable cause to arrest the woman based on the store owner's complaint and honest belief that the woman had stolen the device.",
+    "difficulty": "expert",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "MMLU_194",
+    "domain": "Law",
+    "task_type": "Legal General",
+    "prompt": "During a custody dispute, a court granted the request of the defendant and appointed a clinical pathologist to conduct the blood grouping tests of the child, the complainant, and the defendant. After first stating all of his qualifications at the non-jury trial, the pathologist testified that he and his associates made five separate blood grouping tests and that all proper safeguards were taken to protect the integrity and accuracy of the tests. The pathologist also offered more detailed testimony about the testing procedures and stated that no discrepancies were found in the testing methods. Finally, the pathologist made the statement that the blood grouping tests were conclusive in proving that the defendant could not be the father of the child. If the complainant's attorney makes an objection to the introduction of the blood tests into evidence, the court will most likely\n\nFor this question, four choices are provided:\n(A) sustain the objection, because the blood tests are not conclusive evidence of paternity.\n(B) sustain the objection, because blood tests have not been generally recognized by the scientific community.\n(C) overrule the objection, because the court will take judicial notice of the accuracy of such tests.\n(D) overrule the objection, because the blood tests are an admission.\n\nPlease choose the correct answer from the above choices.",
+    "expected_answer": "(C) overrule the objection, because the court will take judicial notice of the accuracy of such tests.",
+    "difficulty": "expert",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "MMLU_221",
+    "domain": "Law",
+    "task_type": "Legal General",
+    "prompt": "Late one evening a man was driving home from his job as a security guard at a jewefry store. As the man approached a railroad crossing he noticed that the barriers to the crossing were open. The man cautiously looked both ways for any train. Assuming that no train was coming, he proceeded across the railroad tracks. Suddenly, an oncoming train struck the man's car, completely demolishing it. The man was dead on arrival at the local hospital. Unknown to the man, the railroad crossing guard, in a drunken stupor, had fallen asleep at the barrier controls. He failed to see or hear the signals from the oncoming train that struck and killed the man. The railroad company was well aware of the crossing guard's alcoholism, but continued to employ him. However, two weeks after the accident occurred, the railroad company fired the crossing guard. The executor of the man's estate institutes a wrongful death action against the railroad company. During the trial, the attorney for the man's estate offered into proof the fact that the defendant railroad company dismissed the crossing guard shortly after the accident. Upon objection by the railroad company's attorney, the court should\n\nFor this question, four choices are provided:\n(A) overrule the objection, as the employee's dismissal was an admission that the railroad company was aware of the crossing guard's chronic alcoholism.\n(B) overrule the objection, as an adoptive admission by conduct.\n(C) sustain the objection, because the probative value of the evidence would be outweighed by its prejudicial effect.\n(D) sustain the objection, as evidence of subsequent remedial repairs is inadmissible.\n\nPlease choose the correct answer from the above choices.",
+    "expected_answer": "(D) sustain the objection, as evidence of subsequent remedial repairs is inadmissible.",
+    "difficulty": "expert",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "MMLU_222",
+    "domain": "Law",
+    "task_type": "Legal General",
+    "prompt": "A person purchased a new car from a local auto dealership. Over the next month, the purchaser drove the car a little more than 1,000 miles. The purchaser noticed that the car made a squeaking noise when the brakes were applied, so the purchaser took the car back to the dealership to have the mechanic there take a look at it. The mechanic worked on the car and then told the purchaser that the problem had been fixed. A few days later, the brakes failed, causing the purchaser to crash into a tree. The purchaser suffered a serious head injury in the crash. If the purchaser asserts a claim against the car dealership for damages for his injuries, will the purchaser prevail?\n\nFor this question, four choices are provided:\n(A) Yes, if the brakes were defective when the dealership sold the car to the purchaser.\n(B) Yes, because the dealership is strictly liable for defective repairs on cars it has sold.\n(C) No, because the car had been driven more than 1,000 miles.\n(D) No, unless the dealership's employee was negligent in repairing the brakes.\n\nPlease choose the correct answer from the above choices.",
+    "expected_answer": "(A) Yes, if the brakes were defective when the dealership sold the car to the purchaser.",
+    "difficulty": "expert",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "MMLU_225",
+    "domain": "Law",
+    "task_type": "Legal General",
+    "prompt": "A highway patrol officer stopped a driver for speeding and found that her license was suspended. He arrested her for driving while under suspension and secured her in the rear seat of the squad car. He then searched the car where he found several bags of cocaine inside a coat that was setting on the rear seat; he arrested her for possession and possession with intent to deliver cocaine. Prior to trial, the driver moved for suppression of the cocaine. Is it likely that the trial court will grant the suppression motion?\n\nFor this question, four choices are provided:\n(A) Yes, it must be suppressed because this was an unreasonable, warrantless search.\n(B) No, the motion will be denied because the search was permissible as incident to a proper arrest.\n(C) No, the motion will be denied because the initial traffic stop was legal and everything that flowed therefrom was a reasonable step to search for crime.\n(D) Yes, the motion will be granted because a search of a vehicle requires a search warrant unless there are exceptional exigent circumstances.\n\nPlease choose the correct answer from the above choices.",
+    "expected_answer": "(A) Yes, it must be suppressed because this was an unreasonable, warrantless search.",
+    "difficulty": "expert",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "MMLU_248",
+    "domain": "Law",
+    "task_type": "Legal General",
+    "prompt": "A worker was injured when a machine he was using on the job malfunctioned. The worker brought a federal diversity action against both the machine's manufacturer and the company responsible for the machine's maintenance. At trial, the worker submitted a proposed jury instruction on negligence. The court did not accept the proposed instruction and instead gave a negligence instruction that the worker's attorney believed was less favorable and legally incorrect. The attorney did not object to the negligence instruction before it was given. The jury returned a verdict for the defendants. The worker has moved for a new trial on the ground that the court's negligence instruction was improper. What argument has the best chance of persuading the court to grant the motion?\n\nFor this question, four choices are provided:\n(A) Issues of law can be raised at any time.\n(B) The court's negligence instruction was incorrect and the worker's objection to it was preserved when he submitted his it was preserved when he submitted his proposed negligence instruction.\n(C) The court's negligence instruction was plain error that affected the worker's substantial rights.\n(D) The need for a formal objection to a judicial ruling in order to preserve an argument has been eliminated in the Federal Rules of Civil Procedure.\n\nPlease choose the correct answer from the above choices.",
+    "expected_answer": "(C) The court's negligence instruction was plain error that affected the worker's substantial rights.",
+    "difficulty": "expert",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "MMLU_249",
+    "domain": "Law",
+    "task_type": "Legal General",
+    "prompt": "There is a thriving source of crawfish that live in a state. The state owns a fleet of boats that trawl for crawfish. The state is willing to sell the crawfish to in-staters for $1 per pound and to out-of-staters who come to the state for $5 per pound. The state felt that the increased fee for out-of-staters was a reasonable contribution toward the protection they received from the state. Assume that the federal court decided to hear the case. The statute is likely to be found\n\nFor this question, four choices are provided:\n(A) constitutional, because it is a valid exercise of the state's police power.\n(B) constitutional, because the fee was a reasonable contribution toward the protection that the state government gave nonresidents.\n(C) unconstitutional, because it places a discriminatory burden on interstate commerce.\n(D) unconstitutional, because it constitutes a violation of the privileges and immunities clause under Article IV.\n\nPlease choose the correct answer from the above choices.",
+    "expected_answer": "(D) unconstitutional, because it constitutes a violation of the privileges and immunities clause under Article IV.",
+    "difficulty": "expert",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "MMLU_252",
+    "domain": "Law",
+    "task_type": "Legal General",
+    "prompt": "A man died in 1985. His will devised his estate in a Midwestern state to his son and daughter \"to share and share alike as tenants in common. \"At the time of their father's death, the daughter lived in a different part of the Midwestern state (in which the estate was located) while the son resided in a state in the Southwest. After the funeral, the daughter returned to her own residence, but the son decided to occupy the estate. He put his name on the mailbox and has paid the taxes and maintenance expenses. The daughter has been generally aware of this, but because she cared little about the estate, the daughter has never pressed her brother about the property. Since 1985, the daughter has not paid any rent or other compensation to her brother, nor has he requested such payment. In January 2010, a series of disputes arose between the son and daughter for the first time concerning their respective rights to the estate. The state in which the property is located recognizes the usual common law types of cotenancies and there is no applicable legislation on the subject. Now, the son claims the entire fee simple absolute title to the estate and brings an action against his sister to quiet title in himself. If the Midwestern states in which the property is located has an ordinary 20-year adverse possession statute, judgment should be for whom?\n\nFor this question, four choices are provided:\n(A) The daughter, because one cotenant cannot acquire title by adverse possession against another.\n(B) The daughter, because there is no evidence that her brother has performed sufficient acts to constitute an ouster.\n(C) The son, because the acts of the parties indicate the sister's intention to renounce her ownership rights to the estate.\n(D) The son, because during the past 25 years, the son has exercised the type of occupancy ordinarily considered sufficient to satisfy adverse possession requirements.\n\nPlease choose the correct answer from the above choices.",
+    "expected_answer": "(B) The daughter, because there is no evidence that her brother has performed sufficient acts to constitute an ouster.",
+    "difficulty": "expert",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "MMLU_258",
+    "domain": "Law",
+    "task_type": "Legal General",
+    "prompt": "A female employee was fired as an executive assistant at a time when she was seven months pregnant. She brought a Title VII civil rights action in federal court for gender discrimination against the employer. At trial, a former co-worker of the woman was not allowed to testify that she heard the human relations manager saying in an informal meeting that the plaintiff and her predecessor were both fired due to what the manager described as \"pregnancy complications.\" The proposed witness had been a vice-president of the company and a close adviser to the president. Without the benefit of that vital testimony, the jury entered a verdict for the defendant employer. On appeal, the plaintiff argued that the testimony should have been allowed and that it was not hearsay under the federal rules. Will the court likely grant the appeal, and order a new trial?\n\nFor this question, four choices are provided:\n(A) No, because the statement is clearly hearsay with no exception to the hearsay rule being applicable.\n(B) No, because it was based on things that the co-worker heard from others, making double-hearsay that is never admissible.\n(C) Yes, because that kind of testimony is reliable and not excludable as hearsay.\n(D) Yes, because it was admissible under the \"spontaneous utterance\" exception to the hearsay rules.\n\nPlease choose the correct answer from the above choices.",
+    "expected_answer": "(C) Yes, because that kind of testimony is reliable and not excludable as hearsay.",
+    "difficulty": "expert",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "MMLU_263",
+    "domain": "Law",
+    "task_type": "Legal General",
+    "prompt": "A state in which several popular ski resorts are located has enacted a law requiring state certification of ski instructors. Under the law, applicants for certification must attend a monthlong course, pass a test, and pay a fee of $1,000. The stated purpose of the law is to \"promote uniformity in the methods of ski instruction at the state's ski areas.\" Shortly before the law's enactment, when the state did not require certification of ski instructors, a woman moved to the state intending to find employment as a ski instructor. The woman had been a ski instructor in another state for many years. But since her move, even though ski resorts in the state have found her to be highly qualified, no resort will offer her a contract for employment as a ski instructor because she has not received the required state certification. As applied to the woman, does the state certification requirement constitute a violation of the contracts clause?\n\nFor this question, four choices are provided:\n(A) No, because her ability to contract for employment with the state is not being impaired.\n(B) No, because she has no existing contract that is being impaired.\n(C) Yes, because, as applied to an otherwise qualified ski instructor, the requirement is not rationally related to a legitimate government interest.\n(D) Yes, because the requirement substantially impairs her ability to contract for employment in the absence of an important government objective.\n\nPlease choose the correct answer from the above choices.",
+    "expected_answer": "(B) No, because she has no existing contract that is being impaired.",
+    "difficulty": "expert",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "MMLU_270",
+    "domain": "Law",
+    "task_type": "Legal General",
+    "prompt": "A buyer contracted in writing to purchase 1,000 gidgets (which are similar to widgets but are more popular because of their greater durability and- resiliency) from a manufacturer for a total contract price of $4,000. After this agreement was executed and before delivery, the buyer and the manufacturer agreed in a telephone conversation to change the quantity term from 1,000 to 800 gidgets. This modification is probably unenforceable, because\n\nFor this question, four choices are provided:\n(A) it violates the statute of frauds.\n(B) there was no consideration.\n(C) the original contract was in writing.\n(D) the parol evidence rule bars contradictory terms.\n\nPlease choose the correct answer from the above choices.",
+    "expected_answer": "(A) it violates the statute of frauds.",
+    "difficulty": "expert",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "MMLU_273",
+    "domain": "Law",
+    "task_type": "Legal General",
+    "prompt": "After weeks of deliberation, the defendant decided to rob a local liquor store. The defendant purchased a ski mask and then went into the liquor store, put his gun into the face of the clerk, and demanded the money from the register. Terrified, the clerk gave him the money from the register. The defendant pocketed the money, grabbed a bottle of tequila off the shelf for his celebration, and then ran back to the car and drove off. About an hour later, the defendant was slowly approaching his hideout in the outskirts of town when a young child suddenly darted in front of the defendant's car. He applied the brakes but couldn't stop in time. The car struck the child, killing her. For the child's death, the defendant should be found guilty of which, if any, of the following crimes?\n\nFor this question, four choices are provided:\n(A) Felony murder.\n(B) Involuntary manslaughter.\n(C) Voluntary manslaughter.\n(D) No crime.\n\nPlease choose the correct answer from the above choices.",
+    "expected_answer": "(D) No crime.",
+    "difficulty": "expert",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "MMLU_279",
+    "domain": "Law",
+    "task_type": "Legal General",
+    "prompt": "A man invited several friends to come over to his house to watch a movie on television. While they were watching the movie, freezing rain fell outside, coating everything with a thin layer of very slippery ice. When the movie ended, one of the man's guests slipped on the ice as soon as he took a step out of the door and onto the front stoop of the man's house. Which of the following would best describe the duty of care owed by the man to his guest?\n\nFor this question, four choices are provided:\n(A) No duty of care.\n(B) A duty to inspect the premises for unknown dangers and disclose their existence to others.\n(C) A duty to warn of any known dangerous condition on the premises.\n(D) An absolute duty of care.\n\nPlease choose the correct answer from the above choices.",
+    "expected_answer": "(C) A duty to warn of any known dangerous condition on the premises.",
+    "difficulty": "expert",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "MMLU_289",
+    "domain": "Law",
+    "task_type": "Legal General",
+    "prompt": "A condominium development consists of two buildings, one with balconies attached to each unit, and one withno balconies. For safety concerns, the condominium association amended the covenants and restrictions toprohibit future sales of balcony units to families with minor children. The amendment did not affect families withchildren already living in balcony units. The amendment was promptly recorded. The condominium associationhad a valid covenant providing that all sales had to be approved by the association. Subsequent to the effective date of the amendment, the owner of a balcony unit contracted to sell it to a familywith minor children. Before the closing, the association told the buyers that because they had minor children,they could not buy the unit. The association further told the buyers that numerous units were available in thebuilding without balconies. After receiving this notification, the buyers complained to a fair housing agency, claiming that the amendmentwas unenforceable because it violated federal fair housing laws. Is there reasonable cause to believe that a violation has occurred?\n\nFor this question, four choices are provided:\n(A) No, because families with children are allowed to purchase units in the building without balconies.\n(B) No, because the amendment is based on legitimate safety issues.\n(C) Yes, because families with children are already living in units with balconies.\n(D) Yes, because families with children cannot be segregated within the condominium development.\n\nPlease choose the correct answer from the above choices.",
+    "expected_answer": "(D) Yes, because families with children cannot be segregated within the condominium development.",
+    "difficulty": "expert",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "MMLU_304",
+    "domain": "Law",
+    "task_type": "Legal General",
+    "prompt": "Homeowner owns a property in its natural condition with a house on it. There was no fill of any kind on the property. Neighbor, who owns the adjacent property to the East, built a driveway whose western boundary is along the border of homeowner's property. The excavator dug the driveway five feet deep. The land began to subside along the line of excavation and about three feet of homeowner's land fell off into the driveway, making that part of her property useless. Homeowner demanded that neighbor fill in the property to buttress the erosion created. That was not done and the erosion continued to occur. Homeowner sued and asked for an injunction compelling the neighbor to build and maintain a retaining wall. Will the court rule for the plaintiff/homeowner?\n\nFor this question, four choices are provided:\n(A) Yes, because excavation is an abnormally dangerous activity and neighbor is absolutely liable for any damages caused by the violation.\n(B) Yes, because every landowner has a right to the lateral support of the soil in its natural state.\n(C) No, because the neighbor did not go onto the adjacent land and confined all excavation to his own land.\n(D) No, the right to lateral support is a common law right that has been abrogated by statute in virtually all states so that the right no longer exists.\n\nPlease choose the correct answer from the above choices.",
+    "expected_answer": "(B) Yes, because every landowner has a right to the lateral support of the soil in its natural state.",
+    "difficulty": "expert",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "MMLU_307",
+    "domain": "Law",
+    "task_type": "Legal General",
+    "prompt": "The defendant has been charged with murder in the killing of his wife. The defense attorney is preparing a defense to show facts sufficient to support a verdict of voluntary manslaughter. Counsel has to prove all of the necessary elements during trial in order to support a voluntary manslaughter charge to the jury. Which of the following would not be proper proof to establish a voluntary manslaughter charge to the jury?\n\nFor this question, four choices are provided:\n(A) The defendant acted several days after the provoking events.\n(B) The defendant acted in an overpowering heat of passion.\n(C) The defendant was provoked by accidentally seeing his wife having sexual relations with his best friend.\n(D) The defendant acted without deliberation and premeditation.\n\nPlease choose the correct answer from the above choices.",
+    "expected_answer": "(A) The defendant acted several days after the provoking events.",
+    "difficulty": "expert",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "MMLU_309",
+    "domain": "Law",
+    "task_type": "Legal General",
+    "prompt": "Two people who have been cohabitating decide to get married. The man asks the woman to agree that all of his property that he now owns will remain in his name if they ever get divorced. She agrees to that but demands a written document. However, they got married without having signed anything. Three months later, the husband leaves the wife for another woman. He sends her notice to vacate the home due to their prenuptial agreement. When she doesn't move, husband sues, asking for enforcement of the oral prenuptial contract. Will the court likely enforce the husband's claim?\n\nFor this question, four choices are provided:\n(A) Yes, because the consideration for the contract was the marriage and the consummation of the marriage made the contract complete and enforceable.\n(B) Yes, because prenuptial agreements are given the benefit of the doubt when it comes to enforcement decisions.\n(C) No, because a contract in consideration of marriage must be in writing and the prenuptial was therefore not legal as long as it remained oral.\n(D) No, because husband did not live up to his promise to put the agreement in writing and therefore he was guilty of fraud.\n\nPlease choose the correct answer from the above choices.",
+    "expected_answer": "(C) No, because a contract in consideration of marriage must be in writing and the prenuptial was therefore not legal as long as it remained oral.",
+    "difficulty": "expert",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "MMLU_318",
+    "domain": "Law",
+    "task_type": "Legal General",
+    "prompt": "The state registrar of elections refused to put a candidate's name on the ballot because the registrar believed that the candidate was not a resident of the state. The registrar contended that Article I, Section 2 of the U. S. Constitution specifically required a candidate for the House of Representatives \"be an Inhabitant of that State in which he shall be chosen. \" As a consequence, the candidate filed suit in state court against the registrar of elections seeking to have her name placed on the ballot. The state court ruled in her favor and determined that the candidate did, in fact, qualify as a resident of the state. The registrar appealed the decision to the state supreme court which, in turn, affirmed the lower court ruling. Thereafter, the candidate's name was placed on the ballot. After a hotly contested election, the candidate narrowly defeated the incumbent. However, at the time that the candidate was to be seated as a House member, the House of Representatives held hearings on her qualifications and eligibility. By a two-thirds vote, the House determined that the candidate was not a resident of the state at the time of her election and refused to seat her. The candidate then brought suit in federal district court against the Speaker and other officers of the House, seeking back pay and an order that she be seated in the House of Representatives. The defendants demurred, claiming lack of subject matter jurisdiction. Which of the following is the strongest constitutional argument supporting the defendants' demurrer?\n\nFor this question, four choices are provided:\n(A) There is no case or controversy between the candidate and the officers of the House of Representatives.\n(B) The case presents a nonjusticiable political question.\n(C) The suit should have been brought as an original action in the U. S. Supreme Court.\n(D) Under Article III of the Constitution, the federal courts are not empowered to render advisory opinions.\n\nPlease choose the correct answer from the above choices.",
+    "expected_answer": "(B) The case presents a nonjusticiable political question.",
+    "difficulty": "expert",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "MMLU_322",
+    "domain": "Law",
+    "task_type": "Legal General",
+    "prompt": "As a result of the increasing northward movement of the population from a nearby city, a town enacted a zoning ordinance restricting present and future land use in the town to single family dwellings, except in the downtown commercial shopping area, and except for a small area in which multifamily dwellings not over 40 feet in height were permitted. In addition, all new construction or exterior modifications of existing buildings required prior approval of an aesthetic control board. The zoning ordinance defined the term \"family\" in the context of single family dwellings to mean only one or more persons related by marriage, blood, or adoption, thereby excluding unrelated, unmarried persons from residing in a single residence unit. The enabling legislation contained the following provision:\"This enactment is necessary to preserve the physical and social homogeneity of this community, and preserve and protect the quality of life of its citizens. \"A town resident owns a single family residence with five bedrooms. Prior to the enactment of the zoning ordinance, the resident leased the premises on a month-to-month basis to a boyfriend and girlfriend and three other male law students. The five individuals are all unmarried and attend the nearby law school. The resident now brings suit to enjoin enforcement of the ordinance against himself. Which of the following is the most accurate statement regarding the constitutionality of the zoning ordinance provision that prohibits unrelated, unmarried persons from residing in a single family residence?\n\nFor this question, four choices are provided:\n(A) The zoning ordinance provision would be declared unconstitutional as violative of the due process clause of the Fourteenth Amendment.\n(B) The zoning ordinance would be declared unconstitutional as violative of the equal protection clause of the Fourteenth Amendment.\n(C) The zoning ordinance provision would be declared unconstitutional as violative of the resident's rights under the contract clause.\n(D) The zoning ordinance provision would be upheld as constitutional under the state's police power.\n\nPlease choose the correct answer from the above choices.",
+    "expected_answer": "(D) The zoning ordinance provision would be upheld as constitutional under the state's police power.",
+    "difficulty": "expert",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "MMLU_326",
+    "domain": "Law",
+    "task_type": "Legal General",
+    "prompt": "A man decided to enroll in a creative writing course at a local adult education facility. The man signed an agreement with the facility that he would attend weekly classes at the facility for six months and would pay $500 on the first of each month. Upon signing the contract, the man made his first payment of $500 and attended the weekly class sessions. On the first day of the second month, the man once again made his $500 payment and continued to attend the session. At the start of the third month, the man told the director of the facility's accounting office that he was having financial difficulties, and asked for an extension. The director agreed to permit the man to attend classes while the man tried to get the money to pay the facility. One week later, the man received a letter from the facility informing him that he would be barred from attending any further classes unless the next $500 payment was made. Is the facility justified in refusing to permit the man to attend classes?\n\nFor this question, four choices are provided:\n(A) No, because by permitting the man to attend classes without having paid the third monthly installment, the facility waived its right to have that installment fee paid on time.\n(B) No, because the facility's allowing the man to attend classes without paying the third monthly installment created an implied contract, thus permitting him to complete the classes without advance payment of the installments.\n(C) Yes, because the man's failure to make the third monthly installment payment constituted an anticipatory breach.\n(D) Yes, because there was no consideration to extinguish the payment of the third monthly installment fee, which was a material part of the contract.\n\nPlease choose the correct answer from the above choices.",
+    "expected_answer": "(D) Yes, because there was no consideration to extinguish the payment of the third monthly installment fee, which was a material part of the contract.",
+    "difficulty": "expert",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "MMLU_330",
+    "domain": "Law",
+    "task_type": "Legal General",
+    "prompt": "A man who owned a business believed that one of his employees was stealing computer equipment from the business. He decided to break into the employee's house one night, when he knew that the employee and her family would be away, to try to find and retrieve the equipment. The man had brought a picklock to open the employee's back door, but when he tried the door, he found that it was unlocked, so he entered. As the man was looking around the house, he heard sounds outside and became afraid. He left the house but was arrested by police on neighborhood patrol. What is the man's strongest defense to a burglary charge?\n\nFor this question, four choices are provided:\n(A) The back door to the house was unlocked.\n(B) The burglary was abandoned.\n(C) The house was not occupied at the time of his entry.\n(D) The man did not intend to commit a crime inside the house.\n\nPlease choose the correct answer from the above choices.",
+    "expected_answer": "(D) The man did not intend to commit a crime inside the house.",
+    "difficulty": "expert",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "MMLU_362",
+    "domain": "Law",
+    "task_type": "Legal General",
+    "prompt": "A landowner, her aunt, and her brother are the owners of three contiguous lots. A downward slope exists from the landowner's land to the brother'sland. The aunt, the owner in the middle of the three lots, was an amateur scientist. She began experimentation with electricity, using a lightning rod to conduct her experiments. Frequently, the electrical storms apparently originated in and over the area within which the brother's land is located. Because of this, the aunt would often angle her rod over the fence between her property and the brother's property to maximize her chances of success. After one entire rainy and windy season of experiments, the brother had grown tired of the aunt's lightning-rod intrusions because they interfered with his ham radio operations in his garage. The brother brought suit to enjoin such lightning-rod experiments. At trial, it was found that the aunt had been conducting her activities in the airspace directly above the brother's land. The court should\n\nFor this question, four choices are provided:\n(A) enjoin the aunt's experiments because they constitute an unreasonable interference with the space above the brother's land.\n(B) enjoin the aunt's experiments because one does not have the right to engage in such scientific experiment without permission.\n(C) not enjoin the aunt's lightning rod experiments if they were necessary to protect her property from the electrical storms.\n(D) not enjoin the aunt's experiments because the brother does not own the space above his land.\n\nPlease choose the correct answer from the above choices.",
+    "expected_answer": "(A) enjoin the aunt's experiments because they constitute an unreasonable interference with the space above the brother's land.",
+    "difficulty": "expert",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "MMLU_379",
+    "domain": "Law",
+    "task_type": "Legal General",
+    "prompt": "A state legislature has recently enacted a statute requiring all prospective voters in state electionswho wish to write-in a candidate to print the candidate's full name, and designate the office for which the candidate is running. The statute provides that such information must be written on the ballot in ink in an appropriate space. A write-in candidate for the office of Attorney General is a Chinese-American. The candidate is of the opinion that he needs a large turnout of Chinese voters in order to win the election. As a result, his campaign manager decides to mail to every registered Chinese voter a tear-off sticker, which bears the candidates name along with the office of Attorney General. Since many native Chinese people are not proficient in reading and writing English, the campaign manager believes that many of the voters will have difficulty writing the candidate's name and office on the ballot. As a result, the campaign manager has mounted an extensive media campaign to inform voters on how to apply the stickers to the ballot. Five months prior to the election an election official notifies the candidate's campaign committee that the tear-off stickers do not comply with the state statute. In her letter, the official explains that state election officials are of the opinion that it is necessary for potential voters to write the candidate's name in ink. Therefore, she concludes that the stickers do not comply with statutory requirements. Three weeks later, the candidate filed suit in federal district court against the election officials, claiming that their interpretation of the state statute violates the U. S. Constitution. Thereafter, one of the candidate's opponents filed suit in state court seeking to prevent state election officials from counting any write-in ballots with stickers. The state court has now scheduled a prompt hearing on this matter. In addition, the state court has indicated that it hopes to render a decision on the merits within the next three weeks. Which of the following statements is correct concerning the federal court's adjudication of the candidate's suit?\n\nFor this question, four choices are provided:\n(A) The federal court should hear the case on the merits.\n(B) The federal court should refuse to hear the case because it presents a nonjusticiable political question.\n(C) The federal court should refuse to hear the case because of the abstention doctrine.\n(D) The federal court should remand the case to the state court to decide the constitutional issue presented.\n\nPlease choose the correct answer from the above choices.",
+    "expected_answer": "(C) The federal court should refuse to hear the case because of the abstention doctrine.",
+    "difficulty": "expert",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "MMLU_388",
+    "domain": "Law",
+    "task_type": "Legal General",
+    "prompt": "A man was under custodial interrogation as a suspect in the murder of a child. The police initially gave him a written list of his Miranda rights. They told him to read the list out loud, which he did. They then asked him if he understood the right to remain silent and to have a lawyer present and he nodded affirmatively. He refused to sign the writing but did not ask for an attorney. During the next three hours they interrogated him and got few answers; he was largely silent but did respond at times with a \"no\" or \"yes\" or a nod of the head. Then one of the detectives asked him if he was ready to ask God for forgiveness for killing the child. His eyes welled with tears and he said \"yes.\" This opened further questioning leading to his admission of guilt. He would not sign a written confession or a waiver of the right to remain silent. He was arrested for murder and moved to suppress the confession. Will the court suppress the confession as being involuntarily given?\n\nFor this question, four choices are provided:\n(A) No, the circumstances indicate that he understood that he could stop the questioning and get a lawyer but he did not do so.\n(B) No, whenever a written list of Miranda warnings is given to a suspect and he doesn't ask for a lawyer, this is proof that the suspect fully understands his rights.\n(C) Yes, the confession must be suppressed because he was questioned for over three hours, making anything he said essentially involuntary.\n(D) Yes, the use of religious deception to get a suspect to admit to crime renders the confession involuntary.\n\nPlease choose the correct answer from the above choices.",
+    "expected_answer": "(A) No, the circumstances indicate that he understood that he could stop the questioning and get a lawyer but he did not do so.",
+    "difficulty": "expert",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "MMLU_393",
+    "domain": "Law",
+    "task_type": "Legal General",
+    "prompt": "The police were called to a domestic dispute. The wife told police that her husband was abusive and that he was a heavy cocaine user. The husband was present and denied the allegation. Police asked for permission to search the premises for drugs, which was consented to by the wife. The husband, however, refused to consent to the search. The police went ahead anyway and found drugs in the husband's belongings. After being arrested on drug charges, the husband filed a motion for suppression of the evidence based on lack of consent. What should be the likely decision of the trial court?\n\nFor this question, four choices are provided:\n(A) The search was invalid and the evidence must be suppressed because the co-occupant of the premises was present and specifically refused to give consent to the search.\n(B) The search was valid because the cases say that one occupant's consent to the search overrules the other occupant's refusal to consent.\n(C) The search was valid because the wife's statement established probable cause that a crime was being committed \u0080\u0093 this created exigent circumstances for the search.\n(D) The search was invalid because, even though consent was given, the police must first attempt to get a search warrant to enter a home.\n\nPlease choose the correct answer from the above choices.",
+    "expected_answer": "(A) The search was invalid and the evidence must be suppressed because the co-occupant of the premises was present and specifically refused to give consent to the search.",
+    "difficulty": "expert",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "MMLU_395",
+    "domain": "Law",
+    "task_type": "Legal General",
+    "prompt": "A man claims to have inherited property from a wealthy businessman. The man's birth certificate shows that he was born out of wedlock. The record of a proceeding for a support order shows that the businessman was adjudged to be father of the man. However, the man can establish his status as heir of the businessman only if he was legitimated by the marriage of his mother and the businessman subsequent to his birth. Thus, the man must prove that this marriage occurred. The man's attorney has not been able to discover any marriage license or certificate. However, the attorney does have a photograph that shows a couple dressed in wedding clothes. The scene is the front of a church. Bystanders are seen to be throwing rice at the couple and they seem to be responding by smiling and bowing down. The attorney was given the photograph by the man. He found it in his mother's effects following her death. The man believes that the bride in the picture is his mother. He cannot identify the groom. The attorney was informed by a former acquaintance of the businessman who has seen the snapshot that he thinks the groom is the businessman. If the attorney seeks to introduce the photograph as proof that the mother and the businessman were married, the trial judge should rule the photograph\n\nFor this question, four choices are provided:\n(A) admissible, only if the photographer is available to testify concerning the circumstances under which the photograph was taken.\n(B) admissible, only if a witness verifies that it is a correct and accurate representation of the relevant facts.\n(C) inadmissible as non-verbal hearsay not within any recognized exception.\n(D) inadmissible as not the best evidence.\n\nPlease choose the correct answer from the above choices.",
+    "expected_answer": "(B) admissible, only if a witness verifies that it is a correct and accurate representation of the relevant facts.",
+    "difficulty": "expert",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "MMLU_411",
+    "domain": "Law",
+    "task_type": "Legal General",
+    "prompt": "A man hired a videographer to film his daughter's wedding. The written contract entered included a \"payment clause,\" which provided that the videographer would be \"paid $10,000 for the filming and editing of a 60-minute video of the wedding and the reception. \" The man included in the contract a stipulation that the video would be filmed using high definition equipment. The contract made no other reference to compensation. Thereafter, the videographer filmed and edited the 60-minute video, using high definition equipment, and presented it to the man. The videographer then submitted to the man an invoice statement in the amount of $15,000. Besides the $10,000 contract figure, the bill included a $5,000 charge for the use of the high definition equipment. Denying any additional liability, the man sent the videographer a check for $10,000. The videographer then brought suit against the man to recover the additional $5,000. Which of the following arguments would be most persuasive to support the videographer's contention that when the written contract was executed, the man agreed to pay the videographer $5,000 for use of the high definition equipment in addition to the $10,000 fee?\n\nFor this question, four choices are provided:\n(A) According to the customary trade practice of the video industry, a $10,000 fee for filming and editing means $10,000 in addition to a supplemental charge if high definition equipment is used.\n(B) An oral agreement to that effect, if provable, would only supplement, not contradict, the \"payment clause\" as written.\n(C) Under the UCC, extrinsic evidence, if available, of additional terms agreed to by the parties is admissible unless such terms \"would certainly vary or contradict those contained in the document. \"\n(D) Assuming arguendo that the written \"payment clause\" was fully integrated and neither patently nor latently ambiguous, equitable considerations require admission of extrinsic evidence, if available, of the parties' intent, since the videographer would stand to lose $5,000 on the contract.\n\nPlease choose the correct answer from the above choices.",
+    "expected_answer": "(A) According to the customary trade practice of the video industry, a $10,000 fee for filming and editing means $10,000 in addition to a supplemental charge if high definition equipment is used.",
+    "difficulty": "expert",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "MMLU_412",
+    "domain": "Law",
+    "task_type": "Legal General",
+    "prompt": "A group of women employed by a state government recently sued the state under Title VII of the Civil Rights Act of 1964, on the basis of allowing the creation of a hostile work environment against them. An amendment to that act extends coverage to the states as employers. The federal district court allowed an injunction to prevent further discrimination but refused to allow money damages and legal fees against the state on the basis of 11th Amendment sovereign immunity. The plaintiffs appealed. What should the Court of Appeals decide based on the established jurisprudence regarding sovereign immunity?\n\nFor this question, four choices are provided:\n(A) There is no sovereign immunity due to the First Amendment rights of the women to protest against discrimination.\n(B) There is sovereign immunity that protects a state from any lawsuit by private citizens that the state does not authorize.\n(C) There is no sovereign immunity where the federal law provides a remedy to women in a civil rights law intended to apply the Fourteenth Amendment enforcement rights against the states.\n(D) There is sovereign immunity under the Supremacy Clause and it would take a new constitutional amendment to abrogate the immunity granted to the states.\n\nPlease choose the correct answer from the above choices.",
+    "expected_answer": "(C) There is no sovereign immunity where the federal law provides a remedy to women in a civil rights law intended to apply the Fourteenth Amendment enforcement rights against the states.",
+    "difficulty": "expert",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "MMLU_431",
+    "domain": "Law",
+    "task_type": "Legal General",
+    "prompt": "On January 1, an employee is hired to work for an employer for one year at a weekly salary of $500. After six months the employee is fired. In determining what rights the employee has against the employer, the agreement between the employer and the employee may best be interpreted as\n\nFor this question, four choices are provided:\n(A) an entire contract.\n(B) a divisible contract.\n(C) an installment contract.\n(D) neither divisible nor entire.\n\nPlease choose the correct answer from the above choices.",
+    "expected_answer": "(B) a divisible contract.",
+    "difficulty": "expert",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "MMLU_432",
+    "domain": "Law",
+    "task_type": "Legal General",
+    "prompt": "A plaintiff is the beneficiary of a policy issued by an insurance company insuring the life of his wife, now deceased. The policy contains a clause providing that double indemnity is payable in the event that death of the insured \"results directly, and independently of all other causes, from bodily injury effected solely through external violent and accidental means. \"The plaintiff's wife met her death in the silage shed of her farm. The death resulted from wounds caused by the discharge of a double-barreled shotgun. The plaintiff was arrested and prosecuted for the murder of his wife. After a lengthy trial, the plaintiff was acquitted of the charge. After the insurance company refused to pay the plaintiff's insurance claim, the plaintiff instituted this civil action. The complaint sets forth the policy, alleges the facts surrounding the death of the insured, avers that the death was within the policy provisions for double indemnity payment, and demands judgment accordingly. At trial, the insurance company's attorney proposes to introduce excerpts from the plaintiff's murder trial. The plaintiff's attorney objects to the introduction of such evidence. The trial judge should rule the proffered evidence\n\nFor this question, four choices are provided:\n(A) admissible as a declaration against interest.\n(B) admissible as former testimony.\n(C) inadmissible, because of collateral estoppel.\n(D) inadmissible, because of double jeopardy.\n\nPlease choose the correct answer from the above choices.",
+    "expected_answer": "(B) admissible as former testimony.",
+    "difficulty": "expert",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "MMLU_435",
+    "domain": "Law",
+    "task_type": "Legal General",
+    "prompt": "A paper manufacturing company contracted with a construction company for the building of a new warehouse. The contract provided that the construction company would be paid upon completion of the warehouse. The contractor finished the warehouse but it had some minor deviations from the plans due to substitution for certain building materials that were not available in the market. The construction company finished working and demanded payment. The paper company refused to pay based on deviations from the specifications. Will the construction company likely prevail in a breach of contract action against the paper company?\n\nFor this question, four choices are provided:\n(A) Yes, a company that performs construction work can always collect for what it has done on a job.\n(B) No, the construction company cannot change the specifications and hope to get paid.\n(C) No, the construction company is guilty of fraud and misrepresentation.\n(D) Yes, the construction company has substantially performed the contract.\n\nPlease choose the correct answer from the above choices.",
+    "expected_answer": "(D) Yes, the construction company has substantially performed the contract.",
+    "difficulty": "expert",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "MMLU_436",
+    "domain": "Law",
+    "task_type": "Legal General",
+    "prompt": "A mother whose child had birth defects sued the pharmaceutical company that made the purportedly dangerous drug prescribed to her during pregnancy. At trial, she offered an expert witness to prove that the drug was a substantial factor in causing the baby's injuries. The expert was a Ph.D. medical researcher with an additional degree in computer science. He had experience in the research and development of similar drugs for other large pharmaceutical companies. He had published relevant articles in peer review journals describing the dangers of these types of drugs. The findings were endorsed by other experts in the field. On the subject litigation, he performed a differential diagnosis, conducted several scientifically valid tests, and made various calculations. He concluded that the drug was the culprit in this case. The Defendants made a Daubert motion challenging the witness' qualifications and the reliability of his testimony, arguing he was a mere researcher and not a physician. Is the court likely to grant the motion and preclude the witness as an expert?\n\nFor this question, four choices are provided:\n(A) Yes, the proposed testimony was not reliable in that it was based on scientific testing only and did not discuss medical science or rule out other causes.\n(B) No, the testimony was admissible because several factors militated in favor of the expert's opinion being reliable, and thus helpful to the jury in determining the critical issue of causation.\n(C) Yes, the proposed testimony was inadmissible because it was general and did not tie in the expert's knowledge with the case being litigated.\n(D) No, the testimony was admissible because the expert's opinion was so authoritative that the court would order the jury to adopt its findings as a matter of law.\n\nPlease choose the correct answer from the above choices.",
+    "expected_answer": "(B) No, the testimony was admissible because several factors militated in favor of the expert's opinion being reliable, and thus helpful to the jury in determining the critical issue of causation.",
+    "difficulty": "expert",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "MMLU_460",
+    "domain": "Law",
+    "task_type": "Legal General",
+    "prompt": "A senator, had been a state senator for three years. During that period of time, it had been his regular practice to stay at a hotel in the state's capital while the legislature was in session (namely from September through March). As a general rule, the senator stayed at the hotel each and every night during that seven-month period. When the senator checked into the hotel on September 1, 2007 for the 2007 \u0080\u00942008 term, the hotel manager quoted the senator his usual senatorial discount rate of $50 per night. Although nothing was said regarding payment terms, the senator customarily paid the bill in weekly installments. During the months of September and October, he paid the hotel at the end of each week $350 plus tax and other accumulated expenses. On the last day of October, the senator made his usual weekly payment covering the rental period from October 25 to October 31. Then, on the morning of November 4 (before checkout time for that day), the senator decided to suddenly move out of the hotel and register at a new motel located two blocks away. He notified the manager at the hotel of his intent to check out and tendered a check for $150 plus tax and other incidental charges incurred from November 1 through November 3. When the manager noticed that the senator was paying only for three days, she remarked, \"You still owe us $200 plus tax for the rest of the week and $350 plus taxes for an additional week because you didn't give us a week's notice that you planned to vacate. \" The senator refused to pay the additional charges. If the hotel brings suit against the senator to recover for the unpaid balance, how many additional days lodging will he be required to pay for?\n\nFor this question, four choices are provided:\n(A) None.\n(B) Four.\n(C) Seven.\n(D) Eleven.\n\nPlease choose the correct answer from the above choices.",
+    "expected_answer": "(A) None.",
+    "difficulty": "expert",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "MMLU_464",
+    "domain": "Law",
+    "task_type": "Legal General",
+    "prompt": "A teenage girl was walking on a street in a retail area. She was carrying a purse and shopping bags. A police officer noticed her and, on a hunch, conducted a random search. He found a variety of jewelry with price tags and no receipts. A jewelry store owner in the vicinity stated that the jewelry was stolen a few minutes earlier, and the girl may have been a customer at that time. She was arrested for theft. The girl's counsel filed a motion to suppress the evidence. Will the judge likely order suppression of the evidence?\n\nFor this question, four choices are provided:\n(A) Yes, there was no reasonable suspicion or probable cause for the officer to stop and search her.\n(B) No, authorities are always allowed to \u0080\u0098stop and frisk' anyone to see what they are carrying.\n(C) No, the search was legal because a teenager carrying bags on a downtown street is a suspicious person.\n(D) Yes, the officer did not get a search warrant even though he had probable cause.\n\nPlease choose the correct answer from the above choices.",
+    "expected_answer": "(A) Yes, there was no reasonable suspicion or probable cause for the officer to stop and search her.",
+    "difficulty": "expert",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "MMLU_521",
+    "domain": "Law",
+    "task_type": "Legal General",
+    "prompt": "An employer and employee had an employment contract that contained an \"at will\" provision allowing either party to terminate the employment upon reasonable notice. One year later, the employer had the employee sign a covenant not to compete for a two-year period after termination. Two years later, the employee quit and went to work for a competitor company. The prior employer sued, asking for a preliminary injunction to enforce the covenant. The employee argued that the covenant was invalid because no consideration passed to her \u0080\u0093 she could be fired at any time and did not receive anything for signing. The employer argued that it provided her with continued employment when it did not have to do so. Does the employer have a legal right to enforce the covenant?\n\nFor this question, four choices are provided:\n(A) Yes, because the employer's providing of continued employment for a substantial period after signing the covenant is adequate consideration.\n(B) Yes, because modification of an existing contract does not require consideration.\n(C) Yes, because the courts never question the adequacy of consideration in an agreement.\n(D) No, because there was inadequate consideration for the covenant.\n\nPlease choose the correct answer from the above choices.",
+    "expected_answer": "(A) Yes, because the employer's providing of continued employment for a substantial period after signing the covenant is adequate consideration.",
+    "difficulty": "expert",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "MMLU_523",
+    "domain": "Law",
+    "task_type": "Legal General",
+    "prompt": "A man mailed a letter to a woman promising to sell her his motorcycle for $1,000. After receiving the letter, the woman sent the man a fax that stated, \"The price is a little high, I'll give you $800. \" The man responded by fax, \"I will not accept $800. \" The next day, the woman telephoned the man and said, \"I changed my mind, I will pay $1,000 for the motorcycle. \" The man refused to sell the woman his motorcycle. If the woman sues the man for breach of contract, which of the following defenses would be the man's best defense?\n\nFor this question, four choices are provided:\n(A) Since the woman's purported acceptance was oral, it constituted a different mode of communication from the written offer.\n(B) The contract was unenforceable under the statute of frauds, because the woman's purported acceptance was oral.\n(C) The woman's counter offer terminated her power of acceptance.\n(D) The man's rejection of the woman's counter offer terminated the woman's power of acceptance.\n\nPlease choose the correct answer from the above choices.",
+    "expected_answer": "(C) The woman's counter offer terminated her power of acceptance.",
+    "difficulty": "expert",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "MMLU_540",
+    "domain": "Law",
+    "task_type": "Legal General",
+    "prompt": "The attorney for a plaintiff in an action filed in federal district court served the defendant with the summons, the complaint, and 25 interrogatories asking questions about the defendant's contentions in the case. The interrogatories stated that they were to be answered within 30 days after service. The defendant is likely to succeed in obtaining a protective order on which of the following grounds?\n\nFor this question, four choices are provided:\n(A) Interrogatories are only proper to discover facts, not contentions.\n(B) Interrogatories may not be served until an answer to the complaint is filed.\n(C) Interrogatories may not be served until the parties have conferred to arrange for initial disclosures and prepare a discovery plan.\n(D) The interrogatories exceed the number permitted without permission from the court or an agreement between the parties.\n\nPlease choose the correct answer from the above choices.",
+    "expected_answer": "(C) Interrogatories may not be served until the parties have conferred to arrange for initial disclosures and prepare a discovery plan.",
+    "difficulty": "expert",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "MMLU_541",
+    "domain": "Law",
+    "task_type": "Legal General",
+    "prompt": "A property owner owned a 30-acre tract of land located on the outskirts of a community. After prosperity burst upon the community, the property owner subdivided the property into 30 lots and built townhouses on each of the lots. After selling all 30 of the lots, the various homeowners formed a homeowners' association. Thereafter, the homeowners' association adopted a Declaration of Covenants, which provided, inter alia, that each homeowner was required to pay an annual assessment charge to be used \"for the promotion of the health, safety, and welfare of residents within the subdivision and for the enhancement of education, social life, and community welfare. \"The homeowners' association then properly and legally assessed each homeowner an assessment charge of $750. An owner of a townhouse in the subdivision refused to pay the assessment. The townhouse owner was experiencing financial problems and claimed that she couldn't afford to pay the $750. As a result, the president of the homeowners' association sent the townhouse owner the following letter:\"Article 1 of the Declaration of Covenants requires all homeowners to pay their annual assessment charge on the first day of January for the said year. Because of your failure to make this payment, the homeowners' association shall have the right to collect the amount due by action of law. Your prompt attention to this matter is greatly appreciated. \"Three weeks elapsed, and the president of the homeowners' association did not receive any response from the townhouse owner. He then wrote her a second letter that stated:\"Before it institutes legal action, this is the homeowners' association's final demand for your $750 assessment charge. It is unfortunate that deadbeats like you ruin our community. \"A copy of this letter was mailed to the other29 residents of the development. The presidenteven sent a copy of the letter to the editor of thecounty newspaper, which had a circulation of20,000 subscribers. In its next edition, the countynewspaper published the president's letter on itseditorial page. If the townhouse owner sues the president for defamation, she will probably\n\nFor this question, four choices are provided:\n(A) not prevail, because the president was acting to protect a legitimate public interest.\n(B) not prevail, because the statement involves only an expression of opinion.\n(C) prevail, because the president obviously acted with malice by sending the letter to the newspaper.\n(D) prevail, because the language of the president's letter would be highly offensive to reasonable persons.\n\nPlease choose the correct answer from the above choices.",
+    "expected_answer": "(B) not prevail, because the statement involves only an expression of opinion.",
+    "difficulty": "expert",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "MMLU_575",
+    "domain": "Law",
+    "task_type": "Legal General",
+    "prompt": "New York State has a criminal statute making it illegal to knowingly interfere with the operation of government with malicious intent. Corry is a computer hacker, who shut down the New York government's website by infecting it with a virus. The virus entered the electronic mail of users and mailed itself to every address listed in each user's e-mail address book every two hours. The website was crippled for the last week of January. The state passed a law in February clarifying that knowingly infecting the state's internet server with a computer virus met the definition of interference in the statute. During the subsequent criminal trial against Corry in March, the state asked for a jury instruction based on the statutory computer virus clarification. The defense objects to the instruction. How should the state court judge rule?\n\nFor this question, four choices are provided:\n(A) Reject the instruction, based on ex post facto.\n(B) Reject the instruction as a violation of due process.\n(C) Admit the instruction, because the law was passed before the prosecution was initiated.\n(D) Admit the instruction, as a bill of attainder.\n\nPlease choose the correct answer from the above choices.",
+    "expected_answer": "(A) Reject the instruction, based on ex post facto.",
+    "difficulty": "expert",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "MMLU_580",
+    "domain": "Law",
+    "task_type": "Legal General",
+    "prompt": "A federal grand jury was investigating a corporation whose tanker ship had spilled crude oil into environmentally sensitive waters. The grand jury issued a subpoena requiring the corporation to produce all emails and internal documents regarding the corporation's knowledge of the risks of an oil spill. The corporation has objected, citing its Fifth Amendment privilege against self-incrimination. Can the subpoena be enforced?\n\nFor this question, four choices are provided:\n(A) No, because the corporation was not granted transactional immunity.\n(B) No, because the corporation was not granted use-and-derivative-use immunity.\n(C) Yes, because a corporation has no Fifth Amendment privilege.\n(D) Yes, because the Fifth Amendment privilege does not apply to the compelled production of documents.\n\nPlease choose the correct answer from the above choices.",
+    "expected_answer": "(C) Yes, because a corporation has no Fifth Amendment privilege.",
+    "difficulty": "expert",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "MMLU_622",
+    "domain": "Law",
+    "task_type": "Legal General",
+    "prompt": "At approximately 3:00 p. m. on December 3, a motorist was speeding down a street at the same time that a pedestrian was crossing the street. When the pedestrian started to cross the street, she saw the traffic light was red. She momentarily stopped, thought about waiting until the light turned green, but then decided to cross anyway. As the pedestrian was halfway across the street, the motorist, who was driving 50 m. p. h. in a 25 m. p. h. zone, struck her with his vehicle. The pedestrian suffered a broken pelvis and internal injuries in the accident. While in the hospital, the pedestrian's insurance company paid $10,000 of her medical expenses. Six months later, the pedestrian brought suit against the motorist to recover damages for all her medical expenses. This jurisdiction has a \"modified\" comparative negligence statute in effect. Suppose a jury returned a special verdict with the following findings: (1) The motorist was 60 percent negligent in speeding; (2) The pedestrian was 40 percent at fault in crossing the street against the red light; and (3) The pedestrian suffered damages from the accident totaling $50,000. After the verdict, the court was advised that the pedestrian's insurance company had already paid the pedestrian $10,000. As a result, the court should enter a judgment for the pedestrian in the amount of\n\nFor this question, four choices are provided:\n(A) $50,000, because the motorist's negligence was greater than the pedestrian's.\n(B) $30,000, the proportion of the pedestrian's damages caused by the motorist's negligence, but the payment of $10,000 in hospital expenses will be disregarded under the collateral source rule.\n(C) $20,000, the proportion of the pedestrian's damages caused by her own negligence, but the payment of $10,000 in hospital expenses will be disregarded under the collateral source rule.\n(D) $10,000, the proportion of the pedestrian's damages caused by her own negligence, less the $10,000 in hospital expenses already paid by the insurance company.\n\nPlease choose the correct answer from the above choices.",
+    "expected_answer": "(B) $30,000, the proportion of the pedestrian's damages caused by the motorist's negligence, but the payment of $10,000 in hospital expenses will be disregarded under the collateral source rule.",
+    "difficulty": "expert",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "MMLU_656",
+    "domain": "Law",
+    "task_type": "Legal General",
+    "prompt": "Which of the following is a legislative act that inflicts punishment without a trial?\n\nFor this question, four choices are provided:\n(A) Bill of attainder\n(B) Ex post facto law\n(C) Statutes\n(D) Ordinances\n\nPlease choose the correct answer from the above choices.",
+    "expected_answer": "(A) Bill of attainder",
+    "difficulty": "expert",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "MMLU_663",
+    "domain": "Law",
+    "task_type": "Legal General",
+    "prompt": "A woman took her car to a mechanic to be serviced. After doing a thorough inspection of the car, the mechanic told the woman that her car needed extensive work and that he could do all that was needed for $1,000. The parties then entered into a written contract to have the car serviced for $1,000. As the woman remembers it, at the time the written contract was formed, the parties orally agreed that if the car required any additional servicing above that detailed in the contract, it would be included in the $1,000 fee. The mechanic, however, has no recollection of any such oral agreement. While servicing the car, the mechanic discovered that a belt was severel' worn and need to be replaced. The belt replacement was not listed as work to be performed in the written contract. The mechanic telephoned the woman and told her he had found the worn belt and felt he should replace it. The woman told him to do so. When the mechanic was finished, he presented the woman with a bill for $1,100, representing the $1,000 called for by the contract and $100 for the replacement of the worn belt, which is a reasonable amount. The woman refused to pay any more than$1,000. The mechanic sued the woman to collect the $100 for the replacement of the worn belt. If the court rules in favor of the mechanic, which of the following is the most likely cause for such a ruling?\n\nFor this question, four choices are provided:\n(A) The writing was construed as a complete integration of the parties' agreement.\n(B) The writing was construed as a partial integration of the parties' agreement.\n(C) An implied-in-law contract was created at the moment the mechanic replaced the worn belt.\n(D) The parties entered into a collateral oral agreement for the replacement of the worn belt that was excludable from the integrated writing.\n\nPlease choose the correct answer from the above choices.",
+    "expected_answer": "(A) The writing was construed as a complete integration of the parties' agreement.",
+    "difficulty": "expert",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "MMLU_666",
+    "domain": "Law",
+    "task_type": "Legal General",
+    "prompt": "A state statute provides that the crime of assault is generally punishable by a maximum of five years in prison. It further provides that the maximum punishment increases to 10 years in prison if the defendant possessed a deadly weapon during the assault. The statute designates the deadly weapon element as a sentencing factor. A defendant charged with assault has pleaded not guilty and has requested a jury trial. The prosecutor has announced that she will be seeking a 10- year sentence based on the defendant's alleged possession of a deadly weapon. What finding regarding the defendant's possession of a deadly weapon is necessary for the court to impose a 10-year sentence?\n\nFor this question, four choices are provided:\n(A) A judicial finding by a preponderance of the evidence.\n(B) A jury finding by a preponderance of the evidence.\n(C) A judicial finding beyond a reasonable doubt.\n(D) A jury finding beyond a reasonable doubt.\n\nPlease choose the correct answer from the above choices.",
+    "expected_answer": "(D) A jury finding beyond a reasonable doubt.",
+    "difficulty": "expert",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "MMLU_676",
+    "domain": "Law",
+    "task_type": "Legal General",
+    "prompt": "A man worked as a clerk in a gourmet coffee shop. His friend often stopped by the shop to chat with the man while the man was working. One afternoon, while the friend was visiting the shop, the man needed to use the bathroom. There were no customers in the shop at that moment, so the man asked the friend to watch the store for him while he went in the back to use the bathroom. The friend agreed to do so. While the man was in the bathroom, a customer came into the store. She wanted to purchase some freshly ground coffee. The shop had a grinding machine that customers could use. The customer selected a bag of coffee beans and then took it to the grinding machine. She was unsure how to start the machine, so she asked the friend for help. The friend tried to show the customer how to use the machine, but he was not familiar with how it worked, and he gave the customer erroneous instructions. The customer tried to follow the friend's instructions, but this led to her getting her finger pinched and cut by the machine. If the customer asserts a claim against the coffee shop company for her finger injury, the customer will most likely\n\nFor this question, four choices are provided:\n(A) prevail, because the company would be vicariously liable for the man's unauthorized actions.\n(B) prevail, because the friend's negligence would be imputed to the company.\n(C) not prevail, because the man acted outside the scope of employment by entrusting the supervision of the shop to his friend.\n(D) not prevail, because the company is not liable for the friend's negligence.\n\nPlease choose the correct answer from the above choices.",
+    "expected_answer": "(A) prevail, because the company would be vicariously liable for the man's unauthorized actions.",
+    "difficulty": "expert",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "MMLU_689",
+    "domain": "Law",
+    "task_type": "Legal General",
+    "prompt": "The President announced that a newly created military rapid deployment force would be engaging in joint training exercises with the military forces in a foreign country. Following the President's announcement, Congress enacted a statute that unequivocally prohibited \"the U. S. Armed Forces from conducting military exercises with foreign military forces unless Congress has received notice of such intention to take such action at least three months before the joint military exercises become effective. \"This statute is most likely\n\nFor this question, four choices are provided:\n(A) constitutional, because the President, in this instance, has not been called by Congress into actual service as Commander-in-Chief.\n(B) constitutional, because of Congressional power under the War Powers Act.\n(C) unconstitutional, because of the President's authority to execute the laws of the United States.\n(D) unconstitutional, because of the President's authority as Commander-in-Chief of the Armed Forces.\n\nPlease choose the correct answer from the above choices.",
+    "expected_answer": "(A) constitutional, because the President, in this instance, has not been called by Congress into actual service as Commander-in-Chief.",
+    "difficulty": "expert",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "MMLU_709",
+    "domain": "Law",
+    "task_type": "Legal General",
+    "prompt": "In his will, a veterinarian devised his home \"to my friend to whom I am everlastingly grateful for the devoted care she has lavished on my prize Pomeranians, but if ever my dogs who survive me shall fail to receive proper care, then to my beloved son and his heirs, if he be living and own any dogs, otherwise to the American Society for the Protection of Animals. \"Assuming that the Rule against Perpetuities is in effect in this jurisdiction, which of the following statements is correct regarding the son's interest under his father's will?\n\nFor this question, four choices are provided:\n(A) It is a contingent remainder.\n(B) It is an executory interest of a shifting type.\n(C) It is an executory interest of a shifting type that is void under the Rule against Perpetuities.\n(D) It is an executory interest of a springing type that is void under the Rule against Perpetuities.\n\nPlease choose the correct answer from the above choices.",
+    "expected_answer": "(C) It is an executory interest of a shifting type that is void under the Rule against Perpetuities.",
+    "difficulty": "expert",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "MMLU_721",
+    "domain": "Law",
+    "task_type": "Legal General",
+    "prompt": "An avowed member of an antigovernment organization was elected president of a union. A senator, in his investigation of infiltration by antigovernment organizations of national labor unions, found a provision in a law passed by Congress that makes it a crime for a member of an antigovernment organization to act as an official of a labor union. After a subsequent legislative hearing, the president is dismissed from his position by the executive committee of the union. During a legislative hearing, the senator made derogatory statements about the president's involvement in an antigovernment organization. In determining whether the president has a valid cause of action against the senator for defamation, which of the following most accurately summarizes the applicable rule of law?\n\nFor this question, four choices are provided:\n(A) Congressional committees do not have the authority to violate a person's Fifth Amendment privilege against self-incrimination.\n(B) A congressman shall not be questioned in any other place for any speech or debate made by him during a congressional hearing.\n(C) The constitutional requirement for actual malice must be proved by the party defamed in order to recover in a defamation suit.\n(D) It is not a denial of due process or of First Amendment rights for a congressional investigative committee member to make such utterances.\n\nPlease choose the correct answer from the above choices.",
+    "expected_answer": "(B) A congressman shall not be questioned in any other place for any speech or debate made by him during a congressional hearing.",
+    "difficulty": "expert",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "MMLU_730",
+    "domain": "Law",
+    "task_type": "Legal General",
+    "prompt": "A state government enacted a law that prohibited the state's agencies from purchasing services or goods from and companies doing business with Cuba. The federal government at the time was implementing a thaw in relations with the Cuban government. The U.S. Congress passed a statute regarding various policies and dealings toward Cuba. A National Trade Council sued the state in federal court seeking an injunction and declaratory judgment that the state law toward Cuba was unconstitutional. 30 of the business entities that were discriminated against by the state were members of the council. Is the federal court likely to grant the declaratory judgment and declare the state law unconstitutional?\n\nFor this question, four choices are provided:\n(A) No, the state law was consistent with the federal law and with federal policy on Cuba.\n(B) No, a state has the sovereign right to pass its own laws concerning its policies toward foreign countries.\n(C) Yes, the state law is unconstitutional because it denies equal protection to citizens of other states.\n(D) Yes, the state law is unconstitutional because it illegally interfered with the foreign affairs power of the federal government.\n\nPlease choose the correct answer from the above choices.",
+    "expected_answer": "(D) Yes, the state law is unconstitutional because it illegally interfered with the foreign affairs power of the federal government.",
+    "difficulty": "expert",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "MMLU_733",
+    "domain": "Law",
+    "task_type": "Legal General",
+    "prompt": "A construction worker was working at the construction site of a new building. An open elevator, which had been installed in the building by the elevator manufacturer, was used to haul workers and building materials between floors. While the worker was riding the elevator, it stalled between floors due to a manufacturing defect in the elevator. The worker called for assistance and was in no danger, but after waiting 15 minutes for help, he became anxious and jumped 12 feet to get out. He severely injured his back when he landed. In an action by the worker against the elevator manufacturer to recover for his back injury, is the worker likely to obtain a judgment for 100% of his damages?\n\nFor this question, four choices are provided:\n(A) No, because such risks are inherent in construction work.\n(B) No, because the worker was not in danger while on the stalled elevator. while on the stalled elevator.\n(C) Yes, because the elevator stalled due to a manufacturing defect.\n(D) Yes, because the worker was falsely imprisoned in the stalled elevator.\n\nPlease choose the correct answer from the above choices.",
+    "expected_answer": "(B) No, because the worker was not in danger while on the stalled elevator. while on the stalled elevator.",
+    "difficulty": "expert",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "MMLU_741",
+    "domain": "Law",
+    "task_type": "Legal General",
+    "prompt": "A seller signed an agreement to sell a residential parcel to a prospective purchaser. The agreement required her to convey good and marketable title. The title search revealed an open mortgage from a previous owner to a local bank. It was recorded 25 years ago. The mortgagor could not be found and the bank lost its records. The purchase agreement gave the seller 90 days extra in such a situation to clear title by bringing a quiet title action. The seller did not follow that provision and went to settlement with the bad title and demanded more extra time to file a quiet title action. The buyer decided not to wait and demanded her down payment be returned and that the deal be rescinded. Will litigation most likely favor the buyer's position?\n\nFor this question, four choices are provided:\n(A) Yes, because the seller breached the agreement by not following the procedure stated in the purchase agreement.\n(B) No, because the seller always has the right to bring an action for adverse possession against the holder of the open mortgage.\n(C) Yes, because the open mortgage is so old that it would be declared void by all courts.\n(D) No, because the buyer did not act in good faith when it refused to give the seller additional time at the closing.\n\nPlease choose the correct answer from the above choices.",
+    "expected_answer": "(A) Yes, because the seller breached the agreement by not following the procedure stated in the purchase agreement.",
+    "difficulty": "expert",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "MMLU_751",
+    "domain": "Law",
+    "task_type": "Legal General",
+    "prompt": "Fernandez is planning to attend an auction of the assets of Cross & Black, one of his major competitors who is liquidating. In the conduct of the auction, which of the following rules applies?\n\nFor this question, four choices are provided:\n(A) Such a sale is without reserve unless the goods are explicitly put up with reserve.\n(B) A bidder may retract his bid at any time until the falling of the hammer.\n(C) The retraction of a bid by a bidder revives the previous bid.\n(D) If the auction is without reserve, the auctioneer can withdraw the article at any time prior to the fall of the hammer.\n\nPlease choose the correct answer from the above choices.",
+    "expected_answer": "(B) A bidder may retract his bid at any time until the falling of the hammer.",
+    "difficulty": "expert",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "MMLU_755",
+    "domain": "Law",
+    "task_type": "Legal General",
+    "prompt": "A child was playing with a ball in the front yard of his family's home. He accidentally threw the ball too far, and it hit a neighbor's new car. The neighbor was enraged and threatened to kill the child. The child ran inside his house and told his mother what had occurred. Although the child was only mildly upset by the incident, the child's mother was extremely distressed. She suffered an emotional breakdown and needed months of therapy to recover. If the mother sues the neighbor for the mental anguish suffered, she will\n\nFor this question, four choices are provided:\n(A) recover, even though she was not present when the threat was made.\n(B) recover, because she would not have suffered the emotional trauma had it not been for the neighbor's threat to her child's life.\n(C) not recover, because she was not present when the threat was made.\n(D) not recover, because the neighbor did not touch her child.\n\nPlease choose the correct answer from the above choices.",
+    "expected_answer": "(C) not recover, because she was not present when the threat was made.",
+    "difficulty": "expert",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "MMLU_769",
+    "domain": "Law",
+    "task_type": "Legal General",
+    "prompt": "A law student contacted a tutor about the possibility of hiring the tutor to help the law student prepare for his upcoming finals. The tutor sent the law student a copy of the tutor's standard tutorial agreement. The agreement stated that the tutor's rate was $50 per one-hour session. The law student then telephoned the tutor and said, \"This agreement looks fine to me. I'd like you to give me 10 sessions over the next 10 days. \" The tutor replied, That will be fine. Fill in 10 sessions on the agreement, sign it, and bring it to me tomorrow when we have our first session. \" The student then said, \"I want you to really push me to do my best. In fact, if I get an A in any class I'll pay you an additional $100 for each A. \"The next day, the law student brought the signed agreement to the tutorial session. The tutor conducted all 10 sessions. Two weeks later, when the results of the finals were released, the law student excitedly called the tutor and exclaimed, \"Thank you so much I just found out that I received two A's and two B's in my classes!\" The tutor then sent the law student a bill for $700. Two days later the tutor received a check from the law student in the amount of $500. Included with the check was a note which read, \"You taught me contract law very well. I now know that I am not obligated to pay you the additional $200 for the A's, because that was just a gratuitous promise. \" On the back of the check the law student typed the following:\"Endorsement of this check by payee constitutes surrender of all claims against me arising out of our tutorial arrangement. \"In need of money, the tutor endorsed and cashed the check. What is the probable legal effect of the tutor's endorsement of the check?\n\nFor this question, four choices are provided:\n(A) It constituted a discharge of a liquidated claim.\n(B) It constituted an accord and satisfaction of an unliquidated claim.\n(C) Part payment of a liquidated claim would not constitute a discharge of the entire amount due.\n(D) Part payment of an unliquidated claim does not constitute sufficient consideration for the discharge of the entire claim.\n\nPlease choose the correct answer from the above choices.",
+    "expected_answer": "(B) It constituted an accord and satisfaction of an unliquidated claim.",
+    "difficulty": "expert",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "MMLU_772",
+    "domain": "Law",
+    "task_type": "Legal General",
+    "prompt": "A writer owned a building in a city. This was the only piece of real estate that the writer owned. The three-story building had a store on the ground floor and apartments on the other two floors. The writer entered into a leasehold agreement with a shopkeeper, who would lease the first floor, where she planned to open a sporting goods store. After identifying the parties, the operative words of the lease were as follows: \"Landlord hereby agrees to lease for the three years the first floor of his building in the city to tenant, reserving unto said landlord annual rental in the sum of $12,000 payable in advance in monthly installments of $1,000. \"At the moment of signing, the leasehold agreement entered into between the writer and the shopkeeper\n\nFor this question, four choices are provided:\n(A) created a periodic tenancy.\n(B) could be terminated at will by either party.\n(C) did not convey to the shopkeeper a term of years at law.\n(D) was void, invalid, and had no legal effect.\n\nPlease choose the correct answer from the above choices.",
+    "expected_answer": "(C) did not convey to the shopkeeper a term of years at law.",
+    "difficulty": "expert",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "MMLU_815",
+    "domain": "Law",
+    "task_type": "Legal General",
+    "prompt": "A homeowner had a beautiful beach house overlooking the bay. Although the homeowner and his family lived in the beach house during the summer months, the house was left unoccupied for the remainder of the year. In order to protect the beach house from vandalism while it was vacant, the homeowner installed an automatic spring-gun device. The spring-gun was connected to the front door and calculated to automatically fire at chest level when the door was opened. No warnings were placed on the premises. A local man, knowing that the homeowner's beach house was unoccupied, decided to burglarize the home one evening. When the local man forced open the front door and was about to enter the premises, the spring-gun automatically discharged, killing him instantly. If the homeowner is subsequently prosecuted and charged with the local man's death, the most serious crime for which the homeowner will be found guilty is\n\nFor this question, four choices are provided:\n(A) voluntary manslaughter.\n(B) involuntary manslaughter.\n(C) murder.\n(D) assault with a deadly weapon.\n\nPlease choose the correct answer from the above choices.",
+    "expected_answer": "(C) murder.",
+    "difficulty": "expert",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "MMLU_832",
+    "domain": "Law",
+    "task_type": "Legal General",
+    "prompt": "A woman and her neighbor had often talked about the need for a fence between their properties. Finally, the woman hired a handyman to build a wooden stake fence between her property and her neighbor's property for $10,000. The handyman built the fence as agreed, and the woman paid him the sum of $10,000. Two weeks later, the neighbor was operating his lawn mower near the property line between his and the woman's property when a section of the fence suddenly fell on top of him, seriously injuring him. A subsequent investigation revealed that the handyman did not properly reinforce the fence. Which of the following is the handyman's best defense in a contract action brought against him by the neighbor, in which the only damages alleged are those for the neighbor's personal injuries?\n\nFor this question, four choices are provided:\n(A) Damages for personal injuries cannot be recovered in a contract action.\n(B) Damages for personal injuries to the neighbor were not within the contemplation of the woman and the handyman at the time they entered into their agreement.\n(C) The neighbor is only an incidental beneficiary of the agreement between the woman and the handyman.\n(D) The neighbor has no standing to assert such an action, since he was not a party to the agreement between the woman and the handyman.\n\nPlease choose the correct answer from the above choices.",
+    "expected_answer": "(B) Damages for personal injuries to the neighbor were not within the contemplation of the woman and the handyman at the time they entered into their agreement.",
+    "difficulty": "expert",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "MMLU_837",
+    "domain": "Law",
+    "task_type": "Legal General",
+    "prompt": "A plaintiff, a management trainee, brought a sex discrimination lawsuit against her employer for wrongful termination of her employment. At trial, the plaintiff is prepared to testify that a janitor at the company told her that he had heard her supervisor say to other male coworkers about her, \"Make it hard for her. Maybe she'll go home where she belongs.\" Is the plaintiff's proposed testimony admissible?\n\nFor this question, four choices are provided:\n(A) No, because the janitor's statement is hearsay not within any exception.\n(B) No, because the statements of both the janitor and the supervisor are hearsay not within any exception.\n(C) Yes, because the janitor's statement is a present sense impression, and the supervisor's statement is a statement of his then-existing state of mind.\n(D) Yes, because the statements of both the janitor and the supervisor are statements janitor and the supervisor are statements concerning a matter within the scope of their employment.\n\nPlease choose the correct answer from the above choices.",
+    "expected_answer": "(A) No, because the janitor's statement is hearsay not within any exception.",
+    "difficulty": "expert",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "MMLU_847",
+    "domain": "Law",
+    "task_type": "Legal General",
+    "prompt": "In which of the following situations would criminal liability LEAST likely be imposed on the defendant?\n\nFor this question, four choices are provided:\n(A) A defendant is an operator of a telephone answering service with positive knowledge that one of his clients was using his service to facilitate the illegal distribution of cocaine.\n(B) A defendant is a service station attendant who knew that the buyer of gasoline was using his product to make explosives for illegal use.\n(C) A defendant is a hotel registration clerk who knew that one of his regular guests was using her room for purposes of prostitution.\n(D) A defendant is the owner of a car that he permits a friend, whom he knows to have been drinking that night, to drive. As a consequence, the friend is involved in an accident that causes a victim's death.\n\nPlease choose the correct answer from the above choices.",
+    "expected_answer": "(D) A defendant is the owner of a car that he permits a friend, whom he knows to have been drinking that night, to drive. As a consequence, the friend is involved in an accident that causes a victim's death.",
+    "difficulty": "expert",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "MMLU_852",
+    "domain": "Law",
+    "task_type": "Legal General",
+    "prompt": "A defendant is charged with murder and relies upon a claim of self-defense. At trial, the defendant attempts to show that prior to the killing, he was told by a drinking buddy that \"The victim has killed five men and would as soon kill a man as look at him. \"If the statement by the drinking buddy is offered into evidence to prove that the victim, in fact, killed the five men, the statement should be ruled\n\nFor this question, four choices are provided:\n(A) admissible, because the statement is offered to demonstrate its effect on the defendant.\n(B) admissible, because it qualifies under the state of mind exception to the hearsay rule.\n(C) inadmissible, because it is hearsay not within any recognized exception.\n(D) inadmissible, because it is self-serving.\n\nPlease choose the correct answer from the above choices.",
+    "expected_answer": "(C) inadmissible, because it is hearsay not within any recognized exception.",
+    "difficulty": "expert",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "MMLU_879",
+    "domain": "Law",
+    "task_type": "Legal General",
+    "prompt": "Regarding a deposition in a civil suit, which of the following is/are true? I. A deposition of a person against whom another person contemplates filing an action may be compelled by the party contemplating the action, without leave of court, before the action is filed. II. A deposition of the defendant in an action may be taken by the plaintiff without service of a subpoena on the defendant. III. A deposition may be taken even though all the testimony secured by it will be inadmissible at the trial.\n\nFor this question, four choices are provided:\n(A) II only.\n(B) I and II only.\n(C) II and III only.\n(D) I, II, and III.\n\nPlease choose the correct answer from the above choices.",
+    "expected_answer": "(C) II and III only.",
+    "difficulty": "expert",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "MMLU_883",
+    "domain": "Law",
+    "task_type": "Legal General",
+    "prompt": "The owner of a parcel of land received the following letter from a buyer: \"I will pay you $2,200 an acre for [theparcel].\" The owner's letter of reply stated, \"I accept your offer.\" Unknown to the owner, the buyer had intendedto offer only $2,000 per acre but had mistakenly typed \"$2,200.\" As both parties knew, comparable land in thevicinity had been selling at prices between $2,000 and $2,400 per acre. Which of the following states the probable legal consequences of the correspondence between theparties?\n\nFor this question, four choices are provided:\n(A) There is no contract, because the parties attached materially different meanings to the price term.\n(B) There is no enforceable contract, because the buyer is entitled to rescission due to a mutual mistake asto a basic assumption.\n(C) There is a contract formed at a price of $2,000 per acre, as the buyer intended.\n(D) There is a contract formed at a price of $2,200 per acre, regardless of the buyer's true intention.\n\nPlease choose the correct answer from the above choices.",
+    "expected_answer": "(D) There is a contract formed at a price of $2,200 per acre, regardless of the buyer's true intention.",
+    "difficulty": "expert",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "MMLU_885",
+    "domain": "Law",
+    "task_type": "Legal General",
+    "prompt": "At a defendant\u00d5s trial for extortion, the prosecutor called a witness expecting her to testify that she had heard the defendant threaten a man with physical harm unless the man made payoffs to the defendant. The witness denied ever having heard the defendant make such threats, even though she had testified to that effect before the grand jury. The prosecutor now seeks to admit the witness\u00d5s grand jury testimony. How should the court rule with regard to the grand jury testimony?\n\nFor this question, four choices are provided:\n(A) Admit the testimony, because it contains a statement by a party-opponent.\n(B) Admit the testimony, both for impeachment and for substantive use, because the witness made the inconsistent statement under oath at a formal proceeding.\n(C) Admit the testimony under the former testimony exception to the hearsay rule.\n(D) Exclude the testimony for substantive use, because it is a testimonial statement.\n\nPlease choose the correct answer from the above choices.",
+    "expected_answer": "(B) Admit the testimony, both for impeachment and for substantive use, because the witness made the inconsistent statement under oath at a formal proceeding.",
+    "difficulty": "expert",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "MMLU_888",
+    "domain": "Law",
+    "task_type": "Legal General",
+    "prompt": "A housing corporation owned farmland and prepared a development plan to divide the land into 100 lots and create a residential community on the farmland tract. The Declaration of Covenants created the community association, as an administrative entity, to which the residential community lot owners would pay dues, and which would administer and enforce the regulations and restrictions recited among the covenants. One of the restrictions set forth in the Declaration of Covenants provides that the lots be used only for single-family residences, and that no trade, commerce, or business may be conducted in any single-family residence. The Declaration of Covenants gives the community association the right to assign all of its rights, powers, titles, easements, and estates granted to it under the Declaration of Covenants. The community association assigned \"all the rights, powers, titles, easements, and estates granted to or conferred upon it by the Declaration of Covenants\" to a municipal corporation, the city. The community association was then terminated. A chef, the owner of lot 18 in the residential development, proposes to convert his single-family dwelling into a massage parlor. The city asserts an action against the chef to recover money damages. Which of the following is the best argument for the chef?\n\nFor this question, four choices are provided:\n(A) The restraint on alienation of his land is invalid.\n(B) The city is not in privity of estate with community association.\n(C) The benefit is in gross; hence, the burden cannot run.\n(D) The burden is in gross; hence, the benefit cannot run.\n\nPlease choose the correct answer from the above choices.",
+    "expected_answer": "(B) The city is not in privity of estate with community association.",
+    "difficulty": "expert",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "MMLU_901",
+    "domain": "Law",
+    "task_type": "Legal General",
+    "prompt": "A woman sued her former employer in state court, asserting age and sex discrimination claims under both state and federal law. The woman's attorney had recently been embarrassed in court by the judge to whom the case was assigned. Wishing to avoid difficulties with the judge, the woman's attorney promptly removed the case to federal court on the basis of federal-question jurisdiction. The employer's attorney has timely moved to remand. How is the federal court likely to proceed?\n\nFor this question, four choices are provided:\n(A) Remand the entire case.\n(B) Remand the state claims but keep the federal claims.\n(C) Retain the case to avoid the risk of bias and impropriety in having it proceed before a judge who has shown clear hostility toward the woman's attorney.\n(D) Retain the case, because it was timely removed and the woman alleges federal claims.\n\nPlease choose the correct answer from the above choices.",
+    "expected_answer": "(A) Remand the entire case.",
+    "difficulty": "expert",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "MMLU_903",
+    "domain": "Law",
+    "task_type": "Legal General",
+    "prompt": "A husband came home early from work one day. He walked to the bedroom and, upon opening the door, saw his wife and another man in bed together. Visibly upset, the husband told the other man to leave. As the man was reaching for his pants, he pulled out a gun, fearing that the husband was about to attack him. When the husband saw the gun, he jumped on the man and angrily twisted his neck, breaking it and killing him. The husband is guilty for which, if any, of the following crimes?\n\nFor this question, four choices are provided:\n(A) Murder.\n(B) Voluntary manslaughter.\n(C) Involuntary manslaughter.\n(D) No crime.\n\nPlease choose the correct answer from the above choices.",
+    "expected_answer": "(D) No crime.",
+    "difficulty": "expert",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "MMLU_912",
+    "domain": "Law",
+    "task_type": "Legal General",
+    "prompt": "To keep its public school expenditures under control in a time of increasing costs, a state passed a law providing that children who have not lived in the state for at least one year cannot attend public schools in the state. Which of the following statements about this law is most accurate as a matter of constitutional law?\n\nFor this question, four choices are provided:\n(A) The one-year residence requirement is valid because it does not affect any fundamental right or suspect class.\n(B) State durational residence requirements that are estab-lished for publicly funded services are constitutional because they relate to government operations reserved exclusively to the states by the Tenth Amendment.\n(C) Because publicly funded education is a fundamental constitutional right, a state may not deny it to any class of persons who reside in that state.\n(D) State durational residence requirements established for this kind of publicly funded service solely for the purpose of reducing state expenditures violate the equal protection clause of the Fourteenth Amendment.\n\nPlease choose the correct answer from the above choices.",
+    "expected_answer": "(D) State durational residence requirements established for this kind of publicly funded service solely for the purpose of reducing state expenditures violate the equal protection clause of the Fourteenth Amendment.",
+    "difficulty": "expert",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "MMLU_950",
+    "domain": "Law",
+    "task_type": "Legal General",
+    "prompt": "A noted author was writing a screenplay that he was adapting from his novel Quiet Winter. He assigned in writing 25 percent of any future royalties, when and if the screenplay was made into either a movie or a stage play, to his friend, who had subsidized him during his early years as a struggling writer. Shortly after the screenplay was completed, the author was killed in an auto accident. A movie studio then purchased the screenplay from the executors of the author's estate and filmed the movie Quiet Winter, which was a great success. In an action against the executors of the author's estate to recover her percentage of the movie royalties, the friend will most likely\n\nFor this question, four choices are provided:\n(A) lose, because under the circumstances an assignment of future rights is unenforceable.\n(B) lose, because the attempted gift of royalties failed for non-delivery.\n(C) win, because she was an intended beneficiary.\n(D) win, because the assignment of future rights is enforceable.\n\nPlease choose the correct answer from the above choices.",
+    "expected_answer": "(A) lose, because under the circumstances an assignment of future rights is unenforceable.",
+    "difficulty": "expert",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "MMLU_970",
+    "domain": "Law",
+    "task_type": "Legal General",
+    "prompt": "Protesters gathered at the entrance of an abortion clinic, making rowdy noise and catcalls at every person who entered the clinic. The language was insulting and harsh, but there were no attempts to make physical contact. Inside, patients were nervous and surgical procedures were intensified under the constant sounds of taunting taking place outside. The state court issued an injunction making the protesters stand 36 feet from the entrance, which put them on the other side of the street, but within clear sight of the clinic. The restriction reasonably cleared a space for ingress and egress. Since the streets are normally considered a \"public forum\" for free speech, will the appellate courts uphold the restriction?\n\nFor this question, four choices are provided:\n(A) Yes, because their language was insulting, the restriction would be upheld as a fair restriction of speech.\n(B) Yes, the injunctive restriction was a content-neutral restriction that burdened no more speech than was necessary.\n(C) No, the right to protest according to one's religious beliefs about abortion cannot be regulated under the First Amendment.\n(D) No, the regulation of free speech cannot be carried out by injunctive relief.\n\nPlease choose the correct answer from the above choices.",
+    "expected_answer": "(B) Yes, the injunctive restriction was a content-neutral restriction that burdened no more speech than was necessary.",
+    "difficulty": "expert",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "MMLU_981",
+    "domain": "Law",
+    "task_type": "Legal General",
+    "prompt": "Which of the following offers for the sale of widgets is not enforceable if the seller changes his mind prior to acceptance?\n\nFor this question, four choices are provided:\n(A) A merchant tells buyer in writing she will sell the widget for $35,000 and that the offer will be irrevocable for ten days.\n(B) A merchant writes buyer offering to sell the widget for $35,000.\n(C) A merchant telegraphs buyer offering to sell the widget for $35,000 and promises to hold the offer open for ten days.\n(D) A merchant writes buyer offering to sell the widget for $35,000 and stating that the offer will be irrevocable for ten days if buyer will pay $1.00. Buyer pays.\n\nPlease choose the correct answer from the above choices.",
+    "expected_answer": "(B) A merchant writes buyer offering to sell the widget for $35,000.",
+    "difficulty": "expert",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "MMLU_1007",
+    "domain": "Law",
+    "task_type": "Legal General",
+    "prompt": "This jurisdiction has the following bribery statute in effect:\"Any person who offers or gives a thing of value to a government officeholder in exchange for official action is guilty of bribery. \"A real estate developer owned a large parcel of land in the suburbs. Although the developer wanted to build an office building on the property, the land was zoned residential. Due to the residential zoning, the developer could not pursue his planned development unless he received a variance from the building commission. The developer held a meeting with a member of the building commission to solicit his approval in securing a zoning variance. To do so, the developer gave the commission member $10,000 in exchange for his support in approving the zoning variance. Thereupon, the commission member voted to approve the variance, thus making it possible for the developer to commence construction of the office building. The developer was subsequently prosecuted for conspiracy to commit bribery. During the course of the trial, the commission member testified that he faked the agreement with the developer and would have approved the zoning variance regardless of whether the developer gave him any money. Furthermore, in his defense, the developer presented evidence that the other six members of the building commission voted affirmatively to approve the variance. If the jury believed that the commission member would have approved the variance even had he not received the $10,000, the developer should be found\n\nFor this question, four choices are provided:\n(A) guilty, because the commission member's agreement to accept the $10,000 was sufficient to form a conspiratorial objective.\n(B) guilty, because he gave the commission member the $10,000 in exchange for his approval of the zoning variance.\n(C) not guilty, because the commission member did not receive a thing of value, since he would have approved the variance regardless of receiving any payment from the developer.\n(D) not guilty, because there was no true agreement between the parties.\n\nPlease choose the correct answer from the above choices.",
+    "expected_answer": "(D) not guilty, because there was no true agreement between the parties.",
+    "difficulty": "expert",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "MMLU_1009",
+    "domain": "Law",
+    "task_type": "Legal General",
+    "prompt": "A homeowner gave his friend a mortgage on his property to secure a loan from the friend to the homeowner in the amount of $100,000. The homeowner then gives an investor a mortgage on the property to secure a loan from the investor to the homeowner in the amount of $80,000. The friend then records his mortgage. The homeowner then gives a bank a mortgage on the property to secure a loan from the bank to the homeowner in the amount of $50,000. The investor then records. The bank then records. The homeowner lost his job and was unable to pay the mortgages on the property. In a foreclosure proceeding in which the friend, the investor, and the bank were parties, the property sold for $160,000. The recording statute in this jurisdiction provided \"unless recorded, all written instruments affecting title to land are void as to subsequent purchasers who paid value and without notice. \"What dollar amount, if any, should go to the friend?\n\nFor this question, four choices are provided:\n(A) $0. 00\n(B) $30,000. 00\n(C) $80,000. 00\n(D) $100,000. 00\n\nPlease choose the correct answer from the above choices.",
+    "expected_answer": "(C) $80,000. 00",
+    "difficulty": "expert",
+    "evaluation_metric": "exact_match"
+  }
+]

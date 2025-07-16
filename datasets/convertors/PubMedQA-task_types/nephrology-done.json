@@ -1,0 +1,11 @@
+[
+  {
+    "task_id": "MED_034",
+    "domain": "Medicine",
+    "task_type": "Nephrology",
+    "prompt": "Answer the question based on the following context: Our objective was to clarify the clinical outcome of renal transplantation based on residual daily urine output (RDUO). We retrospectively analyzed a prospective database of 276 patients who underwent renal transplantation (Tx) between January 2008 and December 2012. Patients had pre-transplantation daily urine output measurement of 24-h proteinuria and were clinically re-evaluated the day before transplantation. We included patients with no daily urine output and those with residual daily urine output. Real bladder capacity was not measured. We excluded patients with a history of lower urinary tract malformation, those treated by trans-ileal conduit or enterocystoplasty, and those with early graft thrombosis or graft primary non-function. Sex ratio, age at Tx, pre-Tx MHC antibodies levels, donor age, and cold ischemia duration were not significantly different between the 2 groups. Dialysis duration was longer in group I (p<0.001). The dialysis duration was correlated with the volume of residual urine output (r=0.12, p<0.0001). We found 14 (19.4%) urological complications in Group I (11 urinary leaks and 3 urethral stenosis) and 13 (6.4%) in Group II (5 urinary leaks and 8 stenosis). This difference was significant (p=0.0013 and relative risk [RR]=2.2). Absence of residual daily urine output was a risk factor of post-transplantation urinary leak (p<0.0001: RR=2.95). At 3 years, graft survival was 74.7% and 94.6%, respectively, in Group I and II (p=0.003).\nQuestion: Does daily urine output really matter in renal transplantation?",
+    "expected_answer": "The absence of residual daily urine output seems to be a major risk factor for urological complications. Taking into account recipient residual daily urine output should modify surgical strategy during renal transplantation.",
+    "difficulty": "expert",
+    "evaluation_metric": "exact_match"
+  }
+]

@@ -1,0 +1,56 @@
+[
+  {
+    "task_id": "MMLU_180",
+    "domain": "Science",
+    "task_type": "Electrical Engineering",
+    "prompt": "The following is a multiple-choice question:\n2,300 volt60-cycle power transformer. r_1 = 1.28 ohmsr_2 = 0.0467 ohm x_1= 4.24 ohmsx_2 = 0.162 ohm Calculate the regulation using the per-unit method.\n\nThe following choices are provided:\n(A) 2.25 per cent\n(B) 1.2 per cent\n(C) 1.5 per cent\n(D) 3.0 per cent\n(E) 1.75 per cent\n(F) 2.5 per cent\n(G) 2.0 per cent\n(H) 1.85 per cent\n(I) 1.4 per cent\n(J) 1.66 per cent\n\nPlease finish your answer with \"the answer is (X)\" where X is the correct letter choice.",
+    "expected_answer": "The answer is (J) 1.66 per cent",
+    "difficulty": "hard",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "MMLU_189",
+    "domain": "Science",
+    "task_type": "Electrical Engineering",
+    "prompt": "The following is a multiple-choice question:\nA 4-pole commutator machine has 124 lap coils each having two turns. The flux per pole is 0.015 weber. Calculate: (a) The d.c. voltage appearing across quadrature brushes (b) The r.m.s. voltage with three sets of brushes per pole pair for 3-phase working and with relative field / conductor speed = 1400 rev/min.\n\nThe following choices are provided:\n(A) a) 180 V, b) 100 V\n(B) a) 160 V, b) 90 V\n(C) a) 186 V, b) 106.5 V\n(D) a) 195 V, b) 115 V\n(E) a) 205 V, b) 125 V\n(F) a) 200 V, b) 110 V\n(G) a) 175 V, b) 95 V\n(H) a) 170 V, b) 110 V\n(I) a) 190 V, b) 105 V\n(J) a) 210 V, b) 120 V\n\nPlease finish your answer with \"the answer is (X)\" where X is the correct letter choice.",
+    "expected_answer": "The answer is (C) a) 186 V, b) 106.5 V",
+    "difficulty": "hard",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "MMLU_330",
+    "domain": "Science",
+    "task_type": "Electrical Engineering",
+    "prompt": "The following is a multiple-choice question:\n(i) (a) A triplex lap-wound armature is used in a 14-pole machine with fourteen brush sets, each spanning three commutator bars. Calculate the number of paths in the armature. (b) Repeat (a) for a triplex wave-wound armature having two such brush sets and 14 poles. (ii) Calculate the generated emf in each of the above problems if the flux per pole is 4.2 \u00d7 10^6 lines, the generator speed is 60 rpm, and there are 420 coils on the armature, each coil having 20 turns.\n\nThe following choices are provided:\n(A) 35 paths; 5 paths; 200 V; 1500 V\n(B) 50 paths; 3 paths; 245 V; 1750 V\n(C) 44 paths; 12 paths; 210 V; 1550 V\n(D) 38 paths; 10 paths; 225 V; 1650 V\n(E) 48 paths; 4 paths; 260 V; 1900 V\n(F) 42 paths; 6 paths; 235.2 V; 1646.4 V\n(G) 36 paths; 9 paths; 220 V; 1600 V\n(H) 34 paths; 11 paths; 230 V; 1625 V\n(I) 40 paths; 7 paths; 240 V; 1700 V\n(J) 45 paths; 8 paths; 250 V; 1800 V\n\nPlease finish your answer with \"the answer is (X)\" where X is the correct letter choice.",
+    "expected_answer": "The answer is (F) 42 paths; 6 paths; 235.2 V; 1646.4 V",
+    "difficulty": "hard",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "MMLU_590",
+    "domain": "Science",
+    "task_type": "Electrical Engineering",
+    "prompt": "The following is a multiple-choice question:\nTwo 60-cycle motors are connected in concatenation to drive a load. If machine 1 has six poles and machine has eight poles, (a) calculate the speed of the combination if the slip is 0.075. (b) At what other speeds can the load be driven if each motor is operated separately, assuming the same value of slip ?\n\nThe following choices are provided:\n(A) 450, 1130, 840\n(B) 485, 1105, 845\n(C) 480, 1100, 820\n(D) 470, 1125, 815\n(E) 520, 1140, 860\n(F) 490, 1080, 830\n(G) 500, 1120, 850\n(H) 475, 1110, 832\n(I) 465, 1075, 825\n(J) 460, 1090, 810\n\nPlease finish your answer with \"the answer is (X)\" where X is the correct letter choice.",
+    "expected_answer": "The answer is (H) 475, 1110, 832",
+    "difficulty": "hard",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "MMLU_605",
+    "domain": "Science",
+    "task_type": "Electrical Engineering",
+    "prompt": "The following is a multiple-choice question:\nThe total copper loss of a transformer as determined by a short-circuit test at 20\u00b0C is 630 watts, and the copper loss computed from the true ohmic resistance at the same temperature is 504 watts. What is the load loss at the working temperature of 75\u00b0C?\n\nThe following choices are provided:\n(A) 630 watts\n(B) 672 watts\n(C) 810 watts\n(D) 945 watts\n(E) 750 watts\n(F) 560 watts\n(G) 717 watts\n(H) 126 watts\n(I) 588 watts\n(J) 504 watts\n\nPlease finish your answer with \"the answer is (X)\" where X is the correct letter choice.",
+    "expected_answer": "The answer is (G) 717 watts",
+    "difficulty": "hard",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "MMLU_863",
+    "domain": "Science",
+    "task_type": "Electrical Engineering",
+    "prompt": "The following is a multiple-choice question:\n(i) A 120 V dc shunt motor has an armature resistance of 0.2 ohms and a brush volt drop of 2 V. The rated full-load armature current is 75 A. Calculate the current at the instant of starting, and the percent of full load. (ii) Calculate the various values (taps) of starting resistance to limit the current in the motor of Part (i) to (a) 150 percent rated load at the instant of starting. (b) 150 percent rated load, when the counteremfis 25 percent of the armature voltage, V. (c) 150 percent rated load, when the counteremfis 50 percent of the armature voltage, V_a. (iii) Find the counteremfat full load, without starting resistance.\n\nThe following choices are provided:\n(A) 580 A, 770 percent, 0.80 \u03a9, 0.572 \u03a9, 0.306 \u03a9, 101 V\n(B) 550 A, 733 percent, 0.79 \u03a9, 0.540 \u03a9, 0.300 \u03a9, 100 V\n(C) 600 A, 800 percent, 0.90 \u03a9, 0.592 \u03a9, 0.326 \u03a9, 105 V\n(D) 595 A, 790 percent, 0.86 \u03a9, 0.586 \u03a9, 0.316 \u03a9, 104 V\n(E) 610 A, 813 percent, 0.88 \u03a9, 0.600 \u03a9, 0.320 \u03a9, 106 V\n(F) 565 A, 753 percent, 0.81 \u03a9, 0.555 \u03a9, 0.308 \u03a9, 101 V\n(G) 570 A, 760 percent, 0.82 \u03a9, 0.560 \u03a9, 0.310 \u03a9, 102 V\n(H) 585 A, 780 percent, 0.83 \u03a9, 0.578 \u03a9, 0.312 \u03a9, 102 V\n(I) 620 A, 827 percent, 0.91 \u03a9, 0.610 \u03a9, 0.330 \u03a9, 107 V\n(J) 590 A, 786 percent, 0.85 \u03a9, 0.582 \u03a9, 0.316 \u03a9, 103 V\n\nPlease finish your answer with \"the answer is (X)\" where X is the correct letter choice.",
+    "expected_answer": "The answer is (J) 590 A, 786 percent, 0.85 \u03a9, 0.582 \u03a9, 0.316 \u03a9, 103 V",
+    "difficulty": "hard",
+    "evaluation_metric": "exact_match"
+  }
+]

@@ -1,0 +1,65 @@
+[
+  {
+    "task_id": "MED_007",
+    "domain": "Medicine",
+    "task_type": "Orthopaedics",
+    "prompt": "10 year old present with ankle pain. X-ray has Lytic Lesion with sclerotic rim at calcaneum. Following HPE findings were seen. What is your diagnosis:\n\nChoose the correct answer from the following options:\n(A) Eumycosis\n(B) PVNS\n(C) Ochronosis\n(D) Hemophilic pseudotumar",
+    "expected_answer": "The correct answer is: (D) Hemophilic pseudotumar",
+    "difficulty": "expert",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "MED_064",
+    "domain": "Medicine",
+    "task_type": "Orthopaedics",
+    "prompt": "Which Bone does not form the wrist joint\n\nChoose the correct answer from the following options:\n(A) Radius\n(B) Triquetrum\n(C) Scaphoid\n(D) Ulna",
+    "expected_answer": "The correct answer is: (D) Ulna",
+    "difficulty": "expert",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "MED_120",
+    "domain": "Medicine",
+    "task_type": "Orthopaedics",
+    "prompt": "Positive pivot shift test in knee is because of injury to -\n\nChoose the correct answer from the following options:\n(A) Posterior cruciate ligament\n(B) Anterior cruciate ligament\n(C) Medial meniscus\n(D) Lateral meniscus",
+    "expected_answer": "The correct answer is: (B) Anterior cruciate ligament",
+    "difficulty": "hard",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "MED_219",
+    "domain": "Medicine",
+    "task_type": "Orthopaedics",
+    "prompt": "Most specific for diagnosing Ankylosing spondyliti?\n\nChoose the correct answer from the following options:\n(A) HLA B27\n(B) B/l sactoilitis\n(C) Lumbar movement\n(D) ESR",
+    "expected_answer": "The correct answer is: (B) B/l sactoilitis",
+    "difficulty": "hard",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "MED_230",
+    "domain": "Medicine",
+    "task_type": "Orthopaedics",
+    "prompt": "A young marathon runner is paicipating in a marathon competition. After running for 100 m, he develops at the anteromedial aspect of tibia which was mild to sta with, but increased on fuher running. X ray was normal. The doctor ordered a bonescan. What is the likely diagnosis?\n\nChoose the correct answer from the following options:\n(A) Lisfranc fracture\n(B) Jones fracture\n(C) Shin splint\n(D) Nutcracker fracture",
+    "expected_answer": "The correct answer is: (C) Shin splint",
+    "difficulty": "hard",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "MED_352",
+    "domain": "Medicine",
+    "task_type": "Orthopaedics",
+    "prompt": "A 55 yr old patient presented to the opd with complaint of pain in back. On examination his limbs seemed to be bent with overlying warm and thick skin. Patient also complain of decreased hearing over a few days. On biochemical analysis his serum ALP was raised. X-ray obtained showed the following features. Most probable diagnosis?\n\nChoose the correct answer from the following options:\n(A) Osteoporosis\n(B) Osteopetrosis\n(C) Pagets disease\n(D) Renal osteodystrophy",
+    "expected_answer": "The correct answer is: (C) Pagets disease",
+    "difficulty": "hard",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "MED_955",
+    "domain": "Medicine",
+    "task_type": "Orthopaedics",
+    "prompt": "Minimum age of screening of osteoporosis:\n\nChoose the correct answer from the following options:\n(A) 55 years\n(B) 60 years\n(C) 65 years\n(D) 50 years",
+    "expected_answer": "The correct answer is: (C) 65 years",
+    "difficulty": "hard",
+    "evaluation_metric": "exact_match"
+  }
+]

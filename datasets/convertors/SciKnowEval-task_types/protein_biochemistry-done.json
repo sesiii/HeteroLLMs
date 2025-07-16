@@ -1,0 +1,83 @@
+[
+  {
+    "task_id": "SCI_022",
+    "domain": "Biology",
+    "task_type": "Protein Biochemistry",
+    "prompt": "You are an excellent protein researcher. Given the sequence of a protein, your task is to directly output the description of the protein. Do not output any other characters.\nThe question is:Describing a protein typically requires consideration of its unique attributes in terms of structure and function, such as Function, Pathway, Co-factor, Catalytic activity, Gene Ontology, Secondary structure, Binding site, and more. Can you offer a brief description of the protein with sequence \"MRLRHKPYAMDRINEYSHIVIGNPEERAGNWKEVFGNEQPIHIEVGTGRGRFMYDMAKANPHINYIGIEKFTSVVVDALDKLIEEELPNLKLINKDAEDLTVFFAKGEIDRVYLNFSDPWPKKRHTKRRLTYKTFLRNYEEVLVEGGEIHFKTDNQGLFEYSLMSMAEYGMLLTYLSLDLHNSDFEGNIMTEYEEKFSSKGHRIYRVEAKYRTEPMQ\"?",
+    "expected_answer": "The protein under discussion acts as a tRNA-modifying enzyme, specifically catalysing the methylation of guanosine at position 46 in tRNA, resulting in the formation of N(7)-methylguanine (1). This reaction contributes to the biosynthesis of N(7)-methylguanine-tRNA within the tRNA modification pathway (2). Its catalytic activity is defined by the reaction where guanosine(46) in tRNA and S-adenosyl-L-methionine are converted to N(7)-methylguanosine(46) in tRNA and S-adenosyl-L-homocysteine, with an enzyme classification of EC 2.1.1.33 (3). Its molecular function, according to Gene Ontology, involves tRNA (guanine(46)-N7)-methyltransferase activity (4). There are several specific S-adenosyl-L-methionine binding sites required for methyl group transfer, with substrate specificity detailed in the attributes (5). The protein has a clearly identified active site at residue 118 (6).",
+    "difficulty": "expert",
+    "evaluation_metric": "semantic_similarity"
+  },
+  {
+    "task_id": "SCI_039",
+    "domain": "Biology",
+    "task_type": "Protein Biochemistry",
+    "prompt": "You are an excellent protein researcher. Given the sequence of a protein, your task is to directly output the description of the protein. Do not output any other characters.\nThe question is:Introducing a protein typically requires consideration of its unique attributes in terms of structure and function, such as Function, Pathway, Co-factor, Catalytic activity, Gene Ontology, Secondary structure, Binding site, and more. Could you give me a brief introduction to this protein: \"MKLNELRDNEGAARKKKRVARGPGSGKGKTAGRGIKGQKSRSGVALNGYEGGQMPLYRRLPKRGFSKPNRKEYAVVNLGLIQKFVDAGKLDASQPIDENAIVAAGVTSHKRDGIRVLAKGEITAKLTLTVAGASKSAVEAVEKAGGSITLTAPAAAASAE\"",
+    "expected_answer": "This protein is known to bind to the 23S rRNA as a primary function (1), and it is involved in the biological process of translation (2). It is located in the large ribosomal subunit (3) and exhibits molecular functions including rRNA binding and being a structural constituent of ribosome (4). Notably, the protein has a region with a compositional bias for basic and acidic residues at the N-terminal end (5), which might influence its interaction with the rRNA or ribosomal assembly.",
+    "difficulty": "expert",
+    "evaluation_metric": "semantic_similarity"
+  },
+  {
+    "task_id": "SCI_048",
+    "domain": "Biology",
+    "task_type": "Protein Biochemistry",
+    "prompt": "You are an excellent protein researcher. Given the sequence of a protein, your task is to directly output the description of the protein. Do not output any other characters.\nThe question is:Introducing a protein typically requires consideration of its unique attributes in terms of structure and function, such as Function, Pathway, Co-factor, Catalytic activity, Gene Ontology, Secondary structure, Binding site, and more. Could you give me a brief introduction to this protein: \"MKWYLVALSGLLLSGCVVQQTEVVSPSFDQQLKSPAPNYSNGSIWQASSIGLTEDGKARRVGDIVTIIVTETASASKQAATATGRSSQISAGIPNMLGLEESKIITSNFADLSKLLNASASSKFDGSGSTSRKETLSATISAKVIDVLPNSNLKIEGRRNVRVNNEDQIVTVKGTIRQRDITAENTINSIYVADAQISYAGEGIISDRQKPGWLMNVLDKLWPF\"",
+    "expected_answer": "This protein is involved in forming the L-ring of the bacterial-type flagellum basal body (1), which is likely important for protecting the motor/basal body from damage during flagellum rotation (2). It is associated with bacterial-type flagellum-dependent cell motility (3) and localizes to the bacterial-type flagellum basal body, distal rod, L ring, and the cell outer membrane (4). The protein exhibits cytoskeletal motor activity (5), and is initially synthesized with a signal peptide that is 15 amino acids in length, indicative of its targeting to specific cellular locations (6).",
+    "difficulty": "expert",
+    "evaluation_metric": "semantic_similarity"
+  },
+  {
+    "task_id": "SCI_077",
+    "domain": "Biology",
+    "task_type": "Protein Biochemistry",
+    "prompt": "You are an excellent protein researcher. Given the sequence of a protein, your task is to directly output the description of the protein. Do not output any other characters.\nThe question is:Describing a protein typically requires consideration of its unique attributes in terms of structure and function, such as Function, Pathway, Co-factor, Catalytic activity, Gene Ontology, Secondary structure, Binding site, and more. Can you offer a brief description of the protein with sequence \"MRALPICLVALMLSGCSMLSRSPVEPVQSTAPQPKAEPAKPKAPRATPVRIYTNAEELVGKPFRDLGEVSGDSCQASNQDSPPSIPTARKRMQINASKMKANAVLLHSCEVTSGTPGCYRQAVCIGSALNITAK\"?",
+    "expected_answer": "The protein is an essential component of the Rcs signaling system, involved in intracellular signal transduction and potentially in detecting outer membrane defects (1). It is located on the periplasmic side of the cell outer membrane [GO:0031241] and participates in intracellular signal transduction [GO:0035556] (2, 3). The presence of a signal peptide suggests it is directed to a membrane location (4). The protein has a region with a compositional bias towards polar residues, indicating a potential functional or structural specialization (5).",
+    "difficulty": "expert",
+    "evaluation_metric": "semantic_similarity"
+  },
+  {
+    "task_id": "SCI_214",
+    "domain": "Biology",
+    "task_type": "Protein Biochemistry",
+    "prompt": "You are an excellent protein researcher. Given the sequence of a protein, your task is to directly output the description of the protein. Do not output any other characters.\nThe question is:Introducing a protein typically requires consideration of its unique attributes in terms of structure and function, such as Function, Pathway, Co-factor, Catalytic activity, Gene Ontology, Secondary structure, Binding site, and more. Could you give me a brief introduction to this protein: \"MARIAGVDLPRNKTIEIAITYIFGIGRSNGADVLRKANVNPATRVRDLTEEEVSRIREIVEREYRVEGDLRREIQMNIKRLMDIGCYRGLRHRKGLPVRGQRTRTNARTRRGRRGQAIGIKKKTLKK\"",
+    "expected_answer": "This protein is located at the top of the head of the 30S ribosomal subunit, making contact with several helices of the 16S rRNA and, in the 70S ribosome, contacts the 23S rRNA and protein L5 of the 50S subunit, linking the two subunits and playing a role in subunit movement and tRNA placement in the A and P-sites. It is involved in the biological process of translation and is part of both the ribonucleoprotein complex and the ribosome cellular components. The protein has molecular functions including rRNA binding, acting as a structural constituent of the ribosome, and tRNA binding, indicating its crucial role in protein synthesis and ribosome structure and function.",
+    "difficulty": "expert",
+    "evaluation_metric": "semantic_similarity"
+  },
+  {
+    "task_id": "SCI_450",
+    "domain": "Biology",
+    "task_type": "Protein Biochemistry",
+    "prompt": "You are an excellent protein researcher. Given the sequence of a protein, your task is to directly output the description of the protein. Do not output any other characters.\nThe question is:Describing a protein typically requires consideration of its unique attributes in terms of structure and function, such as Function, Pathway, Co-factor, Catalytic activity, Gene Ontology, Secondary structure, Binding site, and more. Can you briefly describe the protein with sequence: \"MARYRRHSRSRSRSRYRRRRRRRSRHHNRRTYRRSRRHSRRRRGRRRGYSRRRYSRRGRRRY\"?",
+    "expected_answer": "The protein in question functions as a structural component during the haploid phase of spermatogenesis by replacing histones and compacting DNA into a condensed, inactive form (1). It is involved in the biological processes of chromosome condensation and sperm DNA condensation (2), and is typically located in the nucleosome and nucleus (3). The protein also exhibits a molecular function of DNA binding (4).",
+    "difficulty": "expert",
+    "evaluation_metric": "semantic_similarity"
+  },
+  {
+    "task_id": "SCI_503",
+    "domain": "Biology",
+    "task_type": "Protein Biochemistry",
+    "prompt": "You are an excellent protein researcher. Given the sequence of a protein, your task is to directly output the description of the protein. Do not output any other characters.\nThe question is:Describing a protein typically requires consideration of its unique attributes in terms of structure and function, such as Function, Pathway, Co-factor, Catalytic activity, Gene Ontology, Secondary structure, Binding site, and more. Here is a protein sequence: \"MATNVGPQIRSGELVFGVAHIFASFNDTFVHITDLTGKETIVRVTGGMKVKTDRDESSPYAAMLAAQDAAAKCKEVGITALHIKIRATGGTATKTPGPGAQAALRALARAGMRIGRIEDVTPIPTDSTRRKGGRRGRRL\". Please provide a brief description of this protein.",
+    "expected_answer": "This protein is a component of the ribosome, essential for protein synthesis within the cell, specifically involved in translating mRNA messages and catalyzing peptide bond formation to polymerize amino acids into polypeptide chains. It plays a critical role in the nucleolar processing of pre-18S ribosomal RNA and ribosome assembly. Notably, it is involved in several biological processes, including cytoplasmic translation, ribosomal small subunit assembly, and general translation. This protein is located in the cytosol, cytosolic small ribosomal subunit, nucleolus, and nucleus. It serves as a structural constituent of the ribosome.",
+    "difficulty": "expert",
+    "evaluation_metric": "semantic_similarity"
+  },
+  {
+    "task_id": "SCI_573",
+    "domain": "Biology",
+    "task_type": "Protein Biochemistry",
+    "prompt": "You are an excellent protein researcher. Given the sequence of a protein, your task is to directly output the description of the protein. Do not output any other characters.\nThe question is:Describing a protein typically requires consideration of its unique attributes in terms of structure and function, such as Function, Pathway, Co-factor, Catalytic activity, Gene Ontology, Secondary structure, Binding site, and more. Here is a protein sequence: \"MGLAKRIIPCLDVDNGRVVKGVQFVDIRDAGDPVEVAKRYNEQGADEITFLDITASSDDRETTVHMVEAIASQVFIPLTVGGGIRTCEDIRRMLNAGADKVGINTAAVFNPEFVREAAQRFGSQCIVVAIDAKKVSAEGEPDKWEIFTHGGRKPTGLDAVEWAKKMVEYGAGEILLTSMDRDGTKNGFDLGVTRAISEAVHVPVIASGGVGNLDHLVDGVIEGKADAVLAASIFHFGEYSIQEAKQRMTDAGIEMRL\". Please provide a brief description of this protein.",
+    "expected_answer": "This protein catalyzes the conversion of PRFAR and glutamine to IGP, AICAR, and glutamate, specifically involved in the amino-acid biosynthesis pathway of L-histidine (1). Its catalytic activity is defined by the reaction: 5-[(5-phospho-1-deoxy-D-ribulos-1-ylimino)methylamino]-1-(5-phospho-beta-D-ribosyl)imidazole-4-carboxamide + L-glutamine = 5-amino-1-(5-phospho-beta-D-ribosyl)imidazole-4-carboxamide + D-erythro-1-(imidazol-4-yl)glycerol 3-phosphate + H(+) + L-glutamate, classified under EC=4.3.2.10 (2). It is associated with the histidine biosynthetic process according to its Gene Ontology (biological process) annotation and is located in the cytoplasm (3, 4). The molecular functions ascribed to this protein include imidazoleglycerol-phosphate synthase activity and lyase activity (5). Lastly, it has two active sites located at positions 12 and 131, pertinent to its biological activity (6).",
+    "difficulty": "expert",
+    "evaluation_metric": "semantic_similarity"
+  },
+  {
+    "task_id": "SCI_662",
+    "domain": "Biology",
+    "task_type": "Protein Biochemistry",
+    "prompt": "You are an excellent protein researcher. Given the sequence of a protein, your task is to directly output the description of the protein. Do not output any other characters.\nThe question is:Describing a protein typically requires consideration of its unique attributes in terms of structure and function, such as Function, Pathway, Co-factor, Catalytic activity, Gene Ontology, Secondary structure, Binding site, and more. Here is a protein sequence: \"MDGIKYAVFTEKSLRLLGKNQYTFNVESGFTKTEIKHWVELFFGVKVVAVNSHRLPGKGRRIGPILGHTMHYRRMIITLQPGYSIPLLDREKN\". Please provide a brief description of this protein.",
+    "expected_answer": "The protein in question is a chloroplast-associated ribonucleoprotein (1) that binds to 23S rRNA, a key component in the translational machinery (2). Functionally, it is involved in the biological process of translation (3), and within the cellular context, it can be found as part of both the ribonucleoprotein complex and the ribosome (4, 5). On the molecular level, the protein's capabilities include binding to rRNA (6) and serving as a structural constituent of the ribosome (7), indicating a role in the assembly or stability of the ribosome structure essential for protein synthesis. No additional domains, signal peptides, cofactors, or catalytic activities are associated with this protein, emphasizing its specialized function in ribosome structure and function within the chloroplast.",
+    "difficulty": "expert",
+    "evaluation_metric": "semantic_similarity"
+  }
+]

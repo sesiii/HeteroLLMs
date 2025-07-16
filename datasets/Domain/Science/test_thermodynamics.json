@@ -1,0 +1,452 @@
+[
+  {
+    "task_id": "SCI_002",
+    "domain": "Science",
+    "task_type": "Thermodynamics",
+    "prompt": "Assume that all gases are perfect and that data refer to 298.15 K unless otherwise stated. A sample consisting of $3.00 \\mathrm{~mol}$ of diatomic perfect gas molecules at $200 \\mathrm{~K}$ is compressed reversibly and adiabatically until its temperature reaches $250 \\mathrm{~K}$. Given that $C_{V, \\mathrm{~m}}=27.5 \\mathrm{~J} \\mathrm{~K}^{-1} \\mathrm{~mol}^{-1}$, calculate $\\Delta H$.",
+    "expected_answer": "+5.4",
+    "difficulty": "expert",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "SCI_016",
+    "domain": "Science",
+    "task_type": "Thermodynamics",
+    "prompt": "Assume all gases are perfect unless stated otherwise. Unless otherwise stated, thermodynamic data are for 298.15 K.  Given the reactions (1) and (2) below, determine $\\Delta_{\\mathrm{r}} H^{\\ominus}$ for reaction (3).\r\n\r\n(1) $\\mathrm{H}_2(\\mathrm{g})+\\mathrm{Cl}_2(\\mathrm{g}) \\rightarrow 2 \\mathrm{HCl}(\\mathrm{g})$, $\\Delta_{\\mathrm{r}} H^{\\ominus}=-184.62 \\mathrm{~kJ} \\mathrm{~mol}^{-1}$\r\n\r\n(2) $2 \\mathrm{H}_2(\\mathrm{g})+\\mathrm{O}_2(\\mathrm{g}) \\rightarrow 2 \\mathrm{H}_2 \\mathrm{O}(\\mathrm{g})$, $\\Delta_{\\mathrm{r}} H^\\ominus=-483.64 \\mathrm{~kJ} \\mathrm{~mol}^{-1}$\r\n\r\n(3) $4 \\mathrm{HCl}(\\mathrm{g})+\\mathrm{O}_2(\\mathrm{g}) \\rightarrow 2 \\mathrm{Cl}_2(\\mathrm{g})+2 \\mathrm{H}_2 \\mathrm{O}(\\mathrm{g})$",
+    "expected_answer": "-114.40",
+    "difficulty": "expert",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "SCI_018",
+    "domain": "Science",
+    "task_type": "Thermodynamics",
+    "prompt": "Express the van der Waals parameters $b=0.0226 \\mathrm{dm}^3 \\mathrm{~mol}^{-1}$ in SI base units.",
+    "expected_answer": "0.0000226",
+    "difficulty": "expert",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "SCI_019",
+    "domain": "Science",
+    "task_type": "Thermodynamics",
+    "prompt": "Assume all gases are perfect unless stated otherwise. Note that 1 atm = 1.013 25 bar. Unless otherwise stated, thermochemical data are for 298.15 K. A sample consisting of $2.0 \\mathrm{~mol} \\mathrm{CO}_2$ occupies a fixed volume of $15.0 \\mathrm{dm}^3$ at $300 \\mathrm{~K}$. When it is supplied with $2.35 \\mathrm{~kJ}$ of energy as heat its temperature increases to $341 \\mathrm{~K}$. Assume that $\\mathrm{CO}_2$ is described by the van der Waals equation of state, and calculate $w$.",
+    "expected_answer": "0",
+    "difficulty": "expert",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "SCI_034",
+    "domain": "Science",
+    "task_type": "Thermodynamics",
+    "prompt": "Assume all gases are perfect unless stated otherwise. Note that 1 atm = 1.013 25 bar. Unless otherwise stated, thermochemical data are for 298.15 K. The standard enthalpy of formation of the metallocene bis(benzene)chromium was measured in a calorimeter. It was found for the reaction $\\mathrm{Cr}\\left(\\mathrm{C}_6 \\mathrm{H}_6\\right)_2(\\mathrm{~s}) \\rightarrow \\mathrm{Cr}(\\mathrm{s})+2 \\mathrm{C}_6 \\mathrm{H}_6(\\mathrm{~g})$ that $\\Delta_{\\mathrm{r}} U^{\\bullet}(583 \\mathrm{~K})=+8.0 \\mathrm{~kJ} \\mathrm{~mol}^{-1}$. Estimate the standard enthalpy of formation of the compound at $583 \\mathrm{~K}$. The constant-pressure molar heat capacity of benzene is $136.1 \\mathrm{~J} \\mathrm{~K}^{-1} \\mathrm{~mol}^{-1}$ in its liquid range and $81.67 \\mathrm{~J} \\mathrm{~K}^{-1} \\mathrm{~mol}^{-1}$ as a gas.",
+    "expected_answer": "+116.0",
+    "difficulty": "expert",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "SCI_035",
+    "domain": "Science",
+    "task_type": "Thermodynamics",
+    "prompt": "Assume all gases are perfect unless stated otherwise. Unless otherwise stated, thermodynamic data are for 298.15 K. A sample of $4.50 \\mathrm{~g}$ of methane occupies $12.7 \\mathrm{dm}^3$ at $310 \\mathrm{~K}$. Calculate the work that would be done if the same expansion occurred reversibly.",
+    "expected_answer": "-167",
+    "difficulty": "expert",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "SCI_038",
+    "domain": "Science",
+    "task_type": "Thermodynamics",
+    "prompt": "Assume that all gases are perfect and that data refer to 298.15 K unless otherwise stated. Consider a system consisting of $2.0 \\mathrm{~mol} \\mathrm{CO}_2(\\mathrm{~g})$, initially at $25^{\\circ} \\mathrm{C}$ and $10 \\mathrm{~atm}$ and confined to a cylinder of cross-section $10.0 \\mathrm{~cm}^2$. It is allowed to expand adiabatically against an external pressure of 1.0 atm until the piston has moved outwards through $20 \\mathrm{~cm}$. Assume that carbon dioxide may be considered a perfect gas with $C_{V, \\mathrm{~m}}=28.8 \\mathrm{~J} \\mathrm{~K}^{-1} \\mathrm{~mol}^{-1}$ and calculate $\\Delta S$.",
+    "expected_answer": "+0.60",
+    "difficulty": "expert",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "SCI_040",
+    "domain": "Science",
+    "task_type": "Thermodynamics",
+    "prompt": "A perfect gas undergoes isothermal compression, which reduces its volume by $2.20 \\mathrm{dm}^3$. The final pressure and volume of the gas are $5.04 \\mathrm{bar}$ and $4.65 \\mathrm{dm}^3$, respectively. Calculate the original pressure of the gas in atm.",
+    "expected_answer": "3.38",
+    "difficulty": "expert",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "SCI_049",
+    "domain": "Science",
+    "task_type": "Thermodynamics",
+    "prompt": "A manometer consists of a U-shaped tube containing a liquid. One side is connected to the apparatus and the other is open to the atmosphere. The pressure inside the apparatus is then determined from the difference in heights of the liquid. Suppose the liquid is water, the external pressure is 770 Torr, and the open side is $10.0 \\mathrm{cm}$ lower than the side connected to the apparatus. What is the pressure in the apparatus? (The density of water at $25^{\\circ} \\mathrm{C}$ is $0.99707 \\mathrm{g} \\mathrm{cm}^{-3}$.)",
+    "expected_answer": "102",
+    "difficulty": "expert",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "SCI_052",
+    "domain": "Science",
+    "task_type": "Thermodynamics",
+    "prompt": "Assume all gases are perfect unless stated otherwise. Unless otherwise stated, thermodynamic data are for 298.15 K. A strip of magnesium of mass $15 \\mathrm{~g}$ is placed in a beaker of dilute hydrochloric acid. Calculate the work done by the system as a result of the reaction. The atmospheric pressure is 1.0 atm and the temperature $25^{\\circ} \\mathrm{C}$.",
+    "expected_answer": "-1.5",
+    "difficulty": "expert",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "SCI_055",
+    "domain": "Science",
+    "task_type": "Thermodynamics",
+    "prompt": "Assume all gases are perfect unless stated otherwise. Unless otherwise stated, thermodynamic data are for 298.15 K. When $229 \\mathrm{~J}$ of energy is supplied as heat to $3.0 \\mathrm{~mol} \\mathrm{Ar}(\\mathrm{g})$ at constant pressure, the temperature of the sample increases by $2.55 \\mathrm{~K}$. Calculate the molar heat capacities at constant volume.",
+    "expected_answer": "30",
+    "difficulty": "expert",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "SCI_060",
+    "domain": "Science",
+    "task_type": "Thermodynamics",
+    "prompt": "The composition of the atmosphere is approximately 80 per cent nitrogen and 20 per cent oxygen by mass. At what height above the surface of the Earth would the atmosphere become 90 per cent nitrogen and 10 per cent oxygen by mass? Assume that the temperature of the atmosphere is constant at $25^{\\circ} \\mathrm{C}$. What is the pressure of the atmosphere at that height?",
+    "expected_answer": "0.0029",
+    "difficulty": "expert",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "SCI_061",
+    "domain": "Science",
+    "task_type": "Thermodynamics",
+    "prompt": "Assume that all gases are perfect and that data refer to 298.15 K unless otherwise stated. Calculate $\\Delta S_\\text{tot}$ when two copper blocks, each of mass $10.0 \\mathrm{~kg}$, one at $100^{\\circ} \\mathrm{C}$ and the other at $0^{\\circ} \\mathrm{C}$, are placed in contact in an isolated container. The specific heat capacity of copper is $0.385 \\mathrm{~J} \\mathrm{~K}^{-1} \\mathrm{~g}^{-1}$ and may be assumed constant over the temperature range involved.",
+    "expected_answer": "+93.4",
+    "difficulty": "expert",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "SCI_064",
+    "domain": "Science",
+    "task_type": "Thermodynamics",
+    "prompt": "What is the mean speed, $\\bar{c}$, of $\\mathrm{N}_2$ molecules in air at $25^{\\circ} \\mathrm{C}$ ?",
+    "expected_answer": "475",
+    "difficulty": "expert",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "SCI_074",
+    "domain": "Science",
+    "task_type": "Thermodynamics",
+    "prompt": "Assume all gases are perfect unless stated otherwise. Note that 1 atm = 1.01325 bar. Unless otherwise stated, thermochemical data are for 298.15 K. Take nitrogen to be a van der Waals gas with $a=1.352 \\mathrm{dm}^6 \\mathrm{~atm} \\mathrm{\\textrm {mol } ^ { - 2 }}$ and $b=0.0387 \\mathrm{dm}^3 \\mathrm{~mol}^{-1}$, and calculate $\\Delta H_{\\mathrm{m}}$ when the pressure on the gas is decreased from $500 \\mathrm{~atm}$ to $1.00 \\mathrm{~atm}$ at $300 \\mathrm{~K}$. For a van der Waals gas, $\\mu=\\{(2 a / R T)-b\\} / C_{p, \\mathrm{~m}}$. Assume $C_{p, \\mathrm{~m}}=\\frac{7}{2} R$.",
+    "expected_answer": "+3.60",
+    "difficulty": "expert",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "SCI_083",
+    "domain": "Science",
+    "task_type": "Thermodynamics",
+    "prompt": "Assume all gases are perfect unless stated otherwise. Note that 1 atm = 1.013 25 bar. Unless otherwise stated, thermochemical data are for 298.15 K. Concerns over the harmful effects of chlorofluorocarbons on stratospheric ozone have motivated a search for new refrigerants. One such alternative is 2,2-dichloro-1,1,1-trifluoroethane (refrigerant 123). Younglove and McLinden published a compendium of thermophysical properties of this substance (J. Phys. Chem. Ref. Data 23, 7 (1994)), from which properties such as the Joule-Thomson coefficient $\\mu$ can be computed. Compute the temperature change that would accompany adiabatic expansion of $2.0 \\mathrm{~mol}$ of this refrigerant from $1.5 \\mathrm{bar}$ to 0.5 bar at $50^{\\circ} \\mathrm{C}$.",
+    "expected_answer": "-2.99",
+    "difficulty": "expert",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "SCI_109",
+    "domain": "Science",
+    "task_type": "Thermodynamics",
+    "prompt": "Assume that all gases are perfect and that data refer to 298.15 K unless otherwise stated. The enthalpy of vaporization of chloroform $\\left(\\mathrm{CHCl}_3\\right)$ is $29.4 \\mathrm{~kJ} \\mathrm{~mol}^{-1}$ at its normal boiling point of $334.88 \\mathrm{~K}$. Calculate the entropy of vaporization of chloroform at this temperature.",
+    "expected_answer": "+87.8",
+    "difficulty": "expert",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "SCI_111",
+    "domain": "Science",
+    "task_type": "Thermodynamics",
+    "prompt": "Assume that all gases are perfect and that data refer to 298 K unless otherwise stated. Estimate the standard reaction Gibbs energy of $\\mathrm{N}_2(\\mathrm{g})+3 \\mathrm{H}_2(\\mathrm{g}) \\rightarrow$ $2 \\mathrm{NH}_3$ (g) at $500 \\mathrm{~K}$.",
+    "expected_answer": "7",
+    "difficulty": "expert",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "SCI_116",
+    "domain": "Science",
+    "task_type": "Thermodynamics",
+    "prompt": "Assume all gases are perfect unless stated otherwise. Unless otherwise stated, thermodynamic data are for 298.15 K. The volume of a certain liquid varies with temperature as\r\n$$\r\nV=V^{\\prime}\\left\\{0.75+3.9 \\times 10^{-4}(T / \\mathrm{K})+1.48 \\times 10^{-6}(T / \\mathrm{K})^2\\right\\}\r\n$$\r\nwhere $V^{\\prime}$ is its volume at $300 \\mathrm{~K}$. Calculate its expansion coefficient, $\\alpha$, at $320 \\mathrm{~K}$.",
+    "expected_answer": "0.00131",
+    "difficulty": "expert",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "SCI_117",
+    "domain": "Science",
+    "task_type": "Thermodynamics",
+    "prompt": "Assume all gases are perfect unless stated otherwise. Unless otherwise stated, thermodynamic data are for 298.15 K. Calculate the standard enthalpy of solution of $\\mathrm{AgCl}(\\mathrm{s})$ in water from the enthalpies of formation of the solid and the aqueous ions.",
+    "expected_answer": "+65.49",
+    "difficulty": "expert",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "SCI_125",
+    "domain": "Science",
+    "task_type": "Thermodynamics",
+    "prompt": "Assume all gases are perfect unless stated otherwise. Unless otherwise stated, thermodynamic data are for 298.15 K. A sample of carbon dioxide of mass $2.45 \\mathrm{~g}$ at $27.0^{\\circ} \\mathrm{C}$ is allowed to expand reversibly and adiabatically from $500 \\mathrm{~cm}^3$ to $3.00 \\mathrm{dm}^3$. What is the work done by the gas?",
+    "expected_answer": "-194",
+    "difficulty": "expert",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "SCI_131",
+    "domain": "Science",
+    "task_type": "Thermodynamics",
+    "prompt": "Assume that all gases are perfect and that data refer to 298 K unless otherwise stated. 3.17 Estimate the standard reaction Gibbs energy of $\\mathrm{N}_2(\\mathrm{~g})+3 \\mathrm{H}_2(\\mathrm{~g}) \\rightarrow$ $2 \\mathrm{NH}_3(\\mathrm{~g})$ at $1000 \\mathrm{~K}$ from their values at $298 \\mathrm{~K}$.",
+    "expected_answer": "+107",
+    "difficulty": "expert",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "SCI_133",
+    "domain": "Science",
+    "task_type": "Thermodynamics",
+    "prompt": "A gas at $250 \\mathrm{~K}$ and $15 \\mathrm{~atm}$ has a molar volume 12 per cent smaller than that calculated from the perfect gas law. Calculate the molar volume of the gas.",
+    "expected_answer": "1.2",
+    "difficulty": "expert",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "SCI_138",
+    "domain": "Science",
+    "task_type": "Thermodynamics",
+    "prompt": "The densities of air at $-85^{\\circ} \\mathrm{C}, 0^{\\circ} \\mathrm{C}$, and $100^{\\circ} \\mathrm{C}$ are $1.877 \\mathrm{~g} \\mathrm{dm}^{-3}, 1.294 \\mathrm{~g}$ $\\mathrm{dm}^{-3}$, and $0.946 \\mathrm{~g} \\mathrm{dm}^{-3}$, respectively. From these data, and assuming that air obeys Charles's law, determine a value for the absolute zero of temperature in degrees Celsius.",
+    "expected_answer": "-273",
+    "difficulty": "expert",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "SCI_145",
+    "domain": "Science",
+    "task_type": "Thermodynamics",
+    "prompt": "Assume that all gases are perfect and that data refer to 298.15 K unless otherwise stated. Calculate the change in the molar Gibbs energy of hydrogen gas when its pressure is increased isothermally from $1.0 \\mathrm{~atm}$ to 100.0 atm at $298 \\mathrm{~K}$.",
+    "expected_answer": "+11",
+    "difficulty": "expert",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "SCI_149",
+    "domain": "Science",
+    "task_type": "Thermodynamics",
+    "prompt": "A constant-volume perfect gas thermometer indicates a pressure of $6.69 \\mathrm{kPa}$ at the triple point temperature of water (273.16 K). What change of pressure indicates a change of $1.00 \\mathrm{~K}$ at this temperature?",
+    "expected_answer": "0.0245",
+    "difficulty": "expert",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "SCI_152",
+    "domain": "Science",
+    "task_type": "Thermodynamics",
+    "prompt": "Assume all gases are perfect unless stated otherwise. Unless otherwise stated, thermodynamic data are for 298.15 K. A sample of $4.50 \\mathrm{~g}$ of methane occupies $12.7 \\mathrm{dm}^3$ at $310 \\mathrm{~K}$. Calculate the work done when the gas expands isothermally against a constant external pressure of 200 Torr until its volume has increased by\r\n$3.3 \\mathrm{dm}^3$.",
+    "expected_answer": "-88",
+    "difficulty": "expert",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "SCI_159",
+    "domain": "Science",
+    "task_type": "Thermodynamics",
+    "prompt": "A constant-volume perfect gas thermometer indicates a pressure of $6.69 \\mathrm{kPa}$ at the triple point temperature of water (273.16 K). What change of pressure indicates a change of $1.00 \\mathrm{~K}$ at the latter temperature?",
+    "expected_answer": "0.0245",
+    "difficulty": "expert",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "SCI_160",
+    "domain": "Science",
+    "task_type": "Thermodynamics",
+    "prompt": "Assume all gases are perfect unless stated otherwise. Unless otherwise stated, thermodynamic data are for 298.15 K. Calculate the work needed for a $65 \\mathrm{~kg}$ person to climb through $4.0 \\mathrm{~m}$ on the surface of the Earth.",
+    "expected_answer": "2600",
+    "difficulty": "expert",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "SCI_164",
+    "domain": "Science",
+    "task_type": "Thermodynamics",
+    "prompt": "What pressure would $131 \\mathrm{g}$ of xenon gas in a vessel of volume $1.0 \\mathrm{dm}^3$ exert at $25^{\\circ} \\mathrm{C}$ if it behaved as a van der Waals gas?",
+    "expected_answer": "22",
+    "difficulty": "expert",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "SCI_166",
+    "domain": "Science",
+    "task_type": "Thermodynamics",
+    "prompt": "The barometric formula relates the pressure of a gas of molar mass $M$ at an altitude $h$ to its pressure $p_0$ at sea level. Derive this relation by showing that the change in pressure $\\mathrm{d} p$ for an infinitesimal change in altitude $\\mathrm{d} h$ where the density is $\\rho$ is $\\mathrm{d} p=-\\rho g \\mathrm{~d} h$. Remember that $\\rho$ depends on the pressure. Evaluate the pressure difference between the top and bottom of a laboratory vessel of height 15 cm.",
+    "expected_answer": "0.00017",
+    "difficulty": "expert",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "SCI_167",
+    "domain": "Science",
+    "task_type": "Thermodynamics",
+    "prompt": "Assume that all gases are perfect and that data refer to 298.15 K unless otherwise stated. Calculate the Carnot efficiency of a modern steam turbine that operates with steam at $300^{\\circ} \\mathrm{C}$ and discharges at $80^{\\circ} \\mathrm{C}$.",
+    "expected_answer": "0.38",
+    "difficulty": "expert",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "SCI_174",
+    "domain": "Science",
+    "task_type": "Thermodynamics",
+    "prompt": "Assume all gases are perfect unless stated otherwise. Unless otherwise stated, thermodynamic data are for 298.15 K. The standard enthalpy of decomposition of the yellow complex $\\mathrm{H}_3 \\mathrm{NSO}_2$ into $\\mathrm{NH}_3$ and $\\mathrm{SO}_2$ is $+40 \\mathrm{~kJ} \\mathrm{~mol}^{-1}$. Calculate the standard enthalpy of formation of $\\mathrm{H}_3 \\mathrm{NSO}_2$.",
+    "expected_answer": "-383",
+    "difficulty": "expert",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "SCI_182",
+    "domain": "Science",
+    "task_type": "Thermodynamics",
+    "prompt": "Assume that all gases are perfect and that data refer to 298.15 K unless otherwise stated. Calculate the Carnot efficiency of a primitive steam engine operating on steam at $100^{\\circ} \\mathrm{C}$ and discharging at $60^{\\circ} \\mathrm{C}$.",
+    "expected_answer": "0.11",
+    "difficulty": "expert",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "SCI_187",
+    "domain": "Science",
+    "task_type": "Thermodynamics",
+    "prompt": "Suppose the concentration of a solute decays exponentially along the length of a container. Calculate the thermodynamic force on the solute at $25^{\\circ} \\mathrm{C}$ given that the concentration falls to half its value in $10 \\mathrm{~cm}$.",
+    "expected_answer": "17",
+    "difficulty": "expert",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "SCI_190",
+    "domain": "Science",
+    "task_type": "Thermodynamics",
+    "prompt": "Assume all gases are perfect unless stated otherwise. Unless otherwise stated, thermodynamic data are for 298.15 K. Calculate the work needed for a $65 \\mathrm{~kg}$ person to climb through $4.0 \\mathrm{~m}$ on the surface of the Moon $\\left(g=1.60 \\mathrm{~m} \\mathrm{~s}^{-2}\\right)$.",
+    "expected_answer": "420",
+    "difficulty": "expert",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "SCI_195",
+    "domain": "Science",
+    "task_type": "Thermodynamics",
+    "prompt": "The osmotic pressures of solutions of poly(vinyl chloride), PVC, in cyclohexanone at $298 \\mathrm{~K}$ are given below. The pressures are expressed in terms of the heights of solution (of mass density $\\rho=0.980 \\mathrm{~g} \\mathrm{~cm}^{-3}$ ) in balance with the osmotic pressure. Determine the molar mass of the polymer.\r\n$\\begin{array}{llllll}c /\\left(\\mathrm{g} \\mathrm{dm}^{-3}\\right) & 1.00 & 2.00 & 4.00 & 7.00 & 9.00 \\\\ h / \\mathrm{cm} & 0.28 & 0.71 & 2.01 & 5.10 & 8.00\\end{array}$\r\n",
+    "expected_answer": "1.2",
+    "difficulty": "expert",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "SCI_212",
+    "domain": "Science",
+    "task_type": "Thermodynamics",
+    "prompt": "The mass density of water vapour at $327.6 \\mathrm{~atm}$ and $776.4 \\mathrm{~K}$ is $133.2 \\mathrm{~kg} \\mathrm{~m}^{-3}$. Given that for water $T_{\\mathrm{c}}=647.4 \\mathrm{~K}, p_{\\mathrm{c}}=218.3 \\mathrm{~atm}, a=5.464 \\mathrm{dm}^6 \\mathrm{~atm} \\mathrm{~mol}^{-2}$, $b=0.03049 \\mathrm{dm}^3 \\mathrm{~mol}^{-1}$, and $M=18.02 \\mathrm{~g} \\mathrm{~mol}^{-1}$, calculate the molar volume.",
+    "expected_answer": "0.1353",
+    "difficulty": "expert",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "SCI_217",
+    "domain": "Science",
+    "task_type": "Thermodynamics",
+    "prompt": "A container is divided into two equal compartments. One contains $3.0 \\mathrm{~mol} \\mathrm{H}_2(\\mathrm{~g})$ at $25^{\\circ} \\mathrm{C}$; the other contains $1.0 \\mathrm{~mol} \\mathrm{~N}_2(\\mathrm{~g})$ at $25^{\\circ} \\mathrm{C}$. Calculate the Gibbs energy of mixing when the partition is removed. Assume perfect behaviour.",
+    "expected_answer": "-6.9",
+    "difficulty": "expert",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "SCI_218",
+    "domain": "Science",
+    "task_type": "Thermodynamics",
+    "prompt": "Assume that all gases are perfect and that data refer to 298.15 K unless otherwise stated. Calculate the total change in entropy, when a sample of nitrogen gas of mass $14 \\mathrm{~g}$ at $298 \\mathrm{~K}$ and $1.00 \\mathrm{bar}$ doubles its volume in an isothermal irreversible expansion against $p_{\\mathrm{ex}}=0$.",
+    "expected_answer": "+2.9",
+    "difficulty": "expert",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "SCI_220",
+    "domain": "Science",
+    "task_type": "Thermodynamics",
+    "prompt": "Express the van der Waals parameters $a=0.751 \\mathrm{~atm} \\mathrm{dm}^6 \\mathrm{~mol}^{-2}$ in SI base units.",
+    "expected_answer": "0.0761",
+    "difficulty": "expert",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "SCI_221",
+    "domain": "Science",
+    "task_type": "Thermodynamics",
+    "prompt": "The standard enthalpy of formation of $\\mathrm{H}_2 \\mathrm{O}(\\mathrm{g})$ at $298 \\mathrm{~K}$ is $-241.82 \\mathrm{~kJ} \\mathrm{~mol}^{-1}$. Estimate its value at $100^{\\circ} \\mathrm{C}$ given the following values of the molar heat capacities at constant pressure: $\\mathrm{H}_2 \\mathrm{O}(\\mathrm{g}): 33.58 \\mathrm{~J} \\mathrm{~K}^{-1} \\mathrm{~mol}^{-1} ; \\mathrm{H}_2(\\mathrm{~g}): 28.82 \\mathrm{~J} \\mathrm{~K}^{-1} \\mathrm{~mol}^{-1} ; \\mathrm{O}_2(\\mathrm{~g})$ : $29.36 \\mathrm{~J} \\mathrm{~K}^{-1} \\mathrm{~mol}^{-1}$. Assume that the heat capacities are independent of temperature.",
+    "expected_answer": "-242.6",
+    "difficulty": "expert",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "SCI_222",
+    "domain": "Science",
+    "task_type": "Thermodynamics",
+    "prompt": "Assume all gases are perfect unless stated otherwise. Unless otherwise stated, thermodynamic data are for 298.15 K. Calculate the final temperature of a sample of argon of mass $12.0 \\mathrm{~g}$ that is expanded reversibly and adiabatically from $1.0 \\mathrm{dm}^3$ at $273.15 \\mathrm{~K}$ to $3.0 \\mathrm{dm}^3$.",
+    "expected_answer": "131",
+    "difficulty": "expert",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "SCI_225",
+    "domain": "Science",
+    "task_type": "Thermodynamics",
+    "prompt": "A gas at $250 \\mathrm{~K}$ and $15 \\mathrm{~atm}$ has a molar volume 12 per cent smaller than that calculated from the perfect gas law. Calculate the compression factor under these conditions.",
+    "expected_answer": "0.88",
+    "difficulty": "expert",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "SCI_228",
+    "domain": "Science",
+    "task_type": "Thermodynamics",
+    "prompt": "Assume all gases are perfect unless stated otherwise. Note that 1 atm = 1.013 25 bar. Unless otherwise stated, thermochemical data are for 298.15 K. A sample consisting of $2.0 \\mathrm{~mol} \\mathrm{CO}_2$ occupies a fixed volume of $15.0 \\mathrm{dm}^3$ at $300 \\mathrm{~K}$. When it is supplied with $2.35 \\mathrm{~kJ}$ of energy as heat its temperature increases to $341 \\mathrm{~K}$. Assume that $\\mathrm{CO}_2$ is described by the van der Waals equation of state, and calculate $\\Delta U$.",
+    "expected_answer": "+2.35",
+    "difficulty": "expert",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "SCI_237",
+    "domain": "Science",
+    "task_type": "Thermodynamics",
+    "prompt": "A constant-volume perfect gas thermometer indicates a pressure of $6.69 \\mathrm{kPa}$ at the triple point temperature of water (273.16 K). What pressure indicates a temperature of $100.00^{\\circ} \\mathrm{C}$?",
+    "expected_answer": "9.14",
+    "difficulty": "expert",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "SCI_243",
+    "domain": "Science",
+    "task_type": "Thermodynamics",
+    "prompt": "Assume that all gases are perfect and that data refer to 298.15 K unless otherwise stated. Consider a system consisting of $2.0 \\mathrm{~mol} \\mathrm{CO}_2(\\mathrm{~g})$, initially at $25^{\\circ} \\mathrm{C}$ and $10 \\mathrm{~atm}$ and confined to a cylinder of cross-section $10.0 \\mathrm{~cm}^2$. It is allowed to expand adiabatically against an external pressure of 1.0 atm until the piston has moved outwards through $20 \\mathrm{~cm}$. Assume that carbon dioxide may be considered a perfect gas with $C_{V, \\mathrm{~m}}=28.8 \\mathrm{~J} \\mathrm{~K}^{-1} \\mathrm{~mol}^{-1}$ and calculate $w$.",
+    "expected_answer": "-20",
+    "difficulty": "expert",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "SCI_246",
+    "domain": "Science",
+    "task_type": "Thermodynamics",
+    "prompt": "The data below show the temperature variation of the equilibrium constant of the reaction $\\mathrm{Ag}_2 \\mathrm{CO}_3(\\mathrm{~s}) \\rightleftharpoons \\mathrm{Ag}_2 \\mathrm{O}(\\mathrm{s})+\\mathrm{CO}_2(\\mathrm{~g})$. Calculate the standard reaction enthalpy of the decomposition.\r\n$\\begin{array}{lllll}T / \\mathrm{K} & 350 & 400 & 450 & 500 \\\\ K & 3.98 \\times 10^{-4} & 1.41 \\times 10^{-2} & 1.86 \\times 10^{-1} & 1.48\\end{array}$",
+    "expected_answer": "+80",
+    "difficulty": "expert",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "SCI_247",
+    "domain": "Science",
+    "task_type": "Thermodynamics",
+    "prompt": "What pressure would $131 \\mathrm{g}$ of xenon gas in a vessel of volume $1.0 \\mathrm{dm}^3$ exert at $25^{\\circ} \\mathrm{C}$ assume it behaved as a perfect gas?",
+    "expected_answer": "24",
+    "difficulty": "expert",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "SCI_886",
+    "domain": "Physics",
+    "task_type": "Thermodynamics",
+    "prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation.Then the question is:What type of heat transfer helps the balloon rise?\n\nA. Air pressure difference between inside and outside\nB. Heated air inside the balloon rises\nC. Cooler air outside pushes the balloon up\nD. Helium gas expands and lifts the balloon\n\nAnswer:",
+    "expected_answer": "B. Heated air inside the balloon rises",
+    "difficulty": "medium",
+    "evaluation_metric": "exact_match"
+  }
+]

@@ -1,0 +1,1640 @@
+[
+  {
+    "task_id": "SCI_024",
+    "domain": "Chemistry",
+    "task_type": "Medicinal Chemistry",
+    "prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation.\nThe question is:In the field of drug discovery, what term refers to a class of molecules that interact non-specifically with lipid bilayers and alter their physicochemical properties?\nA. Umbrella Sampling (US)\nB. MD Simulations\nC. ISDM-calculated membrane permeability coefficients\nD. Membrane Pan-Assay INterference compoundS (PAINS)",
+    "expected_answer": "D. Membrane Pan-Assay INterference compoundS (PAINS)",
+    "difficulty": "medium",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "SCI_045",
+    "domain": "Biology",
+    "task_type": "Medicinal Chemistry",
+    "prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation.\nThe question is:Which of the following is NOT a function of natural killer cells?\nA. Target binding\nB. Phagocytosis of pathogens\nC. Production of cytokines\nD. Cytotoxicity against infected cells",
+    "expected_answer": "B. Phagocytosis of pathogens",
+    "difficulty": "medium",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "SCI_046",
+    "domain": "Biology",
+    "task_type": "Medicinal Chemistry",
+    "prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation.\nThe question is:Which cytochrome P450 isoforms are responsible for mediating the conversion of mitragynine to 7-hydroxymitragynine in both mouse and human liver preparations?\nA. Cytochrome P450 2C9 isoforms\nB. Cytochrome P450 3A isoforms\nC. Cytochrome P450 1A2 isoforms\nD. Cytochrome P450 2D6 isoforms",
+    "expected_answer": "B. Cytochrome P450 3A isoforms",
+    "difficulty": "medium",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "SCI_053",
+    "domain": "Biology",
+    "task_type": "Medicinal Chemistry",
+    "prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation.\nThe question is:In neuroanatomy, what is the term used to describe neurons that are immunoreactive to vasoactive intestinal peptide (VIP)?\nA. VIP-positive neurons\nB. Dopaminergic neurons\nC. Serotonergic neurons\nD. Cholinergic neurons",
+    "expected_answer": "A. VIP-positive neurons",
+    "difficulty": "medium",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "SCI_055",
+    "domain": "Biology",
+    "task_type": "Medicinal Chemistry",
+    "prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation.\nThe question is:Which of the following markers is commonly used to assess T cell activation and proliferation in the context of tuberculosis?\nA. PD-L1\nB. EGFR\nC. VEGF\nD. CD38",
+    "expected_answer": "D. CD38",
+    "difficulty": "medium",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "SCI_058",
+    "domain": "Chemistry",
+    "task_type": "Medicinal Chemistry",
+    "prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation.\nThe question is:What differences in surface properties and porosity can be observed between pure SF scaffolds and collagen-supplemented SF-C scaffolds?\nA. The SF-C scaffolds were less porous than the SF scaffolds, but the difference was statistically significant, and the contact angle of the SF-C scaffold was larger than that of the SF scaffold.\nB. The porosity of the SF-C and SF scaffolds was the same, but the SF-C scaffold had a larger contact angle than the SF scaffold.\nC. Both the porosity and the contact angle of the SF-C scaffolds were significantly lower than those of the SF scaffolds.\nD. The porosity of the SF-C scaffolds was slightly higher than that of the SF scaffolds, but the difference was not statistically significant, and the contact angle of the SF-C scaffold was smaller than that of the SF scaffold.",
+    "expected_answer": "D. The porosity of the SF-C scaffolds was slightly higher than that of the SF scaffolds, but the difference was not statistically significant, and the contact angle of the SF-C scaffold was smaller than that of the SF scaffold.",
+    "difficulty": "medium",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "SCI_060",
+    "domain": "Chemistry",
+    "task_type": "Medicinal Chemistry",
+    "prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation.\nThe question is:In the field of nanotechnology, what term is used to describe large monodisperse polycyclic aromatic hydrocarbons that extend in size beyond the nanometer and show promise in various applications?\nA. Fullerenes\nB. Carbon nanotubes\nC. Quantum dots\nD. Nanographenes",
+    "expected_answer": "D. Nanographenes",
+    "difficulty": "medium",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "SCI_062",
+    "domain": "Chemistry",
+    "task_type": "Medicinal Chemistry",
+    "prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation.\nThe question is:In the context of organic dye design for solar cells, which energy level primarily contributes to the bathochromic shift observed in Me2Si-MK-3 compared to MK-3?\nA. Higher HOMO energy level in Me2Si-MK-3 (-5.19 eV)\nB. Lower LUMO energy level in F2Si-MK-3 (-3.41 eV)\nC. Higher HOMO energy level in F2Si-MK-3 (-5.30 eV)\nD. Higher LUMO energy level in Me2Si-MK-3 (-3.30 eV)",
+    "expected_answer": "A. Higher HOMO energy level in Me2Si-MK-3 (-5.19 eV)",
+    "difficulty": "medium",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "SCI_068",
+    "domain": "Biology",
+    "task_type": "Medicinal Chemistry",
+    "prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation.\nThe question is:In evolutionary game theory, what term describes the process where individuals spontaneously change from one strategy to another?\nA. Mutation\nB. Selection\nC. Reproduction\nD. Fitness",
+    "expected_answer": "A. Mutation",
+    "difficulty": "medium",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "SCI_071",
+    "domain": "Biology",
+    "task_type": "Medicinal Chemistry",
+    "prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation.\nThe question is:What is the primary structural feature of amyloid-like peptide nanofibrils (PNFs) that facilitates enhanced retroviral gene transduction?\nA. Low zeta potential\nB. Limited fibril morphologies\nC. Decreased biorecognition capabilities\nD. High intermolecular beta-sheet content",
+    "expected_answer": "D. High intermolecular beta-sheet content",
+    "difficulty": "medium",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "SCI_075",
+    "domain": "Biology",
+    "task_type": "Medicinal Chemistry",
+    "prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation.\nThe question is:How were the proliferation and osteogenic differentiation of MSCs cultured with n-HA/GCO-PU scaffold samples evaluated?\nA. Flow cytometry and western blot analysis\nB. Gene expression profiling and proteomics analysis\nC. PCR analysis and immunofluorescence staining\nD. MTT assay and a rat bone Gla protein/osteocalcin ELISA kit",
+    "expected_answer": "D. MTT assay and a rat bone Gla protein/osteocalcin ELISA kit",
+    "difficulty": "medium",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "SCI_076",
+    "domain": "Biology",
+    "task_type": "Medicinal Chemistry",
+    "prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation.\nThe question is:In bioinformatics, which of the following terms describes the process of predicting homology relationships among sequences by clustering based on orthologs?\nA. OrthoMCL pipeline\nB. PFAM domains database\nC. REBASE database\nD. HMMER3 package",
+    "expected_answer": "A. OrthoMCL pipeline",
+    "difficulty": "medium",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "SCI_080",
+    "domain": "Biology",
+    "task_type": "Medicinal Chemistry",
+    "prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation.\nThe question is:In the field of environmental science, which of the following factors is NOT typically associated with influencing the sensitivity of dissolved organic carbon (DOC) concentrations in soil water?\nA. Al saturation\nB. Vegetation color\nC. Soil sensitivity to acidification\nD. Atmospheric deposition",
+    "expected_answer": "B. Vegetation color",
+    "difficulty": "medium",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "SCI_082",
+    "domain": "Chemistry",
+    "task_type": "Medicinal Chemistry",
+    "prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation.\nThe question is:How does the temperature above the glass transition temperature (Tg) influence the water stability of GO-collagen composite fibers?\nA. At lower temperatures, the molecular structure of the polymer chains becomes rigid, decreasing collagen release in water.\nB. At higher temperatures, the molecular mobility of the polymer chains increases, leading to accelerated collagen release in water.\nC. At higher temperatures, the water solubility of the GO-collagen composite fibers decreases.\nD. At lower temperatures, the GO-collagen composite fibers become more hydrophobic, resulting in increased water stability.",
+    "expected_answer": "B. At higher temperatures, the molecular mobility of the polymer chains increases, leading to accelerated collagen release in water.",
+    "difficulty": "medium",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "SCI_083",
+    "domain": "Biology",
+    "task_type": "Medicinal Chemistry",
+    "prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation.\nThe question is:Which of the following is NOT a common challenge in developing a malaria vaccine?\nA. High efficacy against non-clinical symptoms\nB. Anti-parasitic immune responses impeding vaccine-induced immunity\nC. Sub-optimal vaccine formulations and dosing schedules\nD. Presence of polymorphic or strain-restricted antigens",
+    "expected_answer": "A. High efficacy against non-clinical symptoms",
+    "difficulty": "medium",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "SCI_084",
+    "domain": "Biology",
+    "task_type": "Medicinal Chemistry",
+    "prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation.\nThe question is:Which of the following metabolites was NOT found to be at higher levels in esophageal cancer plasma compared to healthy controls?\nA. glycoprotein\nB. Leucine\nC. citric acid\nD. \u03b1-glucose",
+    "expected_answer": "B. Leucine",
+    "difficulty": "medium",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "SCI_085",
+    "domain": "Chemistry",
+    "task_type": "Medicinal Chemistry",
+    "prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation.\nThe question is:In the context of artificial metalloenzymes, what is the term used to describe the site where the coordination of gold (Au) occurs, potentially altering the tertiary structure of the protein?\nA. Active site\nB. Inhibitory site\nC. Binding site\nD. Catalytic site",
+    "expected_answer": "A. Active site",
+    "difficulty": "medium",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "SCI_092",
+    "domain": "Chemistry",
+    "task_type": "Medicinal Chemistry",
+    "prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation.\nThe question is:In the field of polymer degradation, which mechanism involves the breaking of polymer chains due to exposure to high temperatures and can result in the loss of mechanical properties?\nA. Oxidation\nB. Hydrolysis\nC. Thermal degradation\nD. UV oxidation",
+    "expected_answer": "C. Thermal degradation",
+    "difficulty": "medium",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "SCI_096",
+    "domain": "Biology",
+    "task_type": "Medicinal Chemistry",
+    "prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation.\nThe question is:Which enzyme catalyzes the isomerization of the cyclooxygenase product PGH(2) into PGE(2)?\nA. 5-LOX\nB. mPGES-1\nC. COX-2\nD. PGDS",
+    "expected_answer": "B. mPGES-1",
+    "difficulty": "medium",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "SCI_108",
+    "domain": "Biology",
+    "task_type": "Medicinal Chemistry",
+    "prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation.\nThe question is:In cardiac electrophysiology, what is the term used to describe the time difference between the onset of contraction in the right atrium and left ventricle?\nA. Mechanical AV time\nB. Pulse transit time\nC. Electrophysiological AV time\nD. Conduction velocity",
+    "expected_answer": "A. Mechanical AV time",
+    "difficulty": "medium",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "SCI_111",
+    "domain": "Chemistry",
+    "task_type": "Medicinal Chemistry",
+    "prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation.\nThe question is:In the context of host-guest binding simulations, what term refers to the process of predicting the strength of interaction between a host and a guest molecule?\nA. Collective variables\nB. Metadynamics\nC. Enhanced sampling\nD. Binding affinity",
+    "expected_answer": "D. Binding affinity",
+    "difficulty": "medium",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "SCI_112",
+    "domain": "Chemistry",
+    "task_type": "Medicinal Chemistry",
+    "prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation.\nThe question is:In the context of biotherapeutic characterization using native mass spectrometry, what does UPP stand for?\nA. Universal Protein Profiler\nB. Unique Protein Platform\nC. Ultimate Peak Processor\nD. UniDec Processing Pipeline",
+    "expected_answer": "D. UniDec Processing Pipeline",
+    "difficulty": "medium",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "SCI_115",
+    "domain": "Chemistry",
+    "task_type": "Medicinal Chemistry",
+    "prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation.\nThe question is:In the context of lipid film formation, what does the term 'lattice parameter' refer to?\nA. The spacing between repeating units in the crystalline structure\nB. The orientation of the lipid molecules on the substrate\nC. The curvature energy of the lipid molecules\nD. The thickness of the lipid bilayer",
+    "expected_answer": "A. The spacing between repeating units in the crystalline structure",
+    "difficulty": "medium",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "SCI_116",
+    "domain": "Biology",
+    "task_type": "Medicinal Chemistry",
+    "prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation.\nThe question is:Which of the following is NOT a characteristic feature of Mycoplasma orale type 1?\nA. Has a rigid cell wall\nB. Growth inhibition tests related to Mycoplasma orale type 1\nC. Isolated from sarcoid lymph nodes\nD. Tested for antibodies against an isolated mycoplasma (strain 215-M)",
+    "expected_answer": "A. Has a rigid cell wall",
+    "difficulty": "medium",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "SCI_122",
+    "domain": "Biology",
+    "task_type": "Medicinal Chemistry",
+    "prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation.\nThe question is:What factors limit the height of trees with large crowns?\nA. Euler buckling and Young's modulus\nB. Atmospheric pressure and humidity levels\nC. Root depth and soil nutrients\nD. Phototropism and gravitropism",
+    "expected_answer": "A. Euler buckling and Young's modulus",
+    "difficulty": "medium",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "SCI_125",
+    "domain": "Biology",
+    "task_type": "Medicinal Chemistry",
+    "prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation.\nThe question is:In the field of cancer detection, what is the term used to describe a molecule that can sense the elevated concentration of a small molecule in the tumor microenvironment and promote precise recognition of malignant cells?\nA. Metabolite switch\nB. Bispecific aptamer\nC. Tumor marker protein\nD. Molecular sensing agent",
+    "expected_answer": "D. Molecular sensing agent",
+    "difficulty": "medium",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "SCI_140",
+    "domain": "Biology",
+    "task_type": "Medicinal Chemistry",
+    "prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation.\nThe question is:In the context of microbiome analysis, what term refers to the measure of how evenly the abundance of different taxa are distributed in a community?\nA. Alpha diversity\nB. Richness\nC. Evenness\nD. Enterotypes",
+    "expected_answer": "C. Evenness",
+    "difficulty": "medium",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "SCI_144",
+    "domain": "Biology",
+    "task_type": "Medicinal Chemistry",
+    "prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation.\nThe question is:What best describes the difference between self-assembling equilibrium lipid membranes and protein membranes?\nA. Lipid membranes and protein membranes have no significant differences; both are composed of the same materials and have identical properties regarding stability and homogeneity.\nB. Lipid membranes are dynamic and heterogeneous due to the presence of various embedded proteins, whereas protein membranes are composed of a single type of protein that forms a stable bilayer.\nC. Protein membranes are composed solely of lipids that spontaneously form a stable, homogeneous structure without the presence of proteins.\nD. Lipid membranes are stable and homogeneous, composed of amphiphilic molecules forming a bilayer, whereas protein membranes are dynamic and heterogeneous, made up of proteins that disrupt the equilibrium and introduce anisotropy and disorder.",
+    "expected_answer": "D. Lipid membranes are stable and homogeneous, composed of amphiphilic molecules forming a bilayer, whereas protein membranes are dynamic and heterogeneous, made up of proteins that disrupt the equilibrium and introduce anisotropy and disorder.",
+    "difficulty": "medium",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "SCI_151",
+    "domain": "Chemistry",
+    "task_type": "Medicinal Chemistry",
+    "prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation.\nThe question is:In the context of developing molecular switches controlled by local electric fields, which factor is primarily responsible for determining conductivity in organic chemical systems?\nA. Dihedral angle between rings\nB. Polarisabilities of substituents\nC. Degree of \u03c0-conjugation\nD. Electronegative substituents",
+    "expected_answer": "C. Degree of \u03c0-conjugation",
+    "difficulty": "medium",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "SCI_154",
+    "domain": "Chemistry",
+    "task_type": "Medicinal Chemistry",
+    "prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation.\nThe question is:How do intralayer crosslinks affect the strength and modulus of graphene-based composites?\nA. They have no effect on the strength or modulus.\nB. Their effect varies with the temperature of the composites.\nC. They significantly enhance the strength and modulus.\nD. They reduce the strength and modulus.",
+    "expected_answer": "C. They significantly enhance the strength and modulus.",
+    "difficulty": "medium",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "SCI_160",
+    "domain": "Chemistry",
+    "task_type": "Medicinal Chemistry",
+    "prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation.\nThe question is:In the context of pro-drug development, what is the primary purpose of utilizing the PPh<sub>3</sub>/DIAD redox pair in the direct mono-amidation of phosphonic and phosphoric acids?\nA. Reducing the anionic nature of the final product\nB. Enhancing water solubility of the byproduct\nC. Increasing the stability of the phosphonic acid structure\nD. Facilitating quick formation of mono-amidated products",
+    "expected_answer": "D. Facilitating quick formation of mono-amidated products",
+    "difficulty": "medium",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "SCI_162",
+    "domain": "Biology",
+    "task_type": "Medicinal Chemistry",
+    "prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation.\nThe question is:In the field of anion transport research, what is the term used to describe the process where a molecule assists in the movement of anions across lipid bilayer membranes?\nA. Passive diffusion\nB. Co-transport\nC. Facilitated diffusion\nD. Active transport",
+    "expected_answer": "B. Co-transport",
+    "difficulty": "medium",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "SCI_163",
+    "domain": "Biology",
+    "task_type": "Medicinal Chemistry",
+    "prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation.\nThe question is:Which of the following is NOT a characteristic of thioacetamide-induced cirrhosis in the experimental rats?\nA. Decreased incorporation of [3H] arachidonic acid in the liver after 3 to 5 hours\nB. Histological changes in the experimental model\nC. Increased incorporation of [3H] arachidonic acid in plasma after 3 to 5 hours\nD. Beneficial effects of dietary supplementation with long-chain polyunsaturated fatty acids and nucleotides",
+    "expected_answer": "C. Increased incorporation of [3H] arachidonic acid in plasma after 3 to 5 hours",
+    "difficulty": "medium",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "SCI_165",
+    "domain": "Biology",
+    "task_type": "Medicinal Chemistry",
+    "prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation.\nThe question is:Which of the following factors may contribute to the therapeutic activity of cumarinic extract in treating lymphedema?\nA. Anti-inflammatory properties\nB. Macrophagic action stimulating proteolysis\nC. Vasoconstriction effects\nD. Antioxidant properties",
+    "expected_answer": "B. Macrophagic action stimulating proteolysis",
+    "difficulty": "medium",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "SCI_175",
+    "domain": "Biology",
+    "task_type": "Medicinal Chemistry",
+    "prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation.\nThe question is:In the context of bacterial outer membrane porin mutations, which term refers to a mutation that results in a change of the amino acid sequence without altering the overall functionality of the protein?\nA. Nonsense mutation\nB. Missense mutation\nC. Silent mutation\nD. Frameshift mutation",
+    "expected_answer": "B. Missense mutation",
+    "difficulty": "medium",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "SCI_180",
+    "domain": "Biology",
+    "task_type": "Medicinal Chemistry",
+    "prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation.\nThe question is:In the field of bee science, what is the term used to describe the process by which bees collect nectar from flowers and bring it back to the hive?\nA. Swarming\nB. Foraging\nC. Mating\nD. Pollination",
+    "expected_answer": "B. Foraging",
+    "difficulty": "medium",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "SCI_182",
+    "domain": "Biology",
+    "task_type": "Medicinal Chemistry",
+    "prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation.\nThe question is:What is the effect of temperature and concentration on the alignment of collagen oligomer gels?\nA. Only concentration affects the alignment, temperature has no effect.\nB. Only temperature affects the alignment, concentration has no effect.\nC. Temperature and concentration have no effect on the alignment of collagen oligomer gels.\nD. Temperature and concentration affect the alignment, with lower values promoting greater alignment.",
+    "expected_answer": "D. Temperature and concentration affect the alignment, with lower values promoting greater alignment.",
+    "difficulty": "medium",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "SCI_185",
+    "domain": "Biology",
+    "task_type": "Medicinal Chemistry",
+    "prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation.\nThe question is:In the context of ethics consultation and mediation, what is the primary goal of bioethics mediation compared to traditional ethics consultation?\nA. To facilitate consensus among key stakeholders by exploring underlying values and reasons for opinions\nB. To exclude key stakeholders for a more efficient resolution process\nC. To provide a unilateral decision based on professional judgment\nD. To focus solely on the medical aspects of the case without considering stakeholders' opinions",
+    "expected_answer": "A. To facilitate consensus among key stakeholders by exploring underlying values and reasons for opinions",
+    "difficulty": "medium",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "SCI_197",
+    "domain": "Chemistry",
+    "task_type": "Medicinal Chemistry",
+    "prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation.\nThe question is:What are the effects of mechanical cell disruption on spirulina-PLA biocomposites?\nA. Decreases the mechanical strength and durability of the biocomposites.\nB. No noticeable effects on the biocomposites' properties.\nC. Improves the dispersion of the filler and increases the tensile strength; leads to improved moisture-induced plasticization resulting in increased toughness.\nD. Causes a reduction in material toughness and moisture resistance.",
+    "expected_answer": "C. Improves the dispersion of the filler and increases the tensile strength; leads to improved moisture-induced plasticization resulting in increased toughness.",
+    "difficulty": "medium",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "SCI_201",
+    "domain": "Biology",
+    "task_type": "Medicinal Chemistry",
+    "prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation.\nThe question is:What are the multiscale structural features of nacre that contribute to its exceptional mechanical properties?\nA. Uniform composition across all scales\nB. Single-scale crystalline structure\nC. Presence of soft, organic matrix only\nD. Nanoscale tiling of aragonite crystals and biopolymer layers, hierarchical microscale structure, cohesive tile interfaces",
+    "expected_answer": "D. Nanoscale tiling of aragonite crystals and biopolymer layers, hierarchical microscale structure, cohesive tile interfaces",
+    "difficulty": "medium",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "SCI_202",
+    "domain": "Biology",
+    "task_type": "Medicinal Chemistry",
+    "prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation.\nThe question is:In the context of adolescent psychiatric care, which therapeutic approach focuses on creating a supportive and structured environment for patients?\nA. Cognitive-behavioral therapy\nB. Milieu therapy\nC. Psychoanalysis\nD. Existential therapy",
+    "expected_answer": "B. Milieu therapy",
+    "difficulty": "medium",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "SCI_203",
+    "domain": "Biology",
+    "task_type": "Medicinal Chemistry",
+    "prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation.\nThe question is:Which of the following is a common method for the transmission of poliovirus in urban areas?\nA. Through contaminated food and water sources\nB. Through the medium of flowing sewage\nC. Through direct contact with infected individuals\nD. Through airborne particles",
+    "expected_answer": "B. Through the medium of flowing sewage",
+    "difficulty": "medium",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "SCI_211",
+    "domain": "Chemistry",
+    "task_type": "Medicinal Chemistry",
+    "prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation.\nThe question is:In the context of de novo design platforms, what does the term 'fragment-based' refer to?\nA. Integrating human intelligence with artificial intelligence for search optimization\nB. Breaking down molecules into smaller chemical fragments for design purposes\nC. Utilizing whole molecules without breaking them down for design purposes\nD. Conducting design activities remotely through virtual collaboration",
+    "expected_answer": "B. Breaking down molecules into smaller chemical fragments for design purposes",
+    "difficulty": "medium",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "SCI_219",
+    "domain": "Chemistry",
+    "task_type": "Medicinal Chemistry",
+    "prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation.\nThe question is:In the context of \u03c0-conjugated polymer networks, what term refers to the ability of a material to transport both electrons and holes?\nA. Anisotropic\nB. Isotropic\nC. Ambipolar\nD. Monopolar",
+    "expected_answer": "C. Ambipolar",
+    "difficulty": "medium",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "SCI_225",
+    "domain": "Chemistry",
+    "task_type": "Medicinal Chemistry",
+    "prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation.\nThe question is:In the field of photoinduced hydrogen-atom-transfer (HAT) catalysis, what is the term used to describe the key intermediate catalytically generated from N-oxides by photoredox catalyzed single-electron oxidation?\nA. Pyridine N-oxide radicals\nB. Radical initiators\nC. Amination precursors\nD. Alkylation agents",
+    "expected_answer": "A. Pyridine N-oxide radicals",
+    "difficulty": "medium",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "SCI_226",
+    "domain": "Chemistry",
+    "task_type": "Medicinal Chemistry",
+    "prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation.\nThe question is:In the context of nuclear magnetic resonance (NMR) spectroscopy, what term refers to the phenomenon where the transfer of polarization from one nucleus to another is influenced more by the amount of polarization transfer than the quantity of metabolites or analytes in a complex mixture?\nA. T1 relaxation\nB. Scalar coupling variations\nC. Pulse imperfections\nD. Cross peak intensity",
+    "expected_answer": "D. Cross peak intensity",
+    "difficulty": "medium",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "SCI_228",
+    "domain": "Biology",
+    "task_type": "Medicinal Chemistry",
+    "prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation.\nThe question is:Which of the following best describes the mechanism by which defensins interact with plasma proteins?\nA. All defensin was bound to plasma proteins when added in vitro\nB. Defensins only interact with plasma proteins at low concentrations\nC. Defensins do not bind to plasma proteins in the presence of infection\nD. Defensins cause degradation of plasma proteins at high concentrations",
+    "expected_answer": "A. All defensin was bound to plasma proteins when added in vitro",
+    "difficulty": "medium",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "SCI_234",
+    "domain": "Chemistry",
+    "task_type": "Medicinal Chemistry",
+    "prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation.\nThe question is:In molecular modeling, which factor plays a crucial role in accurately predicting infrared intensities of out-of-plane vibrations of planar molecules?\nA. Equilibrium dipole moment\nB. Both atomic charges and atomic dipoles\nC. Number of degrees of freedom\nD. Point charges only",
+    "expected_answer": "B. Both atomic charges and atomic dipoles",
+    "difficulty": "medium",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "SCI_237",
+    "domain": "Chemistry",
+    "task_type": "Medicinal Chemistry",
+    "prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation.\nThe question is:In environmental studies, which process can be used to determine relative concentrations of organic carbon and PAH fractions in combustion-generated particulate matter (PM)?\nA. Gas chromatography-mass spectrometry (GCMS)\nB. Laminar diffusion inverted gravity flame reactor (IGFR)\nC. Excitation-emission matrix (EEM) fluorescence spectroscopy\nD. Principal component regression (PCR) analysis",
+    "expected_answer": "C. Excitation-emission matrix (EEM) fluorescence spectroscopy",
+    "difficulty": "medium",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "SCI_243",
+    "domain": "Biology",
+    "task_type": "Medicinal Chemistry",
+    "prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation.\nThe question is:Which term describes the ability of antibodies to catalyze chemical reactions?\nA. Opsonization\nB. Catalytic activity\nC. Antigen binding\nD. Complement activation",
+    "expected_answer": "B. Catalytic activity",
+    "difficulty": "medium",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "SCI_253",
+    "domain": "Chemistry",
+    "task_type": "Medicinal Chemistry",
+    "prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation.\nThe question is:In the context of programmable multistep syntheses, what is the purpose of using reconfigurable paper with embedded reagents in the Ampli chemical plug and play construction set?\nA. To enable real-time design of experiments by snapping together blocks for reaction synthesis\nB. To enhance the stability and longevity of reagents during the synthesis reactions\nC. To replace the need for liquid handling and reactor design in synthesis processes\nD. To simplify the extraction process of reaction products for characterization",
+    "expected_answer": "A. To enable real-time design of experiments by snapping together blocks for reaction synthesis",
+    "difficulty": "medium",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "SCI_255",
+    "domain": "Chemistry",
+    "task_type": "Medicinal Chemistry",
+    "prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation.\nThe question is:What methods were used to characterize the specimens' porosity volume fraction and fundamental density in addition to the MicroMetrics AccuPyc 1330 pycnometer with Helium gas?\nA. Nanomechanical and micromechanical methods\nB. Ultrasonic testing and X-ray diffraction\nC. Atomic force microscopy and scanning electron microscopy\nD. Fourier transform infrared spectroscopy and gas pycnometry",
+    "expected_answer": "A. Nanomechanical and micromechanical methods",
+    "difficulty": "medium",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "SCI_258",
+    "domain": "Biology",
+    "task_type": "Medicinal Chemistry",
+    "prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation.\nThe question is:In enzymology, what is the term used to describe the domain that binds MgA and MgC in cyclases and aHT prenyltransferases?\nA. D-domain\nB. AC-domain\nC. B-domain\nD. H-bond network",
+    "expected_answer": "B. AC-domain",
+    "difficulty": "medium",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "SCI_265",
+    "domain": "Biology",
+    "task_type": "Medicinal Chemistry",
+    "prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation.\nThe question is:What are the recent advances in protein engineering that are driving the design of new proteins not based on elastomeric or structural protein scaffolds?\nA. Computational and semirational methods to design proteins with specific properties and functions\nB. Advancements in genetic editing techniques\nC. Innovations in protein folding prediction algorithms\nD. Development of protein-based nanomaterials",
+    "expected_answer": "A. Computational and semirational methods to design proteins with specific properties and functions",
+    "difficulty": "medium",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "SCI_271",
+    "domain": "Chemistry",
+    "task_type": "Medicinal Chemistry",
+    "prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation.\nThe question is:How does the QBP1-F molecular conjugate diffuse towards the regions of the substrate previously unoccupied?\nA. Through directed assembly using the QBP1 peptide as a molecular linker\nB. Through chemical reactions that alter the physical properties of the substrate\nC. By passive diffusion without specific directional control\nD. Via external mechanical forces applied to the substrate",
+    "expected_answer": "A. Through directed assembly using the QBP1 peptide as a molecular linker",
+    "difficulty": "medium",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "SCI_273",
+    "domain": "Biology",
+    "task_type": "Medicinal Chemistry",
+    "prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation.\nThe question is:Which term describes the ability of herpesviruses to establish long-term infection in their hosts?\nA. Acute Infection\nB. Latency\nC. Immunity\nD. Vaccination",
+    "expected_answer": "B. Latency",
+    "difficulty": "medium",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "SCI_280",
+    "domain": "Chemistry",
+    "task_type": "Medicinal Chemistry",
+    "prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation.\nThe question is:In the context of e-cigarette product safety, what is the term used to describe the phenomenon where a vaper inhales a puff without sufficient e-liquid to vaporize, leading to extremely high temperatures and potentially harmful chemical compounds being produced?\nA. Dry hit\nB. Cloud chasing\nC. Atomizer flooding\nD. Nicotine rush",
+    "expected_answer": "A. Dry hit",
+    "difficulty": "medium",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "SCI_282",
+    "domain": "Chemistry",
+    "task_type": "Medicinal Chemistry",
+    "prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation.\nThe question is:What are the two main components of bone tissue that can be analyzed using Raman microspectroscopy?\nA. Proteoglycans and hydroxyapatite\nB. Osteocalcin and calcium carbonate\nC. Organic collagen and inorganic apatite mineral\nD. Fibronectin and calcium phosphate",
+    "expected_answer": "C. Organic collagen and inorganic apatite mineral",
+    "difficulty": "medium",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "SCI_290",
+    "domain": "Chemistry",
+    "task_type": "Medicinal Chemistry",
+    "prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation.\nThe question is:In the context of indoor air quality and sick building syndrome (SBS), which of the following is NOT a volatile organic compound typically associated with the hydrolysis of synthetic esters?\nA. Carbon Monoxide\nB. 2,2,4-Trimethyl-1,3-Pentanediol (TMPD)\nC. 2-Ethylhexanol\nD. Acids and Alcohols",
+    "expected_answer": "A. Carbon Monoxide",
+    "difficulty": "medium",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "SCI_292",
+    "domain": "Biology",
+    "task_type": "Medicinal Chemistry",
+    "prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation.\nThe question is:In the context of Wolbachia variants and their protection against viruses, which term refers to the phenomenon where certain variants confer stronger anti-viral protection due to their over-proliferative nature?\nA. Viral resistance amplification\nB. Antiviral potency boost\nC. Pathogen enhancement mechanism\nD. Over-proliferative effect",
+    "expected_answer": "D. Over-proliferative effect",
+    "difficulty": "medium",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "SCI_298",
+    "domain": "Chemistry",
+    "task_type": "Medicinal Chemistry",
+    "prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation.\nThe question is:What is the effect of cyclic shear deformation on the micropillar compression strength of the as-cast Al-4Si alloy?\nA. It causes a decrease in compression strength due to the formation of microvoids and cracks.\nB. It leads to an increase in compression strength due to the formation of acicular Si phases and Al-rich nanoprecipitates.\nC. It decreases the compression strength due to the disruption of the dendritic grain structure.\nD. It has no significant effect on the compression strength.",
+    "expected_answer": "B. It leads to an increase in compression strength due to the formation of acicular Si phases and Al-rich nanoprecipitates.",
+    "difficulty": "medium",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "SCI_300",
+    "domain": "Biology",
+    "task_type": "Medicinal Chemistry",
+    "prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation.\nThe question is:Which of the following is NOT a potential side effect associated with the use of metrifonate for treating Schistosoma haematobium infections?\nA. Liver toxicity\nB. Minor symptoms at high doses\nC. Plasma cholinesterase reduction\nD. Relapse within 6 months",
+    "expected_answer": "A. Liver toxicity",
+    "difficulty": "medium",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "SCI_320",
+    "domain": "Biology",
+    "task_type": "Medicinal Chemistry",
+    "prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation.\nThe question is:What is the recommended biosafety level for handling the FaDu cell line in laboratory settings?\nA. Biosafety level 1\nB. Biosafety level 2\nC. Biosafety level 4\nD. Biosafety level 3",
+    "expected_answer": "A. Biosafety level 1",
+    "difficulty": "medium",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "SCI_323",
+    "domain": "Chemistry",
+    "task_type": "Medicinal Chemistry",
+    "prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation.\nThe question is:Does the dissolution of wollastonite grains take place on preferred crystallographic planes?\nA. Yes, but only under high temperature conditions.\nB. No, it occurs randomly without any preference.\nC. Yes, it depends on the orientation of the grains.\nD. No, dissolution is not influenced by crystallographic planes.",
+    "expected_answer": "C. Yes, it depends on the orientation of the grains.",
+    "difficulty": "medium",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "SCI_329",
+    "domain": "Biology",
+    "task_type": "Medicinal Chemistry",
+    "prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation.\nThe question is:Which of the following best describes the primary mechanism of action of PD-1 inhibitors in cancer treatment?\nA. Blocking the interaction between PD-1 receptor and PD-L1 ligand to enhance T cell activity\nB. Enhancing the production of pro-inflammatory cytokines in the tumor microenvironment\nC. Directly killing cancer cells by inducing apoptosis\nD. Inhibiting angiogenesis to starve tumors of blood supply",
+    "expected_answer": "A. Blocking the interaction between PD-1 receptor and PD-L1 ligand to enhance T cell activity",
+    "difficulty": "medium",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "SCI_336",
+    "domain": "Chemistry",
+    "task_type": "Medicinal Chemistry",
+    "prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation.\nThe question is:Which term describes a synthetic molecule that serves as a surrogate for a nucleobase or a phosphate group in nucleoside analogs and nucleotide mimetics?\nA. C-3 benzyltriazolylmethyl moiety\nB. 1,2,3-triazole moiety\nC. Staudinger reaction\nD. Cu(I)-catalyzed \u201cclick\u201d 1,3-dipolar cycloaddition",
+    "expected_answer": "B. 1,2,3-triazole moiety",
+    "difficulty": "medium",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "SCI_344",
+    "domain": "Biology",
+    "task_type": "Medicinal Chemistry",
+    "prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation.\nThe question is:What is the primary function of AMPK in cellular metabolism?\nA. Regulation of neurotransmitter release\nB. Regulation of muscle contraction\nC. Regulation of DNA replication\nD. Regulation of cellular metabolism",
+    "expected_answer": "D. Regulation of cellular metabolism",
+    "difficulty": "medium",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "SCI_348",
+    "domain": "Biology",
+    "task_type": "Medicinal Chemistry",
+    "prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation.\nThe question is:Which of the following is NOT a common indication for the use of perioperative echocardiography?\nA. Assessment of haemodynamic instability\nB. Postoperative assessment in the ICU\nC. Preoperative assessment for cardiac surgery\nD. Monitoring blood glucose levels",
+    "expected_answer": "D. Monitoring blood glucose levels",
+    "difficulty": "medium",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "SCI_350",
+    "domain": "Chemistry",
+    "task_type": "Medicinal Chemistry",
+    "prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation.\nThe question is:What types of materials can exhibit both high strength and high extensibility?\nA. Ceramic materials\nB. Biological materials and bio-inspired composites\nC. Rubber-based materials\nD. Metal alloys",
+    "expected_answer": "B. Biological materials and bio-inspired composites",
+    "difficulty": "medium",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "SCI_353",
+    "domain": "Biology",
+    "task_type": "Medicinal Chemistry",
+    "prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation.\nThe question is:In redox biology, which of the following is NOT a commonly used genetically encoded reactive oxygen species (ROS) or redox indicator?\nA. roGFP (redox-sensitive green fluorescent proteins)\nB. GFP (Green Fluorescent Protein)\nC. rxYFP (redox-sensitive yellow fluorescent proteins)\nD. HyPer (H2 O2 probe)",
+    "expected_answer": "B. GFP (Green Fluorescent Protein)",
+    "difficulty": "medium",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "SCI_354",
+    "domain": "Biology",
+    "task_type": "Medicinal Chemistry",
+    "prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation.\nThe question is:What key property of biological materials enables them to withstand mechanical loads while maintaining flexibility and toughness?\nA. Hierarchical structure\nB. Linear structural arrangement\nC. Self-replication ability\nD. Homogeneous material distribution",
+    "expected_answer": "A. Hierarchical structure",
+    "difficulty": "medium",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "SCI_355",
+    "domain": "Biology",
+    "task_type": "Medicinal Chemistry",
+    "prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation.\nThe question is:Which of the following is NOT a red blood cell (RBC) parameter commonly used to evaluate the health of cattle?\nA. Blood glucose level\nB. RBC count\nC. Hemoglobin concentration\nD. Hematocrit value",
+    "expected_answer": "A. Blood glucose level",
+    "difficulty": "medium",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "SCI_356",
+    "domain": "Biology",
+    "task_type": "Medicinal Chemistry",
+    "prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation.\nThe question is:What factors determine the ability of Bouligand structures with small pitch angles to dissipate energy through the growth of sub-critical damage?\nA. The age of the material and environmental exposure history\nB. Crystalline structure of the composite materials\nC. Pitch angle, interface/matrix properties, and ply thickness\nD. Temperature and humidity conditions",
+    "expected_answer": "C. Pitch angle, interface/matrix properties, and ply thickness",
+    "difficulty": "medium",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "SCI_359",
+    "domain": "Chemistry",
+    "task_type": "Medicinal Chemistry",
+    "prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation.\nThe question is:In the field of mass spectrometry, what term refers to the process of estimating the charge states of individual peaks in mass spectra?\nA. Peak Signal Characterization (PSC)\nB. Mass-to-Charge Ratio Estimation (MCR)\nC. Charge Determination Analysis (CHARDA)\nD. Ion Abundance Identification (IAI)",
+    "expected_answer": "C. Charge Determination Analysis (CHARDA)",
+    "difficulty": "medium",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "SCI_372",
+    "domain": "Chemistry",
+    "task_type": "Medicinal Chemistry",
+    "prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation.\nThe question is:In the context of marine aerosols, what is the term used to describe the cooperative adsorption of saccharides to other insoluble organic matter at the air/sea interface?\nA. Sea surface microlayer (SSML)\nB. Surface pressure\nC. Monolayer surface coverage\nD. Polysaccharide enrichment",
+    "expected_answer": "A. Sea surface microlayer (SSML)",
+    "difficulty": "medium",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "SCI_373",
+    "domain": "Biology",
+    "task_type": "Medicinal Chemistry",
+    "prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation.\nThe question is:In immunology, which term describes the ratio between neutrophils and lymphocytes in the blood?\nA. Leukocytosis measurement\nB. Haptoglobin level\nC. Lysozyme elevation\nD. Neutrophil lymphocyte ratio (NLR)",
+    "expected_answer": "D. Neutrophil lymphocyte ratio (NLR)",
+    "difficulty": "medium",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "SCI_375",
+    "domain": "Chemistry",
+    "task_type": "Medicinal Chemistry",
+    "prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation.\nThe question is:In the field of nanotechnology, what is the term used to describe the phenomenon where nanomaterials self-assemble into ordered arrays due to their shape-dependent properties?\nA. Homogeneous dispersion\nB. Randomized conglomeration\nC. Isotropic aggregation\nD. Anisotropic self-assembly",
+    "expected_answer": "D. Anisotropic self-assembly",
+    "difficulty": "medium",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "SCI_380",
+    "domain": "Chemistry",
+    "task_type": "Medicinal Chemistry",
+    "prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation.\nThe question is:In molecular simulations of enzyme catalysis, what does the term 'QM' typically refer to?\nA. Quality Management\nB. Quantum Metabolism\nC. Quantum Mechanics\nD. Quantitative Modeling",
+    "expected_answer": "C. Quantum Mechanics",
+    "difficulty": "medium",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "SCI_387",
+    "domain": "Biology",
+    "task_type": "Medicinal Chemistry",
+    "prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation.\nThe question is:In dentistry, which of the following is not a factor contributing to dental fluorosis?\nA. High concentrations of natural fluoride in water sources\nB. Prolonged exposure to fluoride-containing dental products\nC. Consumption of dairy products\nD. Excessive fluoride intake during childhood",
+    "expected_answer": "C. Consumption of dairy products",
+    "difficulty": "medium",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "SCI_388",
+    "domain": "Chemistry",
+    "task_type": "Medicinal Chemistry",
+    "prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation.\nThe question is:What types of carbon nanostructures can be grown on carbon nanofibers using electrospinning?\nA. Nano-sized carbon black, carbon nanohorns, and nanodiamonds\nB. Straight nanotubes, coiled and Y-shaped nanotubes, and nanoribbons\nC. Diamond-like carbon structures, carbon nanocones, and carbon nanobells\nD. Fullerenes, graphene sheets, and carbon onions",
+    "expected_answer": "B. Straight nanotubes, coiled and Y-shaped nanotubes, and nanoribbons",
+    "difficulty": "medium",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "SCI_391",
+    "domain": "Biology",
+    "task_type": "Medicinal Chemistry",
+    "prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation.\nThe question is:Which of the following is NOT a common risk factor for hip fracture?\nA. Use of glucocorticoids\nB. Low body weight\nC. Osteoporosis\nD. High levels of physical activity",
+    "expected_answer": "D. High levels of physical activity",
+    "difficulty": "medium",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "SCI_393",
+    "domain": "Biology",
+    "task_type": "Medicinal Chemistry",
+    "prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation.\nThe question is:What does the coarse-graining technique applied to the deformation of alpha-helical protein domains simplify the protein structure into?\nA. \"Super-atoms\" by grouping hundreds of atoms\nB. Individual atoms for detailed analysis\nC. Molecular chains for simplified bonding analysis\nD. Basic elemental particles for quantum simulations",
+    "expected_answer": "A. \"Super-atoms\" by grouping hundreds of atoms",
+    "difficulty": "medium",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "SCI_409",
+    "domain": "Chemistry",
+    "task_type": "Medicinal Chemistry",
+    "prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation.\nThe question is:In the context of complex dissipative systems and chemical reaction networks, what term is used to describe subnetworks that can self-propagate when seeded by non-food chemicals and can lead to the activation of higher-tier systems?\nA. Ecological succession\nB. Genetic polymers\nC. Trophic levels\nD. Seed-dependent autocatalytic systems (SDASs)",
+    "expected_answer": "D. Seed-dependent autocatalytic systems (SDASs)",
+    "difficulty": "medium",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "SCI_412",
+    "domain": "Chemistry",
+    "task_type": "Medicinal Chemistry",
+    "prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation.\nThe question is:Which technique is primarily used to study the topography and mechanical properties of surfaces at the nanoscale?\nA. STM (Scanning Tunneling Microscopy)\nB. SEM (Scanning Electron Microscopy)\nC. AFM (Atomic Force Microscopy)\nD. Cryo-EM (Cryo-Electron Microscopy)",
+    "expected_answer": "C. AFM (Atomic Force Microscopy)",
+    "difficulty": "medium",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "SCI_413",
+    "domain": "Biology",
+    "task_type": "Medicinal Chemistry",
+    "prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation.\nThe question is:Which term describes the process by which a positive sense single-stranded RNA virus replicates its genome?\nA. Glycosyltransferase\nB. Protein kinase\nC. RNA dependent-RNA polymerase\nD. DNA helicase",
+    "expected_answer": "C. RNA dependent-RNA polymerase",
+    "difficulty": "medium",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "SCI_417",
+    "domain": "Biology",
+    "task_type": "Medicinal Chemistry",
+    "prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation.\nThe question is:In the context of acute cholecystitis treatment outcomes, which of the following factors is NOT significantly associated with increased mortality rates?\nA. Presence of choledocholithotomy following cholecystectomy\nB. Development of hepatic insufficiency\nC. Cholecystectomy as the operation of choice\nD. Cholecystostomy as a treatment approach",
+    "expected_answer": "C. Cholecystectomy as the operation of choice",
+    "difficulty": "medium",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "SCI_421",
+    "domain": "Biology",
+    "task_type": "Medicinal Chemistry",
+    "prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation.\nThe question is:Which of the following is NOT a key benefit of fully automated planning of cardiac geometries?\nA. Minimal percent bias in automated planning\nB. High agreement of cardiac functional parameters\nC. High interstudy reproducibility of automatic planning\nD. Decreased success rate in geometry planning",
+    "expected_answer": "D. Decreased success rate in geometry planning",
+    "difficulty": "medium",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "SCI_424",
+    "domain": "Chemistry",
+    "task_type": "Medicinal Chemistry",
+    "prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation.\nThe question is:In the context of redox-responsive molecules, which term refers to the ability of a molecule to exhibit different optical properties based on the electric potential applied?\nA. Steric strain\nB. Torsion angle\nC. Chiroptical properties\nD. Radical cation species",
+    "expected_answer": "C. Chiroptical properties",
+    "difficulty": "medium",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "SCI_426",
+    "domain": "Biology",
+    "task_type": "Medicinal Chemistry",
+    "prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation.\nThe question is:What are the key factors that affect the efficacy of bone cartilage scaffold preparation methods?\nA. Porosity, pore size distribution, level of toxic residues, biocompatibility, and the presence of hydroxyapatite\nB. Color and texture of the scaffold material\nC. Temperature and time of scaffold curing\nD. Type of laboratory equipment used",
+    "expected_answer": "A. Porosity, pore size distribution, level of toxic residues, biocompatibility, and the presence of hydroxyapatite",
+    "difficulty": "medium",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "SCI_428",
+    "domain": "Chemistry",
+    "task_type": "Medicinal Chemistry",
+    "prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation.\nThe question is:In the field of predicting organic molecular crystal hydrate structures, which term describes the systematic determination of favorable positions for water insertion within crystal structures based on chemical features of local environments and void regions?\nA. Dry Framework Prediction\nB. CSP (Crystal Structure Prediction)\nC. Water Content Specification\nD. MACH (Mapping of Crystalline Hydrates)",
+    "expected_answer": "D. MACH (Mapping of Crystalline Hydrates)",
+    "difficulty": "medium",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "SCI_435",
+    "domain": "Biology",
+    "task_type": "Medicinal Chemistry",
+    "prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation.\nThe question is:In the context of antioxidant metabolism, what term refers to the chemical space of all metabolites that may be formed upon scavenging reactive oxygen or nitrogen species?\nA. Antioxidome\nB. Scavengome\nC. Oxidome\nD. Radicalome",
+    "expected_answer": "B. Scavengome",
+    "difficulty": "medium",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "SCI_441",
+    "domain": "Biology",
+    "task_type": "Medicinal Chemistry",
+    "prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation.\nThe question is:In the field of otolaryngology, which of the following conditions is characterized by inflammation of the epiglottis and can lead to airway obstruction?\nA. Laryngitis\nB. Tonsillitis\nC. Acute epiglottitis\nD. Peritonsillar abscess",
+    "expected_answer": "C. Acute epiglottitis",
+    "difficulty": "medium",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "SCI_442",
+    "domain": "Biology",
+    "task_type": "Medicinal Chemistry",
+    "prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation.\nThe question is:In the context of CD4+ T cell responses, which of the following cell clusters is associated with a significant enrichment in COVID-19 patients compared to healthy controls?\nA. Cytotoxic T cells\nB. Th17 phenotypes\nC. Helper follicular T (TfH) cells\nD. Central memory T (Tcm) cells",
+    "expected_answer": "C. Helper follicular T (TfH) cells",
+    "difficulty": "medium",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "SCI_456",
+    "domain": "Biology",
+    "task_type": "Medicinal Chemistry",
+    "prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation.\nThe question is:In the context of hemophilia treatment, what is the mechanism of action of Emicizumab (ACE910)?\nA. Promoting the generation of neutralizing antibodies\nB. Enhancing thrombin degradation\nC. Mimicking FVIIIa and binding FIXa and FX simultaneously\nD. Inhibiting antithrombin production",
+    "expected_answer": "C. Mimicking FVIIIa and binding FIXa and FX simultaneously",
+    "difficulty": "medium",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "SCI_458",
+    "domain": "Biology",
+    "task_type": "Medicinal Chemistry",
+    "prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation.\nThe question is:What information can be gained from using x-rays and neutrons in bone research for position-resolved analysis?\nA. The chemical composition of bone marrow\nB. The local structure and properties of bone tissues\nC. The rate of bone growth in different environments\nD. The genetic variations in bone cells",
+    "expected_answer": "B. The local structure and properties of bone tissues",
+    "difficulty": "medium",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "SCI_461",
+    "domain": "Biology",
+    "task_type": "Medicinal Chemistry",
+    "prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation.\nThe question is:In the context of drug development for SARS-CoV-2, what is the term used to describe molecules identified through computational methods as potential inhibitors of the main protease?\nA. Structural activators\nB. In silico leads\nC. Biochemical enhancers\nD. Experimental compounds",
+    "expected_answer": "B. In silico leads",
+    "difficulty": "medium",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "SCI_465",
+    "domain": "Biology",
+    "task_type": "Medicinal Chemistry",
+    "prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation.\nThe question is:In the context of immunology research, what term describes a gene set's ontology that is a descendant of the same parent ontology?\nA. Offspring ontology\nB. Sibling ontology\nC. Ancestor ontology\nD. Parent ontology",
+    "expected_answer": "B. Sibling ontology",
+    "difficulty": "medium",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "SCI_468",
+    "domain": "Biology",
+    "task_type": "Medicinal Chemistry",
+    "prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation.\nThe question is:In the context of spermatid development, what is the primary function of the CatSper\u03c4 protein?\nA. DNA replication initiation\nB. Cell division regulation\nC. Flagellar targeting\nD. Mitochondrial fusion",
+    "expected_answer": "C. Flagellar targeting",
+    "difficulty": "medium",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "SCI_472",
+    "domain": "Biology",
+    "task_type": "Medicinal Chemistry",
+    "prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation.\nThe question is:In the field of herpetology, what term describes snake species that rely on sit-and-wait strategies for hunting?\nA. Ambush predators\nB. Active hunters\nC. Opportunistic feeders\nD. Scavengers",
+    "expected_answer": "A. Ambush predators",
+    "difficulty": "medium",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "SCI_473",
+    "domain": "Chemistry",
+    "task_type": "Medicinal Chemistry",
+    "prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation.\nThe question is:In drug discovery, what is the term used to describe a molecule that can demonstrate a disease-modifying effect?\nA. Antigen\nB. Substrate\nC. Ligand\nD. Enzyme",
+    "expected_answer": "C. Ligand",
+    "difficulty": "medium",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "SCI_481",
+    "domain": "Biology",
+    "task_type": "Medicinal Chemistry",
+    "prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation.\nThe question is:In the context of microRNA (miRNA) research, what is the term used to describe the process of artificially introducing miRNA into cells to study its effects?\nA. Clustering\nB. Euthanasia\nC. Implantation\nD. Transfection",
+    "expected_answer": "D. Transfection",
+    "difficulty": "medium",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "SCI_486",
+    "domain": "Biology",
+    "task_type": "Medicinal Chemistry",
+    "prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation.\nThe question is:In the context of rhodopsin regeneration experiments, what does the time constant represent?\nA. The time constant represents the total amount of rhodopsin in the retina.\nB. The time constant represents the duration of the bleaching process.\nC. The time constant represents the rate at which rhodopsin regenerates under specific conditions.\nD. The time constant represents the wavelength of light used in the experiments.",
+    "expected_answer": "C. The time constant represents the rate at which rhodopsin regenerates under specific conditions.",
+    "difficulty": "medium",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "SCI_487",
+    "domain": "Biology",
+    "task_type": "Medicinal Chemistry",
+    "prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation.\nThe question is:In molecular biology, what is the term used to describe the process of introducing foreign DNA into host cells for genetic manipulation?\nA. Transfection\nB. Translation\nC. Transcription\nD. Replication",
+    "expected_answer": "A. Transfection",
+    "difficulty": "medium",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "SCI_493",
+    "domain": "Chemistry",
+    "task_type": "Medicinal Chemistry",
+    "prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation.\nThe question is:In the context of organic room-temperature phosphorescence, which process is responsible for the emission of light from a molecule?\nA. Vibrational relaxation\nB. Singlet emission\nC. Triplet-triplet annihilation\nD. Intersystem crossing",
+    "expected_answer": "D. Intersystem crossing",
+    "difficulty": "medium",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "SCI_499",
+    "domain": "Chemistry",
+    "task_type": "Medicinal Chemistry",
+    "prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation.\nThe question is:In the field of nanotechnology, what is the term used to describe the process of joining metallic nanoparticles onto graphene oxide (GO) surfaces?\nA. Aggregation\nB. Dispersal\nC. Conjugation\nD. Modification",
+    "expected_answer": "C. Conjugation",
+    "difficulty": "medium",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "SCI_502",
+    "domain": "Biology",
+    "task_type": "Medicinal Chemistry",
+    "prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation.\nThe question is:Which of the following is not a characteristic required in a sentinel fish species for monitoring programs in assessing pollution by organic contaminants?\nA. Wide geographical distribution\nB. Restricted home range\nC. High sensitivity to Aryl Hydrocarbon Receptor agonists\nD. Abundance and ease of capture",
+    "expected_answer": "C. High sensitivity to Aryl Hydrocarbon Receptor agonists",
+    "difficulty": "medium",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "SCI_510",
+    "domain": "Chemistry",
+    "task_type": "Medicinal Chemistry",
+    "prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation.\nThe question is:What factors contribute to the high selectivity of 1 mol% Pt-decorated In2O3 to isoprene?\nA. Addition of a catalyst to increase reaction speed only\nB. Increased thermal stability of the sensor material without changing its reaction with isoprene\nC. Loose and porous nanostructure, defect state changes, increased oxygen vacancy concentration, reaction of isoprene consuming more adsorbed oxygen ions\nD. Modification of In2O3 surface composition without nanostructure changes",
+    "expected_answer": "C. Loose and porous nanostructure, defect state changes, increased oxygen vacancy concentration, reaction of isoprene consuming more adsorbed oxygen ions",
+    "difficulty": "medium",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "SCI_526",
+    "domain": "Chemistry",
+    "task_type": "Medicinal Chemistry",
+    "prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation.\nThe question is:In the context of carbon nanotubes, what is the term used to describe the process of varying the frequency of the external Raman laser near the defect-induced optical transition to analyze Raman spectra?\nA. X-ray crystallography\nB. Photoemission spectroscopy\nC. Near-resonant Raman spectroscopy\nD. Quantum tunneling spectroscopy",
+    "expected_answer": "C. Near-resonant Raman spectroscopy",
+    "difficulty": "medium",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "SCI_528",
+    "domain": "Biology",
+    "task_type": "Medicinal Chemistry",
+    "prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation.\nThe question is:In the field of molecular biology, which term refers to the process of amplifying a specific region of DNA through repeated cycles of heating and cooling?\nA. Transcription\nB. DNA Sequencing\nC. Polymerase Chain Reaction (PCR)\nD. Translation",
+    "expected_answer": "C. Polymerase Chain Reaction (PCR)",
+    "difficulty": "medium",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "SCI_529",
+    "domain": "Chemistry",
+    "task_type": "Medicinal Chemistry",
+    "prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation.\nThe question is:In the context of liquid chromatography tandem mass spectrometry (LC-MS/MS), which parameter is considered critical for ensuring high spectral quality and compound annotations?\nA. Isolation Width\nB. Automatic Gain Control\nC. Collision Energy\nD. TopN",
+    "expected_answer": "B. Automatic Gain Control",
+    "difficulty": "medium",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "SCI_541",
+    "domain": "Biology",
+    "task_type": "Medicinal Chemistry",
+    "prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation.\nThe question is:In radiobiology, which term refers to the energy transfer per unit length along the track of an ionizing particle?\nA. Bragg peak\nB. Clonogenic survival\nC. Local Effect Model (LEM)\nD. Linear-energy transfer (LET)",
+    "expected_answer": "D. Linear-energy transfer (LET)",
+    "difficulty": "medium",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "SCI_547",
+    "domain": "Biology",
+    "task_type": "Medicinal Chemistry",
+    "prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation.\nThe question is:What are the key factors that affect the permeability of cellular biological media?\nA. Solvent pH value and nutrient concentration\nB. Temperature and humidity levels\nC. Microstructural features, mechanical behavior at surfaces, presence of charged species\nD. Cell density and oxygen availability",
+    "expected_answer": "C. Microstructural features, mechanical behavior at surfaces, presence of charged species",
+    "difficulty": "medium",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "SCI_554",
+    "domain": "Chemistry",
+    "task_type": "Medicinal Chemistry",
+    "prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation.\nThe question is:In drug discovery, what is the term used to describe the process of modifying an existing molecule to create a new compound with improved properties?\nA. Lead optimization\nB. Pharmacokinetics\nC. Bioavailability\nD. Protein folding",
+    "expected_answer": "A. Lead optimization",
+    "difficulty": "medium",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "SCI_557",
+    "domain": "Biology",
+    "task_type": "Medicinal Chemistry",
+    "prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation.\nThe question is:Which of the following terms describes the process by which a drug or its metabolites are removed from the body primarily through the kidneys?\nA. Hepatic metabolism\nB. Renal excretion\nC. Pulmonary absorption\nD. Intestinal absorption",
+    "expected_answer": "B. Renal excretion",
+    "difficulty": "medium",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "SCI_560",
+    "domain": "Biology",
+    "task_type": "Medicinal Chemistry",
+    "prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation.\nThe question is:In the context of healthcare-associated infection prevention, what is the primary purpose of a quality improvement tool?\nA. Enhancing patient safety and reducing surgical site infections\nB. Increasing hospital revenue and profitability\nC. Expediting surgical procedures for efficiency\nD. Minimizing staff workload and responsibilities",
+    "expected_answer": "A. Enhancing patient safety and reducing surgical site infections",
+    "difficulty": "medium",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "SCI_564",
+    "domain": "Chemistry",
+    "task_type": "Medicinal Chemistry",
+    "prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation.\nThe question is:In the context of glycopeptide oxidation, which amino acid residues are most sensitive to oxidation?\nA. Gly/Ala\nB. Thr/Ser\nC. Arg/Lys\nD. Asp/Glu",
+    "expected_answer": "B. Thr/Ser",
+    "difficulty": "medium",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "SCI_571",
+    "domain": "Chemistry",
+    "task_type": "Medicinal Chemistry",
+    "prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation.\nThe question is:In the field of biobased nanomaterials, what is the term used to describe the process by which hydroxymethylated lignin nanoparticles are stabilized through internal crosslinking reactions?\nA. Reduction of silver ions\nB. Colloidally stable particles\nC. Hydrothermal curing\nD. Bio-based content",
+    "expected_answer": "C. Hydrothermal curing",
+    "difficulty": "medium",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "SCI_577",
+    "domain": "Biology",
+    "task_type": "Medicinal Chemistry",
+    "prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation.\nThe question is:In the field of neural stem cell research, what is the primary function of TLX?\nA. Control synaptic plasticity in the brain\nB. Act as an essential factor for neural stem cell survival\nC. Promote myelination in the central nervous system\nD. Regulate gene expression in mature neurons",
+    "expected_answer": "B. Act as an essential factor for neural stem cell survival",
+    "difficulty": "medium",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "SCI_581",
+    "domain": "Biology",
+    "task_type": "Medicinal Chemistry",
+    "prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation.\nThe question is:Which of the following immune mediators showed high expression in a significant percentage of endometrial cancers and uterine sarcomas?\nA. PDL2 and galectin-1\nB. Galectin-3 and MDSC\nC. PD-L1 and B7-H4\nD. IDO and arginase-1",
+    "expected_answer": "C. PD-L1 and B7-H4",
+    "difficulty": "medium",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "SCI_586",
+    "domain": "Biology",
+    "task_type": "Medicinal Chemistry",
+    "prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation.\nThe question is:Which of the following factors has the most significant impact on the aggressiveness of meningiomas?\nA. Genetic alterations in chromosome 14\nB. Tumor recurrence after surgical resection\nC. Cytogenetic analysis results\nD. Loss of chromosome 22q",
+    "expected_answer": "A. Genetic alterations in chromosome 14",
+    "difficulty": "medium",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "SCI_591",
+    "domain": "Biology",
+    "task_type": "Medicinal Chemistry",
+    "prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation.\nThe question is:In the context of protein structure and function, which of the following terms refers to the helical refolding that disrupts aromatic interactions between subunits?\nA. Nucleotide binding pocket\nB. Arginine fingers\nC. Pore-loop tyrosines\nD. ISS motif",
+    "expected_answer": "D. ISS motif",
+    "difficulty": "medium",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "SCI_592",
+    "domain": "Chemistry",
+    "task_type": "Medicinal Chemistry",
+    "prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation.\nThe question is:In the synthesis of model amphiphilic polymer co-networks based on a hetero-complementary reaction, what is the term used to describe the nearly homogeneous mixture where local composition fluctuations affect kinetics only after most of the molecules are attached to the gel?\nA. Dynamic Light Scattering\nB. Gelation\nC. Equilibrium Swelling\nD. Viscometry",
+    "expected_answer": "B. Gelation",
+    "difficulty": "medium",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "SCI_596",
+    "domain": "Biology",
+    "task_type": "Medicinal Chemistry",
+    "prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation.\nThe question is:In the context of multiple sclerosis treatment, which of the following factors plays a significant role in patient satisfaction and adherence to therapy?\nA. Convenience of the dosing schedule\nB. Brand name of the medication\nC. Patient's preferred injection site\nD. Color of the medication packaging",
+    "expected_answer": "A. Convenience of the dosing schedule",
+    "difficulty": "medium",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "SCI_602",
+    "domain": "Chemistry",
+    "task_type": "Medicinal Chemistry",
+    "prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation.\nThe question is:What is the possible net structure of the nanostructured hydrogels based on the ce tests and PISA mechanism?\nA. A densely packed crystal lattice of polymerized monomers\nB. A random coil configuration of singular polymer chains\nC. A network of hydrophobic polymer segments and ionic linkages\nD. A combination of entangled PEG chains and micellar crosslinkers",
+    "expected_answer": "D. A combination of entangled PEG chains and micellar crosslinkers",
+    "difficulty": "medium",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "SCI_613",
+    "domain": "Chemistry",
+    "task_type": "Medicinal Chemistry",
+    "prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation.\nThe question is:In the context of electron-bifurcation mechanisms, which component in the HydABC structure serves as the electron bifurcation center and the site for NAD+ reduction/NADH oxidation?\nA. Flavin mononucleotide\nB. Zn2+ site\nC. Proton reduction site\nD. [4Fe-4S] cluster",
+    "expected_answer": "A. Flavin mononucleotide",
+    "difficulty": "medium",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "SCI_616",
+    "domain": "Biology",
+    "task_type": "Medicinal Chemistry",
+    "prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation.\nThe question is:What are the three key ultrastructural features varied in parametric local models to investigate the effects of ultrastructure on performance in elasmobranchs?\nA. The number of fibrils in a bundle, the thickness of the laminae, and the density of the laminae\nB. The shape of the tesserae, the elasticity of the center region, and the thickness of the contact zone\nC. The pore size in the spokes, the width of the center region, and the stiffness of the fibrous zone surface\nD. The number of laminae in a spoke, the size of the center region, and the area of the contact zone surface in relation to the fibrous zone surface",
+    "expected_answer": "D. The number of laminae in a spoke, the size of the center region, and the area of the contact zone surface in relation to the fibrous zone surface",
+    "difficulty": "medium",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "SCI_617",
+    "domain": "Biology",
+    "task_type": "Medicinal Chemistry",
+    "prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation.\nThe question is:Which of the following factors was identified as an independent predictor of immune-related adverse events (irAEs) development in patients with advanced non-small cell lung cancer treated with pembrolizumab monotherapy?\nA. High PD-L1 expression\nB. Gender of the patient\nC. Smoking status\nD. Age of the patient",
+    "expected_answer": "A. High PD-L1 expression",
+    "difficulty": "medium",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "SCI_620",
+    "domain": "Biology",
+    "task_type": "Medicinal Chemistry",
+    "prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation.\nThe question is:What role does histidine play in the self-assembly of peptides and proteins?\nA. It prevents the self-assembly of peptides and proteins by blocking interaction sites.\nB. It solely provides structural support to peptides and proteins.\nC. It mediates interactions between biomolecules and inorganic constituents and is involved in non-covalent interactions with other molecular building blocks and metal ions.\nD. It acts as a catalyst for the self-assembly process without involving in interactions.",
+    "expected_answer": "C. It mediates interactions between biomolecules and inorganic constituents and is involved in non-covalent interactions with other molecular building blocks and metal ions.",
+    "difficulty": "medium",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "SCI_625",
+    "domain": "Biology",
+    "task_type": "Medicinal Chemistry",
+    "prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation.\nThe question is:Which of the following factors should clinicians consider before performing a caudal epidural PRF procedure to reduce the risk of epidural hematoma?\nA. Duration of motor weakness post-procedure\nB. Anticoagulant medication usage and appropriate discontinuation period\nC. Patient's age and gender\nD. Type of chronic pain being treated",
+    "expected_answer": "B. Anticoagulant medication usage and appropriate discontinuation period",
+    "difficulty": "medium",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "SCI_631",
+    "domain": "Chemistry",
+    "task_type": "Medicinal Chemistry",
+    "prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation.\nThe question is:Can flaw tolerance be achieved at scales larger than those predicted by traditional equations for brittle materials?\nA. No, only nano-scale materials can exhibit flaw tolerance.\nB. No, traditional equations define the absolute limits for flaw tolerance in brittle materials.\nC. Yes, by designing hierarchical materials it is possible to achieve flaw tolerance at larger scales.\nD. No, flaw tolerance cannot be observed in materials at any scale.",
+    "expected_answer": "C. Yes, by designing hierarchical materials it is possible to achieve flaw tolerance at larger scales.",
+    "difficulty": "medium",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "SCI_632",
+    "domain": "Chemistry",
+    "task_type": "Medicinal Chemistry",
+    "prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation.\nThe question is:In the context of metalloenzymes and reactivity enhancement, what term describes a strong steric state that significantly improves reactivity?\nA. Isosteric state\nB. Transition state\nC. Catalytic state\nD. Entatic state",
+    "expected_answer": "D. Entatic state",
+    "difficulty": "medium",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "SCI_637",
+    "domain": "Biology",
+    "task_type": "Medicinal Chemistry",
+    "prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation.\nThe question is:Which of the following is NOT a potential cause of neonatal hypercalcemia?\nA. Idiopathic infantile hypercalcemia\nB. Williams syndrome\nC. Vitamin D intoxication\nD. Hypothyroidism",
+    "expected_answer": "D. Hypothyroidism",
+    "difficulty": "medium",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "SCI_638",
+    "domain": "Biology",
+    "task_type": "Medicinal Chemistry",
+    "prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation.\nThe question is:Which of the following factors is NOT a consideration when designing future evaluative studies of PCR for HIV diagnosis?\nA. The standardization of PCR performance methods\nB. The use of adequate reference standard tests\nC. The sample size of the study\nD. The geographical location of the study participants",
+    "expected_answer": "D. The geographical location of the study participants",
+    "difficulty": "medium",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "SCI_643",
+    "domain": "Biology",
+    "task_type": "Medicinal Chemistry",
+    "prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation.\nThe question is:Which hormone is NOT classified as an anorexigenic hormone involved in satiety regulation?\nA. CCK\nB. Ghrelin\nC. GIP\nD. GLP-1",
+    "expected_answer": "B. Ghrelin",
+    "difficulty": "medium",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "SCI_652",
+    "domain": "Biology",
+    "task_type": "Medicinal Chemistry",
+    "prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation.\nThe question is:What is the range of the axial and transverse elastic moduli of human cortical bone as found in experimental results?\nA. 18-19 GPa for axial and 11-12 GPa for transverse\nB. 14-15 GPa for axial and 8-9 GPa for transverse\nC. 15-16 GPa for axial and 10-11 GPa for transverse\nD. 16.3-17.4 GPa for axial and 9.2-10.5 GPa for transverse",
+    "expected_answer": "D. 16.3-17.4 GPa for axial and 9.2-10.5 GPa for transverse",
+    "difficulty": "medium",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "SCI_655",
+    "domain": "Biology",
+    "task_type": "Medicinal Chemistry",
+    "prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation.\nThe question is:Which of the following is NOT a characteristic of citrullinuria?\nA. High citrulline concentration in the urine\nB. Normal levels of citrulline in the blood\nC. Presence of citrulline in the cerebrospinal fluid\nD. 50- to 100-fold greater citrulline concentration in the blood than normal",
+    "expected_answer": "B. Normal levels of citrulline in the blood",
+    "difficulty": "medium",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "SCI_657",
+    "domain": "Chemistry",
+    "task_type": "Medicinal Chemistry",
+    "prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation.\nThe question is:In the context of mechanochemical transformations, what does the term 'T1-T2* relaxation time correlation maps' primarily represent?\nA. Relationship between solid and liquid phases during reaction\nB. Relationship between temperature and pressure in a reaction vessel\nC. Relationship between longitudinal relaxation time and transverse relaxation time\nD. Relationship between reactants and products in a chemical reaction",
+    "expected_answer": "C. Relationship between longitudinal relaxation time and transverse relaxation time",
+    "difficulty": "medium",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "SCI_660",
+    "domain": "Chemistry",
+    "task_type": "Medicinal Chemistry",
+    "prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation.\nThe question is:Which term describes a ligand with a single boron moiety incorporated into its structure?\nA. Cobalt-phosphine ligand\nB. Borane-phosphine ligand\nC. Palladium-phosphine ligand\nD. Rhodium-phosphine ligand",
+    "expected_answer": "B. Borane-phosphine ligand",
+    "difficulty": "medium",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "SCI_664",
+    "domain": "Biology",
+    "task_type": "Medicinal Chemistry",
+    "prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation.\nThe question is:In the context of gene transcription, what is the term used to describe the process where the promoter proceeds sequentially through reversible active (ON) states and inactive (OFF) states forming a cycle?\nA. Multistate promoter cycle\nB. Chromatin remodeling\nC. Pre-initiation complexes\nD. Transcription bursting",
+    "expected_answer": "A. Multistate promoter cycle",
+    "difficulty": "medium",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "SCI_672",
+    "domain": "Chemistry",
+    "task_type": "Medicinal Chemistry",
+    "prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation.\nThe question is:What is the primary purpose of adding sucrose to the freeze-casting slurry?\nA. To increase the melting point of the Al-Si eutectic alloy.\nB. To prevent the Al alloy from wetting the crucible walls.\nC. To lead to the formation of bulk ceramic scaffolds with a ceramic content of approximately 36 vol%.\nD. To decrease the viscosity of the ceramic suspension.",
+    "expected_answer": "C. To lead to the formation of bulk ceramic scaffolds with a ceramic content of approximately 36 vol%.",
+    "difficulty": "medium",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "SCI_673",
+    "domain": "Biology",
+    "task_type": "Medicinal Chemistry",
+    "prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation.\nThe question is:What are the biringent retardance values of the prisms in the nacre/prismatic transition related to?\nA. The coloration of the prisms.\nB. The purity of the calcite in the prisms.\nC. The age of the prisms.\nD. The crystallographic orientation of the prisms.",
+    "expected_answer": "D. The crystallographic orientation of the prisms.",
+    "difficulty": "medium",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "SCI_674",
+    "domain": "Biology",
+    "task_type": "Medicinal Chemistry",
+    "prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation.\nThe question is:Which of the following best describes the genetic composition of individuals from the Asian Central Steppe in the 18th century?\nA. Admixed with varying proportions of East Asian ancestry\nB. Purely of Turkic origin\nC. Predominantly of European descent\nD. Completely lacking any East Asian genetic markers",
+    "expected_answer": "A. Admixed with varying proportions of East Asian ancestry",
+    "difficulty": "medium",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "SCI_676",
+    "domain": "Chemistry",
+    "task_type": "Medicinal Chemistry",
+    "prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation.\nThe question is:In the context of molecular simulation frameworks, what does the term 'atom-centered electronic descriptors' primarily refer to?\nA. Electronic configurations of atoms in a chemical reaction\nB. Localized atomic properties derived from molecular dynamics simulations\nC. Specific quantum mechanical properties of individual atoms in a molecule\nD. General electronic descriptors built from the electronic density obtained from a standard DFT simulation",
+    "expected_answer": "D. General electronic descriptors built from the electronic density obtained from a standard DFT simulation",
+    "difficulty": "medium",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "SCI_677",
+    "domain": "Biology",
+    "task_type": "Medicinal Chemistry",
+    "prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation.\nThe question is:In the context of transcranial magnetic stimulation (TMS) studies on facial muscles, which factor is speculated to potentially influence the wider range of orientations for eliciting motor evoked potentials (MEPs) in the Orbicularis Oris (OO) muscle compared to the First Dorsal Interosseous (FDI) muscle?\nA. Differences in the specific anatomy of the cortex\nB. Individual differences in muscle fiber composition\nC. Number of stimuli delivered during the TMS protocol\nD. Variability in the intensity of the magnetic field used",
+    "expected_answer": "A. Differences in the specific anatomy of the cortex",
+    "difficulty": "medium",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "SCI_679",
+    "domain": "Chemistry",
+    "task_type": "Medicinal Chemistry",
+    "prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation.\nThe question is:What types of membrane structures and dynamics can be investigated using neutron scattering and spectroscopy approaches?\nA. Photosynthesis efficiency rates in genetically modified plants\nB. Molecular and nanoscale structures and dynamics of lipid membranes\nC. Electrical conductivity pathways within neural networks\nD. Protein folding mechanisms in high temperature environments",
+    "expected_answer": "B. Molecular and nanoscale structures and dynamics of lipid membranes",
+    "difficulty": "medium",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "SCI_680",
+    "domain": "Biology",
+    "task_type": "Medicinal Chemistry",
+    "prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation.\nThe question is:How may the level of hierarchical depth and strength in biological protein materials be balanced?\nA. By focusing only on mechanical performance without considering the balance with material use\nB. By increasing the hierarchical depth indiscriminately without regard to material use\nC. By reducing the hierarchical depth to its minimum to save material regardless of mechanical performance\nD. By maximizing mechanical performance while minimizing material use through the introduction of hierarchies",
+    "expected_answer": "D. By maximizing mechanical performance while minimizing material use through the introduction of hierarchies",
+    "difficulty": "medium",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "SCI_683",
+    "domain": "Chemistry",
+    "task_type": "Medicinal Chemistry",
+    "prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation.\nThe question is:Which algorithm is commonly used in molecular dynamics simulations to constrain hydrogen atoms?\nA. LINCS\nB. Verlet\nC. Berendsen\nD. GROMACS",
+    "expected_answer": "A. LINCS",
+    "difficulty": "medium",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "SCI_694",
+    "domain": "Biology",
+    "task_type": "Medicinal Chemistry",
+    "prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation.\nThe question is:Which of the following is NOT typically present in the cell infiltrate of nodular infiltrates of reticulohistiocytic cells in human adult skin?\nA. Giant cells\nB. Dermal Langerhans cells\nC. Lipid storing (foam) cells\nD. Histiocytes",
+    "expected_answer": "B. Dermal Langerhans cells",
+    "difficulty": "medium",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "SCI_697",
+    "domain": "Chemistry",
+    "task_type": "Medicinal Chemistry",
+    "prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation.\nThe question is:What techniques were used to evaluate the chemical structure of the scaffolds?\nA. Fourier transform infrared (FTIR) spectroscopy\nB. Scanning electron microscopy (SEM)\nC. X-ray diffraction (XRD)\nD. Nuclear magnetic resonance (NMR) spectroscopy",
+    "expected_answer": "A. Fourier transform infrared (FTIR) spectroscopy",
+    "difficulty": "medium",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "SCI_701",
+    "domain": "Biology",
+    "task_type": "Medicinal Chemistry",
+    "prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation.\nThe question is:In microbiology, which of the following is NOT a characteristic feature of penicillin-induced nucleotides in bacterial strains?\nA. Equimolar ratios of alanine and glutamic acid\nB. High molar ratio of glucosamine\nC. Presence of diaminopimelic acid\nD. Muramic acid content",
+    "expected_answer": "B. High molar ratio of glucosamine",
+    "difficulty": "medium",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "SCI_703",
+    "domain": "Biology",
+    "task_type": "Medicinal Chemistry",
+    "prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation.\nThe question is:In exercise physiology, what is the term used to describe the phenomenon where a large part of the oxidative recovery takes place after the contraction during rest periods in intermittent exercise?\nA. Excess post-exercise oxygen consumption (EPOC)\nB. VO2 max\nC. Glycolysis\nD. Anaerobic threshold",
+    "expected_answer": "A. Excess post-exercise oxygen consumption (EPOC)",
+    "difficulty": "medium",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "SCI_704",
+    "domain": "Chemistry",
+    "task_type": "Medicinal Chemistry",
+    "prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation.\nThe question is:In the context of biomolecule interactions with calcite surfaces, which functional group is most frequently involved in binding to calcite features according to the experimental and theoretical results?\nA. Ammonium group\nB. Hydroxyl group\nC. Methyl group\nD. Carboxylate group",
+    "expected_answer": "A. Ammonium group",
+    "difficulty": "medium",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "SCI_714",
+    "domain": "Biology",
+    "task_type": "Medicinal Chemistry",
+    "prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation.\nThe question is:In the field of protein modification, what is the term used to describe the process of covalently linking a small molecule to a protein?\nA. Oxidation\nB. Hydrolysis\nC. Conjugation\nD. Denaturation",
+    "expected_answer": "C. Conjugation",
+    "difficulty": "medium",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "SCI_724",
+    "domain": "Chemistry",
+    "task_type": "Medicinal Chemistry",
+    "prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation.\nThe question is:In the field of nanocrystal synthesis, what term is used to describe the process of replacing native ligands with polar ligands to enable the separation of nanocrystals from polymer impurities?\nA. Solubility difference\nB. Precipitation\nC. Polymerization\nD. Ligand exchange",
+    "expected_answer": "D. Ligand exchange",
+    "difficulty": "medium",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "SCI_725",
+    "domain": "Biology",
+    "task_type": "Medicinal Chemistry",
+    "prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation.\nThe question is:Which of the following factors is NOT a common reason contributing to clinical inertia when initiating and optimizing insulin therapy for patients with type 2 diabetes mellitus?\nA. Needle aversion\nB. Increased self-monitoring of blood glucose\nC. Fear of hyperglycemia\nD. Excessive weight gain",
+    "expected_answer": "C. Fear of hyperglycemia",
+    "difficulty": "medium",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "SCI_727",
+    "domain": "Biology",
+    "task_type": "Medicinal Chemistry",
+    "prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation.\nThe question is:Which of the following is NOT considered a primary factor influencing the ratio of renal vein renin in patients with unilateral vascular kidney disease and hypertension?\nA. Difference in renin secretion between the kidneys\nB. Renal vein renin levels in relation to renal plasma flow\nC. Difference in arterial oxygen saturation levels\nD. Difference in blood flow between the kidneys",
+    "expected_answer": "C. Difference in arterial oxygen saturation levels",
+    "difficulty": "medium",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "SCI_740",
+    "domain": "Chemistry",
+    "task_type": "Medicinal Chemistry",
+    "prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation.\nThe question is:In the context of molecular de novo design, what role does the molecular transformer model play in the forward synthesis prediction process?\nA. Product prediction\nB. Reactant selection\nC. Graph neural network modeling\nD. Link prediction",
+    "expected_answer": "A. Product prediction",
+    "difficulty": "medium",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "SCI_743",
+    "domain": "Biology",
+    "task_type": "Medicinal Chemistry",
+    "prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation.\nThe question is:In the context of genomics research, what is the term for a segment of non-coding DNA sequences that protect the ends of chromosomes from deterioration or fusion?\nA. Exon\nB. Intron\nC. Promoter\nD. Telomere",
+    "expected_answer": "D. Telomere",
+    "difficulty": "medium",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "SCI_747",
+    "domain": "Biology",
+    "task_type": "Medicinal Chemistry",
+    "prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation.\nThe question is:Which component is essential for the specific activation of the photoactivatable protein PAmCherry in a TIRF microscope setup?\nA. 633 nm HeNe laser\nB. 594 nm diode laser\nC. 488 nm diode laser\nD. 405 nm diode laser",
+    "expected_answer": "D. 405 nm diode laser",
+    "difficulty": "medium",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "SCI_749",
+    "domain": "Chemistry",
+    "task_type": "Medicinal Chemistry",
+    "prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation.\nThe question is:In the field of pharmaceutical development, which type of groups have been increasingly incorporated into drug candidates to influence their physical properties and pharmacokinetic profile?\nA. Amino groups\nB. Fluoroalkyl groups\nC. Hydroxyl groups\nD. Alkyl groups",
+    "expected_answer": "B. Fluoroalkyl groups",
+    "difficulty": "medium",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "SCI_750",
+    "domain": "Biology",
+    "task_type": "Medicinal Chemistry",
+    "prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation.\nThe question is:In the context of plant metabolism, what is the primary function of carboxylation pathways?\nA. Regulating water uptake in plants\nB. Producing energy for photosynthesis\nC. Facilitating amino acid synthesis\nD. Promoting flower development in angiosperms",
+    "expected_answer": "C. Facilitating amino acid synthesis",
+    "difficulty": "medium",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "SCI_754",
+    "domain": "Chemistry",
+    "task_type": "Medicinal Chemistry",
+    "prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation.\nThe question is:What does the Voigt estimate method assume in calculating the effective properties of a laminate composite with a Bouligand structure?\nA. The lamina properties vary widely within each lamina without any specific arrangement.\nB. The lamina properties are constant within each lamina and the laminae are rotated relative to each other.\nC. The lamina properties are interdependent and change in response to external loads.\nD. The properties of the matrix material dominate the behavior of the composite.",
+    "expected_answer": "B. The lamina properties are constant within each lamina and the laminae are rotated relative to each other.",
+    "difficulty": "medium",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "SCI_760",
+    "domain": "Biology",
+    "task_type": "Medicinal Chemistry",
+    "prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation.\nThe question is:In the context of gut immunity, which cell type plays a crucial role in orchestrating protective immunity and tolerance?\nA. Dendritic cells (DCs)\nB. B cells\nC. Natural killer cells\nD. Macrophages",
+    "expected_answer": "A. Dendritic cells (DCs)",
+    "difficulty": "medium",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "SCI_763",
+    "domain": "Biology",
+    "task_type": "Medicinal Chemistry",
+    "prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation.\nThe question is:In the field of protein purification, which method is commonly used to isolate a specific protein from a complex mixture based on its binding affinity?\nA. Immunoprecipitation\nB. Chromatography\nC. Gel Electrophoresis\nD. Western Blot",
+    "expected_answer": "A. Immunoprecipitation",
+    "difficulty": "medium",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "SCI_764",
+    "domain": "Biology",
+    "task_type": "Medicinal Chemistry",
+    "prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation.\nThe question is:In the context of biofabrication, which term refers to the ability of a material to return to its original shape after being deformed?\nA. Viscosity\nB. Modulus\nC. Elasticity\nD. Deformability",
+    "expected_answer": "C. Elasticity",
+    "difficulty": "medium",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "SCI_770",
+    "domain": "Chemistry",
+    "task_type": "Medicinal Chemistry",
+    "prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation.\nThe question is:In the context of organic electroactive molecules for redox flow batteries, which energy-based descriptor has been identified as the best performer for alloxazines?\nA. Redox reaction energy\nB. Lowest unoccupied molecular orbital energy of the reactant molecules\nC. Density functional theory computational cost\nD. Frontier orbital energies of the product molecules",
+    "expected_answer": "B. Lowest unoccupied molecular orbital energy of the reactant molecules",
+    "difficulty": "medium",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "SCI_774",
+    "domain": "Biology",
+    "task_type": "Medicinal Chemistry",
+    "prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation.\nThe question is:In the context of cell competition and pluripotency factors, what is the primary role of Tead activity?\nA. Promotes pluripotency\nB. Inhibits cell proliferation\nC. Suppresses apoptosis\nD. Enhances differentiation",
+    "expected_answer": "A. Promotes pluripotency",
+    "difficulty": "medium",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "SCI_775",
+    "domain": "Biology",
+    "task_type": "Medicinal Chemistry",
+    "prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation.\nThe question is:Which pathway is reported to have a role in the anticancer activity of NSAIDs?\nA. Only the COX-independent pathway\nB. Apoptosis pathway\nC. Both cyclooxygenase (COX)-dependent and -independent pathways\nD. Only the COX-dependent pathway",
+    "expected_answer": "C. Both cyclooxygenase (COX)-dependent and -independent pathways",
+    "difficulty": "medium",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "SCI_776",
+    "domain": "Chemistry",
+    "task_type": "Medicinal Chemistry",
+    "prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation.\nThe question is:What causes the higher electron density at the rim of the base plate compared to the middle in the CryoTEM images of Pcar base plates?\nA. Electrostatic nature of polymer-base plate interactions leading to localized nucleation and development of calcite single crystals.\nB. Uneven distribution of polymers across the base plate.\nC. Incomplete formation of the base plate structure.\nD. Random aggregation of charged particles without specific interactions.",
+    "expected_answer": "A. Electrostatic nature of polymer-base plate interactions leading to localized nucleation and development of calcite single crystals.",
+    "difficulty": "medium",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "SCI_777",
+    "domain": "Chemistry",
+    "task_type": "Medicinal Chemistry",
+    "prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation.\nThe question is:What does CAH stand for and how does it affect the self-cleaning properties of surfaces?\nA. Collective Angle Hypothesis; it is a theory that angles formed by droplets on a surface determine the surface's cleaning efficiency.\nB. Capillary Action Height; it refers to the ability of a surface to absorb water, thereby cleaning itself.\nC. Cohesive Adhesive Harmony; it describes the balance of forces that result in water spreading evenly over a surface to clean it.\nD. Contact Angle Hysteresis; it relates to surfaces' self-cleaning properties through energy dissipation allowing water droplets to roll off, removing contaminants.",
+    "expected_answer": "D. Contact Angle Hysteresis; it relates to surfaces' self-cleaning properties through energy dissipation allowing water droplets to roll off, removing contaminants.",
+    "difficulty": "medium",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "SCI_782",
+    "domain": "Chemistry",
+    "task_type": "Medicinal Chemistry",
+    "prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation.\nThe question is:What are the current challenges and limitations in using tree gum-based renewable materials for applications in nanotechnology, biomedical, and environmental science?\nA. Difficulty in customization for specific applications\nB. Limited availability of raw tree gum materials\nC. Incompatibility with existing manufacturing processes\nD. Scalability and cost-effectiveness of their production, and stability and shelf life of these materials",
+    "expected_answer": "D. Scalability and cost-effectiveness of their production, and stability and shelf life of these materials",
+    "difficulty": "medium",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "SCI_793",
+    "domain": "Biology",
+    "task_type": "Medicinal Chemistry",
+    "prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation.\nThe question is:What contributes significantly to the mechanical properties of tendons and other connective tissues?\nA. The molecular structure of collagen, including its triple helices and microfibrils\nB. Random distribution of protein molecules with no specific order\nC. The presence of a single helix structure in collagen\nD. The simplicity of collagen strands with no specific structure",
+    "expected_answer": "A. The molecular structure of collagen, including its triple helices and microfibrils",
+    "difficulty": "medium",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "SCI_795",
+    "domain": "Biology",
+    "task_type": "Medicinal Chemistry",
+    "prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation.\nThe question is:Which brain region is commonly associated with processing auditory information?\nA. Cuneus\nB. Inferior temporal gyrus\nC. Superior temporal gyrus (STG)\nD. Rectal gyrus",
+    "expected_answer": "C. Superior temporal gyrus (STG)",
+    "difficulty": "medium",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "SCI_796",
+    "domain": "Biology",
+    "task_type": "Medicinal Chemistry",
+    "prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation.\nThe question is:What factors influence the elastic modulus of trabecular bone?\nA. Density of trabecular bone alone\nB. Level of calcium phosphate crystals only\nC. Amount of collagen fibers present\nD. The interconnectivity of organic and inorganic matrices, differences in protein composition, and the strength of bonds at the component interfaces",
+    "expected_answer": "D. The interconnectivity of organic and inorganic matrices, differences in protein composition, and the strength of bonds at the component interfaces",
+    "difficulty": "medium",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "SCI_803",
+    "domain": "Biology",
+    "task_type": "Medicinal Chemistry",
+    "prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation.\nThe question is:Which chromatin-remodeling factor plays a crucial role in upregulating the transcriptome of B cells during activation?\nA. HDAC1\nB. EZH2\nC. BRG1\nD. DNMT3A",
+    "expected_answer": "C. BRG1",
+    "difficulty": "medium",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "SCI_804",
+    "domain": "Biology",
+    "task_type": "Medicinal Chemistry",
+    "prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation.\nThe question is:In the context of cognitive performance assessment after acute exercise, what is the specific term used to describe the process of inhibiting irrelevant stimuli and focusing on relevant information?\nA. Attentional bias\nB. Inhibitory control\nC. Cognitive load\nD. Working memory",
+    "expected_answer": "B. Inhibitory control",
+    "difficulty": "medium",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "SCI_805",
+    "domain": "Chemistry",
+    "task_type": "Medicinal Chemistry",
+    "prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation.\nThe question is:In the field of Covalent Organic Frameworks (COFs), what is the term used to describe the process of converting pinacol aryl boronates (ArBpin) with methyl boronic acid (MBA) to form boroxine COFs?\nA. Metathesis\nB. Transesterification\nC. Polymerization\nD. Condensation",
+    "expected_answer": "B. Transesterification",
+    "difficulty": "medium",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "SCI_808",
+    "domain": "Chemistry",
+    "task_type": "Medicinal Chemistry",
+    "prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation.\nThe question is:What was the purpose of diluting TBS buffer with deionized water in the mineralization experiment?\nA. To precipitate out unwanted components from the TBS buffer\nB. To decrease the pH level of the TBS solution\nC. To increase the buffering capacity of the TBS solution\nD. To create a solution with a known concentration of ions for the control mineralization solution",
+    "expected_answer": "D. To create a solution with a known concentration of ions for the control mineralization solution",
+    "difficulty": "medium",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "SCI_810",
+    "domain": "Biology",
+    "task_type": "Medicinal Chemistry",
+    "prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation.\nThe question is:What ions serve as building blocks and connection points in the production of hierarchical alginate biopolymers?\nA. Iron ions (Fe3+)\nB. Magnesium ions (Mg2+)\nC. Calcium ions (Ca2+)\nD. Lanthanide ions (Nd3+, Gd3+, Ce3+, Yb3+)",
+    "expected_answer": "D. Lanthanide ions (Nd3+, Gd3+, Ce3+, Yb3+)",
+    "difficulty": "medium",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "SCI_811",
+    "domain": "Biology",
+    "task_type": "Medicinal Chemistry",
+    "prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation.\nThe question is:What is the principal mechanism of elongation in plant cell walls?\nA. The deformation of hemicelluloses and the flow of the hydrogel-like matrix\nB. Cell division and expansion through xylem fibers\nC. Stretching of the cell wall due to water absorption\nD. Elongation of cellulose fibers through apical meristems",
+    "expected_answer": "A. The deformation of hemicelluloses and the flow of the hydrogel-like matrix",
+    "difficulty": "medium",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "SCI_815",
+    "domain": "Biology",
+    "task_type": "Medicinal Chemistry",
+    "prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation.\nThe question is:What is the term used to describe the surgical removal of the spleen?\nA. Splenectomy\nB. Appendectomy\nC. Cholecystectomy\nD. Nephrectomy",
+    "expected_answer": "A. Splenectomy",
+    "difficulty": "medium",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "SCI_821",
+    "domain": "Biology",
+    "task_type": "Medicinal Chemistry",
+    "prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation.\nThe question is:In the context of mitochondrial bioenergetics, which term refers to the potential at which the Adenine Nucleotide Translocase 1 (ANT1) and ANT3 shift to more depolarized potentials?\nA. Erev_ATP\nB. Cytosolic ATP/ADP ratio\nC. Erev_ANT\nD. Matrix ATP/ADP ratio",
+    "expected_answer": "C. Erev_ANT",
+    "difficulty": "medium",
+    "evaluation_metric": "exact_match"
+  }
+]

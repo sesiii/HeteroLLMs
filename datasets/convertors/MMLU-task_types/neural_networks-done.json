@@ -1,0 +1,20 @@
+[
+  {
+    "task_id": "MMLU_018",
+    "domain": "Machine Learning",
+    "task_type": "Neural Networks",
+    "prompt": "Neural networks:\n\nFor this question, four choices are provided:\n(A) Optimize a convex objective function\n(B) Can only be trained with stochastic gradient descent\n(C) Can use a mix of different activation functions\n(D) None of the above\n\nPlease choose the correct answer from the above choices.",
+    "expected_answer": "(C) Can use a mix of different activation functions",
+    "difficulty": "hard",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "MMLU_589",
+    "domain": "Machine Learning",
+    "task_type": "Neural Networks",
+    "prompt": "Statement 1| Industrial-scale neural networks are normally trained on CPUs, not GPUs. Statement 2| The ResNet-50 model has over 1 billion parameters.\n\nFor this question, four choices are provided:\n(A) True, True\n(B) False, False\n(C) True, False\n(D) False, True\n\nPlease choose the correct answer from the above choices.",
+    "expected_answer": "(B) False, False",
+    "difficulty": "hard",
+    "evaluation_metric": "exact_match"
+  }
+]

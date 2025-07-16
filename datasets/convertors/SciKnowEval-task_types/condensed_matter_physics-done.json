@@ -1,0 +1,929 @@
+[
+  {
+    "task_id": "SCI_025",
+    "domain": "Materials Science",
+    "task_type": "Condensed Matter Physics",
+    "prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation.\nThe question is:In a mean-field model of carrier-induced ferromagnetism, which parameter is critical for the competition between ferromagnetic and antiferromagnetic interactions in p-Zn\tequila1-x\textrm{Mn}_x\textrm{Te}?\nA. Curie-Weiss temperature T_{\textrm{CW}}\nB. Spin susceptibility of the carrier liquid \textchi_{\textrm{h}}\nC. Spin-carrier exchange integral \beta\nD. Effective content of magnetic ions x_{\textrm{eff}}",
+    "expected_answer": "C. Spin-carrier exchange integral \beta",
+    "difficulty": "medium",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "SCI_028",
+    "domain": "Materials Science",
+    "task_type": "Condensed Matter Physics",
+    "prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation.\nThe question is:In fracture mechanics of thin plates, which coefficient of the bulk system is related to the Lame coefficient \\\\(\\bar{\\lambda}\\\\) of the 2-dimensional system by \\\\(\\bar{\\lambda}=2\\lambda\\mu h/(\\lambda+2\\mu)\\\\)?\nA. Bulk modulus constant\nB. Lame coefficient \\\\(\\lambda\\\\)\nC. Lame ratio \\\\(\\lambda/\\mu\\\\)\nD. Lame coefficient \\\\(\\mu\\\\)",
+    "expected_answer": "B. Lame coefficient \\\\(\\lambda\\\\)",
+    "difficulty": "medium",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "SCI_031",
+    "domain": "Materials Science",
+    "task_type": "Condensed Matter Physics",
+    "prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation.\nThe question is:In molecular spectroscopy, the Jahn-Teller effect is commonly associated with which of the following phenomena?\nA. Isolation of quantum crossings in integrable systems\nB. Generation of multiple QC in chaotic systems\nC. Distortion of electronic energy levels due to molecular symmetry breaking\nD. Exponential separation of trajectories in rational billiards",
+    "expected_answer": "C. Distortion of electronic energy levels due to molecular symmetry breaking",
+    "difficulty": "medium",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "SCI_033",
+    "domain": "Materials Science",
+    "task_type": "Condensed Matter Physics",
+    "prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation.\nThe question is:In the field of materials science computational modeling, which of the following tasks is crucial before applying a model to simulations of complex material properties?\nA. Focus on classical interatomic potentials without considering validation\nB. Perform dynamical simulations at finite temperatures scrutinizing spurious behavior outside the training domain\nC. Base the application range on existing MLP parametrization initiatives\nD. Rely solely on simple correlations between potential predictions and reference DFT data",
+    "expected_answer": "B. Perform dynamical simulations at finite temperatures scrutinizing spurious behavior outside the training domain",
+    "difficulty": "medium",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "SCI_043",
+    "domain": "Materials Science",
+    "task_type": "Condensed Matter Physics",
+    "prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation.\nThe question is:Which of the following theories extends Onsager's semiclassical quantization to include Fermi surface corrections induced by magnetic fields?\nA. Harmonic quantum oscillations\nB. Ising model dynamics\nC. Linear Landau fan diagrams\nD. B-induced corrections to the Fermi surface",
+    "expected_answer": "D. B-induced corrections to the Fermi surface",
+    "difficulty": "medium",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "SCI_052",
+    "domain": "Materials Science",
+    "task_type": "Condensed Matter Physics",
+    "prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation.\nThe question is:In the context of hydrogen electrolytic production, which experimental procedures are discussed for the determination of kinetics constants?\nA. Galvanostatic measurements and chronopotentiometry\nB. Steady state polarization, electrochemical impedance spectroscopy (EIS), and relaxation experiments\nC. Potentiodynamic polarization and chronoamperometry\nD. Voltammetry and cyclic voltammetry",
+    "expected_answer": "B. Steady state polarization, electrochemical impedance spectroscopy (EIS), and relaxation experiments",
+    "difficulty": "medium",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "SCI_056",
+    "domain": "Materials Science",
+    "task_type": "Condensed Matter Physics",
+    "prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation.\nThe question is:In the context of the particle-in-a-box problem of quantum mechanics related to confined ideal polymers, what does the probability function G(\textbf{r}, \textbf{r}\u2032, N) represent?\nA. Average distance traveled by the polymer chain\nB. Rate of polymerization process\nC. Total number of polymer chain configurations\nD. Probability for a walk of N steps to have its ends at \textbf{r} and \textbf{r}\u2032",
+    "expected_answer": "D. Probability for a walk of N steps to have its ends at \textbf{r} and \textbf{r}\u2032",
+    "difficulty": "medium",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "SCI_066",
+    "domain": "Materials Science",
+    "task_type": "Condensed Matter Physics",
+    "prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation.\nThe question is:Which of the following terms specifically represents the process of atoms dislocating from their regular lattice sites under irradiation?\nA. Interstitial diffusion\nB. Grain boundary diffusion\nC. Surface diffusion\nD. Vacancy diffusion",
+    "expected_answer": "A. Interstitial diffusion",
+    "difficulty": "medium",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "SCI_069",
+    "domain": "Materials Science",
+    "task_type": "Condensed Matter Physics",
+    "prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation.\nThe question is:In the field of electronic structure calculations for materials, which method involves transforming the Kohn-Sham equations to a localized-orbital representation?\nA. Local solution of the Schroedinger equation in different regions of space\nB. Iteratively obtained description of the occupied subspace\nC. Transformation of the Kohn-Sham equations to a localized-orbital representation\nD. Discretization of the kinetic-energy operator combined with recursion-based calculation of the electronic Green's function",
+    "expected_answer": "C. Transformation of the Kohn-Sham equations to a localized-orbital representation",
+    "difficulty": "medium",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "SCI_090",
+    "domain": "Materials Science",
+    "task_type": "Condensed Matter Physics",
+    "prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation.\nThe question is:In the context of the utilization of machine learning for materials discovery, what is the primary benefit that drives the adoption of data-driven methods?\nA. Reduction of computational costs\nB. Enhanced accuracy of traditional experimental methods\nC. Improved interpretability of complex data\nD. Acceleration of the materials discovery process",
+    "expected_answer": "D. Acceleration of the materials discovery process",
+    "difficulty": "medium",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "SCI_091",
+    "domain": "Materials Science",
+    "task_type": "Condensed Matter Physics",
+    "prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation.\nThe question is:In the context of quantum ring structures, what is the term used to describe electron and hole paths that yield quantization of angular momentum in the direction perpendicular to the plane of the ring?\nA. Classical orbits\nB. Quantum entanglement\nC. Anti-gravity propulsion\nD. Dark matter interaction",
+    "expected_answer": "A. Classical orbits",
+    "difficulty": "medium",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "SCI_120",
+    "domain": "Materials Science",
+    "task_type": "Condensed Matter Physics",
+    "prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation.\nThe question is:In the context of abnormal grain growth in two dimensions, which factor has the most significant influence on the phenomenon?\nA. Grain boundary energy anisotropy\nB. External pressure\nC. Initial grain size\nD. Temperature gradient",
+    "expected_answer": "A. Grain boundary energy anisotropy",
+    "difficulty": "medium",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "SCI_123",
+    "domain": "Materials Science",
+    "task_type": "Condensed Matter Physics",
+    "prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation.\nThe question is:What is the primary advantage of utilizing Ltz-4D-STEM mode for sample investigation?\nA. Enhanced spectral analysis and compositional mapping\nB. Rapid imaging speed and large scanning area\nC. High spatial resolution and electron diffraction capabilities\nD. Low electron beam intensity and reduced sample damage",
+    "expected_answer": "C. High spatial resolution and electron diffraction capabilities",
+    "difficulty": "medium",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "SCI_124",
+    "domain": "Materials Science",
+    "task_type": "Condensed Matter Physics",
+    "prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation.\nThe question is:In the context of a symmetric binary mixture with a Hard Sphere potential and using the given equations, what is the compressibility factor represented as?\nA. A\nB. Z\nC. L\nD. N",
+    "expected_answer": "B. Z",
+    "difficulty": "medium",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "SCI_132",
+    "domain": "Materials Science",
+    "task_type": "Condensed Matter Physics",
+    "prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation.\nThe question is:In the study of nonreciprocal current responses, which physical system is NOT typically associated with the emergence of such currents?\nA. Phonons\nB. Magnons\nC. Photonics\nD. Supercurrents",
+    "expected_answer": "C. Photonics",
+    "difficulty": "medium",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "SCI_137",
+    "domain": "Materials Science",
+    "task_type": "Condensed Matter Physics",
+    "prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation.\nThe question is:In the study of correlated electronic and excitonic phases in two-dimensional (2D) materials, which of the following phenomena have been observed?\nA. Excitonic complexes up to eight particles\nB. Ohm's law\nC. Nuclear fusion\nD. Photoelectric effect",
+    "expected_answer": "A. Excitonic complexes up to eight particles",
+    "difficulty": "medium",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "SCI_141",
+    "domain": "Materials Science",
+    "task_type": "Condensed Matter Physics",
+    "prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation.\nThe question is:In the field of organometallic perovskites, what is the primary challenge when it comes to accurately measuring fundamental material properties?\nA. High cost associated with property measurements\nB. Lack of research interest in perovskite properties\nC. Limited availability of measurement tools\nD. Variability in measured values across different labs",
+    "expected_answer": "D. Variability in measured values across different labs",
+    "difficulty": "medium",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "SCI_152",
+    "domain": "Materials Science",
+    "task_type": "Condensed Matter Physics",
+    "prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation.\nThe question is:In the context of professional knowledge in the field, what is a characteristic of the Mohn-Wolfarth model for calculating the Curie temperature?\nA. It relies on quantum Monte Carlo simulations for accurate predictions.\nB. It involves a relationship between the calculated Stoner Curie temperature and the Curie temperature itself.\nC. It is based on a direct determination of the atomic magnetic moments.\nD. It primarily considers the phonon dispersion in the material.",
+    "expected_answer": "B. It involves a relationship between the calculated Stoner Curie temperature and the Curie temperature itself.",
+    "difficulty": "medium",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "SCI_156",
+    "domain": "Materials Science",
+    "task_type": "Condensed Matter Physics",
+    "prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation.\nThe question is:In the context of first-principles simulations and density functional theory, what term represents the kinetic energy contribution in the total energy expression?\nA. T\nB. E{\\rm xc}[\\rho]\nC. E_{\\rm H}[\\rho]\nD. E_{\\rm ext}[\\rho]",
+    "expected_answer": "A. T",
+    "difficulty": "medium",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "SCI_169",
+    "domain": "Materials Science",
+    "task_type": "Condensed Matter Physics",
+    "prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation.\nThe question is:In semiconductor physics, what is the term used to describe impurities like Ga, In, and Tl that can modify the properties of the material and reduce carrier concentration in certain semiconductors?\nA. Carrier mobility enhancers\nB. Electrically active defects\nC. Mixed valence impurities\nD. Impurity states",
+    "expected_answer": "C. Mixed valence impurities",
+    "difficulty": "medium",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "SCI_184",
+    "domain": "Materials Science",
+    "task_type": "Condensed Matter Physics",
+    "prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation.\nThe question is:Which exchange-correlation functional was employed in the electronic structure calculations discussed in the text?\nA. PBE-GGA\nB. SCAN\nC. B3LYP\nD. LDA",
+    "expected_answer": "A. PBE-GGA",
+    "difficulty": "medium",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "SCI_186",
+    "domain": "Materials Science",
+    "task_type": "Condensed Matter Physics",
+    "prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation.\nThe question is:In the field of atomistic simulations using the MTP approach, what is the main purpose of moment tensor potential described by the formula $V(n_{i})=\\sum_{\\alpha}\\xi_{\\alpha}B_{\\alpha}(n_{i})$?\nA. To determine the melting point of the material under investigation\nB. To analyze the electronic structure of the material\nC. To calculate the potential energy of an atomic system based on the local atomic neighborhood around each atom\nD. To measure the vibrational frequencies of the atomic system",
+    "expected_answer": "C. To calculate the potential energy of an atomic system based on the local atomic neighborhood around each atom",
+    "difficulty": "medium",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "SCI_189",
+    "domain": "Materials Science",
+    "task_type": "Condensed Matter Physics",
+    "prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation.\nThe question is:In the context of nuclear spin diffusion barriers, what happens when the magnetic field gradient exceeds the local field strength?\nA. Neighboring nuclei experience complete spin alignment\nB. Neighboring nuclei experience accelerated spin flips and enhanced diffusion\nC. Neighboring nuclei experience hindered spin flips and diffusion is slowed down\nD. Neighboring nuclei experience no change in spin behavior",
+    "expected_answer": "C. Neighboring nuclei experience hindered spin flips and diffusion is slowed down",
+    "difficulty": "medium",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "SCI_196",
+    "domain": "Materials Science",
+    "task_type": "Condensed Matter Physics",
+    "prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation.\nThe question is:In the study of quasi-crystalline materials, which property has been observed to resemble that of metallic glasses rather than crystalline materials?\nA. Crystal lattice structure\nB. Anomalies in the vibrational density of states\nC. Optical transparency\nD. Electrical conductivity",
+    "expected_answer": "B. Anomalies in the vibrational density of states",
+    "difficulty": "medium",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "SCI_198",
+    "domain": "Materials Science",
+    "task_type": "Condensed Matter Physics",
+    "prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation.\nThe question is:What is the critical superconducting transition temperature (\t(T_c) reached at 41.8 GPa?\nA. 2.2 K\nB. 14.8 GPa\nC. 19.4 GPa\nD. 5.4 K",
+    "expected_answer": "D. 5.4 K",
+    "difficulty": "medium",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "SCI_207",
+    "domain": "Materials Science",
+    "task_type": "Condensed Matter Physics",
+    "prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation.\nThe question is:When considering the utilization of data-driven strategies in material design, which factor plays a crucial role in enabling the application of complex machine learning techniques to mine data and predict new materials with novel properties?\nA. Size of the materials science community\nB. Speed of data processing algorithms\nC. Cost-effectiveness of data analysis tools\nD. Availability of data-sets based on high throughput screening studies and experimental databases",
+    "expected_answer": "D. Availability of data-sets based on high throughput screening studies and experimental databases",
+    "difficulty": "medium",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "SCI_208",
+    "domain": "Materials Science",
+    "task_type": "Condensed Matter Physics",
+    "prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation.\nThe question is:Which type of neural network has gained attention for its high data efficiency in machine learning models?\nA. E(3)-equivariant neural network (ENN)\nB. Deep neural network (DNN)\nC. Convolutional neural network (CNN)\nD. Recurrent neural network (RNN)",
+    "expected_answer": "A. E(3)-equivariant neural network (ENN)",
+    "difficulty": "medium",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "SCI_212",
+    "domain": "Materials Science",
+    "task_type": "Condensed Matter Physics",
+    "prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation.\nThe question is:Which method is commonly used to analyze the crystal structure of materials in experimental synthesis and characterization?\nA. UV-Vis spectroscopy\nB. Gas chromatography\nC. X-ray diffraction\nD. Electrochemical impedance spectroscopy",
+    "expected_answer": "C. X-ray diffraction",
+    "difficulty": "medium",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "SCI_215",
+    "domain": "Materials Science",
+    "task_type": "Condensed Matter Physics",
+    "prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation.\nThe question is:What is the primary objective of studying the density of states when the Q2DEG is subjected to an in-plane magnetic field?\nA. To determine the conductivity of the Q2DEG\nB. To explain the experimental magnetoconductivity in structures with wide double heterojunctions\nC. To investigate the formation of subbands in the Q2DEG\nD. To analyze the impact of temperature on the electronic states",
+    "expected_answer": "B. To explain the experimental magnetoconductivity in structures with wide double heterojunctions",
+    "difficulty": "medium",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "SCI_216",
+    "domain": "Materials Science",
+    "task_type": "Condensed Matter Physics",
+    "prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation.\nThe question is:In the context of materials with modified magnetic properties, which factor can have a significant influence on magnetic anisotropy?\nA. Energy landscape\nB. Magnetic exchange interactions\nC. Size of Fe-Co alloy nanoclusters\nD. Local atomic arrangement and cluster composition",
+    "expected_answer": "D. Local atomic arrangement and cluster composition",
+    "difficulty": "medium",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "SCI_222",
+    "domain": "Materials Science",
+    "task_type": "Condensed Matter Physics",
+    "prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation.\nThe question is:In the field of spintronics, what is the term used to describe the process of producing current-induced magnetization reversal through the transfer of spin angular momentum between charge carriers and localized magnetic moments?\nA. Bias voltage\nB. Spin-transfer torque (STT)\nC. Magnetoresistance\nD. Cross section",
+    "expected_answer": "B. Spin-transfer torque (STT)",
+    "difficulty": "medium",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "SCI_244",
+    "domain": "Materials Science",
+    "task_type": "Condensed Matter Physics",
+    "prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation.\nThe question is:In computational surface science calculations involving supercell modeling, what is a critical factor to consider for accurate results?\nA. Neglecting the compensating dipole field effects\nB. Utilizing smaller slabs for certain interactions\nC. Increasing the number of atoms per unit cell\nD. Prioritizing a larger vacuum spacing",
+    "expected_answer": "B. Utilizing smaller slabs for certain interactions",
+    "difficulty": "medium",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "SCI_248",
+    "domain": "Materials Science",
+    "task_type": "Condensed Matter Physics",
+    "prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation.\nThe question is:In chemical synthesis, which of the following factors is NOT considered when designing compounds with hydrogen bond-forming functional groups?\nA. The potential for hydrogen bond formation\nB. The molecular weight of the compound\nC. The electronegative element directly bound to a hydrogen atom\nD. The coordination of hydrogen bond-forming groups to allied groups",
+    "expected_answer": "B. The molecular weight of the compound",
+    "difficulty": "medium",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "SCI_262",
+    "domain": "Materials Science",
+    "task_type": "Condensed Matter Physics",
+    "prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation.\nThe question is:In the study of magnetoresistance in granular materials, what characteristic feature is typically observed when the magnetic field is perpendicular to the sample plane?\nA. Anisotropy\nB. Minor differences in resistance\nC. Superparamagnetism\nD. Continuous Fe layers",
+    "expected_answer": "A. Anisotropy",
+    "difficulty": "medium",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "SCI_267",
+    "domain": "Materials Science",
+    "task_type": "Condensed Matter Physics",
+    "prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation.\nThe question is:Which type of solid electrolyte has demonstrated the high electrochemical potential window and stability against Li metal?\nA. LLZO (Lithium Lanthanum Zirconate)\nB. Carbon-based solid electrolytes\nC. Polymer-based solid electrolytes\nD. Sulfide-based solid electrolytes",
+    "expected_answer": "A. LLZO (Lithium Lanthanum Zirconate)",
+    "difficulty": "medium",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "SCI_274",
+    "domain": "Materials Science",
+    "task_type": "Condensed Matter Physics",
+    "prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation.\nThe question is:In theoretical studies of defect-bound excitons, which type of structures are commonly found in small band gap materials like silicon when targeting telecom emission?\nA. Singlet ground state structures\nB. Single-shot HSE defects\nC. NV center structures\nD. T center-like defects",
+    "expected_answer": "D. T center-like defects",
+    "difficulty": "medium",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "SCI_276",
+    "domain": "Materials Science",
+    "task_type": "Condensed Matter Physics",
+    "prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation.\nThe question is:In the context of surface chemistry, which term refers to the phenomenon where an adsorbate-substrate interaction results in a localized energy minimum?\nA. Surface energy barrier\nB. Density of states\nC. Binding energy at kink sites\nD. Surface dipole moments",
+    "expected_answer": "C. Binding energy at kink sites",
+    "difficulty": "medium",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "SCI_278",
+    "domain": "Materials Science",
+    "task_type": "Condensed Matter Physics",
+    "prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation.\nThe question is:Which factor is the primary source of the isotope effect on the low-temperature kinetic and thermodynamic properties in doped ferromagnetic manganites?\nA. Residual resistivity\nB. Electron-electron scatterings\nC. Impurity scattering\nD. Polaron mass dependence on the ion mass",
+    "expected_answer": "D. Polaron mass dependence on the ion mass",
+    "difficulty": "medium",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "SCI_287",
+    "domain": "Materials Science",
+    "task_type": "Condensed Matter Physics",
+    "prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation.\nThe question is:In the context of broken I\\(otimes\text{T}\text{ symmetry, specimens with SOS comparable or lower symmetries to the experimental setup can exhibit which of the following physical properties?\nA. Simple Hall effect\nB. Odd-order or Even-order anomalous Hall effect (AHE)\nC. Photoelectric effect\nD. Piezoelectric effect",
+    "expected_answer": "B. Odd-order or Even-order anomalous Hall effect (AHE)",
+    "difficulty": "medium",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "SCI_288",
+    "domain": "Materials Science",
+    "task_type": "Condensed Matter Physics",
+    "prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation.\nThe question is:In a semiconductor device, which factor primarily influences the tunneling barrier height in junctions?\nA. Temperature\nB. Bandgap energy\nC. Applied voltage\nD. Doping concentration",
+    "expected_answer": "D. Doping concentration",
+    "difficulty": "medium",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "SCI_291",
+    "domain": "Materials Science",
+    "task_type": "Condensed Matter Physics",
+    "prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation.\nThe question is:In the context of polymer melts with exchangeable crosslinks, which property of a vitrimer can be significantly influenced by varying the crosslinking fraction?\nA. Tensile strength\nB. Thermal conductivity\nC. Miscibility\nD. Melting point",
+    "expected_answer": "C. Miscibility",
+    "difficulty": "medium",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "SCI_293",
+    "domain": "Materials Science",
+    "task_type": "Condensed Matter Physics",
+    "prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation.\nThe question is:In the context of crystal melting theory approaches, which model specifically focuses on the movement of crystal lattice defects?\nA. Phase-field model\nB. Dislocation model\nC. Kinetic model\nD. Thermal fluctuation model",
+    "expected_answer": "B. Dislocation model",
+    "difficulty": "medium",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "SCI_307",
+    "domain": "Materials Science",
+    "task_type": "Condensed Matter Physics",
+    "prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation.\nThe question is:In the field of cone classification, which term refers to the number of sectors removed, or equivalently, the cone's opening angle?\nA. n_{{}_{\\Omega}}\nB. Essential physics\nC. Pentagonal defects\nD. Conical shape",
+    "expected_answer": "A. n_{{}_{\\Omega}}",
+    "difficulty": "medium",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "SCI_313",
+    "domain": "Materials Science",
+    "task_type": "Condensed Matter Physics",
+    "prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation.\nThe question is:In the calculation of electrode potential and pH, what role does the electrolyte play?\nA. Modeling reaction intermediates with a graphene supercell\nB. Generating wave functions and augmentation charge density\nC. Determining the electrode potential and pH\nD. Treating the Fermi surface using the Marzari-Vanderbilt cold smearing",
+    "expected_answer": "C. Determining the electrode potential and pH",
+    "difficulty": "medium",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "SCI_316",
+    "domain": "Materials Science",
+    "task_type": "Condensed Matter Physics",
+    "prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation.\nThe question is:In the framework of density-functional theory (DFT), the eigenstates of the Hamiltonian are known as:\nA. Hartree-Fock states\nB. Bloch states\nC. Kohn-Sham states\nD. Brillouin states",
+    "expected_answer": "B. Bloch states",
+    "difficulty": "medium",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "SCI_341",
+    "domain": "Materials Science",
+    "task_type": "Condensed Matter Physics",
+    "prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation.\nThe question is:In materials science, what is the term for the boundary separating two grains in a polycrystalline material?\nA. Grain boundary\nB. Crystal lattice\nC. Dislocation line\nD. Amorphous region",
+    "expected_answer": "A. Grain boundary",
+    "difficulty": "medium",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "SCI_352",
+    "domain": "Materials Science",
+    "task_type": "Condensed Matter Physics",
+    "prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation.\nThe question is:Which method was NOT used for the synthesis of single crystals of A2Ni3X4?\nA. Fusion reaction under an Ar atmosphere for sulfide\nB. Fusion reaction under an Ar/H2 mixture for selenides\nC. Handling in a glovebox due to luster loss in moist air\nD. Conventional solid-state reaction method",
+    "expected_answer": "D. Conventional solid-state reaction method",
+    "difficulty": "medium",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "SCI_357",
+    "domain": "Materials Science",
+    "task_type": "Condensed Matter Physics",
+    "prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation.\nThe question is:In a tight-binding model for a crystalline structure, which of the following statements regarding the Hamiltonian in momentum space is INCORRECT?\nA. The momentum space Hamiltonian is a sum over lattice sites involving creation and annihilation operators\nB. Gauges in the Fourier transform can lead to different descriptions of the momentum space Hamiltonian\nC. The Fourier transform of the Hamiltonian explicitly considers the atomic orbital information within the lattice\nD. The Hamiltonian in momentum space involves hopping matrix elements weighted by exponential terms",
+    "expected_answer": "C. The Fourier transform of the Hamiltonian explicitly considers the atomic orbital information within the lattice",
+    "difficulty": "medium",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "SCI_358",
+    "domain": "Materials Science",
+    "task_type": "Condensed Matter Physics",
+    "prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation.\nThe question is:Which intrinsic defects in \beta-Ga_2O_3 mediate the self-diffusion of Ga cations?\nA. Ga interstitials (Ga_i) and vacancies (V_{Ga})\nB. Gallium vacancies (V_{Ga}) and Aluminum interstitials (Al_i)\nC. Oxygen vacancies (V_{O}) and Gallium interstitials (Ga_{int})\nD. Aluminum interstitials (Al_i) and Oxygen interstitials (O_i)",
+    "expected_answer": "A. Ga interstitials (Ga_i) and vacancies (V_{Ga})",
+    "difficulty": "medium",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "SCI_362",
+    "domain": "Materials Science",
+    "task_type": "Condensed Matter Physics",
+    "prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation.\nThe question is:In the study of magnetization loops and critical current in superconductors, which parameter typically shows an enhancement for magnetic fields below the matching field?\nA. Field intensity (H)\nB. Critical current (Jc)\nC. Pinning density (np)\nD. Magnetization (M)",
+    "expected_answer": "B. Critical current (Jc)",
+    "difficulty": "medium",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "SCI_369",
+    "domain": "Materials Science",
+    "task_type": "Condensed Matter Physics",
+    "prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation.\nThe question is:In the context of advanced spectroscopic techniques, which method is particularly advantageous due to its minimal interference with electronic states being measured?\nA. dHvA experiment\nB. Positron annihilation spectroscopy\nC. Photoemission spectroscopy\nD. Compton technique",
+    "expected_answer": "D. Compton technique",
+    "difficulty": "medium",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "SCI_377",
+    "domain": "Materials Science",
+    "task_type": "Condensed Matter Physics",
+    "prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation.\nThe question is:In the context of interlayer bonding in BaTiO3 membranes, which type of interaction is suggested based on the comparison of the generalized stacking fault energy (GSFE) with other materials?\nA. van der Waals (vdW) interactions\nB. metallic bonding\nC. ionic interactions\nD. covalent bonding",
+    "expected_answer": "A. van der Waals (vdW) interactions",
+    "difficulty": "medium",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "SCI_383",
+    "domain": "Materials Science",
+    "task_type": "Condensed Matter Physics",
+    "prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation.\nThe question is:Which of the following mechanisms could explain the high-speed heavy plastic deformation of thin foils of fcc metals according to Kiritani et al.'s study?\nA. Grain boundary sliding mechanism\nB. Dislocation-free deformation mechanism\nC. Dynamic recrystallization mechanism\nD. Twinning deformation mechanism",
+    "expected_answer": "B. Dislocation-free deformation mechanism",
+    "difficulty": "medium",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "SCI_395",
+    "domain": "Materials Science",
+    "task_type": "Condensed Matter Physics",
+    "prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation.\nThe question is:What is the typical method used to interpret the spectra and explain energy shifts in studies involving excitonic excitations in materials like TMDs?\nA. Neutron Scattering\nB. Density Functional Theory (DFT) with the Bethe-Salpeter equations (BSE)\nC. X-ray Diffraction (XRD)\nD. In studies involving excitonic excitations in materials like TMDs, the typical method used to interpret the spectra and explain energy shifts is Density Functional Theory (DFT) with the Bethe-Salpeter equations (BSE).",
+    "expected_answer": "B. Density Functional Theory (DFT) with the Bethe-Salpeter equations (BSE)",
+    "difficulty": "medium",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "SCI_405",
+    "domain": "Materials Science",
+    "task_type": "Condensed Matter Physics",
+    "prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation.\nThe question is:What characteristic behavior does FeSi exhibit at low temperatures?\nA. Non-magnetic and narrow-gap semiconductor\nB. Superconductive and insulator\nC. Highly magnetic and wide-bandgap semiconductor\nD. Ferromagnetic and metal",
+    "expected_answer": "A. Non-magnetic and narrow-gap semiconductor",
+    "difficulty": "medium",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "SCI_411",
+    "domain": "Materials Science",
+    "task_type": "Condensed Matter Physics",
+    "prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation.\nThe question is:What is the pivotal factor affecting the critical temperatures of Fe3GaTe2 and Fe3GeTe2?\nA. Dynamical stability\nB. Strain engineering\nC. Competing ferromagnetic-antiferromagnetic in-plane couplings\nD. Electrostatic doping",
+    "expected_answer": "C. Competing ferromagnetic-antiferromagnetic in-plane couplings",
+    "difficulty": "medium",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "SCI_420",
+    "domain": "Materials Science",
+    "task_type": "Condensed Matter Physics",
+    "prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation.\nThe question is:Which group of superhard materials is known for its distinctive mechanical, electronic, catalytic, optical, and magnetic characteristics for technological applications?\nA. Diamond\nB. Borides\nC. Cubic boron nitride\nD. Transition metal nitrides",
+    "expected_answer": "D. Transition metal nitrides",
+    "difficulty": "medium",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "SCI_440",
+    "domain": "Materials Science",
+    "task_type": "Condensed Matter Physics",
+    "prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation.\nThe question is:In the context of evaluating lattice thermal conductivity (LTC) in materials with large anharmonicities, which method allows for a more accurate computation of LTC by taking into account all orders of anharmonicity?\nA. Four-phonon scattering processes\nB. ab initio molecular dynamics (AIMD) simulations\nC. Non-equilibrium molecular dynamics (NEMD)\nD. Green-Kubo (GK) formula",
+    "expected_answer": "B. ab initio molecular dynamics (AIMD) simulations",
+    "difficulty": "medium",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "SCI_443",
+    "domain": "Materials Science",
+    "task_type": "Condensed Matter Physics",
+    "prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation.\nThe question is:In quantum physics, which term refers to a property of a system that measures how the system varies under translations by a certain distance in any direction?\nA. Quantum entanglement\nB. Stochastic resonance\nC. Quantum tunneling\nD. Translation invariance",
+    "expected_answer": "D. Translation invariance",
+    "difficulty": "medium",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "SCI_454",
+    "domain": "Materials Science",
+    "task_type": "Condensed Matter Physics",
+    "prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation.\nThe question is:In materials science, which mechanical property is primarily affected by grain refinement induced by radiation in polycrystalline materials?\nA. Strength\nB. Density\nC. Color\nD. Thermal Conductivity",
+    "expected_answer": "A. Strength",
+    "difficulty": "medium",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "SCI_462",
+    "domain": "Materials Science",
+    "task_type": "Condensed Matter Physics",
+    "prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation.\nThe question is:In the context of electronic structure calculations using a plane-wave basis set for metals, what practical advantage does the choice of a plane-wave basis set offer?\nA. Direct utilization of Bloch states for all k-points\nB. Reduced complexity of solving equations related to atomic configurations\nC. Convenience of calculating various quantities a single time throughout the calculation\nD. Enhanced efficiency in handling large supercells without computational challenges",
+    "expected_answer": "C. Convenience of calculating various quantities a single time throughout the calculation",
+    "difficulty": "medium",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "SCI_475",
+    "domain": "Materials Science",
+    "task_type": "Condensed Matter Physics",
+    "prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation.\nThe question is:In computational materials science, what term describes a measure of the efficiency of a Monte Carlo algorithm for simulating phase transitions?\nA. Cohesive energy\nB. Lattice constant\nC. Band gap\nD. Order-disorder transition temperature",
+    "expected_answer": "D. Order-disorder transition temperature",
+    "difficulty": "medium",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "SCI_478",
+    "domain": "Materials Science",
+    "task_type": "Condensed Matter Physics",
+    "prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation.\nThe question is:In the context of thin film deposition optimization, which approach focuses on identifying process conditions that satisfy multiple property constraints while maximizing process robustness against variations?\nA. Genetic algorithm\nB. Gradient descent method\nC. Random search algorithm\nD. Bayesian optimization construction",
+    "expected_answer": "D. Bayesian optimization construction",
+    "difficulty": "medium",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "SCI_483",
+    "domain": "Materials Science",
+    "task_type": "Condensed Matter Physics",
+    "prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation.\nThe question is:In the study of CsCr\rg{3}\rg{5}, which of the following interactions leads to orbital-selective band renormalization dominated by the d\rg{xz} band, and concurrently produces emergent flat bands very close to the Fermi level?\nA. Coulomb interactions\nB. Van der Waals interactions\nC. Casimir interactions\nD. Hubbard-Kanamori interactions",
+    "expected_answer": "D. Hubbard-Kanamori interactions",
+    "difficulty": "medium",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "SCI_490",
+    "domain": "Materials Science",
+    "task_type": "Condensed Matter Physics",
+    "prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation.\nThe question is:Which type of structure do antifluorite compounds with the chemical formula $A_{2}MeX_{6}$ crystallize in at room temperature?\nA. Perovskite structure\nB. K\textsubscript{2}PtCl\textsubscript{6} structure\nC. Layered perovskite structure\nD. Cubic structure",
+    "expected_answer": "B. K\textsubscript{2}PtCl\textsubscript{6} structure",
+    "difficulty": "medium",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "SCI_495",
+    "domain": "Materials Science",
+    "task_type": "Condensed Matter Physics",
+    "prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation.\nThe question is:In the context of electronic state studies, which method is typically utilized for complex systems involving wide double heterojunctions in the presence of an in-plane magnetic field?\nA. Self-consistent calculations\nB. Analytically solvable potential wells\nC. Perturbative approximations\nD. Tight Binding Approximation",
+    "expected_answer": "A. Self-consistent calculations",
+    "difficulty": "medium",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "SCI_501",
+    "domain": "Materials Science",
+    "task_type": "Condensed Matter Physics",
+    "prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation.\nThe question is:In the context of CMR manganites, what is the term used to describe the phenomenon where the resistance of a material is drastically altered by the application of a magnetic field?\nA. Ferromagnetic Resonance\nB. Spin Glass Transition\nC. Colossal Magnetoresistance (CMR)\nD. Quantum Hall Effect",
+    "expected_answer": "C. Colossal Magnetoresistance (CMR)",
+    "difficulty": "medium",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "SCI_511",
+    "domain": "Materials Science",
+    "task_type": "Condensed Matter Physics",
+    "prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation.\nThe question is:In the context of Quasicrystals and Lattice Theory, what property defines locally isomorphic quasiperiodic lattices?\nA. |W| = |W'|\nB. |W| < |W'|\nC. |W| > |W'|\nD. There is no specific property defining LI quasiperiodic lattices",
+    "expected_answer": "A. |W| = |W'|",
+    "difficulty": "medium",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "SCI_514",
+    "domain": "Materials Science",
+    "task_type": "Condensed Matter Physics",
+    "prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation.\nThe question is:In semiconductor physics, which of the following band states are predominantly localized around the As atoms in the valence band for GaAs?\nA. Bottom\nB. Middle\nC. Top\nD. None of the above",
+    "expected_answer": "C. Top",
+    "difficulty": "medium",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "SCI_522",
+    "domain": "Materials Science",
+    "task_type": "Condensed Matter Physics",
+    "prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation.\nThe question is:In the study of composite coatings for substrate protection, which property is primarily enhanced by the addition of multiple pigment chemistries within the same coating?\nA. Utilization (conversion of pigment), galvanic protection, and secondary barrier properties\nB. Adhesion strength to the substrate\nC. Abrasion resistance\nD. Resistance to UV degradation",
+    "expected_answer": "A. Utilization (conversion of pigment), galvanic protection, and secondary barrier properties",
+    "difficulty": "medium",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "SCI_525",
+    "domain": "Materials Science",
+    "task_type": "Condensed Matter Physics",
+    "prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation.\nThe question is:Which crystal structure does lead titanate (PbTiO\textsubscript{3}) adopt at temperatures below 763 K?\nA. Tetragonal\nB. Cubic\nC. Orthorhombic\nD. Rhombohedral",
+    "expected_answer": "A. Tetragonal",
+    "difficulty": "medium",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "SCI_527",
+    "domain": "Materials Science",
+    "task_type": "Condensed Matter Physics",
+    "prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation.\nThe question is:What is the key factor that determines the properties of ferroelectric films?\nA. Film thickness\nB. Pressure\nC. Chemical composition\nD. Temperature",
+    "expected_answer": "A. Film thickness",
+    "difficulty": "medium",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "SCI_535",
+    "domain": "Materials Science",
+    "task_type": "Condensed Matter Physics",
+    "prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation.\nThe question is:In the field of computational material science, what approach was used by Dudarev et al. to predict the evolution of two interacting dislocation loops in Fe?\nA. Langevin equation approach\nB. Fast Multipole approach\nC. FFT solver\nD. Kinetic Monte-Carlo simulation",
+    "expected_answer": "A. Langevin equation approach",
+    "difficulty": "medium",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "SCI_539",
+    "domain": "Materials Science",
+    "task_type": "Condensed Matter Physics",
+    "prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation.\nThe question is:In the study of crystal surface dynamics under oscillatory driving, under what condition may step bunching, meandering, mould formation, or surface smoothening be observed?\nA. Absence of any driving force\nB. Presence of a kinetic asymmetry at the steps or kinks (the Ehrlich-Schwoebel effect)\nC. Symmetric step configurations\nD. Uniform driving force",
+    "expected_answer": "B. Presence of a kinetic asymmetry at the steps or kinks (the Ehrlich-Schwoebel effect)",
+    "difficulty": "medium",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "SCI_550",
+    "domain": "Materials Science",
+    "task_type": "Condensed Matter Physics",
+    "prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation.\nThe question is:In the study of a compound exhibiting altermagnetic order, which experimental measurement would best characterize the spin band splitting observed in its electronic band structure?\nA. Electron paramagnetic resonance (EPR)\nB. Spin-polarized angle resolved photoelectron spectroscopy (ARPES)\nC. X-ray diffraction\nD. Fourier-transform infrared (FTIR) spectroscopy",
+    "expected_answer": "B. Spin-polarized angle resolved photoelectron spectroscopy (ARPES)",
+    "difficulty": "medium",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "SCI_552",
+    "domain": "Materials Science",
+    "task_type": "Condensed Matter Physics",
+    "prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation.\nThe question is:In quantum systems, which perturbation order would be eliminated when the presence of a phase factor of $e^{i2\theta}$ enforces $\\bra{\\uparrow}H^{\\prime} \\ket{\\downarrow}=0$?\nA. Third-order perturbation\nB. First-order perturbation\nC. Second-order perturbation\nD. Zeroth-order perturbation",
+    "expected_answer": "B. First-order perturbation",
+    "difficulty": "medium",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "SCI_558",
+    "domain": "Materials Science",
+    "task_type": "Condensed Matter Physics",
+    "prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation.\nThe question is:In experimental studies on BP under pressure, what type of strain leads to a monotonically increasing direct gap for monolayer BP?\nA. Hydrostatic pressure\nB. Tensile strain\nC. No strain\nD. Normal compressive strain",
+    "expected_answer": "D. Normal compressive strain",
+    "difficulty": "medium",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "SCI_568",
+    "domain": "Materials Science",
+    "task_type": "Condensed Matter Physics",
+    "prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation.\nThe question is:In semiconductor physics, what term describes the process where an electron recombines with a hole through a defect level in the bandgap, leading to non-radiative recombination?\nA. Doping effects\nB. Exciton effect\nC. Shockley-Read-Hall (SRH) recombination\nD. Auger recombination",
+    "expected_answer": "C. Shockley-Read-Hall (SRH) recombination",
+    "difficulty": "medium",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "SCI_570",
+    "domain": "Materials Science",
+    "task_type": "Condensed Matter Physics",
+    "prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation.\nThe question is:In the context of individually tuning Josephson junctions (JJs) post-fabrication to address variability in resistance (\"R_{n}\"), which technique, as mentioned in the provided text, involves using a controllable e-beam for local annealing of JJs to reduce the variability?\nA. Fine tuning qubit frequencies using a laser\nB. Using an electron beam (e-beam) in an e-beam lithography system (EBL)\nC. Using repeated DC current pulses through the Josephson junction\nD. Utilizing a laser to fine tune qubit frequencies through localised annealing of JJs",
+    "expected_answer": "B. Using an electron beam (e-beam) in an e-beam lithography system (EBL)",
+    "difficulty": "medium",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "SCI_582",
+    "domain": "Materials Science",
+    "task_type": "Condensed Matter Physics",
+    "prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation.\nThe question is:In the context of Monte Carlo simulations for the Double Exchange model, what is the primary computational bottleneck that limits the study of systems with a larger number of spins?\nA. Diagonalization of the single-particle Hamiltonian matrix\nB. Initialization of spin states\nC. Metropolis algorithm convergence rate\nD. Memory allocation for storing spin configurations",
+    "expected_answer": "A. Diagonalization of the single-particle Hamiltonian matrix",
+    "difficulty": "medium",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "SCI_585",
+    "domain": "Materials Science",
+    "task_type": "Condensed Matter Physics",
+    "prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation.\nThe question is:Which computational effort scales with N log N for FFT simulations in the context of material homogenization?\nA. N^3\nB. N log N\nC. N^2\nD. N",
+    "expected_answer": "B. N log N",
+    "difficulty": "medium",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "SCI_589",
+    "domain": "Materials Science",
+    "task_type": "Condensed Matter Physics",
+    "prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation.\nThe question is:In the context of adsorption studies on graphite or carbon nanotubes, what is the primary factor that determines the adsorption potential in the given model?\nA. Pairwise sum of two-body interactions\nB. Van der Waals forces\nC. Hydrogen bonding effects\nD. Electrostatic repulsion forces",
+    "expected_answer": "A. Pairwise sum of two-body interactions",
+    "difficulty": "medium",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "SCI_600",
+    "domain": "Materials Science",
+    "task_type": "Condensed Matter Physics",
+    "prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation.\nThe question is:In the context of complex neural network architectures for simulating history-dependent material behavior, which type of RNN exhibits disadvantages for modeling cyclic plasticity due to requiring high computational effort for training and prediction?\nA. Gated Recurrent Unit (GRU)\nB. Simple RNNs\nC. Long short term (LSTM)\nD. Stateful RNNs",
+    "expected_answer": "D. Stateful RNNs",
+    "difficulty": "medium",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "SCI_604",
+    "domain": "Materials Science",
+    "task_type": "Condensed Matter Physics",
+    "prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation.\nThe question is:In the field of twistronics, what is the term used to describe the unique vortex patterns with strong local polarization observed due to interlayer interaction in moire oxides?\nA. Perovskite symmetry\nB. Van der Waals bonding\nC. Magic-angle alignment\nD. Chiral interlayer coupling",
+    "expected_answer": "D. Chiral interlayer coupling",
+    "difficulty": "medium",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "SCI_610",
+    "domain": "Materials Science",
+    "task_type": "Condensed Matter Physics",
+    "prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation.\nThe question is:In materials science, what is the term for a deep learning model that functions as an effective surrogate to the first-principles method?\nA. Materials explorer\nB. Generalized gradient approximation (GGA) Perdew-Burke-Ernzerhof (PBE)\nC. Ensemble uncertainty monitor\nD. Materials Project standard settings",
+    "expected_answer": "A. Materials explorer",
+    "difficulty": "medium",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "SCI_614",
+    "domain": "Materials Science",
+    "task_type": "Condensed Matter Physics",
+    "prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation.\nThe question is:Which of the following does not relate to the concept of a eutectic point in a phase diagram?\nA. Solidus Line\nB. Peritectic Point\nC. Triple Point\nD. Liquidus Line",
+    "expected_answer": "C. Triple Point",
+    "difficulty": "medium",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "SCI_641",
+    "domain": "Materials Science",
+    "task_type": "Condensed Matter Physics",
+    "prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation.\nThe question is:In the context of ground-state determination algorithms, what does ECI stand for?\nA. Energy Capture Interface\nB. Entropy Calculation and Inference\nC. Effective Cluster Interactions\nD. Electric Conductivity Index",
+    "expected_answer": "C. Effective Cluster Interactions",
+    "difficulty": "medium",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "SCI_642",
+    "domain": "Materials Science",
+    "task_type": "Condensed Matter Physics",
+    "prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation.\nThe question is:What is the primary function of AI in the context of scientific research?\nA. Conducting experiments and analyzing results\nB. Interpreting research findings and drawing conclusions\nC. Generating hypotheses and discovering patterns in data\nD. Developing research methodologies and protocols",
+    "expected_answer": "C. Generating hypotheses and discovering patterns in data",
+    "difficulty": "medium",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "SCI_651",
+    "domain": "Materials Science",
+    "task_type": "Condensed Matter Physics",
+    "prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation.\nThe question is:Which of the following properties is NOT a fundamental assumption when considering the transmission coefficient of a single barrier?\nA. The leads and the barrier show the same 2-dimensional periodicity\nB. x is always perpendicular to the barrier\nC. The superlattice is periodic in the x-direction\nD. The other two components are denoted with ${\bf r}_{\bot}$",
+    "expected_answer": "C. The superlattice is periodic in the x-direction",
+    "difficulty": "medium",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "SCI_690",
+    "domain": "Materials Science",
+    "task_type": "Condensed Matter Physics",
+    "prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation.\nThe question is:Which of the following quantities characterizes atomic fluctuation and rearrangement in a cluster?\nA. Comparison between experimental and numerical results\nB. Physical assumption for MD simulation\nC. Some useful quantities mentioned in the paper\nD. Initial configurations in MD simulation",
+    "expected_answer": "C. Some useful quantities mentioned in the paper",
+    "difficulty": "medium",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "SCI_695",
+    "domain": "Materials Science",
+    "task_type": "Condensed Matter Physics",
+    "prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation.\nThe question is:Which technology approach relies on cell cultures and scaffolds for subsequent reconstruction?\nA. Stem cell technology\nB. Bioactive materials technology\nC. Top-down TE technology\nD. Precursor cell technology",
+    "expected_answer": "C. Top-down TE technology",
+    "difficulty": "medium",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "SCI_698",
+    "domain": "Materials Science",
+    "task_type": "Condensed Matter Physics",
+    "prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation.\nThe question is:In polymer physics, what is the term used to describe the process of thermally induced rearrangement of cross-linked rubbery polymers?\nA. CRRs rearrangement\nB. Threshold stress evolution\nC. Viscoelastic behavior\nD. Constitutive relations",
+    "expected_answer": "A. CRRs rearrangement",
+    "difficulty": "medium",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "SCI_711",
+    "domain": "Materials Science",
+    "task_type": "Condensed Matter Physics",
+    "prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation.\nThe question is:In the context of carbon nanotubes, which property is primarily responsible for their exceptional strength and electrical conductivity?\nA. Temperature\nB. Length\nC. Atomic arrangement\nD. Diameter",
+    "expected_answer": "C. Atomic arrangement",
+    "difficulty": "medium",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "SCI_716",
+    "domain": "Materials Science",
+    "task_type": "Condensed Matter Physics",
+    "prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation.\nThe question is:In the context of doped manganites, which factor primarily contributes to the colossal magnetoresistance phenomenon in the ferromagnetic phase?\nA. Jahn-Teller deformations\nB. Orbital degeneracy\nC. Double exchange model (DEM)\nD. Spin and charge inhomogeneities",
+    "expected_answer": "C. Double exchange model (DEM)",
+    "difficulty": "medium",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "SCI_729",
+    "domain": "Materials Science",
+    "task_type": "Condensed Matter Physics",
+    "prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation.\nThe question is:What is the correct representation for the state \\(|\text{I}\rangle\\) in the provided expression?\nA. \\(i_{\bar{a}}\bar{a}^{\\\nB. \\(A^{I}_{i,\bar{a}}\\)",
+    "expected_answer": "B. \\(A^{I}_{i,\bar{a}}\\)",
+    "difficulty": "medium",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "SCI_733",
+    "domain": "Materials Science",
+    "task_type": "Condensed Matter Physics",
+    "prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation.\nThe question is:In the context of flow birefringence, which factor has been omitted in many previous studies but has been identified as important?\nA. The effect of shear strain rates normal to the light ray\nB. The prediction of retardation for two-dimensional case\nC. The stress component along the camera's optical axis\nD. The influence of quasi-two-dimensional flow field",
+    "expected_answer": "C. The stress component along the camera's optical axis",
+    "difficulty": "medium",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "SCI_753",
+    "domain": "Materials Science",
+    "task_type": "Condensed Matter Physics",
+    "prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation.\nThe question is:In the realm of nanofabrication processes, which technique involves self-limiting surface treatments and precise atomic-scale etch depth control?\nA. Reactive ion etching (RIE)\nB. Physical vapor deposition (PVD)\nC. Chemical vapor deposition (CVD)\nD. Atomic layer etching (ALE)",
+    "expected_answer": "D. Atomic layer etching (ALE)",
+    "difficulty": "medium",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "SCI_765",
+    "domain": "Materials Science",
+    "task_type": "Condensed Matter Physics",
+    "prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation.\nThe question is:What is the main drawback that limits the performance of Nb3Sn magnets?\nA. Digital quench detection system\nB. Flux jumps\nC. Joule heating\nD. Hybrid solution with HTS",
+    "expected_answer": "B. Flux jumps",
+    "difficulty": "medium",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "SCI_768",
+    "domain": "Materials Science",
+    "task_type": "Condensed Matter Physics",
+    "prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation.\nThe question is:In the context of thin PZT films and electrical boundary conditions, what is the term for the polarization perpendicular to the surface in experimental investigations?\nA. Net polarization\nB. Surface polarization\nC. Bulk polarization\nD. External polarization",
+    "expected_answer": "A. Net polarization",
+    "difficulty": "medium",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "SCI_773",
+    "domain": "Materials Science",
+    "task_type": "Condensed Matter Physics",
+    "prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation.\nThe question is:In the process of GaN nanowire fabrication, which specific step directly involves the use of a KOH solution?\nA. Anisotropic etching via inductively coupled plasma with BCl\textsubscript{3}:Cl\textsubscript{2} gas ratio\nB. Dry etching of SiO\textsubscript{x} and GaN\nC. Reactive-ion etching with a CF\textsubscript{j} plasma\nD. Immersion of GaN nanowires in a heated KOH solution for 150 s",
+    "expected_answer": "D. Immersion of GaN nanowires in a heated KOH solution for 150 s",
+    "difficulty": "medium",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "SCI_783",
+    "domain": "Materials Science",
+    "task_type": "Condensed Matter Physics",
+    "prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation.\nThe question is:In the context of spin-polarized calculations and pseudopotential methods in solid-state physics, what is an essential factor identified by Sasaki, _et al._, to minimize core-valence overlap errors?\nA. Increasing the core region size for better accuracy\nB. Neglecting the influence of spin-splitting on total energy\nC. Employing the partial-core correction scheme of Louie, _et al._\nD. Utilizing a simplified exchange-correlation potential model",
+    "expected_answer": "C. Employing the partial-core correction scheme of Louie, _et al._",
+    "difficulty": "medium",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "SCI_790",
+    "domain": "Materials Science",
+    "task_type": "Condensed Matter Physics",
+    "prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation.\nThe question is:In the realm of thermoelectric materials discovery, what is the term used to describe the initial selection process involving a set of compounds sourced from material databases?\nA. High-throughput\nB. Manual\nC. Traditional\nD. Randomized",
+    "expected_answer": "A. High-throughput",
+    "difficulty": "medium",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "SCI_809",
+    "domain": "Materials Science",
+    "task_type": "Condensed Matter Physics",
+    "prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation.\nThe question is:In the context of dissociative adsorption processes, what factor is crucially dependent on all six coordinates of the two hydrogen atoms of the H\textsubscript{2} molecule?\nA. PES\nB. DFT\nC. Transition metals\nD. Metal surfaces",
+    "expected_answer": "A. PES",
+    "difficulty": "medium",
+    "evaluation_metric": "exact_match"
+  }
+]

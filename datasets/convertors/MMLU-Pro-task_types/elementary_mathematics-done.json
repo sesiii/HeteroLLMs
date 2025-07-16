@@ -1,0 +1,164 @@
+[
+  {
+    "task_id": "MMLU_051",
+    "domain": "Mathematics",
+    "task_type": "Elementary Mathematics",
+    "prompt": "The following is a multiple-choice question:\nErin made 12 pints of juice. She drinks 3 cups of juice each day. How many days will Erin take to drink all of the juice she made?\n\nThe following choices are provided:\n(A) 7 days\n(B) 2 days\n(C) 6 days\n(D) 9 days\n(E) 16 days\n(F) 12 days\n(G) 5 days\n(H) 8 days\n(I) 4 days\n(J) 10 days\n\nPlease finish your answer with \"the answer is (X)\" where X is the correct letter choice.",
+    "expected_answer": "The answer is (H) 8 days",
+    "difficulty": "medium",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "MMLU_089",
+    "domain": "Mathematics",
+    "task_type": "Elementary Mathematics",
+    "prompt": "The following is a multiple-choice question:\nThere are three different sections to sit in at a baseball park. The number of people who can sit in each section is described below.\n* red section seats 200 people\n* blue section seats 20 fewer people than the red section\n* green section seats 2 times as many people as the blue section\nWhat is the total number of people who can sit in the baseball park?\n\nThe following choices are provided:\n(A) 700\n(B) 500\n(C) 380\n(D) 900\n(E) 740\n(F) 1000\n(G) 800\n(H) 260\n(I) 640\n(J) 600\n\nPlease finish your answer with \"the answer is (X)\" where X is the correct letter choice.",
+    "expected_answer": "The answer is (E) 740",
+    "difficulty": "medium",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "MMLU_093",
+    "domain": "Mathematics",
+    "task_type": "Elementary Mathematics",
+    "prompt": "The following is a multiple-choice question:\nTayshawn sorts 56 marbles into equal groups with no marbles left over. Which statement could be true of the groups of marbles Tayshawn sorts?\n\nThe following choices are provided:\n(A) There are 8 groups of marbles with 7 marbles in each group.\n(B) There are 9 groups of marbles with 6 marbles in each group.\n(C) There are 7 groups of marbles with 7 marbles in each group.\n(D) There are 10 groups of marbles with 5 marbles in each group.\n(E) There are 11 groups of marbles with 5 marbles in each group.\n(F) There are 6 groups of marbles with 8 marbles in each group.\n(G) There are 5 groups of marbles with 10 marbles in each group.\n(H) There are 3 groups of marbles with 18 marbles in each group.\n\nPlease finish your answer with \"the answer is (X)\" where X is the correct letter choice.",
+    "expected_answer": "The answer is (A) There are 8 groups of marbles with 7 marbles in each group.",
+    "difficulty": "medium",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "MMLU_111",
+    "domain": "Mathematics",
+    "task_type": "Elementary Mathematics",
+    "prompt": "The following is a multiple-choice question:\nThe surface area, S, of a right rectangular prism with length l, width w, and height h can be found using the formula S = 2(lw+ wh + hl). What is the surface area, in square inches, of a prism with a length of 12 inches, a width of 9 inches, and a height of 2 inches?\n\nThe following choices are provided:\n(A) 300\n(B) 92\n(C) 150\n(D) 258\n(E) 276\n(F) 210\n(G) 225\n(H) 268\n(I) 320\n(J) 180\n\nPlease finish your answer with \"the answer is (X)\" where X is the correct letter choice.",
+    "expected_answer": "The answer is (A) 300",
+    "difficulty": "medium",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "MMLU_149",
+    "domain": "Mathematics",
+    "task_type": "Elementary Mathematics",
+    "prompt": "The following is a multiple-choice question:\nWhich measurement would best be rounded to the nearest thousand?\n\nThe following choices are provided:\n(A) The number of yards run by a player in a game\n(B) The number of people at a professional football game\n(C) The length of a football in inches\n(D) The weight of a professional football player in pounds\n(E) The number of touchdowns in a professional football season\n(F) The age of a professional football player in days\n(G) The height of a professional football player in inches\n(H) The length of a football field in yards\n(I) The duration of a professional football game in minutes\n(J) The diameter of a football in centimeters\n\nPlease finish your answer with \"the answer is (X)\" where X is the correct letter choice.",
+    "expected_answer": "The answer is (B) The number of people at a professional football game",
+    "difficulty": "medium",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "MMLU_206",
+    "domain": "Mathematics",
+    "task_type": "Elementary Mathematics",
+    "prompt": "The following is a multiple-choice question:\nSolve the equation v \u2212 26 = 68.\n\nThe following choices are provided:\n(A) 84\n(B) \u221242\n(C) 88\n(D) 96\n(E) 94\n(F) 112\n(G) \u221294\n(H) 102\n(I) 42\n(J) 78\n\nPlease finish your answer with \"the answer is (X)\" where X is the correct letter choice.",
+    "expected_answer": "The answer is (E) 94",
+    "difficulty": "medium",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "MMLU_218",
+    "domain": "Mathematics",
+    "task_type": "Elementary Mathematics",
+    "prompt": "The following is a multiple-choice question:\nWhich ratio CANNOT form a proportion with 8 over 18?\n\nThe following choices are provided:\n(A) 60 over 135\n(B) 46 over 108\n(C) 12 over 27\n(D) 4 over 9\n\nPlease finish your answer with \"the answer is (X)\" where X is the correct letter choice.",
+    "expected_answer": "The answer is (B) 46 over 108",
+    "difficulty": "medium",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "MMLU_343",
+    "domain": "Mathematics",
+    "task_type": "Elementary Mathematics",
+    "prompt": "The following is a multiple-choice question:\nLast year, Chesa made 32 one-cup servings of soup for a school party. This year, she will make two times the amount of soup that she made last year. How many gallons of soup will Chesa make this year?\n\nThe following choices are provided:\n(A) 24\n(B) 128\n(C) 12\n(D) 4\n(E) 64\n(F) 48\n(G) 2\n(H) 32\n(I) 8\n(J) 16\n\nPlease finish your answer with \"the answer is (X)\" where X is the correct letter choice.",
+    "expected_answer": "The answer is (D) 4",
+    "difficulty": "medium",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "MMLU_363",
+    "domain": "Mathematics",
+    "task_type": "Elementary Mathematics",
+    "prompt": "The following is a multiple-choice question:\nA grocerystore sells a bag of 5 lemons for $2.00. What is the unit cost of each lemon in the bag?\n\nThe following choices are provided:\n(A) $1.50\n(B) $0.50\n(C) $0.20\n(D) $0.60 \n(E) $0.10 \n(F) $0.80\n(G) $0.40 \n(H) $2.50 \n(I) $0.30\n(J) $1.00\n\nPlease finish your answer with \"the answer is (X)\" where X is the correct letter choice.",
+    "expected_answer": "The answer is (G) $0.40",
+    "difficulty": "medium",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "MMLU_414",
+    "domain": "Mathematics",
+    "task_type": "Elementary Mathematics",
+    "prompt": "The following is a multiple-choice question:\nA store manager orders shirts from their warehouse. The shirts are packed into boxes and sentto the store, as described below. 81 shirts are ordered. Each shipping box holds 9 shirts. How many shipping boxes are needed for all of the shirts ordered?\n\nThe following choices are provided:\n(A) 9\n(B) 90\n(C) 45\n(D) 81\n(E) 10\n(F) 27\n(G) 8\n(H) 18\n(I) 72\n(J) 12\n\nPlease finish your answer with \"the answer is (X)\" where X is the correct letter choice.",
+    "expected_answer": "The answer is (A) 9",
+    "difficulty": "medium",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "MMLU_584",
+    "domain": "Mathematics",
+    "task_type": "Elementary Mathematics",
+    "prompt": "The following is a multiple-choice question:\nAt the beginning of a class period, half of the students in a class go to the library. Later in the period, half of the remaining students go to the computer lab. If there are 8 students remaining in the class, how many students were originally in the class?\n\nThe following choices are provided:\n(A) 40 students\n(B) 48 students\n(C) 44 students\n(D) 32 students\n(E) 24 students\n(F) 28 students\n(G) 20 students\n(H) 12 students\n(I) 16 students\n(J) 36 students\n\nPlease finish your answer with \"the answer is (X)\" where X is the correct letter choice.",
+    "expected_answer": "The answer is (D) 32 students",
+    "difficulty": "medium",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "MMLU_588",
+    "domain": "Mathematics",
+    "task_type": "Elementary Mathematics",
+    "prompt": "The following is a multiple-choice question:\nFind the median in the set of data $79.88, $21.88, $29.88, $19.88, $17.88.\n\nThe following choices are provided:\n(A) $19.88 \n(B) $24.88\n(C) $30.88\n(D) $29.88 \n(E) $79.88\n(F) $22.88\n(G) $20.88\n(H) $21.88 \n(I) $17.88 \n(J) $18.88\n\nPlease finish your answer with \"the answer is (X)\" where X is the correct letter choice.",
+    "expected_answer": "The answer is (H) $21.88",
+    "difficulty": "medium",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "MMLU_611",
+    "domain": "Mathematics",
+    "task_type": "Elementary Mathematics",
+    "prompt": "The following is a multiple-choice question:\nJoe and Mike both ran the samerace. Joe finished the race 4 minutes before Mike. If Mike finished the race at 4:02 p.m., what time did Joe finish the race?\n\nThe following choices are provided:\n(A) 3:52 p.m.\n(B) 3:54 p.m.\n(C) 4:08 p.m.\n(D) 8:02 p.m.\n(E) 3:58 p.m.\n(F) 4:00 p.m.\n(G) 4:06 p.m.\n(H) 4:04 p.m.\n(I) 12:02 p.m.\n(J) 3:56 p.m.\n\nPlease finish your answer with \"the answer is (X)\" where X is the correct letter choice.",
+    "expected_answer": "The answer is (E) 3:58 p.m.",
+    "difficulty": "medium",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "MMLU_638",
+    "domain": "Mathematics",
+    "task_type": "Elementary Mathematics",
+    "prompt": "The following is a multiple-choice question:\nWhich ratio can form a proportion with 3 over 8?\n\nThe following choices are provided:\n(A) 24 over 64\n(B) 15 over 48\n(C) 18 over 56\n(D) 18 over 40\n\nPlease finish your answer with \"the answer is (X)\" where X is the correct letter choice.",
+    "expected_answer": "The answer is (A) 24 over 64",
+    "difficulty": "medium",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "MMLU_701",
+    "domain": "Mathematics",
+    "task_type": "Elementary Mathematics",
+    "prompt": "The following is a multiple-choice question:\nWhat number makes the equation 35 / ? = 7 true?\n\nThe following choices are provided:\n(A) 5\n(B) 25\n(C) 7\n(D) 6\n(E) 10\n(F) 15\n(G) 20\n(H) 8\n(I) 9\n(J) 4\n\nPlease finish your answer with \"the answer is (X)\" where X is the correct letter choice.",
+    "expected_answer": "The answer is (A) 5",
+    "difficulty": "medium",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "MMLU_868",
+    "domain": "Mathematics",
+    "task_type": "Elementary Mathematics",
+    "prompt": "The following is a multiple-choice question:\nIf a freight train travels at a speed of 20 miles per hour for 6 hours, how far will it travel?\n\nThe following choices are provided:\n(A) 90 miles\n(B) 120 miles\n(C) 150 miles\n(D) 140 miles\n(E) 26 miles\n(F) 100 miles\n(G) 80 miles\n(H) 110 miles\n(I) 160 miles\n(J) 12 miles\n\nPlease finish your answer with \"the answer is (X)\" where X is the correct letter choice.",
+    "expected_answer": "The answer is (B) 120 miles",
+    "difficulty": "medium",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "MMLU_886",
+    "domain": "Mathematics",
+    "task_type": "Elementary Mathematics",
+    "prompt": "The following is a multiple-choice question:\nThe American flag is usually made with its width and length in the ratio of 10 to 19. Which dimensions are in the correct ratio for the flag?\n\nThe following choices are provided:\n(A) 27 ft by 53 ft\n(B) 35 ft by 66 ft\n(C) 25 ft by 47 ft\n(D) 30 ft by 53 ft\n(E) 30 in. by 57 in.\n(F) 45 in. by 85 in.\n(G) 27 in. by 57 in.\n\nPlease finish your answer with \"the answer is (X)\" where X is the correct letter choice.",
+    "expected_answer": "The answer is (E) 30 in. by 57 in.",
+    "difficulty": "medium",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "MMLU_914",
+    "domain": "Mathematics",
+    "task_type": "Elementary Mathematics",
+    "prompt": "The following is a multiple-choice question:\nTara can develop 2 rolls of film in about 18 minutes. At this rate, how long will it take her to develop 8 rolls of film?\n\nThe following choices are provided:\n(A) 1 hour 44 minutes\n(B) 1 hour 20 minutes\n(C) 1 hour\n(D) 1 hour 12 minutes\n(E) 1 hour 30 minutes\n(F) 2 hours 24 minutes\n(G) 42 minutes\n(H) 2 hours\n(I) 36 minutes\n\nPlease finish your answer with \"the answer is (X)\" where X is the correct letter choice.",
+    "expected_answer": "The answer is (D) 1 hour 12 minutes",
+    "difficulty": "medium",
+    "evaluation_metric": "exact_match"
+  }
+]

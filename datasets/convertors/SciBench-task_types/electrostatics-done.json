@@ -1,0 +1,272 @@
+[
+  {
+    "task_id": "SCI_004",
+    "domain": "Physics",
+    "task_type": "Electrostatics",
+    "prompt": "In Fig. 21-26, particle 1 of charge $-5.00 q$ and particle 2 of charge $+2.00 q$ are held at separation $L$ on an $x$ axis. If particle 3 of unknown charge $q_3$ is to be located such that the net electrostatic force on it from particles 1 and 2 is zero, what must be the $x$ coordinate of particle 3?",
+    "expected_answer": "2.72",
+    "difficulty": "hard",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "SCI_006",
+    "domain": "Physics",
+    "task_type": "Electrostatics",
+    "prompt": "Two charged particles are fixed to an $x$ axis: Particle 1 of charge $q_1=2.1 \\times 10^{-8} \\mathrm{C}$ is at position $x=20 \\mathrm{~cm}$ and particle 2 of charge $q_2=-4.00 q_1$ is at position $x=70 \\mathrm{~cm}$. At what coordinate on the axis (other than at infinity) is the net electric field produced by the two particles equal to zero?\r\n",
+    "expected_answer": "-30",
+    "difficulty": "hard",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "SCI_008",
+    "domain": "Physics",
+    "task_type": "Electrostatics",
+    "prompt": "What would be the magnitude of the electrostatic force between two 1.00 C point charges separated by a distance of $1.00 \\mathrm{~m}$  if such point charges existed (they do not) and this configuration could be set up?",
+    "expected_answer": "8.99",
+    "difficulty": "hard",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "SCI_025",
+    "domain": "Physics",
+    "task_type": "Electrostatics",
+    "prompt": "The initial charges on the three identical metal spheres in Fig. 21-24 are the following: sphere $A, Q$; sphere $B,-Q / 4$; and sphere $C, Q / 2$, where $Q=2.00 \\times 10^{-14}$ C. Spheres $A$ and $B$ are fixed in place, with a center-to-center separation of $d=1.20 \\mathrm{~m}$, which is much larger than the spheres. Sphere $C$ is touched first to sphere $A$ and then to sphere $B$ and is then removed. What then is the magnitude of the electrostatic force between spheres $A$ and $B$ ?\r\n",
+    "expected_answer": "4.68",
+    "difficulty": "hard",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "SCI_031",
+    "domain": "Physics",
+    "task_type": "Electrostatics",
+    "prompt": "How many electrons would have to be removed from a coin to leave it with a charge of $+1.0 \\times 10^{-7} \\mathrm{C}$ ?",
+    "expected_answer": "6.3",
+    "difficulty": "hard",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "SCI_037",
+    "domain": "Physics",
+    "task_type": "Electrostatics",
+    "prompt": "A particle of charge $+3.00 \\times 10^{-6} \\mathrm{C}$ is $12.0 \\mathrm{~cm}$ distant from a second particle of charge $-1.50 \\times 10^{-6} \\mathrm{C}$. Calculate the magnitude of the electrostatic force between the particles.",
+    "expected_answer": "2.81",
+    "difficulty": "hard",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "SCI_053",
+    "domain": "Physics",
+    "task_type": "Electrostatics",
+    "prompt": "How much work is required to turn an electric dipole $180^{\\circ}$ in a uniform electric field of magnitude $E=46.0 \\mathrm{~N} / \\mathrm{C}$ if the dipole moment has a magnitude of $p=3.02 \\times$ $10^{-25} \\mathrm{C} \\cdot \\mathrm{m}$ and the initial angle is $64^{\\circ} ?$\r\n",
+    "expected_answer": "1.22",
+    "difficulty": "hard",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "SCI_057",
+    "domain": "Physics",
+    "task_type": "Electrostatics",
+    "prompt": "A long, straight wire has fixed negative charge with a linear charge density of magnitude $3.6 \\mathrm{nC} / \\mathrm{m}$. The wire is to be enclosed by a coaxial, thin-walled nonconducting cylindrical shell of radius $1.5 \\mathrm{~cm}$. The shell is to have positive charge on its outside surface with a surface charge density $\\sigma$ that makes the net external electric field zero. Calculate $\\sigma$.\r\n",
+    "expected_answer": "3.8",
+    "difficulty": "hard",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "SCI_058",
+    "domain": "Physics",
+    "task_type": "Electrostatics",
+    "prompt": "The electric field in a certain region of Earth's atmosphere is directed vertically down. At an altitude of $300 \\mathrm{~m}$ the field has magnitude $60.0 \\mathrm{~N} / \\mathrm{C}$; at an altitude of $200 \\mathrm{~m}$, the magnitude is $100 \\mathrm{~N} / \\mathrm{C}$. Find the net amount of charge contained in a cube $100 \\mathrm{~m}$ on edge, with horizontal faces at altitudes of 200 and $300 \\mathrm{~m}$.",
+    "expected_answer": "3.54",
+    "difficulty": "hard",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "SCI_070",
+    "domain": "Physics",
+    "task_type": "Electrostatics",
+    "prompt": "The huge advantage of using the conservation of energy instead of Newton's laws of motion is that we can jump from the initial state to the final state without considering all the intermediate motion. Here is an example. In Figure, a child of mass $m$ is released from rest at the top of a water slide, at height $h=8.5 \\mathrm{~m}$ above the bottom of the slide. Assuming that the slide is frictionless because of the water on it, find the child's speed at the bottom of the slide.",
+    "expected_answer": "13",
+    "difficulty": "hard",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "SCI_077",
+    "domain": "Physics",
+    "task_type": "Electrostatics",
+    "prompt": " The charges of an electron and a positron are $-e$ and $+e$. The mass of each is $9.11 \\times 10^{-31} \\mathrm{~kg}$. What is the ratio of the electrical force to the gravitational force between an electron and a positron?\r\n",
+    "expected_answer": "4.16",
+    "difficulty": "hard",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "SCI_088",
+    "domain": "Physics",
+    "task_type": "Electrostatics",
+    "prompt": "An isolated conductor has net charge $+10 \\times 10^{-6} \\mathrm{C}$ and a cavity with a particle of charge $q=+3.0 \\times 10^{-6} \\mathrm{C}$. What is the charge on the cavity wall?",
+    "expected_answer": "-3.0",
+    "difficulty": "hard",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "SCI_091",
+    "domain": "Physics",
+    "task_type": "Electrostatics",
+    "prompt": "A $10.0 \\mathrm{~g}$ block with a charge of $+8.00 \\times 10^{-5} \\mathrm{C}$ is placed in an electric field $\\vec{E}=(3000 \\hat{\\mathrm{i}}-600 \\hat{\\mathrm{j}}) \\mathrm{N} / \\mathrm{C}$. What is the magnitude of the electrostatic force on the block?",
+    "expected_answer": "0.245",
+    "difficulty": "hard",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "SCI_101",
+    "domain": "Physics",
+    "task_type": "Electrostatics",
+    "prompt": "A charged cloud system produces an electric field in the air near Earth's surface. A particle of charge $-2.0 \\times 10^{-9} \\mathrm{C}$ is acted on by a downward electrostatic force of $3.0 \\times 10^{-6} \\mathrm{~N}$ when placed in this field. What is the magnitude of the electric field? ",
+    "expected_answer": "1.5",
+    "difficulty": "hard",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "SCI_102",
+    "domain": "Physics",
+    "task_type": "Electrostatics",
+    "prompt": "What is the total charge in coulombs of $75.0 \\mathrm{~kg}$ of electrons?",
+    "expected_answer": "-1.32",
+    "difficulty": "hard",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "SCI_103",
+    "domain": "Physics",
+    "task_type": "Electrostatics",
+    "prompt": "A square metal plate of edge length $8.0 \\mathrm{~cm}$ and negligible thickness has a total charge of $6.0 \\times 10^{-6} \\mathrm{C}$. Estimate the magnitude $E$ of the electric field just off the center of the plate (at, say, a distance of $0.50 \\mathrm{~mm}$ from the center) by assuming that the charge is spread uniformly over the two faces of the plate. ",
+    "expected_answer": "5.4",
+    "difficulty": "hard",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "SCI_112",
+    "domain": "Physics",
+    "task_type": "Electrostatics",
+    "prompt": "The volume charge density of a solid nonconducting sphere of radius $R=5.60 \\mathrm{~cm}$ varies with radial distance $r$ as given by $\\rho=$ $\\left(14.1 \\mathrm{pC} / \\mathrm{m}^3\\right) r / R$. What is the sphere's total charge?",
+    "expected_answer": "7.78",
+    "difficulty": "hard",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "SCI_114",
+    "domain": "Physics",
+    "task_type": "Electrostatics",
+    "prompt": "There is a disk mounted on a fixed horizontal axle. A block hangs from a massless cord that is wrapped around the rim of the disk. The cord does not slip and there is no friction at the axle. Let the disk start from rest at time $t=0$ and also let the tension in the massless cord be $6.0 \\mathrm{~N}$ and the angular acceleration of the disk be $-24 \\mathrm{rad} / \\mathrm{s}^2$. What is its rotational kinetic energy $K$ at $t=2.5 \\mathrm{~s}$ ?",
+    "expected_answer": "90",
+    "difficulty": "hard",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "SCI_122",
+    "domain": "Physics",
+    "task_type": "Electrostatics",
+    "prompt": "Assume that a honeybee is a sphere of diameter 1.000 $\\mathrm{cm}$ with a charge of $+45.0 \\mathrm{pC}$ uniformly spread over its surface. Assume also that a spherical pollen grain of diameter $40.0 \\mu \\mathrm{m}$ is electrically held on the surface of the bee because the bee's charge induces a charge of $-1.00 \\mathrm{pC}$ on the near side of the grain and a charge of $+1.00 \\mathrm{pC}$ on the far side. What is the magnitude of the net electrostatic force on the grain due to the bee? ",
+    "expected_answer": "2.6",
+    "difficulty": "hard",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "SCI_126",
+    "domain": "Physics",
+    "task_type": "Electrostatics",
+    "prompt": "In a spherical metal shell of radius $R$, an electron is shot from the center directly toward a tiny hole in the shell, through which it escapes. The shell is negatively charged with a surface charge density (charge per unit area) of $6.90 \\times 10^{-13} \\mathrm{C} / \\mathrm{m}^2$. What is the magnitude of the electron's acceleration when it reaches radial distances $r=0.500 R$?",
+    "expected_answer": "0",
+    "difficulty": "hard",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "SCI_134",
+    "domain": "Physics",
+    "task_type": "Electrostatics",
+    "prompt": "A playful astronaut releases a bowling ball, of mass $m=$ $7.20 \\mathrm{~kg}$, into circular orbit about Earth at an altitude $h$ of $350 \\mathrm{~km}$.\r\nWhat is the mechanical energy $E$ of the ball in its orbit?",
+    "expected_answer": "-214",
+    "difficulty": "hard",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "SCI_136",
+    "domain": "Physics",
+    "task_type": "Electrostatics",
+    "prompt": " Two point charges of $30 \\mathrm{nC}$ and $-40 \\mathrm{nC}$ are held fixed on an $x$ axis, at the origin and at $x=72 \\mathrm{~cm}$, respectively. A particle with a charge of $42 \\mu \\mathrm{C}$ is released from rest at $x=28 \\mathrm{~cm}$. If the initial acceleration of the particle has a magnitude of $100 \\mathrm{~km} / \\mathrm{s}^2$, what is the particle's mass?",
+    "expected_answer": "2.2",
+    "difficulty": "hard",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "SCI_139",
+    "domain": "Physics",
+    "task_type": "Electrostatics",
+    "prompt": "The world\u2019s largest ball of string is about 2 m in radius. To the nearest order of magnitude, what is the total length L of the string in the ball?",
+    "expected_answer": "2",
+    "difficulty": "hard",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "SCI_156",
+    "domain": "Physics",
+    "task_type": "Electrostatics",
+    "prompt": "During a storm, a crate of crepe is sliding across a slick, oily parking lot through a displacement $\\vec{d}=(-3.0 \\mathrm{~m}) \\hat{\\mathrm{i}}$ while a steady wind pushes against the crate with a force $\\vec{F}=(2.0 \\mathrm{~N}) \\hat{\\mathrm{i}}+(-6.0 \\mathrm{~N}) \\hat{\\mathrm{j}}$. If the crate has a kinetic energy of $10 \\mathrm{~J}$ at the beginning of displacement $\\vec{d}$, what is its kinetic energy at the end of $\\vec{d}$ ?",
+    "expected_answer": "4.0",
+    "difficulty": "hard",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "SCI_169",
+    "domain": "Physics",
+    "task_type": "Electrostatics",
+    "prompt": "Point charges of $+6.0 \\mu \\mathrm{C}$ and $-4.0 \\mu \\mathrm{C}$ are placed on an $x$ axis, at $x=8.0 \\mathrm{~m}$ and $x=16 \\mathrm{~m}$, respectively. What charge must be placed at $x=24 \\mathrm{~m}$ so that any charge placed at the origin would experience no electrostatic force?\r\n",
+    "expected_answer": "-45",
+    "difficulty": "hard",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "SCI_177",
+    "domain": "Physics",
+    "task_type": "Electrostatics",
+    "prompt": "The charges and coordinates of two charged particles held fixed in an $x y$ plane are $q_1=+3.0 \\mu \\mathrm{C}, x_1=3.5 \\mathrm{~cm}, y_1=0.50 \\mathrm{~cm}$, and $q_2=-4.0 \\mu \\mathrm{C}, x_2=-2.0 \\mathrm{~cm}, y_2=1.5 \\mathrm{~cm}$. Find the magnitude of the electrostatic force on particle 2 due to particle 1.",
+    "expected_answer": "35",
+    "difficulty": "hard",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "SCI_189",
+    "domain": "Physics",
+    "task_type": "Electrostatics",
+    "prompt": "A particle of charge $1.8 \\mu \\mathrm{C}$ is at the center of a Gaussian cube $55 \\mathrm{~cm}$ on edge. What is the net electric flux through the surface?",
+    "expected_answer": "2.0",
+    "difficulty": "hard",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "SCI_199",
+    "domain": "Physics",
+    "task_type": "Electrostatics",
+    "prompt": "Two long, charged, thin-walled, concentric cylindrical shells have radii of 3.0 and $6.0 \\mathrm{~cm}$. The charge per unit length is $5.0 \\times 10^{-6} \\mathrm{C} / \\mathrm{m}$ on the inner shell and $-7.0 \\times 10^{-6} \\mathrm{C} / \\mathrm{m}$ on the outer shell. What is the magnitude $E$ of the electric field at radial distance $r=4.0 \\mathrm{~cm}$?",
+    "expected_answer": "2.3",
+    "difficulty": "hard",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "SCI_226",
+    "domain": "Physics",
+    "task_type": "Electrostatics",
+    "prompt": "The nucleus of a plutonium-239 atom contains 94 protons. Assume that the nucleus is a sphere with radius $6.64 \\mathrm{fm}$ and with the charge of the protons uniformly spread through the sphere. At the surface of the nucleus, what are the magnitude of the electric field produced by the protons?",
+    "expected_answer": "3.07",
+    "difficulty": "hard",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "SCI_231",
+    "domain": "Physics",
+    "task_type": "Electrostatics",
+    "prompt": "An unknown charge sits on a conducting solid sphere of radius $10 \\mathrm{~cm}$. If the electric field $15 \\mathrm{~cm}$ from the center of the sphere has the magnitude $3.0 \\times 10^3 \\mathrm{~N} / \\mathrm{C}$ and is directed radially inward, what is the net charge on the sphere?\r\n",
+    "expected_answer": "-7.5",
+    "difficulty": "hard",
+    "evaluation_metric": "exact_match"
+  }
+]

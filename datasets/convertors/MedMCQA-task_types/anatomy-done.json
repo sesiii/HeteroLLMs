@@ -1,0 +1,389 @@
+[
+  {
+    "task_id": "MED_006",
+    "domain": "Medicine",
+    "task_type": "Anatomy",
+    "prompt": "Independent assoment of maternal and paternal chromosome occurs at which stage of spermatocyte maturation:\n\nChoose the correct answer from the following options:\n(A) Spermatogonia to primary spermatocyte\n(B) Primary spermatocyte to secondary spermatocyte\n(C) Secondary spermatocyte to spermatids\n(D) Spermatid to spermatozoa",
+    "expected_answer": "The correct answer is: (B) Primary spermatocyte to secondary spermatocyte",
+    "difficulty": "hard",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "MED_021",
+    "domain": "Medicine",
+    "task_type": "Anatomy",
+    "prompt": "The middle meningeal artery is associated with which foramen:\n\nChoose the correct answer from the following options:\n(A) Ovale\n(B) Rotundum\n(C) Stylomastoid\n(D) Spinosum",
+    "expected_answer": "The correct answer is: (D) Spinosum",
+    "difficulty": "hard",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "MED_072",
+    "domain": "Medicine",
+    "task_type": "Anatomy",
+    "prompt": "Inferior thyroid artery ligation during thyroidectomy is done\n\nChoose the correct answer from the following options:\n(A) For recurrent Laryngeal nerve\n(B) Superior laryngeal nerve\n(C) Vagus nerve\n(D) Glossopharyngeal nerve",
+    "expected_answer": "The correct answer is: (A) For recurrent Laryngeal nerve",
+    "difficulty": "hard",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "MED_080",
+    "domain": "Medicine",
+    "task_type": "Anatomy",
+    "prompt": "Which of the following DOESN'T supply dura mater\n\nChoose the correct answer from the following options:\n(A) Middle meningeal aery\n(B) Meningeal branch of internal carotid aery in posterior cranial fossa\n(C) Anterior and posterior ethmoidal aeries\n(D) Accessory meningeal aery",
+    "expected_answer": "The correct answer is: (B) Meningeal branch of internal carotid aery in posterior cranial fossa",
+    "difficulty": "expert",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "MED_118",
+    "domain": "Medicine",
+    "task_type": "Anatomy",
+    "prompt": "Nucleus in brain common to IX, X and XI cranial nerves:\n\nChoose the correct answer from the following options:\n(A) Nucleus solitarius\n(B) Nucleus ambiguus\n(C) Dentate nucleus\n(D) Red nucleus",
+    "expected_answer": "The correct answer is: (B) Nucleus ambiguus",
+    "difficulty": "hard",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "MED_158",
+    "domain": "Medicine",
+    "task_type": "Anatomy",
+    "prompt": "The muscles of the tongue are supplied by:\n\nChoose the correct answer from the following options:\n(A) Glossopharyngeal nerve\n(B) Lingual nerve\n(C) Chorda tympani\n(D) Hypoglossal",
+    "expected_answer": "The correct answer is: (D) Hypoglossal",
+    "difficulty": "hard",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "MED_165",
+    "domain": "Medicine",
+    "task_type": "Anatomy",
+    "prompt": "Pre-maxillary hard palate is supplied by which nerve\n\nChoose the correct answer from the following options:\n(A) Nasopalatine nerve\n(B) Pharyngeal branch of glossopharyngeal nerve\n(C) Greater palatine nerve\n(D) Tensor palatine nerve",
+    "expected_answer": "The correct answer is: (A) Nasopalatine nerve",
+    "difficulty": "hard",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "MED_236",
+    "domain": "Medicine",
+    "task_type": "Anatomy",
+    "prompt": "Which of the following are not a branch of external carotid Aery in Kiesselbach's plexus.\n\nChoose the correct answer from the following options:\n(A) Sphenopalatine aery\n(B) Anterior ethmoidal aery\n(C) Greater palatine aery\n(D) Septal branch of superior labial aery",
+    "expected_answer": "The correct answer is: (B) Anterior ethmoidal aery",
+    "difficulty": "expert",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "MED_284",
+    "domain": "Medicine",
+    "task_type": "Anatomy",
+    "prompt": "Which of the following sensation is NOT perceived by spinal nucleus of trigeminal nerve\n\nChoose the correct answer from the following options:\n(A) Touch\n(B) Pain\n(C) Temperature\n(D) Proprioception",
+    "expected_answer": "The correct answer is: (D) Proprioception",
+    "difficulty": "expert",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "MED_295",
+    "domain": "Medicine",
+    "task_type": "Anatomy",
+    "prompt": "Retraction of mandible is achieved by:\n\nChoose the correct answer from the following options:\n(A) Lateral pterygoid\n(B) Temporalis\n(C) Medial pterygoid\n(D) Masseter",
+    "expected_answer": "The correct answer is: (B) Temporalis",
+    "difficulty": "hard",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "MED_310",
+    "domain": "Medicine",
+    "task_type": "Anatomy",
+    "prompt": "Root value of cremaster reflex is\n\nChoose the correct answer from the following options:\n(A) L1, L2\n(B) L2, L3\n(C) S1, S2\n(D) S3, S4",
+    "expected_answer": "The correct answer is: (A) L1, L2",
+    "difficulty": "expert",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "MED_316",
+    "domain": "Medicine",
+    "task_type": "Anatomy",
+    "prompt": "Middle constrictor of pharynx has attachment from:\n\nChoose the correct answer from the following options:\n(A) Body of hyoid bone\n(B) Mandible\n(C) Pterygomandibular raphae\n(D) Cricoid cartilage",
+    "expected_answer": "The correct answer is: (A) Body of hyoid bone",
+    "difficulty": "hard",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "MED_327",
+    "domain": "Medicine",
+    "task_type": "Anatomy",
+    "prompt": "Duct of parotid gland crosses over masseter muscle and pierces the:\n\nChoose the correct answer from the following options:\n(A) Buccinator muscle\n(B) Superior constrictor\n(C) Masseter\n(D) Zygomaticus major",
+    "expected_answer": "The correct answer is: (A) Buccinator muscle",
+    "difficulty": "hard",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "MED_348",
+    "domain": "Medicine",
+    "task_type": "Anatomy",
+    "prompt": "The two roots of auriculotemporal nerve encircles which structure\n\nChoose the correct answer from the following options:\n(A) Superficial temporal vein\n(B) Superficial temporal artery\n(C) Anterior tympanic artery\n(D) Middle meningeal artery",
+    "expected_answer": "The correct answer is: (D) Middle meningeal artery",
+    "difficulty": "hard",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "MED_353",
+    "domain": "Medicine",
+    "task_type": "Anatomy",
+    "prompt": "The main arterial trunk supplying the infra temporal fossa is:\n\nChoose the correct answer from the following options:\n(A) Infratemporal artery\n(B) Deep temporal artery\n(C) Maxillary artery\n(D) Posterior superior alveolar artery",
+    "expected_answer": "The correct answer is: (C) Maxillary artery",
+    "difficulty": "hard",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "MED_384",
+    "domain": "Medicine",
+    "task_type": "Anatomy",
+    "prompt": "Which of the following marked muscles is Involved in Opening of jaw?\n\nChoose the correct answer from the following options:\n(A) A\n(B) B\n(C) C\n(D) D",
+    "expected_answer": "The correct answer is: (A) A",
+    "difficulty": "expert",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "MED_418",
+    "domain": "Medicine",
+    "task_type": "Anatomy",
+    "prompt": "Pterion is:\n\nChoose the correct answer from the following options:\n(A) Is a point of articulation of four skull bones\n(B) It is a point where 'bregma' and 'lamba' meet\n(C) It is region of the postero-lateral fontanelle merge\n(D) Lies deep to the zygomatic arch",
+    "expected_answer": "The correct answer is: (A) Is a point of articulation of four skull bones",
+    "difficulty": "hard",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "MED_521",
+    "domain": "Medicine",
+    "task_type": "Anatomy",
+    "prompt": "Injury to the right mandibular nerve as it passes through foramen ovale produces the following effects:\n\nChoose the correct answer from the following options:\n(A) Loss of taste from the anterior 2/3 of tongue\n(B) Deviation of the tongue to the left\n(C) Deviation of chin to left when mouth is opened\n(D) Loss of general sensation to anterior 2/3 of tongue",
+    "expected_answer": "The correct answer is: (D) Loss of general sensation to anterior 2/3 of tongue",
+    "difficulty": "hard",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "MED_523",
+    "domain": "Medicine",
+    "task_type": "Anatomy",
+    "prompt": "Palatine process begins to fuse at:\n\nChoose the correct answer from the following options:\n(A) 6th week of fertilization\n(B) 8th week of fertilization\n(C) 10th week of fertilization\n(D) 12th week of fertilization",
+    "expected_answer": "The correct answer is: (B) 8th week of fertilization",
+    "difficulty": "hard",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "MED_539",
+    "domain": "Medicine",
+    "task_type": "Anatomy",
+    "prompt": "The fifth nerve innervates the following:\n\nChoose the correct answer from the following options:\n(A) Mylohyoid, anterior and posterior belly of digastric\n(B) Mylohyoid, anterior belly of digastric, and tensor tympani\n(C) Mylohyoid, posterior belly of digastric and tensor tympani\n(D) Mylohyoid, posterior belly of digastric, Stapedius and tensor tympani",
+    "expected_answer": "The correct answer is: (B) Mylohyoid, anterior belly of digastric, and tensor tympani",
+    "difficulty": "hard",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "MED_542",
+    "domain": "Medicine",
+    "task_type": "Anatomy",
+    "prompt": "Infarction of anterior inferior cerebellar artery may cause damage to\n\nChoose the correct answer from the following options:\n(A) Pyramidal tract\n(B) Lateral spinothalamic tract\n(C) Vestibular nuclei\n(D) Spinal nucleus of trigeminal nerve",
+    "expected_answer": "The correct answer is: (C) Vestibular nuclei",
+    "difficulty": "hard",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "MED_562",
+    "domain": "Medicine",
+    "task_type": "Anatomy",
+    "prompt": "Inferiohyroid aery is a branch ol?\n\nChoose the correct answer from the following options:\n(A) Thyrocervical trunk\n(B) ICA\n(C) Costocervical trunk\n(D) ECA",
+    "expected_answer": "The correct answer is: (A) Thyrocervical trunk",
+    "difficulty": "hard",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "MED_567",
+    "domain": "Medicine",
+    "task_type": "Anatomy",
+    "prompt": "Nerve supply of the mucosa of larynx, from epiglottis to the level of the cords is :\n\nChoose the correct answer from the following options:\n(A) Superior laryngeal\n(B) External laryngeal\n(C) External laryngeal and recurrent laryngeal\n(D) Internal laryngeal and recurrent laryngeal",
+    "expected_answer": "The correct answer is: (A) Superior laryngeal",
+    "difficulty": "hard",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "MED_606",
+    "domain": "Medicine",
+    "task_type": "Anatomy",
+    "prompt": "Bone better described as \"bat with extended wings\" is:\n\nChoose the correct answer from the following options:\n(A) Ethmoid\n(B) Sphenoid\n(C) Nasal\n(D) Mandible",
+    "expected_answer": "The correct answer is: (B) Sphenoid",
+    "difficulty": "hard",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "MED_642",
+    "domain": "Medicine",
+    "task_type": "Anatomy",
+    "prompt": "Which is not a branch of the external carotid aery supplying nasal septum?\n\nChoose the correct answer from the following options:\n(A) Sphenopalatine\n(B) greater palatine\n(C) superior labial\n(D) anterior ethmoidal",
+    "expected_answer": "The correct answer is: (D) anterior ethmoidal",
+    "difficulty": "hard",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "MED_679",
+    "domain": "Medicine",
+    "task_type": "Anatomy",
+    "prompt": "Ligamentum flavum consists of which fibres:-\n\nChoose the correct answer from the following options:\n(A) Type-I collagen\n(B) Type-II collagen\n(C) Reticular\n(D) Elastic",
+    "expected_answer": "The correct answer is: (D) Elastic",
+    "difficulty": "expert",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "MED_706",
+    "domain": "Medicine",
+    "task_type": "Anatomy",
+    "prompt": "The frontal paranasal sinus drains into the:\n\nChoose the correct answer from the following options:\n(A) Superior meatus\n(B) Middle meatus\n(C) Inferior meatus\n(D) Spheno-ethmoidal recess",
+    "expected_answer": "The correct answer is: (B) Middle meatus",
+    "difficulty": "hard",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "MED_766",
+    "domain": "Medicine",
+    "task_type": "Anatomy",
+    "prompt": "Which of the following muscle is not inseed to the greater tubercle of humerus?\n\nChoose the correct answer from the following options:\n(A) Supraspinatus\n(B) lnfraspinatus\n(C) Teres minor\n(D) Subscapularis",
+    "expected_answer": "The correct answer is: (D) Subscapularis",
+    "difficulty": "hard",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "MED_788",
+    "domain": "Medicine",
+    "task_type": "Anatomy",
+    "prompt": "Artery palpable at the anterior border of the masseter is :\n\nChoose the correct answer from the following options:\n(A) Superficial temporal artery\n(B) Facial artery\n(C) Lingual artery\n(D) Maxillary artery",
+    "expected_answer": "The correct answer is: (B) Facial artery",
+    "difficulty": "hard",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "MED_815",
+    "domain": "Medicine",
+    "task_type": "Anatomy",
+    "prompt": "Dense irregular connective tissue is found in\n\nChoose the correct answer from the following options:\n(A) Dermis\n(B) Lamina propria\n(C) Tendon\n(D) Ligament",
+    "expected_answer": "The correct answer is: (A) Dermis",
+    "difficulty": "expert",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "MED_833",
+    "domain": "Medicine",
+    "task_type": "Anatomy",
+    "prompt": "Unpaired structures in the brain:\n\nChoose the correct answer from the following options:\n(A) Basilar artery\n(B) Vertebral artery\n(C) Middle cerebral artery\n(D) Anterior cerebral artery",
+    "expected_answer": "The correct answer is: (A) Basilar artery",
+    "difficulty": "hard",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "MED_858",
+    "domain": "Medicine",
+    "task_type": "Anatomy",
+    "prompt": "A 37-year-old patient presented to you with hyper-extension of 4th and 5th metacarpophalangeal joint with flexion at proximal interphalangeal joint. This deformity is due to injury to:\n\nChoose the correct answer from the following options:\n(A) Deep branch of ulnar nerve\n(B) Median nerve\n(C) Radial nerve\n(D) Superficial branch of median nerve",
+    "expected_answer": "The correct answer is: (A) Deep branch of ulnar nerve",
+    "difficulty": "hard",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "MED_873",
+    "domain": "Medicine",
+    "task_type": "Anatomy",
+    "prompt": "Spinal cord ends at what level in adults?\n\nChoose the correct answer from the following options:\n(A) T12\n(B) L1\n(C) L2\n(D) L3",
+    "expected_answer": "The correct answer is: (B) L1",
+    "difficulty": "hard",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "MED_883",
+    "domain": "Medicine",
+    "task_type": "Anatomy",
+    "prompt": "Which part of body is underdeveloped at birth:\n\nChoose the correct answer from the following options:\n(A) Eyes\n(B) Ears.\n(C) Face.\n(D) Brain",
+    "expected_answer": "The correct answer is: (C) Face.",
+    "difficulty": "hard",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "MED_888",
+    "domain": "Medicine",
+    "task_type": "Anatomy",
+    "prompt": "Lamina cribrosa is a modification of :\n\nChoose the correct answer from the following options:\n(A) Sclera\n(B) Choroid\n(C) Optic nerve sheath\n(D) Retina",
+    "expected_answer": "The correct answer is: (A) Sclera",
+    "difficulty": "hard",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "MED_890",
+    "domain": "Medicine",
+    "task_type": "Anatomy",
+    "prompt": "Sensory supply of cornea is by?\n\nChoose the correct answer from the following options:\n(A) Infraorbital nerve\n(B) Supraorbital nerve\n(C) Infratrochlear nerve\n(D) Nasolacrimal nerve (probably printing mistake - probably Nasociliary nerve).",
+    "expected_answer": "The correct answer is: (D) Nasolacrimal nerve (probably printing mistake - probably Nasociliary nerve).",
+    "difficulty": "hard",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "MED_927",
+    "domain": "Medicine",
+    "task_type": "Anatomy",
+    "prompt": "The lateral lingual swellings and tuberculum impar give rise to:\n\nChoose the correct answer from the following options:\n(A) Anterior 1/3 of tongue\n(B) Anterior 2/3 of tongue\n(C) Posterior 1/3 of tongue\n(D) Posterior 2/3 of tongue",
+    "expected_answer": "The correct answer is: (B) Anterior 2/3 of tongue",
+    "difficulty": "hard",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "MED_942",
+    "domain": "Medicine",
+    "task_type": "Anatomy",
+    "prompt": "The action of digastric muscle is:\n\nChoose the correct answer from the following options:\n(A) Depression of mandible\n(B) Protrusion of mandible\n(C) Side-to-side movement of mandible\n(D) Depressing the floor of the mouth",
+    "expected_answer": "The correct answer is: (A) Depression of mandible",
+    "difficulty": "hard",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "MED_949",
+    "domain": "Medicine",
+    "task_type": "Anatomy",
+    "prompt": "Preganglionic parasympathetic fibres to the Otic ganglion are carried in the:\n\nChoose the correct answer from the following options:\n(A) Greater petrosal nerve\n(B) Lesser petrosal nerve\n(C) Chorda tympani\n(D) Auriculotemporal nerve",
+    "expected_answer": "The correct answer is: (B) Lesser petrosal nerve",
+    "difficulty": "hard",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "MED_960",
+    "domain": "Medicine",
+    "task_type": "Anatomy",
+    "prompt": "Branchial fistula is persistent of:\n\nChoose the correct answer from the following options:\n(A) 1st branchial cleft.\n(B) 1st branchial arch.\n(C) 2nd branchial cleft.\n(D) 2nd branchial arch.",
+    "expected_answer": "The correct answer is: (C) 2nd branchial cleft.",
+    "difficulty": "hard",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "MED_961",
+    "domain": "Medicine",
+    "task_type": "Anatomy",
+    "prompt": "What is the nerve supply of the angle of the jaw?\n\nChoose the correct answer from the following options:\n(A) Mandibular nerve\n(B) Maxillary nerve\n(C) Lesser occipital nerve\n(D) Greater auricular nerve",
+    "expected_answer": "The correct answer is: (D) Greater auricular nerve",
+    "difficulty": "hard",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "MED_982",
+    "domain": "Medicine",
+    "task_type": "Anatomy",
+    "prompt": "Nociceptive signals are transmitted primarily to which of the following?\n\nChoose the correct answer from the following options:\n(A) Nucleus caudalis\n(B) Limbic system\n(C) Reticular system\n(D) Superior cervical ganglion",
+    "expected_answer": "The correct answer is: (A) Nucleus caudalis",
+    "difficulty": "hard",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "MED_991",
+    "domain": "Medicine",
+    "task_type": "Anatomy",
+    "prompt": "Which of the following structure is not present on floor of third ventricle?\n\nChoose the correct answer from the following options:\n(A) Optic stalk\n(B) Third nerve\n(C) Infundibulum\n(D) Mammillary body",
+    "expected_answer": "The correct answer is: (B) Third nerve",
+    "difficulty": "hard",
+    "evaluation_metric": "exact_match"
+  }
+]

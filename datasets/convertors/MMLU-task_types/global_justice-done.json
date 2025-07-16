@@ -1,0 +1,20 @@
+[
+  {
+    "task_id": "MMLU_013",
+    "domain": "Security Studies",
+    "task_type": "Global Justice",
+    "prompt": "What is the relationship between historical materialism and the global justice movement?\n\nFor this question, four choices are provided:\n(A) Historical materialism as a paradigm is opposed to the broad goals of the global justice movement, which advocates an expansion of neo-liberalism in the aftermath of the global financial crisis.\n(B) Historical materialism has an established history of supporting global justice and opposing inequality; during the Cold War it was the basis of opposition to repressive communist states.\n(C) Historical materialism does not provide any unique perspective on capitalism, and is more concerned with the history of capitalist trade than with exploitation or alienation of populations in the system.\n(D) Historical materialism can concern both human rights and economic rights. It has been an important part of anti-globalisation and alternative-globalisation movements, including the Occupy protests.\n\nPlease choose the correct answer from the above choices.",
+    "expected_answer": "(D) Historical materialism can concern both human rights and economic rights. It has been an important part of anti-globalisation and alternative-globalisation movements, including the Occupy protests.",
+    "difficulty": "expert",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "MMLU_061",
+    "domain": "Security Studies",
+    "task_type": "Global Justice",
+    "prompt": "Historical materialism is founded on the ideas and philosophies of which theorists?\n\nFor this question, four choices are provided:\n(A) Barry Buzan and Ole Waever\n(B) Kenneth Waltz and Hans Morgenthau\n(C) Karl Marx and Friedrich Engels\n(D) Adam Smith and Karl Marx\n\nPlease choose the correct answer from the above choices.",
+    "expected_answer": "(C) Karl Marx and Friedrich Engels",
+    "difficulty": "expert",
+    "evaluation_metric": "exact_match"
+  }
+]

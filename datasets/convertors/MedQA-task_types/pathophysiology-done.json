@@ -1,0 +1,263 @@
+[
+  {
+    "task_id": "MED_010",
+    "domain": "Medicine",
+    "task_type": "Pathophysiology",
+    "prompt": "A 7-year-old woman presents shortly after her birthday with red scaly plaques over both ears. Her mother reports that the patient recently received a pair of fashionable silver earrings from her older sister as a birthday present. Physical examination is only significant for erythema and tenderness over the lobules of the ears bilaterally. Her vital signs show a blood pressure of 121/73 mm Hg, heart rate of 72/min, and a respiratory rate of 21/min. Her medical history is non-significant. Of the following options, which is the mechanism of this reaction? Choose the correct answer from the following options:\n(A) Type I\u2013anaphylactic hypersensitivity reaction\n(B) Type II\u2013cytotoxic hypersensitivity reaction\n(C) Type III\u2013immune complex-mediated hypersensitivity reaction\n(D) Type IV\u2013cell-mediated (delayed) hypersensitivity reaction\n(E) Type III and IV\u2013mixed immune complex and cell-mediated hypersensitivity reactions",
+    "expected_answer": "The correct answer is: (D) Type IV\u2013cell-mediated (delayed) hypersensitivity reaction",
+    "difficulty": "expert",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "MED_014",
+    "domain": "Medicine",
+    "task_type": "Pathophysiology",
+    "prompt": "A 62-year-old woman comes to the physician because of a 6-month history of progressive pain and stiffness of the fingers of her right hand. The stiffness is worse at the end of the day. She recently retired after working for 28 years as a typist at a data entry firm. Physical examination shows swelling, joint-line tenderness, and decreased range of motion of the first metacarpophalangeal joint and the distal interphalangeal joints of the right hand. Discrete, hard, mildly tender nodules are palpated over the 2nd and 4th distal interphalangeal joints of the right hand. An x-ray of her right hand shows narrowing of the interphalangeal joint spaces with subchondral sclerosis and osteophytes. Which of the following is the most likely underlying mechanism of this patient's condition? Choose the correct answer from the following options:\n(A) Monosodium urate crystal precipitation in the joints\n(B) Bacterial infection of the joint space\n(C) Autoimmune-mediated cartilage erosion\n(D) Calcium pyrophosphate dihydrate crystal precipitation in the joints\n(E) Degenerative disease of the joints",
+    "expected_answer": "The correct answer is: (E) Degenerative disease of the joints",
+    "difficulty": "expert",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "MED_023",
+    "domain": "Medicine",
+    "task_type": "Pathophysiology",
+    "prompt": "Hypoxia-inducible factor 1-alpha (HIF-1a) is a transcription factor with increased activity under conditions of cellular hypoxia. In normoxia, von Hippel-Lindau (VHL) protein hydroxylates prolyl residues on oxygen-dependent degradation domains of HIF-1a, targeting it for proteasomal degradation. Hydroxylation by VHL is inhibited under hypoxic conditions, allowing HIF-1a to escape degradation, dimerize with HIF-1\u00df, and translocate to the nucleus. This results in the upregulation of hypoxic response elements, leading to angiogenesis. Renal cell carcinoma (RCC) can mimic the hypoxic state to promote angiogenesis by inhibiting HIF-1a hydroxylation, even in the absence of hypoxia. A researcher wants to perform an experiment to detect HIF-1a in RCC under normoxic conditions with blotting techniques. Which of the following statements are most likely to be true regarding her experiment? Choose the correct answer from the following options:\n(A) A Northern blot will show increased HIF-1\u03b1, compared to a hypoxic control cell.\n(B) A Northern blot will show increased HIF-1\u03b1, compared to a normoxic control cell.\n(C) A Southern blot will show increased HIF-1\u03b1, compared to a hypoxic control cell.\n(D) A Southern blot will show increased HIF-1\u03b1, compared to a normoxic control cell.\n(E) A Western blot will show increased HIF-1\u03b1 compared to a normoxic control.",
+    "expected_answer": "The correct answer is: (E) A Western blot will show increased HIF-1\u03b1 compared to a normoxic control.",
+    "difficulty": "expert",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "MED_111",
+    "domain": "Medicine",
+    "task_type": "Pathophysiology",
+    "prompt": "A 27-year-old graduate student is bitten by a coral snake while he was hiking alone through the woods and dies 2 hours later from respiratory failure. His body was discovered 7 hours later by a group of campers who promptly called the police. On arrival, the police found his body to be cold and stiff. Which of the following processes is responsible for the rigidity observed? Choose the correct answer from the following options:\n(A) Activation of muscle contraction by neurotoxins\n(B) Reduced affinity of myosin head for actin filament\n(C) Effect of low temperature on muscle proteins\n(D) Inhibition of cross-bridge cycling\n(E) Depletion of intracellular calcium",
+    "expected_answer": "The correct answer is: (D) Inhibition of cross-bridge cycling",
+    "difficulty": "expert",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "MED_151",
+    "domain": "Medicine",
+    "task_type": "Pathophysiology",
+    "prompt": "A 6-year-old boy presents with fever, malaise, and intense pain in the anterior neck. His vital signs include: body temperature 39.0\u00b0C (102.2\u00b0F), heart rate 120/min, and respiratory rate 18/min and regular. On physical examination, there is erythema, tenderness and enlargement of the thyroid gland that is worse on the left. Pain is worsened during neck hyperextension and relieved during neck flexion. Thyroid function tests are within normal limits. An ultrasound of the thyroid gland reveals a unifocal perithyroidal hypoechoic space. Which of the following is the most likely mechanism underlying this patient\u2019s condition? Choose the correct answer from the following options:\n(A) Postviral inflammatory process\n(B) Pyriform sinus fistula\n(C) Antithyroid peroxidase (TPO)\n(D) Perithyroidal fibrosis\n(E) Autoantibodies to the thyrotropin receptor (TRAb)",
+    "expected_answer": "The correct answer is: (B) Pyriform sinus fistula",
+    "difficulty": "expert",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "MED_153",
+    "domain": "Medicine",
+    "task_type": "Pathophysiology",
+    "prompt": "An 8-year-old girl comes to the physician because of a 2-day history of hematuria. Two weeks ago, she had a sore throat that resolved without treatment. Physical examination shows 1+ pitting edema of the lower legs and ankles. Urinalysis shows numerous RBCs and 3+ proteinuria. Her antistreptolysin O titer is elevated. Formation of which of the following is most likely involved in the underlying mechanism of this patient's symptoms? Choose the correct answer from the following options:\n(A) Antigen-specific IgE binding to mast cells\n(B) Tissue-specific antibodies\n(C) Presensitized CD4+ helper T-cells\n(D) Antigen-antibody complexes\n(E) Presensitized CD8+ cytotoxic T-cells",
+    "expected_answer": "The correct answer is: (D) Antigen-antibody complexes",
+    "difficulty": "expert",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "MED_214",
+    "domain": "Medicine",
+    "task_type": "Pathophysiology",
+    "prompt": "A 24-year-old man is brought to the emergency room by the police after a fall. The patient smells of alcohol and is slurring his words. You find out that he has recently been fired from his job as a salesperson for months of tardiness and poor performance. The police tell you that his girlfriend, who was there at the time of the fall, mentioned that the patient has been struggling with alcohol for at least a year. Upon physical examination, the patient becomes agitated and starts yelling. He accuses his ex-boss of being a cocaine addict and says he couldn\u2019t keep up sales percentages compared to someone using cocaine. Which of the following psychiatric defense mechanisms is the patient demonstrating? Choose the correct answer from the following options:\n(A) Denial\n(B) Displacement\n(C) Projection\n(D) Rationalization\n(E) Regression",
+    "expected_answer": "The correct answer is: (C) Projection",
+    "difficulty": "expert",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "MED_278",
+    "domain": "Medicine",
+    "task_type": "Pathophysiology",
+    "prompt": "A 4-year-old girl is brought to the emergency department with a persistent cough, fever, and vomiting. The past year the child has been admitted to the hospital 3 times with pneumonia. For the past 1 week, the child has been experiencing thick purulent cough and says that her chest feels \u2018heavy\u2019. Her stools have been loose and foul-smelling over the past week. Her parents are also concerned that she has not gained much weight due to her frequent hospital visits. She was born at 39 weeks gestation via spontaneous vaginal delivery and is up to date on all vaccines and is meeting all developmental milestones. On physical exam, the temperature is 39.1\u00b0C (102.4\u00b0F). She appears lethargic and uncomfortable. Crackles are heard in the lower lung bases, with dullness to percussion. A small nasal polyp is also present on inspection. Which of the following is the most likely cause for the girl\u2019s symptoms? Choose the correct answer from the following options:\n(A) Dysfunction in a transmembrane regulator\n(B) Inefficient breakdown of leucine, isoleucine, and valine\n(C) Dysfunction in the motility of respiratory cilia\n(D) Acute hypersensitivity changes and bronchospasm\n(E) Deficiency in lymphocytic activity",
+    "expected_answer": "The correct answer is: (A) Dysfunction in a transmembrane regulator",
+    "difficulty": "expert",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "MED_285",
+    "domain": "Medicine",
+    "task_type": "Pathophysiology",
+    "prompt": "A 28-year-old man reports to his physician that he is having second thoughts about his long-term compatibility with his wife ever since they relocated to a new city. He admits that he has noticed himself flirting with some of the female co-workers at his new workplace. When he goes on a dinner date with his wife after work one evening, he accuses her of giving their waiter flirtatious looks and asks her whether she has been cheating on him or trying to spend time with other men. The man\u2019s actions are most consistent with which of the following psychological defense mechanisms? Choose the correct answer from the following options:\n(A) Displacement\n(B) Dissociation\n(C) Projection\n(D) Reaction formation\n(E) Repression",
+    "expected_answer": "The correct answer is: (C) Projection",
+    "difficulty": "expert",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "MED_351",
+    "domain": "Medicine",
+    "task_type": "Pathophysiology",
+    "prompt": "A 40-year-old woman comes to the physician because of a 2-month history of increasingly frequent episodes of vertigo and feeling unsteady while walking. She reports that she has had episodic tinnitus in her right ear for the past 3 years. Neurologic examination shows hearing loss in the right ear. An MRI of the brain is shown. Pathologic examination of this patient's lesion is most likely to show which of the following? Choose the correct answer from the following options:\n(A) Whorls of densely packed cells with areas of lamellated calcification\n(B) Small blue cells arranged in rosettes around a central neuropil\n(C) Hypercellular areas of spindle cells and hypocellular areas of myxoid stroma\n(D) Pleomorphic cells clustered around necrotic areas forming pseudopalisades\n(E) Cells with clear cytoplasm and central round nucleus resembling a fried egg",
+    "expected_answer": "The correct answer is: (C) Hypercellular areas of spindle cells and hypocellular areas of myxoid stroma",
+    "difficulty": "expert",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "MED_402",
+    "domain": "Medicine",
+    "task_type": "Pathophysiology",
+    "prompt": "A 10-year-old girl is brought to a clinic by her parents after 1 week of difficulty breathing, dry cough, and low-grade fevers. She has also developed shallow erythematous ulcers inside of her mouth. There is no history of chills, rigors, or headaches. Her appetite has decreased. The girl has been HIV-positive since birth and is being treated with HAART. Her baseline viral load is <50/mL. On general examination, the girl appears ill. Diffuse inspiratory crackles are heard on chest auscultation with normal heart sounds. No lymphadenopathy or hepatosplenomegaly is noted on physical examination. A blood sample is drawn, which shows a CD4 count of 100/mm3 and a viral load of 25,050/mL. What is the most likely mechanism responsible for the lack of responsiveness to therapy? Choose the correct answer from the following options:\n(A) Ineffective CD8 cytotoxicity\n(B) gag gene mutation\n(C) env gene mutation\n(D) pol gene mutation\n(E) Decreased viral replication",
+    "expected_answer": "The correct answer is: (D) pol gene mutation",
+    "difficulty": "expert",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "MED_434",
+    "domain": "Medicine",
+    "task_type": "Pathophysiology",
+    "prompt": "A 22-year-old woman comes to the physician because of yellow vaginal discharge, pruritus, and pain with urination for the past 6 days. Three weeks ago, she had an episode of acute bacterial rhinosinusitis that was treated with a 10-day course of amoxicillin. She has been sexually active with multiple male partners over the past year and uses condoms inconsistently; she has been taking an oral contraceptive for the past 2 years. She has no previous history of serious illness or sexually transmitted diseases. Her temperature is 37\u00b0C (98.6\u00b0F), pulse is 75/min, respirations are 12/min, and blood pressure is 122/82 mm Hg. Pelvic examination shows erythema of the vulva and vagina and foul-smelling, frothy, yellow-green vaginal discharge. The pH of the discharge is 5.8. Bimanual examination is unremarkable. Further evaluation of this patient's vaginal discharge is most likely to show which of the following findings? Choose the correct answer from the following options:\n(A) Obligate intracellular organisms\n(B) Gram-negative diplococci\n(C) Positive whiff test\n(D) Pseudohyphae\n(E) Flagellated protozoa",
+    "expected_answer": "The correct answer is: (E) Flagellated protozoa",
+    "difficulty": "expert",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "MED_455",
+    "domain": "Medicine",
+    "task_type": "Pathophysiology",
+    "prompt": "Candida is injected into the skin of a 38-year-old female patient. Forty-eight hours later, there is a 14 mm raised, slightly hardened area at the injection site. What type of hypersensitivity reaction has occurred and what cell type plays a role? Choose the correct answer from the following options:\n(A) Type I hypersensitivty; eosinophils\n(B) Type IV hypersensitivity; mast cells\n(C) Type III hypersensitivity; CD4+ T cells\n(D) Type IV hypersensitivity; CD4+ T cells\n(E) Type I hypersensitivity; macrophages",
+    "expected_answer": "The correct answer is: (D) Type IV hypersensitivity; CD4+ T cells",
+    "difficulty": "expert",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "MED_485",
+    "domain": "Medicine",
+    "task_type": "Pathophysiology",
+    "prompt": "A 60-year-old man comes to the physician because of a 2-month history of cough productive of yellow sputum with occasional streaks of blood. He has a history of pulmonary tuberculosis. He is afebrile. Pulmonary examination shows inspiratory crackles at the left infraclavicular area. An x-ray of his chest shows a radiopaque mass in the left upper lung lobe that shifts upon repositioning. A sputum sample does not grow acid-fast bacteria despite multiple cultures. Which of the following is the most likely cause of this patient's condition? Choose the correct answer from the following options:\n(A) Hypersensitivity reaction\n(B) Asbestos inhalation\n(C) Neoplastic transformation\n(D) Opportunistic colonization\n(E) Abscess formation",
+    "expected_answer": "The correct answer is: (D) Opportunistic colonization",
+    "difficulty": "expert",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "MED_535",
+    "domain": "Medicine",
+    "task_type": "Pathophysiology",
+    "prompt": "A 64-year-old man presents with severe respiratory distress. This has onset over the past 3 weeks, progressively worsening. Past history involves congestive heart failure (CHF). Due to concerns of concurrent pneumonia, sputum studies are ordered. Microscopic examination of his sputum demonstrates heart failure cells (hemosiderin-containing macrophages). Which of the following cellular organelles is significant in the formation of these cells? Choose the correct answer from the following options:\n(A) Endoplasmic reticulum (ER)\n(B) Ribosomes\n(C) Lysosomes\n(D) Golgi apparatus\n(E) Mitochondria",
+    "expected_answer": "The correct answer is: (C) Lysosomes",
+    "difficulty": "expert",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "MED_550",
+    "domain": "Medicine",
+    "task_type": "Pathophysiology",
+    "prompt": "A 7-year-old boy is brought to his pediatrician\u2019s office for a follow-up visit. He was diagnosed with asthma when he was 3 years old and has since been on treatment for the condition. He is currently on a \u03b2-agonist inhaler because of exacerbation of his symptoms. He has observed that his symptoms are more prominent in springtime, especially when the new flowers are blooming. His mother has a backyard garden and whenever he goes out to play there, he experiences chest tightness with associated shortness of breath. He has been advised to take more precaution during this seasonal change and to stay away from pollen. He is also being considered for an experimental therapy, which attenuates the activity of certain mediators which cause his asthmatic attack. The targeted mediator favors the class switching of antibodies. A reduction in this mechanism will eventually reduce the exaggerated response observed during his asthmatic attacks, even when exposed to an allergen. Which of the following mediators is described in this experimental study? Choose the correct answer from the following options:\n(A) IL-5\n(B) IL-2\n(C) IL-10\n(D) IL-13\n(E) IL-4",
+    "expected_answer": "The correct answer is: (E) IL-4",
+    "difficulty": "expert",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "MED_568",
+    "domain": "Medicine",
+    "task_type": "Pathophysiology",
+    "prompt": "A 31-year-old male comes to your office for his annual exam. He states that he received all of his recommended vaccinations prior to beginning college, but has not had any vaccines in the past 13 years. His medical history is significant for intermittent, exercise-induced asthma. He has been sexually active in the past with multiple female partners. In addition to an influenza vaccine, which vaccine should be administered to this patient during this visit? Choose the correct answer from the following options:\n(A) Pneumococcal vaccine\n(B) Meningococcal vaccine\n(C) Tetanus, diphtheria, and acellular pertussis booster (Tdap) vaccine\n(D) Haemophilus influenza B (HIB) vaccine\n(E) Human papillomavirus (HPV) vaccine",
+    "expected_answer": "The correct answer is: (C) Tetanus, diphtheria, and acellular pertussis booster (Tdap) vaccine",
+    "difficulty": "expert",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "MED_574",
+    "domain": "Medicine",
+    "task_type": "Pathophysiology",
+    "prompt": "A medical student is preparing a patient for an appendectomy. He is asked by the surgeon to disinfect the patient\u2019s skin with a chlorhexidine-isopropyl alcohol solution before the procedure. Recent studies have shown that this solution substantially reduces the risk of surgical site infections compared with a povidone-iodine preparation without alcohol in clean-contaminated surgery. Which of the following mechanisms best describes the mechanism of action of chlorhexidine? Choose the correct answer from the following options:\n(A) Bactericidal at low concentrations\n(B) Protein coagulation/denaturation\n(C) Cell wall damage by free radical release\n(D) Attack of free-sulfur amino acids, nucleotides, and fatty acids within the bacteria\n(E) Its activity depends on pH and is greatly reduced in the presence of organic matter",
+    "expected_answer": "The correct answer is: (E) Its activity depends on pH and is greatly reduced in the presence of organic matter",
+    "difficulty": "expert",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "MED_603",
+    "domain": "Medicine",
+    "task_type": "Pathophysiology",
+    "prompt": "A 55-year-old man with chronic hepatitis B virus infection comes to the physician because of generalized fatigue and a 5.4 kg (12 lb) weight loss over the past 4 months. Physical examination shows hepatomegaly. Laboratory studies show an \u03b1-fetoprotein concentration of 380 ng/ml (N < 10 ng/mL). A CT scan of the abdomen with contrast shows a solitary mass in the left lobe of the liver that enhances in the arterial phase. Which of the following is the most likely underlying pathogenesis of this patient's current condition? Choose the correct answer from the following options:\n(A) Overexpression of secretory hepatitis antigen\n(B) Intracellular accumulation of misfolded protein\n(C) Gain of function mutation of a proto-oncogene\n(D) Viral cytotoxin-induced cellular dysplasia\n(E) Integration of foreign DNA into host genome\n\"",
+    "expected_answer": "The correct answer is: (E) Integration of foreign DNA into host genome\n\"",
+    "difficulty": "expert",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "MED_658",
+    "domain": "Medicine",
+    "task_type": "Pathophysiology",
+    "prompt": "A 58-year-old man with hypertension and dyslipidemia comes to the physician for a routine health maintenance examination. He says he feels well. He is 180 cm (5 ft 11 in) tall and weighs 103 kg (227 lb); BMI is 32 kg/m2. His BMI last year was 27 kg/m2. When asked about his diet, he says, \u201cBeing overweight runs in my family. Rather than fight it, I just try to enjoy myself and eat what I want.\u201d Which of the following defense mechanisms best describes the patient's response to the physician? Choose the correct answer from the following options:\n(A) Rationalization\n(B) Primitive idealization\n(C) Fantasy\n(D) Distortion\n(E) Intellectualization",
+    "expected_answer": "The correct answer is: (A) Rationalization",
+    "difficulty": "expert",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "MED_817",
+    "domain": "Medicine",
+    "task_type": "Pathophysiology",
+    "prompt": "A 30-year-old woman comes to the physician because she has been unable to conceive for 3 years. Analysis of her husband's semen has shown normal sperm counts during this time. The patient also reports episodic pelvic and back pain accompanied by painful diarrhea for 5 years. She has about one such episode on average per month for 4\u20136 days. She has taken ibuprofen for the pain, which has provided some relief. Menses have occurred at regular 29-day intervals since menarche at the age of 14 years and last for 7 days. She is sexually active with her husband and does not use contraception. Vital signs are within normal limits. Pelvic and bimanual examinations are normal; rectal examination is unremarkable. A hysterosalpingogram 6 months prior showed normal results. Which of the following is the most likely underlying mechanism of this patient's symptoms? Choose the correct answer from the following options:\n(A) Loss of fallopian tube function following infection\n(B) Smooth muscle tumor arising from the myometrium\n(C) Increased secretion of prolactin\n(D) Endometrial tissue outside the uterine cavity\n(E) Increased secretion of androgens and luteinizing hormone",
+    "expected_answer": "The correct answer is: (D) Endometrial tissue outside the uterine cavity",
+    "difficulty": "expert",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "MED_818",
+    "domain": "Medicine",
+    "task_type": "Pathophysiology",
+    "prompt": "A 30-year-old man presents to the emergency room complaining of malaise. Two hours prior to presentation, he developed muscle cramps and nausea. He has had 3 episodes of non-bloody watery stools since his symptoms started. He reports that he has experienced similar symptoms multiple times over the past 5 years since he started working at his local zoo as a reptilian caretaker. His medical history is unremarkable. He takes fish oil and a multivitamin daily. His temperature is 101\u00b0F (38.3\u00b0C), blood pressure is 130/90 mmHg, pulse is 90/min, and respirations are 17/min. On exam, he demonstrates sensitivity to bright light. He is tired-appearing but alert and fully oriented. A stool sample and culture demonstrates abundant non-lactose fermenting, oxidase-negative, and H2S-producing gram-negative bacilli. The pathogen responsible for this patient\u2019s condition relies on a virulence factor with which of the following mechanisms of action? Choose the correct answer from the following options:\n(A) ADP ribosylation of elongation factor 2\n(B) Binding the Fc region of host immunoglobulins\n(C) Blocking antibody attack on the O antigen\n(D) Cleaving immunoglobulin A molecules\n(E) Cleaving lecithin",
+    "expected_answer": "The correct answer is: (C) Blocking antibody attack on the O antigen",
+    "difficulty": "expert",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "MED_834",
+    "domain": "Medicine",
+    "task_type": "Pathophysiology",
+    "prompt": "A laboratory primarily involved with studying cellular proofreading mechanisms is investigating the question of whether the ribosome can recognize a mischarged amino acid and still be incorporated into the growing peptide. In order to do so, they biochemically charge a Lys-tRNA with valine instead of lysine and insert the tRNA into the cell. They design an mRNA sequence that contains only codons for lysine. Which of the following will most likely occur? Choose the correct answer from the following options:\n(A) The ribosome will recognize the mischarged tRNA and prevent its incorporation by removing the valine\n(B) The ribosome will recognize the inappropriately inserted valine residue and terminate protein translation\n(C) The mischarged tRNA with valine will be incorporated in the codons that specificy for lysine\n(D) The mischarged tRNA will be degraded by the proteasome\n(E) The mischarged tRNA will be removed by the lysyl-tRNA synthetase",
+    "expected_answer": "The correct answer is: (C) The mischarged tRNA with valine will be incorporated in the codons that specificy for lysine",
+    "difficulty": "expert",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "MED_888",
+    "domain": "Medicine",
+    "task_type": "Pathophysiology",
+    "prompt": "An investigator is studying the function of different enzymes in various human cell types. A subset of normal human cells with an elevated intracellular concentration of bisphosphoglycerate mutase is harvested and isolated. Which of the following is most likely to be absent in these cells? Choose the correct answer from the following options:\n(A) \u03b1-ketoglutarate dehydrogenase\n(B) Pyruvate kinase\n(C) Glutathione reductase\n(D) Lactic acid dehydrogenase\n(E) Carbonic anhydrase",
+    "expected_answer": "The correct answer is: (A) \u03b1-ketoglutarate dehydrogenase",
+    "difficulty": "expert",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "MED_889",
+    "domain": "Medicine",
+    "task_type": "Pathophysiology",
+    "prompt": "A medical researcher is studying the physiology of the immune system in order to better understand the effects of HIV on patients. He isolates a group of cells that are shown by flow cytometry to be positive for the cell surface marker CD8. He then mixes this cell population with a group of infected cells, crosslinks extracellular interactions, and immunoprecipitates the CD8 protein. He identifies a protein bound to CD8 that is composed of two chains from an adjacent cell. Which of the following best describes the primary function of the protein that was most likely identified? Choose the correct answer from the following options:\n(A) Binds complement proteins on the cell surface\n(B) Binds endogenous peptides that are present in the endosome\n(C) Binds endogenous peptides that have been transported by the TAP channel\n(D) Binds exogenous peptides that are present in the endosome\n(E) Binds exogenous peptides that have been transported by the TAP channel",
+    "expected_answer": "The correct answer is: (C) Binds endogenous peptides that have been transported by the TAP channel",
+    "difficulty": "expert",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "MED_898",
+    "domain": "Medicine",
+    "task_type": "Pathophysiology",
+    "prompt": "A 67-year-woman with non-Hodgkin lymphoma comes to the physician because of progressively increasing numbness and tingling in her fingers and toes. Her last cycle of chemotherapy with vincristine was 1 week ago. Physical examination shows decreased sensation to light touch in all distal extremities. Knee and ankle deep tendon reflexes are decreased. Which of the following is the most likely underlying mechanism of this patient\u2019s peripheral neuropathy? Choose the correct answer from the following options:\n(A) Inhibition of beta-tubulin polymerization\n(B) Creation of free radicals that unwind DNA\n(C) Inhibition of dihydrofolate reductase\n(D) Formation of cross-links between strands of DNA\n(E) Incorporation of false pyrimidine analogues into DNA",
+    "expected_answer": "The correct answer is: (A) Inhibition of beta-tubulin polymerization",
+    "difficulty": "expert",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "MED_912",
+    "domain": "Medicine",
+    "task_type": "Pathophysiology",
+    "prompt": "A 19-year-old man in a 3-month relationship with a woman experiences frequent sexual fantasies about male coworkers. He lives in a conservative community and does not know any openly gay men. Two days ago, he joined a local group considered by many organizations to be a hate group. Together with the other members, he attacked a gay couple on their way home from dinner. Which of the following psychological defense mechanisms is he demonstrating? Choose the correct answer from the following options:\n(A) Acting out\n(B) Sublimation\n(C) Reaction formation\n(D) Intellectualization\n(E) Projection",
+    "expected_answer": "The correct answer is: (C) Reaction formation",
+    "difficulty": "expert",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "MED_917",
+    "domain": "Medicine",
+    "task_type": "Pathophysiology",
+    "prompt": "A 28-year-old woman presents to her primary care physician for evaluation of amenorrhea. Her last period occurred 4 months ago but she has not had sex in the last year and home pregnancy tests have come back negative. She first started having periods at age 13 and her periods have been unremarkable up until they stopped 4 months ago. Her past medical history is significant for radius and ulnar forearm fractures that she sustained in a car crash 3 months ago. She didn't see the car coming and has had increasing difficulty noticing objects in her peripheral vision. She also notes having recurrent headaches 5 months ago. Otherwise she has been healthy with no previous pregnancies. Physical exam reveals galactorrhea and temporal field visual defects. Which of the following mechanisms is most likely responsible for this patient's amenorrhea? Choose the correct answer from the following options:\n(A) Excessive production of androgens\n(B) Inhibition of gonadotropin-releasing hormone release\n(C) Intrauterine scar tissue accumulation\n(D) Nondisjunction of chromosomes\n(E) Nutritional imbalance",
+    "expected_answer": "The correct answer is: (B) Inhibition of gonadotropin-releasing hormone release",
+    "difficulty": "expert",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "MED_926",
+    "domain": "Medicine",
+    "task_type": "Pathophysiology",
+    "prompt": "A 55-year-old male with a history of stage I colon cancer status-post left hemicolectomy presents to your office for follow-up. You intend to discuss the results from his recent surveillance colonoscopy, which showed no remaining cancer, no polyps, and a well-healed anastmosis. During your meeting, you note that the patient is exhibiting the defense mechanism of suppression. Which of the following statements from the patient is consistent with your impression? Choose the correct answer from the following options:\n(A) \"Last week I volunteered for the local Cancer Society. Helping other cancer patients just makes me feel better.\"\n(B) \"Oh, doctor, I'm just so grateful to be seeing you. I just know you've cured my cancer. I probably don't even need to check anymore.\"\n(C) \"I'm sorry I was late today. I also didn't get any of the labs you asked for.\"\n(D) \"Ever since I had the colonoscopy, I've been having headaches and backaches and just pain all over! I'm sure it's from the cancer.\"\n(E) \"I really haven't thought about the colonoscopy until today. Worrying before getting the results wasn't going to help anything.\"",
+    "expected_answer": "The correct answer is: (E) \"I really haven't thought about the colonoscopy until today. Worrying before getting the results wasn't going to help anything.\"",
+    "difficulty": "expert",
+    "evaluation_metric": "exact_match"
+  }
+]

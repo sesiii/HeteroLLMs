@@ -1,0 +1,83 @@
+[
+  {
+    "task_id": "MED_004",
+    "domain": "Medicine",
+    "task_type": "Anaesthesia",
+    "prompt": "Which of the following is used in the induction of anesthesia:-\n\nChoose the correct answer from the following options:\n(A) Bupivacaine\n(B) Dexmediatomidine\n(C) Lorazepam\n(D) Neostigimine",
+    "expected_answer": "The correct answer is: (C) Lorazepam",
+    "difficulty": "expert",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "MED_031",
+    "domain": "Medicine",
+    "task_type": "Anaesthesia",
+    "prompt": "Induction of inhalational agent is faster.\n\nChoose the correct answer from the following options:\n(A) Agent with high blood gas solubility\n(B) Combined with nitrous oxide\n(C) Person with increased residual volume\n(D) Right to left shunt",
+    "expected_answer": "The correct answer is: (B) Combined with nitrous oxide",
+    "difficulty": "hard",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "MED_110",
+    "domain": "Medicine",
+    "task_type": "Anaesthesia",
+    "prompt": "A patient of head injury is intubated and ventilated. The ideal mode of ventilation in him would be:\n\nChoose the correct answer from the following options:\n(A) CMV\n(B) CPAP\n(C) AMV\n(D) SIMV",
+    "expected_answer": "The correct answer is: (A) CMV",
+    "difficulty": "hard",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "MED_152",
+    "domain": "Medicine",
+    "task_type": "Anaesthesia",
+    "prompt": "Which of the following nerve fibre types is least susceptible to LA blockade?\n\nChoose the correct answer from the following options:\n(A) A beta\n(B) A alpha\n(C) B fibers\n(D) C fibers",
+    "expected_answer": "The correct answer is: (B) A alpha",
+    "difficulty": "expert",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "MED_405",
+    "domain": "Medicine",
+    "task_type": "Anaesthesia",
+    "prompt": "A 46 years old male patient was given subarachnoid block with bupivacaine (heavy) by the anesthetist. After 10 minutes he was found to have a BP of 72/44 mm Hg and hea rate of 52/min. On checking the level of block it was found to be T6. What is the likely explanation for the bradvcardia?\n\nChoose the correct answer from the following options:\n(A) Bezold-Jarisch reflex\n(B) Bainbridge reflex\n(C) Block of Cardio-accelerator fibers of synthetic origin\n(D) Reverse Bainbridge reflex",
+    "expected_answer": "The correct answer is: (A) Bezold-Jarisch reflex",
+    "difficulty": "hard",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "MED_674",
+    "domain": "Medicine",
+    "task_type": "Anaesthesia",
+    "prompt": "Time required for pre-oxygenation before tracheal intubation\n\nChoose the correct answer from the following options:\n(A) 3 min\n(B) 5 min\n(C) 2 min\n(D) 1 min",
+    "expected_answer": "The correct answer is: (A) 3 min",
+    "difficulty": "expert",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "MED_798",
+    "domain": "Medicine",
+    "task_type": "Anaesthesia",
+    "prompt": "A pregnant woman with placenta pre staed to bleed as she went into labor. Her blood pressure was 80/50 mm Hg. A lower segment caesarean section was planned in view of acute shock. What type of anesthesia will you plan for this patient?\n\nChoose the correct answer from the following options:\n(A) General anesthesia with IV induction by ketamine\n(B) Spinal anesthesia up to L4 level\n(C) General anesthesia with IV induction by propofol followed by maintenance with fluranes\n(D) Sedation and epidural analgesia",
+    "expected_answer": "The correct answer is: (A) General anesthesia with IV induction by ketamine",
+    "difficulty": "hard",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "MED_844",
+    "domain": "Medicine",
+    "task_type": "Anaesthesia",
+    "prompt": "A patient with history of coronary aery disease presents with pulse rate of 48/min and low BP. Patient has decreased myocardial contractility on Echo. Which of these anesthetic agents is contraindicated?\n\nChoose the correct answer from the following options:\n(A) Fentanyl\n(B) Etomidate\n(C) Ketamine\n(D) Dexmedetomidine",
+    "expected_answer": "The correct answer is: (D) Dexmedetomidine",
+    "difficulty": "hard",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "MED_887",
+    "domain": "Medicine",
+    "task_type": "Anaesthesia",
+    "prompt": "Tracheal secretions should be suctioned for:\n\nChoose the correct answer from the following options:\n(A) 10-15 seconds\n(B) 60 seconds\n(C) 30 seconds\n(D) 3 minutes",
+    "expected_answer": "The correct answer is: (A) 10-15 seconds",
+    "difficulty": "hard",
+    "evaluation_metric": "exact_match"
+  }
+]

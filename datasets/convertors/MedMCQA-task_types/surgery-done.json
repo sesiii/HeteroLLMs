@@ -1,0 +1,848 @@
+[
+  {
+    "task_id": "MED_002",
+    "domain": "Medicine",
+    "task_type": "Surgery",
+    "prompt": "After a midline laparotomy, you have been asked to suture the incision. What length of suture material will you choose?\n\nChoose the correct answer from the following options:\n(A) 2x incision length\n(B) 4x incision length\n(C) 6x incision length\n(D) 8x incision length",
+    "expected_answer": "The correct answer is: (B) 4x incision length",
+    "difficulty": "hard",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "MED_013",
+    "domain": "Medicine",
+    "task_type": "Surgery",
+    "prompt": "ABCDE mnemonic is used for which disease?\n\nChoose the correct answer from the following options:\n(A) SCC\n(B) Melanoma\n(C) Basal Cell carcinoma\n(D) Verrucous carcinoma",
+    "expected_answer": "The correct answer is: (B) Melanoma",
+    "difficulty": "hard",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "MED_019",
+    "domain": "Medicine",
+    "task_type": "Surgery",
+    "prompt": "In a 19 years old patient, with a swelling over the left angle of the mandible, temperature of 38\u00b0C and negative history of trauma, one should suspect:\n\nChoose the correct answer from the following options:\n(A) Spontaneous fracture of the mandible\n(B) Pericoronal infection\n(C) Mumps\n(D) Sjogren's syndrome",
+    "expected_answer": "The correct answer is: (B) Pericoronal infection",
+    "difficulty": "hard",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "MED_034",
+    "domain": "Medicine",
+    "task_type": "Surgery",
+    "prompt": "Investigation of choice to rule out biliary atresia in a 2-month-old child is:\n\nChoose the correct answer from the following options:\n(A) Hepatic scintigraphy\n(B) ERCP\n(C) USG\n(D) CT scan.",
+    "expected_answer": "The correct answer is: (A) Hepatic scintigraphy",
+    "difficulty": "hard",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "MED_036",
+    "domain": "Medicine",
+    "task_type": "Surgery",
+    "prompt": "Scaphoid fracture at waist with retrograde blood supply. Which segment is most susceptible to avascular necrosis?\n\nChoose the correct answer from the following options:\n(A) Proximal\n(B) Distal\n(C) Middle\n(D) Scaphoid tubercle",
+    "expected_answer": "The correct answer is: (A) Proximal",
+    "difficulty": "hard",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "MED_051",
+    "domain": "Medicine",
+    "task_type": "Surgery",
+    "prompt": "A patient sustained A and endotracheal intubation was done. Most likely GCS score of such a patient would be:March 2013 (b, c, d)\n\nChoose the correct answer from the following options:\n(A) 8\n(B) 10\n(C) 12\n(D) 15",
+    "expected_answer": "The correct answer is: (A) 8",
+    "difficulty": "hard",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "MED_069",
+    "domain": "Medicine",
+    "task_type": "Surgery",
+    "prompt": "Chances of recurrence of multicystic ameloblastoma after surgical enucleation is:\n\nChoose the correct answer from the following options:\n(A) <50%\n(B) <10%\n(C) 50-100%\n(D) 18-25%",
+    "expected_answer": "The correct answer is: (C) 50-100%",
+    "difficulty": "hard",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "MED_070",
+    "domain": "Medicine",
+    "task_type": "Surgery",
+    "prompt": "A 56 years old patient came to casualty with history of massive hemoptysis. His routine investigations and chest X-ray was normal. Which of the following is not done to prevent hemoptysis?\n\nChoose the correct answer from the following options:\n(A) Bronchial aery embolization\n(B) Pulmonary aery embolization\n(C) Bronchoscopic laser cauterization\n(D) Lobectomy of the affected segment",
+    "expected_answer": "The correct answer is: (D) Lobectomy of the affected segment",
+    "difficulty": "hard",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "MED_079",
+    "domain": "Medicine",
+    "task_type": "Surgery",
+    "prompt": "Best fluid for factor VIII replacement is:\n\nChoose the correct answer from the following options:\n(A) fresh whole blood\n(B) cryoprecipitate\n(C) FFP\n(D) Platelet concentrate",
+    "expected_answer": "The correct answer is: (B) cryoprecipitate",
+    "difficulty": "hard",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "MED_089",
+    "domain": "Medicine",
+    "task_type": "Surgery",
+    "prompt": "In a patient with fresh blow out fracture of the orbit, best immediate management is\n\nChoose the correct answer from the following options:\n(A) Wait & watch\n(B) Antral pack\n(C) Titanium Mesh\n(D) Glass bead mesh",
+    "expected_answer": "The correct answer is: (A) Wait & watch",
+    "difficulty": "hard",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "MED_101",
+    "domain": "Medicine",
+    "task_type": "Surgery",
+    "prompt": "Best guide for the management of Resuscitation is:\n\nChoose the correct answer from the following options:\n(A) CVP\n(B) Urine output\n(C) Blood pressure\n(D) Saturation of Oxygen",
+    "expected_answer": "The correct answer is: (B) Urine output",
+    "difficulty": "expert",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "MED_107",
+    "domain": "Medicine",
+    "task_type": "Surgery",
+    "prompt": "Compression of bone is resisted by:\n\nChoose the correct answer from the following options:\n(A) Protein component\n(B) lipid component\n(C) Collagen component\n(D) Mineral component",
+    "expected_answer": "The correct answer is: (D) Mineral component",
+    "difficulty": "hard",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "MED_112",
+    "domain": "Medicine",
+    "task_type": "Surgery",
+    "prompt": "A 10 years old boy came to emergency with complains of severe pain in right scrotum that is not relieved for the past 1 hour. On examination, testicular torsion of the right side is suspected. The surgical intervention should be:\n\nChoose the correct answer from the following options:\n(A) Immediate scrotal exploration of the affected side and operate opposite side if symptomatic\n(B) Delay exploration and operate opposite side if symptomatic\n(C) Immediate exploration of the affected side and operate opposite side even if asymptomatic\n(D) Delayed exploration on the affected side along with the opposite side even if asymptomatic",
+    "expected_answer": "The correct answer is: (C) Immediate exploration of the affected side and operate opposite side even if asymptomatic",
+    "difficulty": "hard",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "MED_113",
+    "domain": "Medicine",
+    "task_type": "Surgery",
+    "prompt": "A Jawan posted in Siachen was brought to the emergency depament with hypothermia. Which is the ideal site to measure his temperature?\n\nChoose the correct answer from the following options:\n(A) Oral\n(B) Rectal\n(C) Tympanic membrane\n(D) Armpit",
+    "expected_answer": "The correct answer is: (B) Rectal",
+    "difficulty": "hard",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "MED_117",
+    "domain": "Medicine",
+    "task_type": "Surgery",
+    "prompt": "For >10 mm setback of mandible, which of these surgeries is most suitable:\n\nChoose the correct answer from the following options:\n(A) Sagittal split ramus osteotomy\n(B) Vertical ramus osteotomy\n(C) Subapical osteotomy\n(D) Body osteotomy  with extraction of premolars",
+    "expected_answer": "The correct answer is: (B) Vertical ramus osteotomy",
+    "difficulty": "hard",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "MED_132",
+    "domain": "Medicine",
+    "task_type": "Surgery",
+    "prompt": "What will be treatment plan for a parasymphysial fracture in a 55 year old man.\n\nChoose the correct answer from the following options:\n(A) IMF for 3 weeks\n(B) IMF for 6 weeks\n(C) Compression plate is must\n(D) Non union will occur if reconstruction plate is not given",
+    "expected_answer": "The correct answer is: (B) IMF for 6 weeks",
+    "difficulty": "hard",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "MED_135",
+    "domain": "Medicine",
+    "task_type": "Surgery",
+    "prompt": "A 24 years old college student while playing hockey injured his right knee. This patient presents after 3 months with instability of knee joint in it full extension without instability at 90 degree of flexion. The structure most commonly damaged is:\n\nChoose the correct answer from the following options:\n(A) Posterolatilal pa of anterior cruciate ligament\n(B) Anteromedial pa of anterior cruciate ligament\n(C) Posterior cruciate ligament\n(D) Anterior hom of medial meniscus",
+    "expected_answer": "The correct answer is: (A) Posterolatilal pa of anterior cruciate ligament",
+    "difficulty": "hard",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "MED_140",
+    "domain": "Medicine",
+    "task_type": "Surgery",
+    "prompt": "On radiograph of upper lateral incisor a periapical lesion is found after 2 years following RCT curretage was done and histopathology showed presence of apical cyst. Lesion continued to enlarge even after surgery, What is the reason for this.\n\nChoose the correct answer from the following options:\n(A) Leaking from main canal\n(B) Unobturated accessory canal\n(C) Apex was not resected\n(D) Actinomycoses infection",
+    "expected_answer": "The correct answer is: (A) Leaking from main canal",
+    "difficulty": "hard",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "MED_150",
+    "domain": "Medicine",
+    "task_type": "Surgery",
+    "prompt": "Medial dislocation of fractured condyle in subcondylar fracture is caused by\n\nChoose the correct answer from the following options:\n(A) Lateral pterygoid\n(B) Medial pterygoid\n(C) Masseter\n(D) Temporalis",
+    "expected_answer": "The correct answer is: (A) Lateral pterygoid",
+    "difficulty": "hard",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "MED_162",
+    "domain": "Medicine",
+    "task_type": "Surgery",
+    "prompt": "A middle aged male patient presents with fever and diarrhea for 1 week and acute onset pain abdomen for 6 hours. An erect abdominal X-ray was taken as shown. What is the likely diagnosis?\n\nChoose the correct answer from the following options:\n(A) Pseudomembranous colitis\n(B) Adenocarcinoma colon\n(C) Pneumatosis intestinalis\n(D) Toxic megacolon",
+    "expected_answer": "The correct answer is: (D) Toxic megacolon",
+    "difficulty": "hard",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "MED_166",
+    "domain": "Medicine",
+    "task_type": "Surgery",
+    "prompt": "An adult patient with panfacial trauma, treatment should start from\n\nChoose the correct answer from the following options:\n(A) Mandible\n(B) Zygomatic arch\n(C) NOE & frontal bar\n(D) Any but end at lefort 1",
+    "expected_answer": "The correct answer is: (D) Any but end at lefort 1",
+    "difficulty": "hard",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "MED_180",
+    "domain": "Medicine",
+    "task_type": "Surgery",
+    "prompt": "A man has 1x1.5cm pedunculated lesion on the soft palate which has a rough, \"warty\" surface but is the same colour as adjacent mucosa. Appropriate management of this lesion is to:\n\nChoose the correct answer from the following options:\n(A) Perform an incisional biopsy\n(B) Perform excisional biopsy\n(C) Scrape for exfoliative cytology\n(D) Observe for two weeks",
+    "expected_answer": "The correct answer is: (B) Perform excisional biopsy",
+    "difficulty": "hard",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "MED_182",
+    "domain": "Medicine",
+    "task_type": "Surgery",
+    "prompt": "In long surgical procedure intubation method is\n\nChoose the correct answer from the following options:\n(A) Nasotracheal tube with cuff\n(B) LIMA\n(C) Nasotracheal tube without cuff\n(D) Endotracheal tube",
+    "expected_answer": "The correct answer is: (A) Nasotracheal tube with cuff",
+    "difficulty": "hard",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "MED_206",
+    "domain": "Medicine",
+    "task_type": "Surgery",
+    "prompt": "A patient underwent thyroidectomy for hypehyroidism. Two days later he was presented with features of thyroid storm. What is the most likely cause?\n\nChoose the correct answer from the following options:\n(A) Poor antibiotic coverage\n(B) Rough handling during surgery\n(C) Removal of parathyroid\n(D) Inadequate preoperative preparation",
+    "expected_answer": "The correct answer is: (D) Inadequate preoperative preparation",
+    "difficulty": "hard",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "MED_211",
+    "domain": "Medicine",
+    "task_type": "Surgery",
+    "prompt": "Which pa of 2nd metatarsal is involved in the March fracture?\n\nChoose the correct answer from the following options:\n(A) Head\n(B) Neck\n(C) Shaft\n(D) Base",
+    "expected_answer": "The correct answer is: (B) Neck",
+    "difficulty": "hard",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "MED_214",
+    "domain": "Medicine",
+    "task_type": "Surgery",
+    "prompt": "In a patient with dehydration, which of the following color intravenous cannula will you place for rapid fluid resuscitation?\n\nChoose the correct answer from the following options:\n(A) Grey\n(B) Blue\n(C) Pink\n(D) Green",
+    "expected_answer": "The correct answer is: (A) Grey",
+    "difficulty": "hard",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "MED_216",
+    "domain": "Medicine",
+    "task_type": "Surgery",
+    "prompt": "Which one of the following is a muscle splitting incision?\n\nChoose the correct answer from the following options:\n(A) Kocher's incision\n(B) Rutherford-Morrison incision\n(C) Pfannenstiel incision\n(D) Lanz incision",
+    "expected_answer": "The correct answer is: (D) Lanz incision",
+    "difficulty": "hard",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "MED_232",
+    "domain": "Medicine",
+    "task_type": "Surgery",
+    "prompt": "Easiest 3rd molar surgical extraction is:\n\nChoose the correct answer from the following options:\n(A) Mesioangular\n(B) Horizontal\n(C) Vertical\n(D) Distoangular",
+    "expected_answer": "The correct answer is: (A) Mesioangular",
+    "difficulty": "hard",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "MED_240",
+    "domain": "Medicine",
+    "task_type": "Surgery",
+    "prompt": "A 75 year old chronic smoker who is diabetic and edentulous for the last 30 years has a bilateral body fracture, best treatment modality is\n\nChoose the correct answer from the following options:\n(A) ORIF with reconstruction plate\n(B) Gunning splints\n(C) Two mini plates\n(D) Wire osteosynthesis",
+    "expected_answer": "The correct answer is: (B) Gunning splints",
+    "difficulty": "hard",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "MED_244",
+    "domain": "Medicine",
+    "task_type": "Surgery",
+    "prompt": "In mandibular angle fracture, which is most appropriate treatment?\n\nChoose the correct answer from the following options:\n(A) 1 mini plate on oblique ridge\n(B) 2 mini plates on lateral surface of mandible\n(C) Compression plates\n(D) Reconstruction plates",
+    "expected_answer": "The correct answer is: (A) 1 mini plate on oblique ridge",
+    "difficulty": "hard",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "MED_248",
+    "domain": "Medicine",
+    "task_type": "Surgery",
+    "prompt": "Incision given within hairline, 45\u00b0 to zygoma is:\n\nChoose the correct answer from the following options:\n(A) Gillis temporal\n(B) Alkat Bramley\n(C) Risdon\n(D) Morey",
+    "expected_answer": "The correct answer is: (A) Gillis temporal",
+    "difficulty": "hard",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "MED_281",
+    "domain": "Medicine",
+    "task_type": "Surgery",
+    "prompt": "Distraction osteogenesis is done in pediatric patient which of the following is considered\n\nChoose the correct answer from the following options:\n(A) Increase in rate\n(B) Increase rhythm\n(C) Consolidation time is increased\n(D) Time of fixation is increased",
+    "expected_answer": "The correct answer is: (A) Increase in rate",
+    "difficulty": "hard",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "MED_299",
+    "domain": "Medicine",
+    "task_type": "Surgery",
+    "prompt": "A condition of the mouth which increases the caries activity in the oral cavity is\n\nChoose the correct answer from the following options:\n(A) Xerostomia\n(B) Fissured tongue\n(C) Hairy tongue\n(D) Watery saliva",
+    "expected_answer": "The correct answer is: (A) Xerostomia",
+    "difficulty": "hard",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "MED_314",
+    "domain": "Medicine",
+    "task_type": "Surgery",
+    "prompt": "A 55-year-old male presents with severe backache for 10 days and urinary incontinence with a H/o Interveebral lumbar disc prolapse. There is no H/o fever or weight loss. What is the likely diagnosis?\n\nChoose the correct answer from the following options:\n(A) Potts spine\n(B) Multiple myeloma\n(C) Cauda equine syndrome\n(D) Bone metastasis",
+    "expected_answer": "The correct answer is: (C) Cauda equine syndrome",
+    "difficulty": "hard",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "MED_341",
+    "domain": "Medicine",
+    "task_type": "Surgery",
+    "prompt": "Moality associated with emergency abdominal aoic surgery is:\n\nChoose the correct answer from the following options:\n(A) 10%\n(B) 20%\n(C) 40%\n(D) >50%",
+    "expected_answer": "The correct answer is: (C) 40%",
+    "difficulty": "hard",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "MED_342",
+    "domain": "Medicine",
+    "task_type": "Surgery",
+    "prompt": "During surgical excision of the parotid gland the following structures may be damaged:\n\nChoose the correct answer from the following options:\n(A) Lesser occipital nerve, hypoglossal nerve, chorda tympani\n(B) Facial nerve and auriculotemporal nerve\n(C) Submandibular duct\n(D) Cervical fascia",
+    "expected_answer": "The correct answer is: (B) Facial nerve and auriculotemporal nerve",
+    "difficulty": "hard",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "MED_387",
+    "domain": "Medicine",
+    "task_type": "Surgery",
+    "prompt": "In dislocation of the jaw, displacement of the\narticular disc beyond the articular tubercle of the temporomandibular joint results from spasm or excessive contraction of the following muscle?\n\nChoose the correct answer from the following options:\n(A) Buccinator\n(B) Lateral pterygoid\n(C) Masseter\n(D) Temporalis",
+    "expected_answer": "The correct answer is: (B) Lateral pterygoid",
+    "difficulty": "hard",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "MED_391",
+    "domain": "Medicine",
+    "task_type": "Surgery",
+    "prompt": "Expected surgical procedure most frequently indicated for odontogenic cysts is:\n\nChoose the correct answer from the following options:\n(A) Incision and drainage\n(B) Sclerosing solution\n(C) Marsupialisation\n(D) Enucleation",
+    "expected_answer": "The correct answer is: (D) Enucleation",
+    "difficulty": "hard",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "MED_397",
+    "domain": "Medicine",
+    "task_type": "Surgery",
+    "prompt": "Tachycardia in a patient in shock is response to:\n\nChoose the correct answer from the following options:\n(A) Hypotension\n(B) Vasoconstriction\n(C) CNS anoxia\n(D) Anxiety",
+    "expected_answer": "The correct answer is: (C) CNS anoxia",
+    "difficulty": "hard",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "MED_402",
+    "domain": "Medicine",
+    "task_type": "Surgery",
+    "prompt": "The most characteristic feature of basal cell carcinoma is:\n\nChoose the correct answer from the following options:\n(A) Keratin pearls\n(B) Foam cells\n(C) Nuclear palisading\n(D) Psammoma bodies",
+    "expected_answer": "The correct answer is: (C) Nuclear palisading",
+    "difficulty": "hard",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "MED_408",
+    "domain": "Medicine",
+    "task_type": "Surgery",
+    "prompt": "A young patient is diagnosed to have irreparable tear of the rotator cuff. Treatment of choice will be:\n\nChoose the correct answer from the following options:\n(A) Tendon transfer\n(B) Total shoulder replacement\n(C) Reverse c shoulder replacement\n(D) Acromioplasty",
+    "expected_answer": "The correct answer is: (A) Tendon transfer",
+    "difficulty": "hard",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "MED_437",
+    "domain": "Medicine",
+    "task_type": "Surgery",
+    "prompt": "Haglund's deformity is seen in which joint?\n\nChoose the correct answer from the following options:\n(A) Elbow\n(B) Wrist\n(C) Knee\n(D) Ankle",
+    "expected_answer": "The correct answer is: (D) Ankle",
+    "difficulty": "hard",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "MED_446",
+    "domain": "Medicine",
+    "task_type": "Surgery",
+    "prompt": "A female with suspected child abuse was brought to the casualty with severe bleeding from the perineum. What should be the first line of management?\n\nChoose the correct answer from the following options:\n(A) Airway maintenance\n(B) Internal iliac aery ligation\n(C) Whole blood transfusion\n(D) Inform police before staing the treatment",
+    "expected_answer": "The correct answer is: (A) Airway maintenance",
+    "difficulty": "hard",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "MED_461",
+    "domain": "Medicine",
+    "task_type": "Surgery",
+    "prompt": "LA deposited in Inferior alveolar nerve block at\n\nChoose the correct answer from the following options:\n(A) Sigmoid notch\n(B) Coronoid notch\n(C) Lingula\n(D) Groove of mandibular neck",
+    "expected_answer": "The correct answer is: (C) Lingula",
+    "difficulty": "hard",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "MED_466",
+    "domain": "Medicine",
+    "task_type": "Surgery",
+    "prompt": "In BSSO setback, fixation in neutral posterior zone is best achieved with:\n\nChoose the correct answer from the following options:\n(A) Lag screw\n(B) Position screw\n(C) Miniplate\n(D) No fixation is required in neutral position",
+    "expected_answer": "The correct answer is: (A) Lag screw",
+    "difficulty": "hard",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "MED_494",
+    "domain": "Medicine",
+    "task_type": "Surgery",
+    "prompt": "Direct inter dental wiring is also known as:\n\nChoose the correct answer from the following options:\n(A) Risdon's wiring\n(B) Gilmer's wiring\n(C) Eyelet wiring\n(D) Col. Stouts wiring",
+    "expected_answer": "The correct answer is: (B) Gilmer's wiring",
+    "difficulty": "hard",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "MED_495",
+    "domain": "Medicine",
+    "task_type": "Surgery",
+    "prompt": "Which of these conditions  does not require SABE prophylaxis\n\nChoose the correct answer from the following options:\n(A) MR\n(B) ASD\n(C) MS\n(D) CABG",
+    "expected_answer": "The correct answer is: (D) CABG",
+    "difficulty": "hard",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "MED_498",
+    "domain": "Medicine",
+    "task_type": "Surgery",
+    "prompt": "The anesthetic drug injected for paravertebral block is least likely to diffuse to\n\nChoose the correct answer from the following options:\n(A) Epidural space\n(B) Subarachnoid space\n(C) Intercostal space\n(D) Superior and inferior paravertebral space",
+    "expected_answer": "The correct answer is: (B) Subarachnoid space",
+    "difficulty": "hard",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "MED_502",
+    "domain": "Medicine",
+    "task_type": "Surgery",
+    "prompt": "The first sensation to be lost following administration of local anesthetic is\n\nChoose the correct answer from the following options:\n(A) Proprioception\n(B) Pain\n(C) Touch\n(D) Temperature",
+    "expected_answer": "The correct answer is: (B) Pain",
+    "difficulty": "hard",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "MED_503",
+    "domain": "Medicine",
+    "task_type": "Surgery",
+    "prompt": "Sodium bicarbonate when given with local anaesthetics has which of the following effect?\n\nChoose the correct answer from the following options:\n(A) Increases speed and quality of anaesthesia\n(B) Decreases diffusion of the anaesthetic drug\n(C) Causes rapid elimination of the Local anesthetic\n(D) Decreases speed and quality of anaesthesia",
+    "expected_answer": "The correct answer is: (A) Increases speed and quality of anaesthesia",
+    "difficulty": "hard",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "MED_518",
+    "domain": "Medicine",
+    "task_type": "Surgery",
+    "prompt": "A hemophilia B patient needs a major surgery. Factor replacement should be done at what rate:\n\nChoose the correct answer from the following options:\n(A) 80-100 units/ kg every 12 hours\n(B) 80-100 units/kg every 24 hours\n(C) 60 units/kg every 12 hours\n(D) 80-100 units/kg every 6 hours",
+    "expected_answer": "The correct answer is: (B) 80-100 units/kg every 24 hours",
+    "difficulty": "hard",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "MED_531",
+    "domain": "Medicine",
+    "task_type": "Surgery",
+    "prompt": "In a couple for treatment of infeility from the last four years, female paner is normal. Male paner has 0.8 ml semen volume per ejaculate on two repeated samples and absent fructose, with no sperms on examination under microscope. What is the next line of management?\n\nChoose the correct answer from the following options:\n(A) Per-rectal examination to check ejaculatory duct obstruction\n(B) Give antioxidants\n(C) Testicular biopsy\n(D) Transrectal ultrasound to detect duct obstruction",
+    "expected_answer": "The correct answer is: (D) Transrectal ultrasound to detect duct obstruction",
+    "difficulty": "hard",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "MED_546",
+    "domain": "Medicine",
+    "task_type": "Surgery",
+    "prompt": "FNAC can not diagnose\n\nChoose the correct answer from the following options:\n(A) Papillary carcinoma of thyroid\n(B) Follicular carcinoma of thyroid\n(C) Anaplastic carcinoma of thyroid\n(D) Medullary carcinoma of thyroid",
+    "expected_answer": "The correct answer is: (B) Follicular carcinoma of thyroid",
+    "difficulty": "hard",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "MED_566",
+    "domain": "Medicine",
+    "task_type": "Surgery",
+    "prompt": "In post splenectomy patient, chances of Infection with which of these Increases:\n\nChoose the correct answer from the following options:\n(A) Encapsulated bacteria\n(B) Non capsulated bacteria\n(C) Anaerobic and gram positive bacilli\n(D) Anaerobic and grain negative bacilli.",
+    "expected_answer": "The correct answer is: (A) Encapsulated bacteria",
+    "difficulty": "hard",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "MED_582",
+    "domain": "Medicine",
+    "task_type": "Surgery",
+    "prompt": "The facial proportions  between upper, middle and lower thirds of fare Is:\n\nChoose the correct answer from the following options:\n(A) 25:50:25\n(B) 34:33:33\n(C) 35:30:35\n(D) 30:35:35",
+    "expected_answer": "The correct answer is: (D) 30:35:35",
+    "difficulty": "hard",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "MED_588",
+    "domain": "Medicine",
+    "task_type": "Surgery",
+    "prompt": "Excision of the submandibular gland for calculus or tumours is done by incision below angle of the jaw. Special care should be taken to avoid which nerve?\n\nChoose the correct answer from the following options:\n(A) Ansa cervicalis\n(B) Mandibular branch of facial nerve\n(C) Posterior auricular nerve\n(D) Submandibular ganglion",
+    "expected_answer": "The correct answer is: (B) Mandibular branch of facial nerve",
+    "difficulty": "hard",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "MED_592",
+    "domain": "Medicine",
+    "task_type": "Surgery",
+    "prompt": "During mandibular nerve block which nerve also gets damaged?\n\nChoose the correct answer from the following options:\n(A) Abducence\n(B) Facial\n(C) Vagus\n(D) Trochlear",
+    "expected_answer": "The correct answer is: (B) Facial",
+    "difficulty": "hard",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "MED_597",
+    "domain": "Medicine",
+    "task_type": "Surgery",
+    "prompt": "What is the most common sequelae of traumatic shoulder dislocation in young adults?\n\nChoose the correct answer from the following options:\n(A) Rotator cuff tear\n(B) Recurrent shoulder dislocation\n(C) Adhesive capsulitis\n(D) Subscapular tendinitis",
+    "expected_answer": "The correct answer is: (B) Recurrent shoulder dislocation",
+    "difficulty": "hard",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "MED_605",
+    "domain": "Medicine",
+    "task_type": "Surgery",
+    "prompt": "Treatment of solitary langerhans histiocytoma of mandible is by\n\nChoose the correct answer from the following options:\n(A) Curettage\n(B) Radiotherapy\n(C) No treatment required\n(D) Chemotherapy",
+    "expected_answer": "The correct answer is: (A) Curettage",
+    "difficulty": "hard",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "MED_607",
+    "domain": "Medicine",
+    "task_type": "Surgery",
+    "prompt": "Most potent topical anesthestic is\n\nChoose the correct answer from the following options:\n(A) Mepivacaine\n(B) Prilocaine\n(C) Benzocaine\n(D) Tetracaine",
+    "expected_answer": "The correct answer is: (D) Tetracaine",
+    "difficulty": "hard",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "MED_649",
+    "domain": "Medicine",
+    "task_type": "Surgery",
+    "prompt": "A young patient has been admitted with A and had massive hemorrhage. He needs to be transfused with large amounts of fluids. Which IV cannula is preferred?\n\nChoose the correct answer from the following options:\n(A) Grey\n(B) Green\n(C) Blue\n(D) Pink",
+    "expected_answer": "The correct answer is: (B) Green",
+    "difficulty": "hard",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "MED_664",
+    "domain": "Medicine",
+    "task_type": "Surgery",
+    "prompt": "A patient has an infectious process associated with maxillary right Lateral incisor that tooth is deeply carious and non-restorable. His temperature is 102\u00b0F. The patient has not been able to chew for the past 24 hours. The right side of the face is swollen. The patient cannot open his right eye, on palpation the area is soft, painful to touch and tissue rebound when palpated; treatment for the patient should be\n\nChoose the correct answer from the following options:\n(A) Aspiration\n(B) Antibiotics of Heat only\n(C) Incision and Drainage\n(D) Antibiotics, heat and fluid",
+    "expected_answer": "The correct answer is: (A) Aspiration",
+    "difficulty": "hard",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "MED_680",
+    "domain": "Medicine",
+    "task_type": "Surgery",
+    "prompt": "The given below device is/used for:\n\nChoose the correct answer from the following options:\n(A) Pneumatic compression stocking\n(B) Varicose vein\n(C) Hypothermia\n(D) Cellulitis",
+    "expected_answer": "The correct answer is: (A) Pneumatic compression stocking",
+    "difficulty": "expert",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "MED_697",
+    "domain": "Medicine",
+    "task_type": "Surgery",
+    "prompt": "Commonest cause of TMJ ankylosis is\n\nChoose the correct answer from the following options:\n(A) Trauma\n(B) Development disturbances\n(C) Infections\n(D) Atrophy",
+    "expected_answer": "The correct answer is: (A) Trauma",
+    "difficulty": "hard",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "MED_698",
+    "domain": "Medicine",
+    "task_type": "Surgery",
+    "prompt": "A 48 years old female presents with seizure, recurrent gross hematuria and left flank abdominal pain. Abdominal CT reveals left perinephric hematoma with 3 cm angiomyolipoma along with multiple right renal angiomyolipoma measuring 1.5 to 6.5 cm. What would be the most probable diagnosis?\n\nChoose the correct answer from the following options:\n(A) VHL syndrome\n(B) Autosomal dominant polycystic kidney disease\n(C) Tuberous sclerosis\n(D) Hereditary angiolipoma",
+    "expected_answer": "The correct answer is: (C) Tuberous sclerosis",
+    "difficulty": "hard",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "MED_701",
+    "domain": "Medicine",
+    "task_type": "Surgery",
+    "prompt": "Peau d'Orange of breast is due to:September 2005, 2010, March 2007\n\nChoose the correct answer from the following options:\n(A) Obstruction of Vein\n(B) Obstruction of lymphatic ducts.\n(C) Obstruction of glandular ducts\n(D) Obstruction of aeries",
+    "expected_answer": "The correct answer is: (B) Obstruction of lymphatic ducts.",
+    "difficulty": "hard",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "MED_722",
+    "domain": "Medicine",
+    "task_type": "Surgery",
+    "prompt": "LA acts on nerve membrane by:\n\nChoose the correct answer from the following options:\n(A) Blocking conductance of Na+ from interior to exterior\n(B) Blocking conductance of Na+ from exterior to interior\n(C) Blocking conductance of K+ from interior to exterior\n(D) Blocking conductance of K+ from exterior to interior",
+    "expected_answer": "The correct answer is: (B) Blocking conductance of Na+ from exterior to interior",
+    "difficulty": "hard",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "MED_742",
+    "domain": "Medicine",
+    "task_type": "Surgery",
+    "prompt": "Direct impact on the bone will produce a:\n\nChoose the correct answer from the following options:\n(A) Transverse fracture\n(B) Oblique fracture\n(C) Spiral fracture\n(D) Comminuted fracture",
+    "expected_answer": "The correct answer is: (A) Transverse fracture",
+    "difficulty": "hard",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "MED_743",
+    "domain": "Medicine",
+    "task_type": "Surgery",
+    "prompt": "The cyst that moves by protruding the tongue is:\n\nChoose the correct answer from the following options:\n(A) Thyroglossal cyst\n(B) Median rhomboid cyst\n(C) Ranula\n(D) Tracheal cyst",
+    "expected_answer": "The correct answer is: (A) Thyroglossal cyst",
+    "difficulty": "hard",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "MED_751",
+    "domain": "Medicine",
+    "task_type": "Surgery",
+    "prompt": "A Iaday 35 years old lactating mother Presented with a Painful breast lump. Most appropriate initial investigation should be:\n\nChoose the correct answer from the following options:\n(A) Mammography\n(B) USG\n(C) MRI\n(D) X-ray",
+    "expected_answer": "The correct answer is: (B) USG",
+    "difficulty": "hard",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "MED_764",
+    "domain": "Medicine",
+    "task_type": "Surgery",
+    "prompt": "Injury to which of the following vessels is least likely to result in significant damage:\n\nChoose the correct answer from the following options:\n(A) Renal aery\n(B) Superior mesenteric aery\n(C) Inferior mesenteric aery\n(D) Celiac trunk",
+    "expected_answer": "The correct answer is: (C) Inferior mesenteric aery",
+    "difficulty": "hard",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "MED_778",
+    "domain": "Medicine",
+    "task_type": "Surgery",
+    "prompt": "Adeno ameloblastoma treatment\n\nChoose the correct answer from the following options:\n(A) Enbloc resection of maxilla\n(B) Marsupialization\n(C) Enucleation\n(D) No treatment",
+    "expected_answer": "The correct answer is: (C) Enucleation",
+    "difficulty": "hard",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "MED_790",
+    "domain": "Medicine",
+    "task_type": "Surgery",
+    "prompt": "Which combination forms day care anesthesia\n\nChoose the correct answer from the following options:\n(A) Fentanyl, propofol, Isoflurane\n(B) Pethidine, Propofol, Isoflurane\n(C) Thiopental pethidime, Halothane\n(D) Thiopentane, isoflurane fantanyt",
+    "expected_answer": "The correct answer is: (A) Fentanyl, propofol, Isoflurane",
+    "difficulty": "hard",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "MED_794",
+    "domain": "Medicine",
+    "task_type": "Surgery",
+    "prompt": "Chronic alcoholic comes with pain epigastrium and recurrent vomiting. On examination guarding in upper epigastrium. Chest X-ray normal. What to do next?\n\nChoose the correct answer from the following options:\n(A) UGI endoscopy\n(B) Serum lipase\n(C) CECT\n(D) Alcohol breath test",
+    "expected_answer": "The correct answer is: (B) Serum lipase",
+    "difficulty": "hard",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "MED_796",
+    "domain": "Medicine",
+    "task_type": "Surgery",
+    "prompt": "Which of the following scoring system is used for wound infection?\n\nChoose the correct answer from the following options:\n(A) ASA score\n(B) SIRS score\n(C) Southampton score\n(D) Glasgow score",
+    "expected_answer": "The correct answer is: (C) Southampton score",
+    "difficulty": "hard",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "MED_812",
+    "domain": "Medicine",
+    "task_type": "Surgery",
+    "prompt": "Which is the most conspicuous sign in breast cancer?\n\nChoose the correct answer from the following options:\n(A) Nipple retraction\n(B) Peau d'orange\n(C) Puckering\n(D) Cancer en-cuirasse",
+    "expected_answer": "The correct answer is: (B) Peau d'orange",
+    "difficulty": "expert",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "MED_832",
+    "domain": "Medicine",
+    "task_type": "Surgery",
+    "prompt": "Most common functional tumors of endocrine pancreas?\n\nChoose the correct answer from the following options:\n(A) Vipoma\n(B) Gastrinoma\n(C) Glucagonoma\n(D) Somatostatinoma",
+    "expected_answer": "The correct answer is: (B) Gastrinoma",
+    "difficulty": "hard",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "MED_852",
+    "domain": "Medicine",
+    "task_type": "Surgery",
+    "prompt": "A patient underwent extraction of 3rd molar experiences pain in socket on 3rd day; socket is tender with no fever and swelling: what treatment should be done\n\nChoose the correct answer from the following options:\n(A) Irrigation of socket with sedative placement and analgesic\n(B) Curettage of socket and induces bleeding\n(C) Left untreated and observe for few days\n(D) Start antibiotics followed by curettage of socket",
+    "expected_answer": "The correct answer is: (A) Irrigation of socket with sedative placement and analgesic",
+    "difficulty": "hard",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "MED_855",
+    "domain": "Medicine",
+    "task_type": "Surgery",
+    "prompt": "Following bilateral mandibular fracture in the canine region, the following muscles will tend to pull the mandible back:\n\nChoose the correct answer from the following options:\n(A) Genioglossus and anterior belly of digastric\n(B) Genioglossus and mylohyoid\n(C) Genioglossus and thyrohyoid\n(D) Genioglossus and masseter",
+    "expected_answer": "The correct answer is: (A) Genioglossus and anterior belly of digastric",
+    "difficulty": "hard",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "MED_863",
+    "domain": "Medicine",
+    "task_type": "Surgery",
+    "prompt": "Pick out odd drugs for anaesthetic emergencies are:\n\nChoose the correct answer from the following options:\n(A) AminophylLine\n(B) Epinephrine\n(C) Atropine sulphate\n(D) Amoxycillin",
+    "expected_answer": "The correct answer is: (D) Amoxycillin",
+    "difficulty": "hard",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "MED_872",
+    "domain": "Medicine",
+    "task_type": "Surgery",
+    "prompt": "Marathon runner had pain in anteromedial tibia on regular walking/jogging for long hours. X ray is normal. Doctor orders a bone scan. What may be the probable diagnosis\n\nChoose the correct answer from the following options:\n(A) Jones fracture\n(B) Shin splint\n(C) Lisfranc fracture\n(D) Nutcracker",
+    "expected_answer": "The correct answer is: (B) Shin splint",
+    "difficulty": "hard",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "MED_885",
+    "domain": "Medicine",
+    "task_type": "Surgery",
+    "prompt": "In esophageal varices bleeding, which of the following is not used?\n\nChoose the correct answer from the following options:\n(A) Endoscopy banding\n(B) Octreotide\n(C) Platelet transfusion\n(D) TIPS",
+    "expected_answer": "The correct answer is: (C) Platelet transfusion",
+    "difficulty": "hard",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "MED_895",
+    "domain": "Medicine",
+    "task_type": "Surgery",
+    "prompt": "Most difficult maxillary tooth to anaesthetize by infiltration is :\n\nChoose the correct answer from the following options:\n(A) 1st molar\n(B) 1st premolar\n(C) Canine\n(D) 3rd molar",
+    "expected_answer": "The correct answer is: (A) 1st molar",
+    "difficulty": "hard",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "MED_906",
+    "domain": "Medicine",
+    "task_type": "Surgery",
+    "prompt": "On massive blood transfusion the following complication occurs-\n\nChoose the correct answer from the following options:\n(A) Respiratory acidosis\n(B) Metabolic acidosis\n(C) Metabolic alkalosis\n(D) Respiratory alkalosis",
+    "expected_answer": "The correct answer is: (C) Metabolic alkalosis",
+    "difficulty": "hard",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "MED_917",
+    "domain": "Medicine",
+    "task_type": "Surgery",
+    "prompt": "Maximum chances of fracture are present when which of these forces are present on a bone:\n\nChoose the correct answer from the following options:\n(A) Tension\n(B) Torsion\n(C) Compression\n(D) Either of the three",
+    "expected_answer": "The correct answer is: (A) Tension",
+    "difficulty": "hard",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "MED_922",
+    "domain": "Medicine",
+    "task_type": "Surgery",
+    "prompt": "Which metabolic condition has phosphaturia and osteomalacia?\n\nChoose the correct answer from the following options:\n(A) Fibrosarcoma\n(B) Osteosarcoma\n(C) Undifferentiated sarcoma\n(D) Malignant peripheral nerve sheath tumor",
+    "expected_answer": "The correct answer is: (A) Fibrosarcoma",
+    "difficulty": "hard",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "MED_930",
+    "domain": "Medicine",
+    "task_type": "Surgery",
+    "prompt": "The maxillary sinus drains into the\n\nChoose the correct answer from the following options:\n(A) Middle meatus\n(B) Inferior meatus\n(C) Superior meatus\n(D) Sphenoethmoidal recess",
+    "expected_answer": "The correct answer is: (A) Middle meatus",
+    "difficulty": "hard",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "MED_952",
+    "domain": "Medicine",
+    "task_type": "Surgery",
+    "prompt": "Main mechanism of action of heparin Is to prevent:\n\nChoose the correct answer from the following options:\n(A) Conversion of fibrinogen to fibrin\n(B) Conversion of prothrombin to thrombin\n(C) PTC to PTA\n(D) Factor VIIa inhibition",
+    "expected_answer": "The correct answer is: (B) Conversion of prothrombin to thrombin",
+    "difficulty": "hard",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "MED_962",
+    "domain": "Medicine",
+    "task_type": "Surgery",
+    "prompt": "An empty cavity in the mandible with no lining is\nmostly likely to be:\n\nChoose the correct answer from the following options:\n(A) Aneurysmal bone cyst\n(B) Idiopathic bone cavity\n(C) Dentigerous cyst\n(D) Keratocyst",
+    "expected_answer": "The correct answer is: (B) Idiopathic bone cavity",
+    "difficulty": "hard",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "MED_964",
+    "domain": "Medicine",
+    "task_type": "Surgery",
+    "prompt": "Which is not associated with GDM (Gestational DM)?\n\nChoose the correct answer from the following options:\n(A) Past history of fetal abnormality\n(B) Obesity\n(C) Hypeension\n(D) Macrosomia",
+    "expected_answer": "The correct answer is: (C) Hypeension",
+    "difficulty": "hard",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "MED_967",
+    "domain": "Medicine",
+    "task_type": "Surgery",
+    "prompt": "Excessive bleeding during oral surgery can be decreased in which position?\n\nChoose the correct answer from the following options:\n(A) Head up\n(B) Head down\n(C) Prone\n(D) Supine",
+    "expected_answer": "The correct answer is: (A) Head up",
+    "difficulty": "hard",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "MED_976",
+    "domain": "Medicine",
+    "task_type": "Surgery",
+    "prompt": "A 36 years old patient underwent breast conservation therapy and chemotherapy for a 1.5 x 1.2 cm ER positive breast cancer with one positive axillary lymph node. She is now on tamoxifen. How will you follow-up the patient?\n\nChoose the correct answer from the following options:\n(A) Annual bone scan\n(B) Assessment of tumor markers 6 monthly\n(C) Routine clinical examination 3 monthly in 1st year with annual mammogram\n(D) Routine clinical examination 3 monthly and 6 monthly liver function tests",
+    "expected_answer": "The correct answer is: (C) Routine clinical examination 3 monthly in 1st year with annual mammogram",
+    "difficulty": "hard",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "MED_980",
+    "domain": "Medicine",
+    "task_type": "Surgery",
+    "prompt": "Numbness on shaving after parotidectomy due to which nerve injury?\n\nChoose the correct answer from the following options:\n(A) Facial nerve\n(B) Auriculotemporal nerve\n(C) Greater auricular nerve\n(D) Occipital nerve",
+    "expected_answer": "The correct answer is: (B) Auriculotemporal nerve",
+    "difficulty": "hard",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "MED_983",
+    "domain": "Medicine",
+    "task_type": "Surgery",
+    "prompt": "On loading the fracture mandible posterior to the site of fracture, which of the following is present:\n\nChoose the correct answer from the following options:\n(A) Tension on upper border\n(B) Compression on upper border\n(C) Compression on medial surface\n(D) Compression on inferior surface",
+    "expected_answer": "The correct answer is: (B) Compression on upper border",
+    "difficulty": "hard",
+    "evaluation_metric": "exact_match"
+  }
+]

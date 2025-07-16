@@ -1,0 +1,11 @@
+[
+  {
+    "task_id": "MED_030",
+    "domain": "Medicine",
+    "task_type": "Hepatology",
+    "prompt": "Answer the question based on the following context: Portal vein embolization is used in the treatment of hepatocellular cancer, with the purpose of enhancing resectability. However, regeneration is restricted due to hepatocellular injury following chemotherapeutics (e.g. doxorubicin). The aim of this study was to investigate whether hyperbaric oxygenation (HBO) can alleviate the hepatotoxicity of chemotherapy and improve regeneration in the injured liver. Rats were allocated to four experimental groups. Group I rats were subjected to right portal vein ligation (RPVL); rats in groups II and III were administered doxorubicin prior to RPVL, with group III rats being additionally exposed to HBO sessions postoperatively; group IV rats was sham-operated. All rats were sacrificed on postoperative day 7, and liver injury was assessed by measuring alanine aminotransferase (ALT) and aspartate aminotransferase (AST) levels. Protein synthetic ability was determined based albumin levels and liver regeneration by the mitotic index (MI). The AST and ALT values of group II rats were significantly higher than those of group I, but not those of group III. Rats treated with doxorubicin and HBO (groups II and III) showed slightly but not significant differences in albumin levels than those subjected to only RPVL or sham-operated. The MI was significantly increased in groups I, II, and III, with the MI of group III rats significantly higher than those of group I rats.\nQuestion: Can hyperbaric oxygenation decrease doxorubicin hepatotoxicity and improve regeneration in the injured liver?",
+    "expected_answer": "Based on our results, we conclude that HBO treatment has the potential to diminish doxorubicin-related hepatotoxicity and improve regeneration in the injured liver.",
+    "difficulty": "expert",
+    "evaluation_metric": "exact_match"
+  }
+]

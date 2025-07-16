@@ -1,0 +1,2801 @@
+[
+  {
+    "task_id": "MED_003",
+    "domain": "Medicine",
+    "task_type": "Dental",
+    "prompt": "Dark points on teeth along with tooth destruction of 4 years old patient\n\nChoose the correct answer from the following options:\n(A) ECC\n(B) Staining\n(C) Fluorosis\n(D) Deep caries",
+    "expected_answer": "The correct answer is: (A) ECC",
+    "difficulty": "hard",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "MED_005",
+    "domain": "Medicine",
+    "task_type": "Dental",
+    "prompt": "1st dental visit of the child should be at the age of:\n\nChoose the correct answer from the following options:\n(A) 6 months\n(B) 1 year\n(C) 2 years\n(D) 3 months",
+    "expected_answer": "The correct answer is: (B) 1 year",
+    "difficulty": "hard",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "MED_008",
+    "domain": "Medicine",
+    "task_type": "Dental",
+    "prompt": "Pellicle formation involves\n\nChoose the correct answer from the following options:\n(A) Adsorption of acidic glycoproteins from saliva\n(B) Focal areas of mineralisation\n(C) Focal areas of necrosis\n(D) Bacterial colonization",
+    "expected_answer": "The correct answer is: (A) Adsorption of acidic glycoproteins from saliva",
+    "difficulty": "hard",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "MED_022",
+    "domain": "Medicine",
+    "task_type": "Dental",
+    "prompt": "The strength of a gypsum investment is dependent\non:\n\nChoose the correct answer from the following options:\n(A) Carbon content\n(B) Silica content\n(C) Gypsum\n(D) Copper",
+    "expected_answer": "The correct answer is: (C) Gypsum",
+    "difficulty": "hard",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "MED_023",
+    "domain": "Medicine",
+    "task_type": "Dental",
+    "prompt": "Which component of zinc oxide-eugenol cement gives its strength?\n\nChoose the correct answer from the following options:\n(A) Rosin\n(B) Zinc oxide\n(C) Zinc acetate\n(D) Oil of cloves",
+    "expected_answer": "The correct answer is: (B) Zinc oxide",
+    "difficulty": "hard",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "MED_028",
+    "domain": "Medicine",
+    "task_type": "Dental",
+    "prompt": "Tobacco Chewing/ smoking is the most common predisposing cause of which of the following:\n\nChoose the correct answer from the following options:\n(A) Cyclic neutropenia\n(B) Juvenile periodontitis\n(C) Necrotising periodontitis\n(D) Necrotising ulcerative gingivitis (ANUG)",
+    "expected_answer": "The correct answer is: (D) Necrotising ulcerative gingivitis (ANUG)",
+    "difficulty": "hard",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "MED_029",
+    "domain": "Medicine",
+    "task_type": "Dental",
+    "prompt": "Which of the following has a bifid root?\n\nChoose the correct answer from the following options:\n(A) 32, 42\n(B) 31, 41\n(C) 34, 44\n(D) 13, 23",
+    "expected_answer": "The correct answer is: (C) 34, 44",
+    "difficulty": "hard",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "MED_030",
+    "domain": "Medicine",
+    "task_type": "Dental",
+    "prompt": "Angles between Adhesive and Adherent is Zero degree, it indicates:\n\nChoose the correct answer from the following options:\n(A) Complete wetting of surfaces\n(B) Rough surfaces between Adhesive & Adherent\n(C) Adherent and adhesive molecules are tangent to each other\n(D) Irregularities present between Adherent surfaces",
+    "expected_answer": "The correct answer is: (A) Complete wetting of surfaces",
+    "difficulty": "hard",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "MED_032",
+    "domain": "Medicine",
+    "task_type": "Dental",
+    "prompt": "Which periodontal fibres are consistent and are reconstructed even after the destruction of the alveolar bone?\n\nChoose the correct answer from the following options:\n(A) Apical\n(B) Alveolar crest group\n(C) Oblique\n(D) Transseptal",
+    "expected_answer": "The correct answer is: (D) Transseptal",
+    "difficulty": "hard",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "MED_033",
+    "domain": "Medicine",
+    "task_type": "Dental",
+    "prompt": "C-factor is associated with?\n\nChoose the correct answer from the following options:\n(A) Condensing force for amalgam\n(B) Cavity preparation factor for amalgam\n(C) Root curvature\n(D) Polymerisation shrinkage in composite",
+    "expected_answer": "The correct answer is: (D) Polymerisation shrinkage in composite",
+    "difficulty": "hard",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "MED_040",
+    "domain": "Medicine",
+    "task_type": "Dental",
+    "prompt": "MB2 (In maxillary first molar)can be seen through Dental operating microscope in what percentage of cases\n\nChoose the correct answer from the following options:\n(A) 90-95%\n(B) 70-85%\n(C) 62-70%\n(D) 30-40%",
+    "expected_answer": "The correct answer is: (A) 90-95%",
+    "difficulty": "hard",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "MED_043",
+    "domain": "Medicine",
+    "task_type": "Dental",
+    "prompt": "In class II cavity for inlay, the cavosurface margin of the gingival seat clears the adjacent tooth by:\n\nChoose the correct answer from the following options:\n(A) 0.20+ 0.05mm\n(B) 0.50+ 0.20mm\n(C) 0.80 \u00b1 0.35mm\n(D) 1.10 \u00b1 0.45mm",
+    "expected_answer": "The correct answer is: (B) 0.50+ 0.20mm",
+    "difficulty": "hard",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "MED_054",
+    "domain": "Medicine",
+    "task_type": "Dental",
+    "prompt": "Korffs fibres are seen in:\n\nChoose the correct answer from the following options:\n(A) Mantle dentin\n(B) Secondary dentin\n(C) Reactionary dentin\n(D) Indeed dermal tubules",
+    "expected_answer": "The correct answer is: (A) Mantle dentin",
+    "difficulty": "hard",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "MED_056",
+    "domain": "Medicine",
+    "task_type": "Dental",
+    "prompt": "Average Diameter of Apical foramen in an 18-25 years old adult is\n\nChoose the correct answer from the following options:\n(A) 400 micrometer\n(B) 502 micrometer\n(C) 681 micrometer\n(D) 602 micrometer",
+    "expected_answer": "The correct answer is: (B) 502 micrometer",
+    "difficulty": "hard",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "MED_057",
+    "domain": "Medicine",
+    "task_type": "Dental",
+    "prompt": "Which of the following is not a function of guiding plane?\n\nChoose the correct answer from the following options:\n(A) Provide one path of insertion and removal of the restoration\n(B) Provide stabilizing characteristics against horizontal rotation of denture\n(C) Eliminate detrimental strain to abutment teeth during placing or removing restoration\n(D) Engage the abutment tooth in such a manner as to resist displacement of restoration away from basal seat",
+    "expected_answer": "The correct answer is: (D) Engage the abutment tooth in such a manner as to resist displacement of restoration away from basal seat",
+    "difficulty": "hard",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "MED_060",
+    "domain": "Medicine",
+    "task_type": "Dental",
+    "prompt": "Which type of trauma is associated with destruction of protective layer?\n\nChoose the correct answer from the following options:\n(A) Intrusion\n(B) Extrusion\n(C) Avulsion\n(D) Lateral luxation",
+    "expected_answer": "The correct answer is: (A) Intrusion",
+    "difficulty": "hard",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "MED_061",
+    "domain": "Medicine",
+    "task_type": "Dental",
+    "prompt": "Which of the following series act as the best space\nmaintainer in a child's mouth?\n\nChoose the correct answer from the following options:\n(A) Restored deciduous tooth\n(B) Acrylic partial denture\n(C) Distal shoe space maintainer\n(D) Band and loop space maintainer",
+    "expected_answer": "The correct answer is: (A) Restored deciduous tooth",
+    "difficulty": "hard",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "MED_062",
+    "domain": "Medicine",
+    "task_type": "Dental",
+    "prompt": "Tooth most frequently requiring RCT is:\n\nChoose the correct answer from the following options:\n(A) Mandibular 1st molar\n(B) Maxillary 1st molar\n(C) Mandibular 2nd premolar\n(D) Maxillary 2nd premolar",
+    "expected_answer": "The correct answer is: (A) Mandibular 1st molar",
+    "difficulty": "hard",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "MED_065",
+    "domain": "Medicine",
+    "task_type": "Dental",
+    "prompt": "Most common phobia in chilhood:\n\nChoose the correct answer from the following options:\n(A) Zoophobia\n(B) Nyclophobia\n(C) Xenophobia.\n(D) Claustrophobia",
+    "expected_answer": "The correct answer is: (A) Zoophobia",
+    "difficulty": "hard",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "MED_066",
+    "domain": "Medicine",
+    "task_type": "Dental",
+    "prompt": "Impedence based apex locator is:\n\nChoose the correct answer from the following options:\n(A) Generation 1\n(B) Generation 2\n(C) Generation 3\n(D) Generation 4",
+    "expected_answer": "The correct answer is: (B) Generation 2",
+    "difficulty": "hard",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "MED_067",
+    "domain": "Medicine",
+    "task_type": "Dental",
+    "prompt": "Halo effect surrounding the root of tooth on IOPA X-Ray is seen with?\n\nChoose the correct answer from the following options:\n(A) Horizontal root fracture\n(B) Root caries\n(C) Widening of periodontal ligament space\n(D) Periapical-periostitis",
+    "expected_answer": "The correct answer is: (D) Periapical-periostitis",
+    "difficulty": "hard",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "MED_071",
+    "domain": "Medicine",
+    "task_type": "Dental",
+    "prompt": "Which of the following is used as a bio-degradable membrane in \"guided tissue regeneration\" process?\n\nChoose the correct answer from the following options:\n(A) Polylactic acid\n(B) Poly tetrafluoroethylene\n(C) Millipore\n(D) Core membrane",
+    "expected_answer": "The correct answer is: (A) Polylactic acid",
+    "difficulty": "hard",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "MED_077",
+    "domain": "Medicine",
+    "task_type": "Dental",
+    "prompt": "The \"Pulse oximetry\" used in the determination of:\n\nChoose the correct answer from the following options:\n(A) Rate of flow\n(B) Oxygen saturation\n(C) Blood volume\n(D) Blood coefficient",
+    "expected_answer": "The correct answer is: (B) Oxygen saturation",
+    "difficulty": "hard",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "MED_078",
+    "domain": "Medicine",
+    "task_type": "Dental",
+    "prompt": "The minimum incidence of cleft palate is seen in which of the following:\n\nChoose the correct answer from the following options:\n(A) Mongoloid\n(B) Afghans\n(C) Negroes\n(D) South Americans",
+    "expected_answer": "The correct answer is: (C) Negroes",
+    "difficulty": "hard",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "MED_092",
+    "domain": "Medicine",
+    "task_type": "Dental",
+    "prompt": "Improved marginal adaptation in a composite restoration can be achieved by:\n\nChoose the correct answer from the following options:\n(A) Moisture free environment\n(B) Application of pressure\n(C) Acid etching\n(D) Continued packing",
+    "expected_answer": "The correct answer is: (C) Acid etching",
+    "difficulty": "hard",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "MED_097",
+    "domain": "Medicine",
+    "task_type": "Dental",
+    "prompt": "Mid palatal split following Le-Fort 1 osteotomy is done by moving the maxilla in which direction?\n\nChoose the correct answer from the following options:\n(A) Superior\n(B) Inferior\n(C) Antero-posterior\n(D) Transverse",
+    "expected_answer": "The correct answer is: (D) Transverse",
+    "difficulty": "hard",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "MED_098",
+    "domain": "Medicine",
+    "task_type": "Dental",
+    "prompt": "School based dental health care for whole country is adopted by which of the following country?\n\nChoose the correct answer from the following options:\n(A) USA\n(B) NewZealand\n(C) Sweden\n(D) Australia",
+    "expected_answer": "The correct answer is: (B) NewZealand",
+    "difficulty": "hard",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "MED_099",
+    "domain": "Medicine",
+    "task_type": "Dental",
+    "prompt": "Normal WBC count\n\nChoose the correct answer from the following options:\n(A) 4,000-11,000\n(B) 40000 -80000\n(C) 13000-17000\n(D) 1000-3000",
+    "expected_answer": "The correct answer is: (A) 4,000-11,000",
+    "difficulty": "hard",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "MED_104",
+    "domain": "Medicine",
+    "task_type": "Dental",
+    "prompt": "Steepest cusp is seen in:\n\nChoose the correct answer from the following options:\n(A) Maxillary 1st premolar\n(B) Maxillary 1st molar\n(C) Mandibular IInd molar\n(D) Mandibular 1st molar",
+    "expected_answer": "The correct answer is: (A) Maxillary 1st premolar",
+    "difficulty": "hard",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "MED_108",
+    "domain": "Medicine",
+    "task_type": "Dental",
+    "prompt": "Process shown in color plate is:\n\nChoose the correct answer from the following options:\n(A) Bleeding on probing.\n(B) Bone sounding.\n(C) Pocket measurement\n(D) Attached ginigiva measurement",
+    "expected_answer": "The correct answer is: (B) Bone sounding.",
+    "difficulty": "hard",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "MED_109",
+    "domain": "Medicine",
+    "task_type": "Dental",
+    "prompt": "Hammock ligament is present:\n\nChoose the correct answer from the following options:\n(A) Between temporal and sphenoid bone\n(B) Between hamular notch and mandible\n(C) In apical area of a tooth\n(D) As a part of deep cervical fascia",
+    "expected_answer": "The correct answer is: (C) In apical area of a tooth",
+    "difficulty": "hard",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "MED_111",
+    "domain": "Medicine",
+    "task_type": "Dental",
+    "prompt": "Chewing stroke starts from?\n\nChoose the correct answer from the following options:\n(A) CO\n(B) CR\n(C) Maximum intercuspation\n(D) CR or CO depends on patient to patient",
+    "expected_answer": "The correct answer is: (D) CR or CO depends on patient to patient",
+    "difficulty": "hard",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "MED_119",
+    "domain": "Medicine",
+    "task_type": "Dental",
+    "prompt": "Estimate the dental age from the radiograph:\n\nChoose the correct answer from the following options:\n(A) 5 years\n(B) 10 years\n(C) 15 years\n(D) 25 years",
+    "expected_answer": "The correct answer is: (C) 15 years",
+    "difficulty": "hard",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "MED_121",
+    "domain": "Medicine",
+    "task_type": "Dental",
+    "prompt": "On rubber dam application gingiva is seen protruding out of margins, it can be seen due to?\n\nChoose the correct answer from the following options:\n(A) Edematous gingival tissues\n(B) Holes paced too far apart\n(C) Using a light-weight dam\n(D) Holes placed too close together",
+    "expected_answer": "The correct answer is: (D) Holes placed too close together",
+    "difficulty": "hard",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "MED_126",
+    "domain": "Medicine",
+    "task_type": "Dental",
+    "prompt": "Which is the only anterior teeth with Mesiodistal size more than Cervicoincisal dimension\n\nChoose the correct answer from the following options:\n(A) Deciduous lower central incisor\n(B) Permanent lower central incisor\n(C) Deciduous upper lateral incisor\n(D) Permanent upper lateral incisor",
+    "expected_answer": "The correct answer is: (C) Deciduous upper lateral incisor",
+    "difficulty": "hard",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "MED_128",
+    "domain": "Medicine",
+    "task_type": "Dental",
+    "prompt": "The cohesion of direct gold filling at room temperature\nis an example of:\n\nChoose the correct answer from the following options:\n(A) Wedging\n(B) Annealing\n(C) Adaptability\n(D) Atomic attraction",
+    "expected_answer": "The correct answer is: (D) Atomic attraction",
+    "difficulty": "hard",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "MED_129",
+    "domain": "Medicine",
+    "task_type": "Dental",
+    "prompt": "Which of the following cephalometric analysis does not reveal the severity of anteroposterior jaw dysplasia?\n\nChoose the correct answer from the following options:\n(A) Down's analysis\n(B) Steiner analysis\n(C) Tweed's analysis\n(D) Wit's analysis",
+    "expected_answer": "The correct answer is: (C) Tweed's analysis",
+    "difficulty": "hard",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "MED_131",
+    "domain": "Medicine",
+    "task_type": "Dental",
+    "prompt": "Sharpest cusp is seen in\n\nChoose the correct answer from the following options:\n(A) Upper Canine\n(B) Lower Canine\n(C) Upper Premolar\n(D) Lower premolar",
+    "expected_answer": "The correct answer is: (A) Upper Canine",
+    "difficulty": "hard",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "MED_133",
+    "domain": "Medicine",
+    "task_type": "Dental",
+    "prompt": "Predisposing clinical condition for endodontic flare up?\n\nChoose the correct answer from the following options:\n(A) Acute periapical abscess\n(B) Acute apical periodontitis\n(C) Asymptomatic necrotic pulp with periapical lesion\n(D) Pain and swelling since the treatment",
+    "expected_answer": "The correct answer is: (C) Asymptomatic necrotic pulp with periapical lesion",
+    "difficulty": "hard",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "MED_136",
+    "domain": "Medicine",
+    "task_type": "Dental",
+    "prompt": "A traumatized tooth nonvital with or without crown\nfracture is classified as\n\nChoose the correct answer from the following options:\n(A) Class-III\n(B) Class-IV\n(C) Class -V\n(D) Class-VII",
+    "expected_answer": "The correct answer is: (B) Class-IV",
+    "difficulty": "hard",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "MED_139",
+    "domain": "Medicine",
+    "task_type": "Dental",
+    "prompt": "Square knot is composed of:\n\nChoose the correct answer from the following options:\n(A) Two single loops thrown in opposite direction\n(B) Two double loops thrown in opposite direction\n(C) Two single loops thrown in same direction\n(D) Two double loops thrown in Same direction",
+    "expected_answer": "The correct answer is: (A) Two single loops thrown in opposite direction",
+    "difficulty": "hard",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "MED_143",
+    "domain": "Medicine",
+    "task_type": "Dental",
+    "prompt": "Main concern during prosthodontics surgery and better prosthetic prognosis?\n\nChoose the correct answer from the following options:\n(A) Continuity defects\n(B) Minimal invasion\n(C) Occlusion\n(D) Cost",
+    "expected_answer": "The correct answer is: (B) Minimal invasion",
+    "difficulty": "hard",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "MED_145",
+    "domain": "Medicine",
+    "task_type": "Dental",
+    "prompt": "Strain is defined as:\n\nChoose the correct answer from the following options:\n(A) An applied load or force\n(B) A deformation resulting from an applied load\n(C) An external force opposing an applied load\n(D) An internal force opposing an applied Load",
+    "expected_answer": "The correct answer is: (B) A deformation resulting from an applied load",
+    "difficulty": "hard",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "MED_147",
+    "domain": "Medicine",
+    "task_type": "Dental",
+    "prompt": "Caries tetralogy by Newburn includes the fourth factor, which is:\n\nChoose the correct answer from the following options:\n(A) Temperature.\n(B) Time.\n(C) Frequency.\n(D) Substrate.",
+    "expected_answer": "The correct answer is: (B) Time.",
+    "difficulty": "hard",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "MED_149",
+    "domain": "Medicine",
+    "task_type": "Dental",
+    "prompt": "For how long should NiTi files be submerged in NaOCl at 122-degree F to prevent damage to file corrosion\n\nChoose the correct answer from the following options:\n(A) 20 mins\n(B) 45 mins\n(C) 60 mins\n(D) 2 hours",
+    "expected_answer": "The correct answer is: (C) 60 mins",
+    "difficulty": "hard",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "MED_155",
+    "domain": "Medicine",
+    "task_type": "Dental",
+    "prompt": "Antempasterior relation of jaws is measured by:\n\nChoose the correct answer from the following options:\n(A) ANB angle\n(B) Angle between SN & FH Plane\n(C) Angle between SN & mandibular plane\n(D) Facial angle",
+    "expected_answer": "The correct answer is: (A) ANB angle",
+    "difficulty": "hard",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "MED_159",
+    "domain": "Medicine",
+    "task_type": "Dental",
+    "prompt": "Increase in the residual mercury in silver amalgam filling can:\n\nChoose the correct answer from the following options:\n(A) Cause fracture of the filling\n(B) Tarnish and corrosion\n(C) Increase the strength\n(D) Decrease condensation pressure",
+    "expected_answer": "The correct answer is: (A) Cause fracture of the filling",
+    "difficulty": "hard",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "MED_164",
+    "domain": "Medicine",
+    "task_type": "Dental",
+    "prompt": "During periradicular surgery bone is removed with?\n\nChoose the correct answer from the following options:\n(A) Round burr\n(B) Double inverted cone burr\n(C) Fissure burr\n(D) Taper Burr",
+    "expected_answer": "The correct answer is: (A) Round burr",
+    "difficulty": "hard",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "MED_167",
+    "domain": "Medicine",
+    "task_type": "Dental",
+    "prompt": "C shaped root canals are preferably found in (Maximum incidence)\n\nChoose the correct answer from the following options:\n(A) Mand 1st molar\n(B) Maxillary 2nd molar\n(C) Maxillary 1stmolar\n(D) Mand 2nd molar",
+    "expected_answer": "The correct answer is: (D) Mand 2nd molar",
+    "difficulty": "hard",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "MED_168",
+    "domain": "Medicine",
+    "task_type": "Dental",
+    "prompt": "The disturbances occurred during \"Calcification\" stage of tooth development is seen in:\n\nChoose the correct answer from the following options:\n(A) Peg laterals\n(B) Microdontia\n(C) Supernumerary tooth\n(D) Interglobular dentin",
+    "expected_answer": "The correct answer is: (D) Interglobular dentin",
+    "difficulty": "hard",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "MED_169",
+    "domain": "Medicine",
+    "task_type": "Dental",
+    "prompt": "70-74.9% cephalic index indicates:\n\nChoose the correct answer from the following options:\n(A) Hyperdolichocephalic\n(B) Dolichocephalic\n(C) Mesocephalic\n(D) Brachycephalic",
+    "expected_answer": "The correct answer is: (B) Dolichocephalic",
+    "difficulty": "hard",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "MED_171",
+    "domain": "Medicine",
+    "task_type": "Dental",
+    "prompt": "In heavy calculus formers, early plaque consists of Ca, PO4 and k in what proportions:\n\nChoose the correct answer from the following options:\n(A) Calcium > phosphorous > potassium\n(B) Phosphorous > potassium > calcium\n(C) Phosphorous > calcium > potassium\n(D) Potassium > phosphorous > calcium",
+    "expected_answer": "The correct answer is: (C) Phosphorous > calcium > potassium",
+    "difficulty": "hard",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "MED_175",
+    "domain": "Medicine",
+    "task_type": "Dental",
+    "prompt": "Occlusal isthmus of a M.O. dental amalgam is resistant to fracture if:\n\nChoose the correct answer from the following options:\n(A) Pulpal floor depth is 1mm\n(B) Dove tail is present\n(C) Axiopulpal line angle is rounded\n(D) Unsupported enamel at the gingival cavosurface margin is planed",
+    "expected_answer": "The correct answer is: (C) Axiopulpal line angle is rounded",
+    "difficulty": "hard",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "MED_181",
+    "domain": "Medicine",
+    "task_type": "Dental",
+    "prompt": "Difference between physical characteristic of reamers and files is:\n\nChoose the correct answer from the following options:\n(A) The cross-section of reamers in square and files are triangular in cross-section\n(B) The number of flutes on the blade are more in files than in reamers\n(C) The reamers have more flutes in the blade\n(D) Files have two superficial grooves to produce flutes in a double helix design",
+    "expected_answer": "The correct answer is: (B) The number of flutes on the blade are more in files than in reamers",
+    "difficulty": "hard",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "MED_184",
+    "domain": "Medicine",
+    "task_type": "Dental",
+    "prompt": "Alginate at 20 degrees, the gel is formed in\n\nChoose the correct answer from the following options:\n(A) 3-4 mins.\n(B) 6-8 mins.\n(C) 15-16 mins.\n(D) 1-2 min.",
+    "expected_answer": "The correct answer is: (A) 3-4 mins.",
+    "difficulty": "hard",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "MED_186",
+    "domain": "Medicine",
+    "task_type": "Dental",
+    "prompt": "Father of statistics\n\nChoose the correct answer from the following options:\n(A) John Snow\n(B) John Graunt\n(C) MacMahon\n(D) John M. Last",
+    "expected_answer": "The correct answer is: (B) John Graunt",
+    "difficulty": "hard",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "MED_188",
+    "domain": "Medicine",
+    "task_type": "Dental",
+    "prompt": "A patient complains of sensitivity in a Mandibular premolar. A well condensed class V amalgam restoration was placed in that tooth 5 months ago, with no discomfort for the first 4 months. Since then it has become increasingly sensitive. The problem probably relates to:\n\nChoose the correct answer from the following options:\n(A) Marginal leakage\n(B) Fractured restoration\n(C) Irreversible pulpal damage\n(D) Tooth brush abrasion",
+    "expected_answer": "The correct answer is: (C) Irreversible pulpal damage",
+    "difficulty": "hard",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "MED_189",
+    "domain": "Medicine",
+    "task_type": "Dental",
+    "prompt": "The resolution of IOPA is about:\n\nChoose the correct answer from the following options:\n(A) 10 Lp/mm\n(B) 16 Lp/mm\n(C) 28 Lp/mm\n(D) 30 Lp/mm",
+    "expected_answer": "The correct answer is: (B) 16 Lp/mm",
+    "difficulty": "hard",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "MED_191",
+    "domain": "Medicine",
+    "task_type": "Dental",
+    "prompt": "Gutta Percha can effectively be sterilized by?\n\nChoose the correct answer from the following options:\n(A) Hot salt sterilizer\n(B) Chemical solutions\n(C) Autoclaving\n(D) Dry heat",
+    "expected_answer": "The correct answer is: (B) Chemical solutions",
+    "difficulty": "hard",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "MED_193",
+    "domain": "Medicine",
+    "task_type": "Dental",
+    "prompt": "Mgo added to alginate power to modify which property:\n\nChoose the correct answer from the following options:\n(A) Increases surface character.\n(B) Increases shelf life.\n(C) Increases shear and tear strength.\n(D) Improve strength.",
+    "expected_answer": "The correct answer is: (A) Increases surface character.",
+    "difficulty": "hard",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "MED_194",
+    "domain": "Medicine",
+    "task_type": "Dental",
+    "prompt": "Difference between mandibular and maxillary premolars is that in the mandibular premolars:\n\nChoose the correct answer from the following options:\n(A) The buccal and lingual cusps are more prominent\n(B) The lingual cusp is sharper and longer\n(C) The lingual surface rounded and less developed\n(D) The buccal surface is rounded and Less developed",
+    "expected_answer": "The correct answer is: (C) The lingual surface rounded and less developed",
+    "difficulty": "hard",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "MED_195",
+    "domain": "Medicine",
+    "task_type": "Dental",
+    "prompt": "The function of posterior palatal seal is:\n\nChoose the correct answer from the following options:\n(A) To aid in balanced occlusion\n(B) To aid in insertion and removal of complete denture\n(C) To ensure a complete seal thus helping in retention of a denture\n(D) Retention of mandibular denture by sealing its posterior margin.",
+    "expected_answer": "The correct answer is: (C) To ensure a complete seal thus helping in retention of a denture",
+    "difficulty": "hard",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "MED_198",
+    "domain": "Medicine",
+    "task_type": "Dental",
+    "prompt": "What percentage of cases of mandibular incisors have single apical foramen\n\nChoose the correct answer from the following options:\n(A) 97.80%\n(B) 82.50%\n(C) 60%\n(D) 60%- 78%",
+    "expected_answer": "The correct answer is: (A) 97.80%",
+    "difficulty": "hard",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "MED_200",
+    "domain": "Medicine",
+    "task_type": "Dental",
+    "prompt": "Heavy and light body impression materials are used with:\n\nChoose the correct answer from the following options:\n(A) Mercaptan\n(B) Silicone\n(C) Reversible hydrocolloid\n(D) 1 and 2",
+    "expected_answer": "The correct answer is: (D) 1 and 2",
+    "difficulty": "hard",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "MED_203",
+    "domain": "Medicine",
+    "task_type": "Dental",
+    "prompt": "Most modern precapsulated dental amalgam formulated with\n\nChoose the correct answer from the following options:\n(A) 50-55% hg by wt.\n(B) 40-45% hg by wt.\n(C) 25-35% hg by wt.\n(D) 15-25% hg by wt.",
+    "expected_answer": "The correct answer is: (B) 40-45% hg by wt.",
+    "difficulty": "hard",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "MED_208",
+    "domain": "Medicine",
+    "task_type": "Dental",
+    "prompt": "Light transmitting wedges transmit:\n\nChoose the correct answer from the following options:\n(A) 70-80% of incident light\n(B) 80-85% of incident light\n(C) 85-90% of incident light\n(D) 90-95% of incident light",
+    "expected_answer": "The correct answer is: (D) 90-95% of incident light",
+    "difficulty": "hard",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "MED_210",
+    "domain": "Medicine",
+    "task_type": "Dental",
+    "prompt": "Gjessing canine is made up of\n\nChoose the correct answer from the following options:\n(A) 0.18 x 0.25 stainless steel rectangular wire\n(B) 0.16 x 0.22 stainless steel rectangular wire\n(C) 0.17 x 0.25 TMA wire\n(D) 0.15 x 0.22 TMA wire",
+    "expected_answer": "The correct answer is: (B) 0.16 x 0.22 stainless steel rectangular wire",
+    "difficulty": "hard",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "MED_212",
+    "domain": "Medicine",
+    "task_type": "Dental",
+    "prompt": "Indirect Retainer is placed:\n\nChoose the correct answer from the following options:\n(A) Near direct retainer\n(B) As far as possible from fulcrum line\n(C) Near fulcrum line\n(D) Near edentulous area",
+    "expected_answer": "The correct answer is: (B) As far as possible from fulcrum line",
+    "difficulty": "hard",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "MED_215",
+    "domain": "Medicine",
+    "task_type": "Dental",
+    "prompt": "Tubercle of zukerkandle is seen on\n\nChoose the correct answer from the following options:\n(A) MB on upper and lower primary 1st molar\n(B) MB on upper and lower permanent 1st molar\n(C) MB on upper Primary 1st molar only\n(D) MB on lower primary 1st molar only",
+    "expected_answer": "The correct answer is: (A) MB on upper and lower primary 1st molar",
+    "difficulty": "hard",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "MED_218",
+    "domain": "Medicine",
+    "task_type": "Dental",
+    "prompt": "KRI paste composition is:\n\nChoose the correct answer from the following options:\n(A) Iodoform+ZOE\n(B) Iodoform+chlorophenol+menthol\n(C) Iodoform+CaOH\n(D) Iodoform only",
+    "expected_answer": "The correct answer is: (B) Iodoform+chlorophenol+menthol",
+    "difficulty": "hard",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "MED_221",
+    "domain": "Medicine",
+    "task_type": "Dental",
+    "prompt": "Millennium development goal was adopted in which year?\n\nChoose the correct answer from the following options:\n(A) 1977\n(B) 2000\n(C) 1984\n(D) 2004",
+    "expected_answer": "The correct answer is: (B) 2000",
+    "difficulty": "hard",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "MED_227",
+    "domain": "Medicine",
+    "task_type": "Dental",
+    "prompt": "Child of an Overindulgent mother will be:\n\nChoose the correct answer from the following options:\n(A) Shy, submissive.\n(B) Aggressive, display temper tantrums.\n(C) Evasive and dawdling.\n(D) Disobedient.",
+    "expected_answer": "The correct answer is: (B) Aggressive, display temper tantrums.",
+    "difficulty": "hard",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "MED_233",
+    "domain": "Medicine",
+    "task_type": "Dental",
+    "prompt": "Which of the following is a tertiary monoblock system of obturation of the root canal.\n\nChoose the correct answer from the following options:\n(A) Resilon monoblock obturation\n(B) Active Gutta percha\n(C) Orthograde obturation with MTA\n(D) Gutta Percha and AH plus sealer",
+    "expected_answer": "The correct answer is: (B) Active Gutta percha",
+    "difficulty": "hard",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "MED_234",
+    "domain": "Medicine",
+    "task_type": "Dental",
+    "prompt": "Coefficient of thermal expansion of which of following is most similar to that of tooth?\n\nChoose the correct answer from the following options:\n(A) Gold inlay\n(B) Acrylic resin\n(C) Silicate cement\n(D) Gold foil",
+    "expected_answer": "The correct answer is: (C) Silicate cement",
+    "difficulty": "hard",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "MED_235",
+    "domain": "Medicine",
+    "task_type": "Dental",
+    "prompt": "A patient comes to a dentist with decayed mandibular 1st molar which involves the mesiobuccal and distobuccal cusp. The restoration of choice is:\n\nChoose the correct answer from the following options:\n(A) Intermediate restoration\n(B) Composite\n(C) Cast metal\n(D) GIC",
+    "expected_answer": "The correct answer is: (C) Cast metal",
+    "difficulty": "hard",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "MED_237",
+    "domain": "Medicine",
+    "task_type": "Dental",
+    "prompt": "During post preparation in distal canal of mandibular first molar, maximum chance of perforation is seen in:\n\nChoose the correct answer from the following options:\n(A) Lingual surface\n(B) Distal surface\n(C) Buccal surface\n(D) Mesial surface",
+    "expected_answer": "The correct answer is: (D) Mesial surface",
+    "difficulty": "hard",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "MED_242",
+    "domain": "Medicine",
+    "task_type": "Dental",
+    "prompt": "Most common chances of pulpal exposure will be there if pulpal floor is made perpendicular to the long axis of tooth:\n\nChoose the correct answer from the following options:\n(A) Maxillary 1st premolar\n(B) Maxillary 1st molar\n(C) Mandibular 1st premolar\n(D) Mandibular 2nd premolar",
+    "expected_answer": "The correct answer is: (C) Mandibular 1st premolar",
+    "difficulty": "hard",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "MED_243",
+    "domain": "Medicine",
+    "task_type": "Dental",
+    "prompt": "Which nerve biopsy is taken to diagnose neuritic leprosy?\n\nChoose the correct answer from the following options:\n(A) Median nerve\n(B) Radial cutaneous nerve\n(C) Ulnar nerve\n(D) Radial nerve",
+    "expected_answer": "The correct answer is: (B) Radial cutaneous nerve",
+    "difficulty": "expert",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "MED_249",
+    "domain": "Medicine",
+    "task_type": "Dental",
+    "prompt": "Extension of odontoblast processes into enamel\n\nChoose the correct answer from the following options:\n(A) Enamel spindle\n(B) Cracks\n(C) Primary dentin\n(D) Secondary Dentine",
+    "expected_answer": "The correct answer is: (A) Enamel spindle",
+    "difficulty": "hard",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "MED_255",
+    "domain": "Medicine",
+    "task_type": "Dental",
+    "prompt": "For a loose complete denture relining and rebasing can be done in which of the following condition\n\nChoose the correct answer from the following options:\n(A) Excessive alveolar bone loss\n(B) When centric relation and centric occlusion do not coincide\n(C) The patient is poor and cannot afford new denture\n(D) More than 2mm loss of alveolar bone height",
+    "expected_answer": "The correct answer is: (C) The patient is poor and cannot afford new denture",
+    "difficulty": "hard",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "MED_256",
+    "domain": "Medicine",
+    "task_type": "Dental",
+    "prompt": "The inter radicular bone is:\n\nChoose the correct answer from the following options:\n(A) Compact\n(B) Cancellous\n(C) Exophytic\n(D) Osteophytic",
+    "expected_answer": "The correct answer is: (B) Cancellous",
+    "difficulty": "hard",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "MED_257",
+    "domain": "Medicine",
+    "task_type": "Dental",
+    "prompt": "The key ridge useful in assessing malocclusion is present on:\n\nChoose the correct answer from the following options:\n(A) Maxilla\n(B) Zygomatic buttress\n(C) Sphenoid bone\n(D) Mandible",
+    "expected_answer": "The correct answer is: (B) Zygomatic buttress",
+    "difficulty": "hard",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "MED_264",
+    "domain": "Medicine",
+    "task_type": "Dental",
+    "prompt": "A patient is giving; history of avulsed tooth 20 minutes back, comes to dentist what should be done?\n\nChoose the correct answer from the following options:\n(A) Scrub the tooth and reimplant\n(B) Rinse with saline and reimplant\n(C) Sterilize tooth and reimplant\n(D) Scrub the tooth do RCT and reimplant",
+    "expected_answer": "The correct answer is: (B) Rinse with saline and reimplant",
+    "difficulty": "hard",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "MED_265",
+    "domain": "Medicine",
+    "task_type": "Dental",
+    "prompt": "More than 80% cephalic index of a patient indicates which of the following\n\nChoose the correct answer from the following options:\n(A) Brachycephalic\n(B) Mesocephatic\n(C) Dolicocephalic\n(D) Depends on age",
+    "expected_answer": "The correct answer is: (A) Brachycephalic",
+    "difficulty": "hard",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "MED_266",
+    "domain": "Medicine",
+    "task_type": "Dental",
+    "prompt": "Hardness of stone surface is affected by?\n\nChoose the correct answer from the following options:\n(A) Impression wax\n(B) Impression compound\n(C) Hydrocolloid impression material\n(D) Rubber based material",
+    "expected_answer": "The correct answer is: (C) Hydrocolloid impression material",
+    "difficulty": "hard",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "MED_275",
+    "domain": "Medicine",
+    "task_type": "Dental",
+    "prompt": "Undifferentiated mesenchymal cells found in pulp are:\n\nChoose the correct answer from the following options:\n(A) Multipotent\n(B) Totipotent\n(C) Polypotent\n(D) Monopotent",
+    "expected_answer": "The correct answer is: (A) Multipotent",
+    "difficulty": "hard",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "MED_276",
+    "domain": "Medicine",
+    "task_type": "Dental",
+    "prompt": "Most important initiative factor for periodontitis is:\n\nChoose the correct answer from the following options:\n(A) Dental plaque\n(B) Calculus\n(C) Trauma from occlusion\n(D) Food debris layer",
+    "expected_answer": "The correct answer is: (A) Dental plaque",
+    "difficulty": "hard",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "MED_277",
+    "domain": "Medicine",
+    "task_type": "Dental",
+    "prompt": "The least effect on the prognosis of a periodontal disease is\n\nChoose the correct answer from the following options:\n(A) Suppuration from the pocket\n(B) Furcation involvement\n(C) Alveolar bone loss\n(D) Co-operation and motivation of the patient",
+    "expected_answer": "The correct answer is: (A) Suppuration from the pocket",
+    "difficulty": "hard",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "MED_278",
+    "domain": "Medicine",
+    "task_type": "Dental",
+    "prompt": "During relining procedures fear lies in the alteration of\n\nChoose the correct answer from the following options:\n(A) Balanced occlusion\n(B) Centric occlusion\n(C) Vertical dimension\n(D) Condylar guidance",
+    "expected_answer": "The correct answer is: (C) Vertical dimension",
+    "difficulty": "hard",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "MED_279",
+    "domain": "Medicine",
+    "task_type": "Dental",
+    "prompt": "What we will define it \"ratio of no. of death under 1 year of age to total live birth per 1000 live births per year\"?\n\nChoose the correct answer from the following options:\n(A) Infant mortality rate\n(B) Child mortality rate\n(C) Child morbidity rate\n(D) Life expectancy rate",
+    "expected_answer": "The correct answer is: (A) Infant mortality rate",
+    "difficulty": "hard",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "MED_280",
+    "domain": "Medicine",
+    "task_type": "Dental",
+    "prompt": "Palatogingival groove is seen in\n\nChoose the correct answer from the following options:\n(A) Mandibular lateral incisor\n(B) Maxillary lateral incisor\n(C) Mandibular 1st premolar\n(D) Maxillary first premolar",
+    "expected_answer": "The correct answer is: (B) Maxillary lateral incisor",
+    "difficulty": "hard",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "MED_283",
+    "domain": "Medicine",
+    "task_type": "Dental",
+    "prompt": "Which of the following appliances is not used for slow maxillary expansion?\n\nChoose the correct answer from the following options:\n(A) Jack screw\n(B) Coffin spring\n(C) Quad helix appliance\n(D) Hyrax appliance",
+    "expected_answer": "The correct answer is: (D) Hyrax appliance",
+    "difficulty": "hard",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "MED_287",
+    "domain": "Medicine",
+    "task_type": "Dental",
+    "prompt": "Production and citation impact of published work of a scientist or scholar\n\nChoose the correct answer from the following options:\n(A) Impact factor\n(B) Citation\n(C) H index\n(D) Z index",
+    "expected_answer": "The correct answer is: (B) Citation",
+    "difficulty": "hard",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "MED_292",
+    "domain": "Medicine",
+    "task_type": "Dental",
+    "prompt": "Growth of the maxilla in the vertical direction is due to:\n\nChoose the correct answer from the following options:\n(A) Growth of the alveolus\n(B) Growth at sutures\n(C) Growth of the cranial base\n(D) Growth of the synchondrosis",
+    "expected_answer": "The correct answer is: (A) Growth of the alveolus",
+    "difficulty": "hard",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "MED_293",
+    "domain": "Medicine",
+    "task_type": "Dental",
+    "prompt": "Extraction of 3rd molar tooth bud in 7-9 yr old child:\n\nChoose the correct answer from the following options:\n(A) Improves growth of maxilla\n(B) Causes excessive damage to the mandible\n(C) Results of future orthodontic treatment are\timproved anterior teeth\n(D) Results in less crowding",
+    "expected_answer": "The correct answer is: (D) Results in less crowding",
+    "difficulty": "hard",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "MED_297",
+    "domain": "Medicine",
+    "task_type": "Dental",
+    "prompt": "Incomplete casting is the result of\n\nChoose the correct answer from the following options:\n(A) More porous investment in the mold\n(B) Narrow sprue diameter\n(C) Hollow sprue pin\n(D) Large reservoir",
+    "expected_answer": "The correct answer is: (B) Narrow sprue diameter",
+    "difficulty": "hard",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "MED_301",
+    "domain": "Medicine",
+    "task_type": "Dental",
+    "prompt": "As compared to relining, in rebasing of a denture a \nchange is effected in:\n\nChoose the correct answer from the following options:\n(A) Centric occlusion\n(B) Centric relation\n(C) Entire denture base\n(D) Tissue surface",
+    "expected_answer": "The correct answer is: (C) Entire denture base",
+    "difficulty": "hard",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "MED_309",
+    "domain": "Medicine",
+    "task_type": "Dental",
+    "prompt": "Chances of ankyloses of mandibular molar which is autotransplanted depends on?\n\nChoose the correct answer from the following options:\n(A) Splinting of mandibular molar\n(B) Surgical extraction of molar\n(C) Socket preparation of molar for autotransplantation\n(D) Root kept moist in cotton",
+    "expected_answer": "The correct answer is: (B) Surgical extraction of molar",
+    "difficulty": "hard",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "MED_317",
+    "domain": "Medicine",
+    "task_type": "Dental",
+    "prompt": "Schielder principle is\n\nChoose the correct answer from the following options:\n(A) Minimal enlarged apical foramen\n(B) Shape of the canal can be changed\n(C) Use of 3-5 times larger than first binding file\n(D) Original canal curvature should be altered to make it compatible with obturating material",
+    "expected_answer": "The correct answer is: (A) Minimal enlarged apical foramen",
+    "difficulty": "hard",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "MED_320",
+    "domain": "Medicine",
+    "task_type": "Dental",
+    "prompt": "The primary action of topical fluoride is a:\n\nChoose the correct answer from the following options:\n(A) Conversion of hydroxyapatite to fluoroapatite\n(B) Decrease in the plaque bacteria\n(C) Form a reservoir in saliva\n(D) Improve morphology of teeth",
+    "expected_answer": "The correct answer is: (A) Conversion of hydroxyapatite to fluoroapatite",
+    "difficulty": "hard",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "MED_321",
+    "domain": "Medicine",
+    "task_type": "Dental",
+    "prompt": "Most advantageous indication of acid etching is\n\nChoose the correct answer from the following options:\n(A) Decrease micro leakage\n(B) Decrease polymerization shrinkage\n(C) Decrease coefficient of thermal expansion\n(D) Decrease porosity in restorative material",
+    "expected_answer": "The correct answer is: (A) Decrease micro leakage",
+    "difficulty": "hard",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "MED_324",
+    "domain": "Medicine",
+    "task_type": "Dental",
+    "prompt": "Which characteristic of orthodontic wire describe energy storage capacity?\n\nChoose the correct answer from the following options:\n(A) Range\n(B) Resilience\n(C) Formability\n(D) Proportional limit",
+    "expected_answer": "The correct answer is: (B) Resilience",
+    "difficulty": "hard",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "MED_325",
+    "domain": "Medicine",
+    "task_type": "Dental",
+    "prompt": "According to Kim and colleagues which of the following describe type IV isthmus?\n\nChoose the correct answer from the following options:\n(A) Two canals with a definite connection between them\n(B) Complete or incomplete isthmus between three or more canals\n(C) Very short, complete Isthmus between two canals\n(D) Two or three canal openings without visible connections",
+    "expected_answer": "The correct answer is: (B) Complete or incomplete isthmus between three or more canals",
+    "difficulty": "hard",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "MED_328",
+    "domain": "Medicine",
+    "task_type": "Dental",
+    "prompt": "Which of the following nonaqueous elastomeric impression materials has the least shelf life\n\nChoose the correct answer from the following options:\n(A) Poly ether\n(B) Addition silicone\n(C) Condensation silicone\n(D) Polysulphide",
+    "expected_answer": "The correct answer is: (A) Poly ether",
+    "difficulty": "hard",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "MED_331",
+    "domain": "Medicine",
+    "task_type": "Dental",
+    "prompt": "An 8 year old child got trauma and got his central incisor avulsed 20 minutes back which got contaminated with debris. The child rushes to dental clinic with avulsed tooth, the treatment is:\n\nChoose the correct answer from the following options:\n(A) Clean root surface with saline and reimplant\n(B) Clean and curette root surface and reimplant\n(C) Clean root surface, do RCT and reimplant\n(D) Scrubbing of root surface and reimplant",
+    "expected_answer": "The correct answer is: (A) Clean root surface with saline and reimplant",
+    "difficulty": "hard",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "MED_334",
+    "domain": "Medicine",
+    "task_type": "Dental",
+    "prompt": "The pattern of change of disease of mortality and morbidity where the pandemics of infection are replaced by degenerative and manmade disorders as the main cause of morbidity and mortality is known as?\n\nChoose the correct answer from the following options:\n(A) Epidemiological transition\n(B) Demographic transition\n(C) Paradoxical transition\n(D) Reversal of transition",
+    "expected_answer": "The correct answer is: (A) Epidemiological transition",
+    "difficulty": "hard",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "MED_335",
+    "domain": "Medicine",
+    "task_type": "Dental",
+    "prompt": "Calcification of roots of deciduous teeth is completed by:\n\nChoose the correct answer from the following options:\n(A) 2 years\n(B) 4 years\n(C) 6 years\n(D) 8 years",
+    "expected_answer": "The correct answer is: (B) 4 years",
+    "difficulty": "hard",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "MED_344",
+    "domain": "Medicine",
+    "task_type": "Dental",
+    "prompt": "Midazolam cannot be given by which of the following routes:\n\nChoose the correct answer from the following options:\n(A) Oral\n(B) Inhalation\n(C) Intra muscular\n(D) Intra venous",
+    "expected_answer": "The correct answer is: (B) Inhalation",
+    "difficulty": "hard",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "MED_347",
+    "domain": "Medicine",
+    "task_type": "Dental",
+    "prompt": "Continues use of vibrator can leads to\n\nChoose the correct answer from the following options:\n(A) Random nodule formation\n(B) Surface roughness\n(C) Surface irregularities\n(D) Discoloration",
+    "expected_answer": "The correct answer is: (B) Surface roughness",
+    "difficulty": "hard",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "MED_350",
+    "domain": "Medicine",
+    "task_type": "Dental",
+    "prompt": "The material used in its pure form in dentistry is:\n\nChoose the correct answer from the following options:\n(A) Composite\n(B) Silver\n(C) Gold\n(D) Amalgam",
+    "expected_answer": "The correct answer is: (C) Gold",
+    "difficulty": "hard",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "MED_355",
+    "domain": "Medicine",
+    "task_type": "Dental",
+    "prompt": "__________ is helpful in making radicular access after entry:\n\nChoose the correct answer from the following options:\n(A) Gates glidden drill\n(B) K-File\n(C) K-reamer\n(D) Round bur",
+    "expected_answer": "The correct answer is: (A) Gates glidden drill",
+    "difficulty": "hard",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "MED_357",
+    "domain": "Medicine",
+    "task_type": "Dental",
+    "prompt": "Electric resistance between oral mucosa and PDL is always constant that is:\n\nChoose the correct answer from the following options:\n(A) 4.5 K ohm\n(B) 5.5 K ohm\n(C) 6.5 K ohm\n(D) 7.5 K ohm",
+    "expected_answer": "The correct answer is: (C) 6.5 K ohm",
+    "difficulty": "hard",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "MED_359",
+    "domain": "Medicine",
+    "task_type": "Dental",
+    "prompt": "Which growth factor Is not present in PRP?\n\nChoose the correct answer from the following options:\n(A) PDGF aa\n(B) PDGF bb\n(C) PDGF cc\n(D) PDGF Fab",
+    "expected_answer": "The correct answer is: (C) PDGF cc",
+    "difficulty": "hard",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "MED_360",
+    "domain": "Medicine",
+    "task_type": "Dental",
+    "prompt": "Position and movement of articular disc of TMJ is controlled by fibers of:\n\nChoose the correct answer from the following options:\n(A) Lower head of lateral pterygoid muscle\n(B) Sphenomandibular ligament\n(C) Superficial head of medial pterygoid muscle\n(D) Upper head of lateral pterygoid muscle",
+    "expected_answer": "The correct answer is: (D) Upper head of lateral pterygoid muscle",
+    "difficulty": "hard",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "MED_364",
+    "domain": "Medicine",
+    "task_type": "Dental",
+    "prompt": "Best medium to transport/store an avulsed tooth, which is not to be reimplanted immediately? (OR) the medium which maintains the vitality of PDl and thus indicated for long duration transport of an avulse tooth\n\nChoose the correct answer from the following options:\n(A) Viaspan\n(B) Hanks balanced salt solution\n(C) Coconut water\n(D) Milk",
+    "expected_answer": "The correct answer is: (A) Viaspan",
+    "difficulty": "hard",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "MED_365",
+    "domain": "Medicine",
+    "task_type": "Dental",
+    "prompt": "Rampant caries should be applied to a caries rate of:\n\nChoose the correct answer from the following options:\n(A) 5 or more new lesions per year.\n(B) 7 or more new lesions per year.\n(C) 10 or more new lesions per year.\n(D) 15 or more new lesions per year.",
+    "expected_answer": "The correct answer is: (C) 10 or more new lesions per year.",
+    "difficulty": "hard",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "MED_373",
+    "domain": "Medicine",
+    "task_type": "Dental",
+    "prompt": "Which of the following is the most common organism found in retreatment cases of periapical abscess?\n\nChoose the correct answer from the following options:\n(A) E. faecalis\n(B) Trepenoma denticola\n(C) S. mutans\n(D) Actinomyces",
+    "expected_answer": "The correct answer is: (A) E. faecalis",
+    "difficulty": "hard",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "MED_378",
+    "domain": "Medicine",
+    "task_type": "Dental",
+    "prompt": "In gypsum products thinner mix leads to\n\nChoose the correct answer from the following options:\n(A) Increased setting expansion\n(B) Decreased setting expansion\n(C) Increase compressive strength\n(D) Decrease consistency",
+    "expected_answer": "The correct answer is: (B) Decreased setting expansion",
+    "difficulty": "hard",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "MED_379",
+    "domain": "Medicine",
+    "task_type": "Dental",
+    "prompt": "Tooth brush abrasions are more common on the\n\nChoose the correct answer from the following options:\n(A) Mandibular teeth, on the right half of the arch\n(B) Mandibular teeth, on the left half of the arch\n(C) Maxillary teeth, on the right half of the arch\n(D) Maxillary teeth, on the left half of the arch",
+    "expected_answer": "The correct answer is: (D) Maxillary teeth, on the left half of the arch",
+    "difficulty": "hard",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "MED_381",
+    "domain": "Medicine",
+    "task_type": "Dental",
+    "prompt": "According to WHO classi\ufb01cation of periapical pathology, sinus to oral cavity comes  under:\n\nChoose the correct answer from the following options:\n(A) 4.6\n(B) 4.6\n(C) 4.61\n(D) 4.62",
+    "expected_answer": "The correct answer is: (D) 4.62",
+    "difficulty": "hard",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "MED_385",
+    "domain": "Medicine",
+    "task_type": "Dental",
+    "prompt": "Most common complication during ridge split or bone spreading is\n\nChoose the correct answer from the following options:\n(A) Dehiscence\n(B) Facial plate splitting\n(C) Implant micro movement\n(D) Poor position of implant",
+    "expected_answer": "The correct answer is: (B) Facial plate splitting",
+    "difficulty": "hard",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "MED_386",
+    "domain": "Medicine",
+    "task_type": "Dental",
+    "prompt": "Distolingual extension of the mandibular impression for \na complete denture is limited by the action of:\n\nChoose the correct answer from the following options:\n(A) Stylohyoid muscle\n(B) Medial pterygoid muscle\n(C) Lateral pterygoid muscle\n(D) Superior constrictor muscle",
+    "expected_answer": "The correct answer is: (D) Superior constrictor muscle",
+    "difficulty": "hard",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "MED_393",
+    "domain": "Medicine",
+    "task_type": "Dental",
+    "prompt": "For testing the statistical significance of the difference in heights of school children among three socio economic groups the most appropriate statistical test is:\n\nChoose the correct answer from the following options:\n(A) Student's 't' test\n(B) Chi-squared test\n(C) Paired 't' test\n(D) One way analysis of variance (one way ANOVA)",
+    "expected_answer": "The correct answer is: (D) One way analysis of variance (one way ANOVA)",
+    "difficulty": "hard",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "MED_394",
+    "domain": "Medicine",
+    "task_type": "Dental",
+    "prompt": "Surgery of the cleft lip should be carried out at:\n\nChoose the correct answer from the following options:\n(A) 20 -30 weeks\n(B) 2 - 12 months\n(C) 3 - 6 months\n(D) 5 years",
+    "expected_answer": "The correct answer is: (C) 3 - 6 months",
+    "difficulty": "hard",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "MED_396",
+    "domain": "Medicine",
+    "task_type": "Dental",
+    "prompt": "Which of the following component acts as an accelerator in ZOE impression paste?\n\nChoose the correct answer from the following options:\n(A) Zinc Sulphate & Zinc chloride\n(B) Zinc chloride & Eugenol\n(C) Zinc Sulphate & Eugenol\n(D) Glycerin",
+    "expected_answer": "The correct answer is: (A) Zinc Sulphate & Zinc chloride",
+    "difficulty": "hard",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "MED_398",
+    "domain": "Medicine",
+    "task_type": "Dental",
+    "prompt": "Which one of the following is most elastic?\n\nChoose the correct answer from the following options:\n(A) \u03b1 titanium\n(B) \u03b2 titanium\n(C) Chrome-cobalt-nickel\n(D) Nickel titanium",
+    "expected_answer": "The correct answer is: (D) Nickel titanium",
+    "difficulty": "hard",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "MED_399",
+    "domain": "Medicine",
+    "task_type": "Dental",
+    "prompt": "Surveyor is used on master cast to:\n\nChoose the correct answer from the following options:\n(A) Locate guiding planes\n(B) Determine aesthetics\n(C) Delineate areas of maximum convexity\n(D) Locate undercuts to be used for retention or to be blocked out",
+    "expected_answer": "The correct answer is: (D) Locate undercuts to be used for retention or to be blocked out",
+    "difficulty": "hard",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "MED_415",
+    "domain": "Medicine",
+    "task_type": "Dental",
+    "prompt": "Most commonly missing primary teeth are:\n\nChoose the correct answer from the following options:\n(A) Maxillary central incisors\n(B) Mandibular central incisors\n(C) Maxillary lateral incisors\n(D) Maxillary canines",
+    "expected_answer": "The correct answer is: (D) Maxillary canines",
+    "difficulty": "hard",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "MED_420",
+    "domain": "Medicine",
+    "task_type": "Dental",
+    "prompt": "Landmark for pup chamber opening is :\n\nChoose the correct answer from the following options:\n(A) CEJ\n(B) Cervical third of crown\n(C) Level of alveolar bone\n(D) Enamel",
+    "expected_answer": "The correct answer is: (A) CEJ",
+    "difficulty": "hard",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "MED_421",
+    "domain": "Medicine",
+    "task_type": "Dental",
+    "prompt": "Mouth Breathing is most commonly seen in:\n\nChoose the correct answer from the following options:\n(A) Athetoid type of cerebral palsy.\n(B) Spastic type of cerebral palsy.\n(C) Ataxic type of cerebral palsy.\n(D) Mixed type.",
+    "expected_answer": "The correct answer is: (A) Athetoid type of cerebral palsy.",
+    "difficulty": "hard",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "MED_423",
+    "domain": "Medicine",
+    "task_type": "Dental",
+    "prompt": "A permanent tooth with fracture involving apical one\nthird of root after treatment, would most likely:\n\nChoose the correct answer from the following options:\n(A) Exhibit internal root resorption\n(B) Remain vital and functional\n(C) Be ankylosed\n(D) Exhibit external root resorption and exfoliate",
+    "expected_answer": "The correct answer is: (B) Remain vital and functional",
+    "difficulty": "hard",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "MED_427",
+    "domain": "Medicine",
+    "task_type": "Dental",
+    "prompt": "The advantage of glass ionomer cement reinforced with metal particles is:\n\nChoose the correct answer from the following options:\n(A) Decreased strength but biocompatibility\n(B) Increased resistance to abrasion\n(C) Better colour\n(D) Ease of manipulation",
+    "expected_answer": "The correct answer is: (B) Increased resistance to abrasion",
+    "difficulty": "hard",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "MED_428",
+    "domain": "Medicine",
+    "task_type": "Dental",
+    "prompt": "Caries in a 4 year old child is best assessed by:\n\nChoose the correct answer from the following options:\n(A) Previous caries experience\n(B) Maternal caries\n(C) School fluoridation\n(D) Daily fluoride mouthwash",
+    "expected_answer": "The correct answer is: (A) Previous caries experience",
+    "difficulty": "hard",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "MED_433",
+    "domain": "Medicine",
+    "task_type": "Dental",
+    "prompt": "Short sharp pain of tooth transmitted to brain by\n\nChoose the correct answer from the following options:\n(A) A delta fibers\n(B) C fibers\n(C) Beta fibers\n(D) Gamma fibers",
+    "expected_answer": "The correct answer is: (A) A delta fibers",
+    "difficulty": "hard",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "MED_439",
+    "domain": "Medicine",
+    "task_type": "Dental",
+    "prompt": "4 yr old child has 0.2 ppm fluoride in drinking water. The child can be administered:\n\nChoose the correct answer from the following options:\n(A) 1 mg tab/day\n(B) Rinses 0.2% NaF\n(C) Topical application of fluoride\n(D) Fluoride containing dentifrices",
+    "expected_answer": "The correct answer is: (A) 1 mg tab/day",
+    "difficulty": "hard",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "MED_441",
+    "domain": "Medicine",
+    "task_type": "Dental",
+    "prompt": "Standardized technique of cleaning and shaping was given by:\n\nChoose the correct answer from the following options:\n(A) Schilder\n(B) Ingle\n(C) Weine\n(D) Grossman",
+    "expected_answer": "The correct answer is: (B) Ingle",
+    "difficulty": "hard",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "MED_444",
+    "domain": "Medicine",
+    "task_type": "Dental",
+    "prompt": "The number of dental caries cases reported during last 10 years are given below 250, 320, 190, 300, 5000, 100, 260, 350, 320 and 160. The epidemiologist wants to find out average number of caries cases reported in that town for last 10 yrs. The most appropriate average per this data will be\n\nChoose the correct answer from the following options:\n(A) Arithmetic mean\n(B) Mode\n(C) Median\n(D) Geometric mean",
+    "expected_answer": "The correct answer is: (C) Median",
+    "difficulty": "hard",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "MED_445",
+    "domain": "Medicine",
+    "task_type": "Dental",
+    "prompt": "Sending the parents outside the operatory and threatening the child that they won't be back until he stops crying-is an example of which of the following behavior management techniques:\n\nChoose the correct answer from the following options:\n(A) Omission\n(B) Negative reinforcement\n(C) Positive reinforcement\n(D) Modelling",
+    "expected_answer": "The correct answer is: (A) Omission",
+    "difficulty": "hard",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "MED_449",
+    "domain": "Medicine",
+    "task_type": "Dental",
+    "prompt": "Absorption of fluoride in child takes place mainly in\n\nChoose the correct answer from the following options:\n(A) Intestine\n(B) Lungs\n(C) Oral cavity\n(D) Gingiva",
+    "expected_answer": "The correct answer is: (A) Intestine",
+    "difficulty": "hard",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "MED_450",
+    "domain": "Medicine",
+    "task_type": "Dental",
+    "prompt": "A condition where there is loss of interdental bone on facial and lingual plate, without involvement of radicular bone is:\n\nChoose the correct answer from the following options:\n(A) Ledge\n(B) Crater\n(C) Intrabony defect\n(D) Reverse architecture",
+    "expected_answer": "The correct answer is: (D) Reverse architecture",
+    "difficulty": "hard",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "MED_451",
+    "domain": "Medicine",
+    "task_type": "Dental",
+    "prompt": "What is the working time of zinc polycarboxylate cement?\n\nChoose the correct answer from the following options:\n(A) 1 minute\n(B) 2 minutes\n(C) 3 minutes\n(D) 4 minutes",
+    "expected_answer": "The correct answer is: (C) 3 minutes",
+    "difficulty": "hard",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "MED_457",
+    "domain": "Medicine",
+    "task_type": "Dental",
+    "prompt": "Which of the following material is not applied for root conditioning after placement of MTA?\n\nChoose the correct answer from the following options:\n(A) Tetracycline\n(B) Citric acid\n(C) Polyacrylic acid\n(D) EDTA",
+    "expected_answer": "The correct answer is: (D) EDTA",
+    "difficulty": "hard",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "MED_458",
+    "domain": "Medicine",
+    "task_type": "Dental",
+    "prompt": "Most abundant cells in Cell rich zone\n\nChoose the correct answer from the following options:\n(A) Fibroblasts\n(B) Odontoblasts\n(C) Ameloblasts\n(D) Undifferentiated mesencymal cells",
+    "expected_answer": "The correct answer is: (A) Fibroblasts",
+    "difficulty": "hard",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "MED_463",
+    "domain": "Medicine",
+    "task_type": "Dental",
+    "prompt": "Rotation speed of profile instruments\n\nChoose the correct answer from the following options:\n(A) 50-100 RPM\n(B) 100-3000 RPM\n(C) 300-500 RPM\n(D) 150-300 RPM",
+    "expected_answer": "The correct answer is: (D) 150-300 RPM",
+    "difficulty": "hard",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "MED_465",
+    "domain": "Medicine",
+    "task_type": "Dental",
+    "prompt": "Which of the following is not a major maxillary metal partial denture frame work:\n\nChoose the correct answer from the following options:\n(A) Lingual U plate\n(B) Palatal strap\n(C) Palatal plate\n(D) Single palatal plate",
+    "expected_answer": "The correct answer is: (A) Lingual U plate",
+    "difficulty": "hard",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "MED_467",
+    "domain": "Medicine",
+    "task_type": "Dental",
+    "prompt": "Which tooth is known as enigma to endodontist\n\nChoose the correct answer from the following options:\n(A) Mandibular canine\n(B) Maxillary 1st premolar\n(C) Mandibular 2nd premolar\n(D) Mandibular 1st premolar",
+    "expected_answer": "The correct answer is: (D) Mandibular 1st premolar",
+    "difficulty": "hard",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "MED_468",
+    "domain": "Medicine",
+    "task_type": "Dental",
+    "prompt": "Considering the morphology of root and pulp canals, a root canal instrument should be placed in what direction to gain access to the Mesiofacial root of permanent maxillary first molar:\n\nChoose the correct answer from the following options:\n(A) From the mesiobuccal\n(B) From the distobuccal\n(C) From the mesiolingual\n(D) From the distolingual",
+    "expected_answer": "The correct answer is: (D) From the distolingual",
+    "difficulty": "hard",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "MED_469",
+    "domain": "Medicine",
+    "task_type": "Dental",
+    "prompt": "Which of the following is not transmitted by lice\n\nChoose the correct answer from the following options:\n(A) Q fever\n(B) Trench fever\n(C) Relapsing fever\n(D) Epidemic typhus",
+    "expected_answer": "The correct answer is: (A) Q fever",
+    "difficulty": "hard",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "MED_473",
+    "domain": "Medicine",
+    "task_type": "Dental",
+    "prompt": "Mechanism of adhesion of GIC restoration with tooth surface is by means of?\n\nChoose the correct answer from the following options:\n(A) Carboxyl group\n(B) Chelates with Metal Ions\n(C) C=C double bond\n(D) Polymer Chains",
+    "expected_answer": "The correct answer is: (A) Carboxyl group",
+    "difficulty": "hard",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "MED_477",
+    "domain": "Medicine",
+    "task_type": "Dental",
+    "prompt": "Fovea palatine are\n\nChoose the correct answer from the following options:\n(A) Structures through which blood supply take place\n(B) Mucosal salivary glands\n(C) Palatal termination of maxillary denture\n(D) Found in every individual",
+    "expected_answer": "The correct answer is: (B) Mucosal salivary glands",
+    "difficulty": "hard",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "MED_486",
+    "domain": "Medicine",
+    "task_type": "Dental",
+    "prompt": "What % is the incidence of vertucci type 8\n\nChoose the correct answer from the following options:\n(A) 6%\n(B) 10%\n(C) 2%\n(D) 12%",
+    "expected_answer": "The correct answer is: (A) 6%",
+    "difficulty": "hard",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "MED_488",
+    "domain": "Medicine",
+    "task_type": "Dental",
+    "prompt": "COPRA came into action on:\n\nChoose the correct answer from the following options:\n(A) 15th April 1987\n(B) 15th April 1989\n(C) 25th April 1988\n(D) 15th April 1986",
+    "expected_answer": "The correct answer is: (A) 15th April 1987",
+    "difficulty": "hard",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "MED_493",
+    "domain": "Medicine",
+    "task_type": "Dental",
+    "prompt": "Saliva which is formed in salivary glands, when passes from salivary gland to duct orifices, it undergoes numerous ion exchanges and as a result\nsaliva become ____________ as compared to plasma:\n\nChoose the correct answer from the following options:\n(A) Hypertonic sometimes\n(B) Hypotonic\n(C) Isotonic\n(D) Hypertonic always",
+    "expected_answer": "The correct answer is: (B) Hypotonic",
+    "difficulty": "hard",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "MED_496",
+    "domain": "Medicine",
+    "task_type": "Dental",
+    "prompt": "Which is not present in porcelain:\n\nChoose the correct answer from the following options:\n(A) Silica\n(B) Feldspar\n(C) Calcium carbonate\n(D) Amorphous material",
+    "expected_answer": "The correct answer is: (D) Amorphous material",
+    "difficulty": "hard",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "MED_499",
+    "domain": "Medicine",
+    "task_type": "Dental",
+    "prompt": "Insufficient closure of the flasks during packing of denture base resin can result in:\n\nChoose the correct answer from the following options:\n(A) Poor colour stability\n(B) Less polymerization shrinkage\n(C) Increase in vertical dimension\n(D) Decrease in vertical dimension",
+    "expected_answer": "The correct answer is: (C) Increase in vertical dimension",
+    "difficulty": "hard",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "MED_500",
+    "domain": "Medicine",
+    "task_type": "Dental",
+    "prompt": "During which stage of tooth formation the size of the tooth is determined?\n\nChoose the correct answer from the following options:\n(A) Apposition\n(B) Histodifferentiation\n(C) Morpho differentiation\n(D) Calcification",
+    "expected_answer": "The correct answer is: (C) Morpho differentiation",
+    "difficulty": "hard",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "MED_501",
+    "domain": "Medicine",
+    "task_type": "Dental",
+    "prompt": "Acromegaly is associated with\n\nChoose the correct answer from the following options:\n(A) Class. I malocclusion\n(B) Class. I cross bite\n(C) Class. II malocclusion\n(D) Class. III malocclusion",
+    "expected_answer": "The correct answer is: (D) Class. III malocclusion",
+    "difficulty": "hard",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "MED_504",
+    "domain": "Medicine",
+    "task_type": "Dental",
+    "prompt": "Bartholins duct is the name of :\n\nChoose the correct answer from the following options:\n(A) Parotid duct\n(B) Submandibular gland\n(C) Sublingual duct\n(D) Lacrimal duct",
+    "expected_answer": "The correct answer is: (C) Sublingual duct",
+    "difficulty": "hard",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "MED_505",
+    "domain": "Medicine",
+    "task_type": "Dental",
+    "prompt": "In periodontal flap most important factor to be considered is:\n\nChoose the correct answer from the following options:\n(A) Depth of vestibule\n(B) Frenum attachment\n(C) Amount of attached gingiva\n(D) Free gingiva",
+    "expected_answer": "The correct answer is: (C) Amount of attached gingiva",
+    "difficulty": "hard",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "MED_510",
+    "domain": "Medicine",
+    "task_type": "Dental",
+    "prompt": "For statistical test output of p value is interpreted as\n\nChoose the correct answer from the following options:\n(A) Rejective Ho, p <0.05\n(B) Rejective Ho, p>0.05\n(C) Rejective H1, p<0.05\n(D) Accepting Ho, p<0.05",
+    "expected_answer": "The correct answer is: (A) Rejective Ho, p <0.05",
+    "difficulty": "hard",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "MED_511",
+    "domain": "Medicine",
+    "task_type": "Dental",
+    "prompt": "The first instrument used on the facial surfaces of gingiva while gingivectomy is:\n\nChoose the correct answer from the following options:\n(A) Orban's knife\n(B) Kirkland's knife\n(C) BP blade with No. 11 blade\n(D) BP blade with No. 12 blade",
+    "expected_answer": "The correct answer is: (B) Kirkland's knife",
+    "difficulty": "hard",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "MED_512",
+    "domain": "Medicine",
+    "task_type": "Dental",
+    "prompt": "Single central pit is formed on the occlusal surface of\n\nChoose the correct answer from the following options:\n(A) Lower 1st premolar\n(B) Upper 1st premolar\n(C) Lower 2nd premolar\n(D) Upper 2nd premolar",
+    "expected_answer": "The correct answer is: (C) Lower 2nd premolar",
+    "difficulty": "hard",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "MED_513",
+    "domain": "Medicine",
+    "task_type": "Dental",
+    "prompt": "Maximum fluoride content is found in:\n\nChoose the correct answer from the following options:\n(A) Sea fish\n(B) Tea leaves\n(C) Human milk\n(D) Coconut water",
+    "expected_answer": "The correct answer is: (B) Tea leaves",
+    "difficulty": "hard",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "MED_517",
+    "domain": "Medicine",
+    "task_type": "Dental",
+    "prompt": "The anteroposterior curve is\n\nChoose the correct answer from the following options:\n(A) Curve of Spee\n(B) Curve of Wilson\n(C) Curve of Monson\n(D) Bonwill's curve",
+    "expected_answer": "The correct answer is: (A) Curve of Spee",
+    "difficulty": "hard",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "MED_525",
+    "domain": "Medicine",
+    "task_type": "Dental",
+    "prompt": "The carat for Au foil used for restorations is:\n\nChoose the correct answer from the following options:\n(A) 18\n(B) 20\n(C) 22\n(D) 24",
+    "expected_answer": "The correct answer is: (D) 24",
+    "difficulty": "hard",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "MED_527",
+    "domain": "Medicine",
+    "task_type": "Dental",
+    "prompt": "Enamel lamellae\n\nChoose the correct answer from the following options:\n(A) Elevation on outer surface of enamel\n(B) Dentinal tubule in enamel\n(C) Uniform arrangement of enamel rods\n(D) Enamel projection in dentin",
+    "expected_answer": "The correct answer is: (D) Enamel projection in dentin",
+    "difficulty": "hard",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "MED_528",
+    "domain": "Medicine",
+    "task_type": "Dental",
+    "prompt": "Craters in interseptal bone are best eliminated by\n\nChoose the correct answer from the following options:\n(A) Gingivectomy\n(B) Supragingival curettage\n(C) Interseptal massage with stimulators\n(D) Osseous recontouring",
+    "expected_answer": "The correct answer is: (D) Osseous recontouring",
+    "difficulty": "hard",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "MED_530",
+    "domain": "Medicine",
+    "task_type": "Dental",
+    "prompt": "The patients with class II division 1 malocclusion have\n\nChoose the correct answer from the following options:\n(A) Hypertonic Lower Lip\n(B) Hypotonic Lower lip\n(C) Hypertonic upper Lip\n(D) Hypotonic upper lip",
+    "expected_answer": "The correct answer is: (D) Hypotonic upper lip",
+    "difficulty": "hard",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "MED_533",
+    "domain": "Medicine",
+    "task_type": "Dental",
+    "prompt": "Treatment of diastema because of a thick labial frenum is done:\n\nChoose the correct answer from the following options:\n(A) After frenectomy\n(B) Before eruption of canines\n(C) After eruption of canines\n(D) Before frenectomy",
+    "expected_answer": "The correct answer is: (C) After eruption of canines",
+    "difficulty": "hard",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "MED_534",
+    "domain": "Medicine",
+    "task_type": "Dental",
+    "prompt": "A 4 year old child sustained a fracture in central incisor one month ago. On examination, a necrotic pulp was seen with no other pathological findings. The treatment of choice is:\n\nChoose the correct answer from the following options:\n(A) Watchful observation\n(B) Extraction followed by space maintainer\n(C) Pulpectomy and root canal filling with gutta percha\n(D) Endodontic treatment and root canal filling with ZOE",
+    "expected_answer": "The correct answer is: (D) Endodontic treatment and root canal filling with ZOE",
+    "difficulty": "hard",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "MED_537",
+    "domain": "Medicine",
+    "task_type": "Dental",
+    "prompt": "2 root canals are found in what percentage of Mandibular incisors\n\nChoose the correct answer from the following options:\n(A) 22-40%\n(B) 11-22%\n(C) 20-50 %\n(D) 5-15%",
+    "expected_answer": "The correct answer is: (A) 22-40%",
+    "difficulty": "hard",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "MED_543",
+    "domain": "Medicine",
+    "task_type": "Dental",
+    "prompt": "Resilient silicone denture lining materials are superior \nto plasticized acrylic resin as:\n\nChoose the correct answer from the following options:\n(A) Bond strength with a denture is increased\n(B) They remain resilient for a short time\n(C) They do not support fungal growth\n(D) Tissue adaptation is better",
+    "expected_answer": "The correct answer is: (C) They do not support fungal growth",
+    "difficulty": "hard",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "MED_544",
+    "domain": "Medicine",
+    "task_type": "Dental",
+    "prompt": "Tooth in the mandibular arch which is most likely to be\ndisplaced due to arch size discrepancy is\n\nChoose the correct answer from the following options:\n(A) First molar\n(B) Second molar\n(C) First premolar\n(D) Second premolar",
+    "expected_answer": "The correct answer is: (D) Second premolar",
+    "difficulty": "hard",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "MED_545",
+    "domain": "Medicine",
+    "task_type": "Dental",
+    "prompt": "Method of increasing attached gingiva\n\nChoose the correct answer from the following options:\n(A) Apical flap\n(B) Widman flap\n(C) Undisplaced flap\n(D) Modified widman flap",
+    "expected_answer": "The correct answer is: (A) Apical flap",
+    "difficulty": "hard",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "MED_548",
+    "domain": "Medicine",
+    "task_type": "Dental",
+    "prompt": "Arch space for eruption of 2nd & 3rd molar created by:\n\nChoose the correct answer from the following options:\n(A) Apposition of Hamular processes\n(B) Resorption of anterior border of ramus\n(C) Resorption of posterior border of ramus\n(D) Apposition of lower border of mandible",
+    "expected_answer": "The correct answer is: (B) Resorption of anterior border of ramus",
+    "difficulty": "hard",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "MED_552",
+    "domain": "Medicine",
+    "task_type": "Dental",
+    "prompt": "A patient complains of looseness of dentures within two to four hours of insertion. The most likely cause is:\n\nChoose the correct answer from the following options:\n(A) Psychological\n(B) Adaptive unresponsiveness\n(C) Deflective occlusion\n(D) Unretentive denture",
+    "expected_answer": "The correct answer is: (C) Deflective occlusion",
+    "difficulty": "hard",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "MED_554",
+    "domain": "Medicine",
+    "task_type": "Dental",
+    "prompt": "Maximum infective stage of hepatitis B is\n\nChoose the correct answer from the following options:\n(A) HBsAg\n(B) HBe Ag\n(C) HBc Ag\n(D) Anti-HBs",
+    "expected_answer": "The correct answer is: (B) HBe Ag",
+    "difficulty": "hard",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "MED_555",
+    "domain": "Medicine",
+    "task_type": "Dental",
+    "prompt": "Looseness seen in a recently delivered RPD is due to:\n\nChoose the correct answer from the following options:\n(A) Defective occlusal balancing\n(B) Passive clasp on abutment\n(C) Thin flange\n(D) Insufficient overlap on posterior teeth",
+    "expected_answer": "The correct answer is: (A) Defective occlusal balancing",
+    "difficulty": "hard",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "MED_556",
+    "domain": "Medicine",
+    "task_type": "Dental",
+    "prompt": "For periodontal patients, the most frequently recommended tooth brushing technique is:\n\nChoose the correct answer from the following options:\n(A) Scrub technique\n(B) Roll technique\n(C) Sulcular technique\n(D) Fones technique",
+    "expected_answer": "The correct answer is: (C) Sulcular technique",
+    "difficulty": "hard",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "MED_564",
+    "domain": "Medicine",
+    "task_type": "Dental",
+    "prompt": "An anterior bite plate should be trimmed so that\n\nChoose the correct answer from the following options:\n(A) It is included at 10\u00b0 to occlusal plane\n(B) It is inclined at 30\u00b0 to occlusal plane\n(C) Posterior teeth are 5 mm apart\n(D) Posterior teeth are 2 mm apart",
+    "expected_answer": "The correct answer is: (D) Posterior teeth are 2 mm apart",
+    "difficulty": "hard",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "MED_569",
+    "domain": "Medicine",
+    "task_type": "Dental",
+    "prompt": "Etching of dentin does not include:\n\nChoose the correct answer from the following options:\n(A) Removal of smear layer\n(B) Exposure of collagen fibres\n(C) Opening of dentinal tubules\n(D) Increases surface energy",
+    "expected_answer": "The correct answer is: (D) Increases surface energy",
+    "difficulty": "hard",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "MED_570",
+    "domain": "Medicine",
+    "task_type": "Dental",
+    "prompt": "The green stains frequently seen on children's teeth are\ncaused by\n\nChoose the correct answer from the following options:\n(A) Materia alba\n(B) Enamel defects\n(C) Dentinal defects\n(D) Chromogenic bacteria",
+    "expected_answer": "The correct answer is: (D) Chromogenic bacteria",
+    "difficulty": "hard",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "MED_575",
+    "domain": "Medicine",
+    "task_type": "Dental",
+    "prompt": "To assess outcome from labour, cost, time\n\nChoose the correct answer from the following options:\n(A) Cost benefit\n(B) Cost Effectiveness\n(C) Cost utility\n(D) Risk Benefit",
+    "expected_answer": "The correct answer is: (A) Cost benefit",
+    "difficulty": "hard",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "MED_577",
+    "domain": "Medicine",
+    "task_type": "Dental",
+    "prompt": "Habit developed under psychological cause is:\n\nChoose the correct answer from the following options:\n(A) Non Compulsive habits.\n(B) Unintentional habits.\n(C) Useful habits.\n(D) Intentional habits.",
+    "expected_answer": "The correct answer is: (D) Intentional habits.",
+    "difficulty": "hard",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "MED_578",
+    "domain": "Medicine",
+    "task_type": "Dental",
+    "prompt": "According to Weerheijm et al, prevalence of MIH (Molar-Incisor hypomineralisation) :\n\nChoose the correct answer from the following options:\n(A) 1.2% to 25.6%\n(B) 2.4% to 40.2%\n(C) 6.2% to 48.8%\n(D) 9.7% to 62.1%",
+    "expected_answer": "The correct answer is: (D) 9.7% to 62.1%",
+    "difficulty": "hard",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "MED_579",
+    "domain": "Medicine",
+    "task_type": "Dental",
+    "prompt": "Types of pocket respectively:\n\nChoose the correct answer from the following options:\n(A) Simple pocket, compound pocket, complex pocket.\n(B) Simple pocket, complex pocket, compound pocket.\n(C) Compound pocket, simple pocket, complex pocket.\n(D) Simple pocket, compound pocket, tertiary pocket.",
+    "expected_answer": "The correct answer is: (A) Simple pocket, compound pocket, complex pocket.",
+    "difficulty": "hard",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "MED_581",
+    "domain": "Medicine",
+    "task_type": "Dental",
+    "prompt": "Retromolar pad:\n\nChoose the correct answer from the following options:\n(A) Should not be covered by Low denture\n(B) Should be covered by lower denture\n(C) Has tendon of temporal muscle attached to it\n(D) Disappears on eruption of mandibular last molars",
+    "expected_answer": "The correct answer is: (B) Should be covered by lower denture",
+    "difficulty": "hard",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "MED_584",
+    "domain": "Medicine",
+    "task_type": "Dental",
+    "prompt": "99.73 variation involves how many SD?\n\nChoose the correct answer from the following options:\n(A) 1\n(B) 2\n(C) 3\n(D) 4",
+    "expected_answer": "The correct answer is: (C) 3",
+    "difficulty": "hard",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "MED_585",
+    "domain": "Medicine",
+    "task_type": "Dental",
+    "prompt": "Cholesterol crystals are found in which zone?\n\nChoose the correct answer from the following options:\n(A) Zone of infection\n(B) Zone of contamination\n(C) Zone of irritation\n(D) Zone of stimulation",
+    "expected_answer": "The correct answer is: (C) Zone of irritation",
+    "difficulty": "hard",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "MED_590",
+    "domain": "Medicine",
+    "task_type": "Dental",
+    "prompt": "Optimal anti-rotational design in a blade is incorporated by offset not greater than?\n\nChoose the correct answer from the following options:\n(A) 2 mm\n(B) 5 mm\n(C) 3 mm\n(D) 6 mm",
+    "expected_answer": "The correct answer is: (A) 2 mm",
+    "difficulty": "hard",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "MED_591",
+    "domain": "Medicine",
+    "task_type": "Dental",
+    "prompt": "Mesial marginal developmental groove is seen in\n\nChoose the correct answer from the following options:\n(A) Maxillary 1st premolar\n(B) Mandibular lateral incisor\n(C) Maxillary lateral incisor\n(D) Mandibular 1st premolar",
+    "expected_answer": "The correct answer is: (A) Maxillary 1st premolar",
+    "difficulty": "hard",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "MED_594",
+    "domain": "Medicine",
+    "task_type": "Dental",
+    "prompt": "Major drawback of pro-root MTA is its increased setting time which is decreased by addition of ?\n\nChoose the correct answer from the following options:\n(A) 3% of NaOH\n(B) 3% NaCl\n(C) 5% CaCl\n(D) Distilled Water",
+    "expected_answer": "The correct answer is: (C) 5% CaCl",
+    "difficulty": "hard",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "MED_598",
+    "domain": "Medicine",
+    "task_type": "Dental",
+    "prompt": "Which is the most numerous component of plaque?\n\nChoose the correct answer from the following options:\n(A) Minerals\n(B) Food debris\n(C) Microorganisms\n(D) Leucocytes",
+    "expected_answer": "The correct answer is: (C) Microorganisms",
+    "difficulty": "hard",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "MED_603",
+    "domain": "Medicine",
+    "task_type": "Dental",
+    "prompt": "According to piagets, the period of pre operational stage is:\n\nChoose the correct answer from the following options:\n(A) Birth to 18 months\n(B) 12 years onwards.\n(C) 2-6 years.\n(D) 7-12 years.",
+    "expected_answer": "The correct answer is: (C) 2-6 years.",
+    "difficulty": "hard",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "MED_613",
+    "domain": "Medicine",
+    "task_type": "Dental",
+    "prompt": "Embrasure characterized by a slight to moderate recession of interdental papilla are:\n\nChoose the correct answer from the following options:\n(A) Type I\n(B) Type II\n(C) Type III\n(D) Type IV",
+    "expected_answer": "The correct answer is: (B) Type II",
+    "difficulty": "hard",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "MED_615",
+    "domain": "Medicine",
+    "task_type": "Dental",
+    "prompt": "Which of the following classification uses the \"canine law\" malocclusion in a sagittal direction\n\nChoose the correct answer from the following options:\n(A) Bonnet's classification\n(B) Simon classification\n(C) Dewey classification\n(D) Lischer's classification",
+    "expected_answer": "The correct answer is: (B) Simon classification",
+    "difficulty": "hard",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "MED_618",
+    "domain": "Medicine",
+    "task_type": "Dental",
+    "prompt": "The best finish line for anterior metal ceramic crown is\n\nChoose the correct answer from the following options:\n(A) Chamfer with bevel\n(B) Heavy chamfer\n(C) Shoulder\n(D) Shoulder with bevel",
+    "expected_answer": "The correct answer is: (D) Shoulder with bevel",
+    "difficulty": "hard",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "MED_623",
+    "domain": "Medicine",
+    "task_type": "Dental",
+    "prompt": "First permanent molars begin to calcify at:\n\nChoose the correct answer from the following options:\n(A) 6 months of intra uterine life\n(B) At birth\n(C) Before deciduous incisors\n(D) About 1 year after birth",
+    "expected_answer": "The correct answer is: (B) At birth",
+    "difficulty": "hard",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "MED_624",
+    "domain": "Medicine",
+    "task_type": "Dental",
+    "prompt": "Stainless steel orthodontic wire can be hardened by: (OR) Bending orthodontic wire at room temperature is an example of\n\nChoose the correct answer from the following options:\n(A) Tempering\n(B) Work/ Strain hardening\n(C) Age hardening\n(D) Precipitation hardening",
+    "expected_answer": "The correct answer is: (B) Work/ Strain hardening",
+    "difficulty": "hard",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "MED_625",
+    "domain": "Medicine",
+    "task_type": "Dental",
+    "prompt": "Sealants are effective in\n\nChoose the correct answer from the following options:\n(A) Initial caries\n(B) Secondary caries\n(C) Recurrent caries\n(D) Rampant caries",
+    "expected_answer": "The correct answer is: (A) Initial caries",
+    "difficulty": "hard",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "MED_626",
+    "domain": "Medicine",
+    "task_type": "Dental",
+    "prompt": "The non-invasive method to measure the blood flow is:\n\nChoose the correct answer from the following options:\n(A) Electric pulp test\n(B) Percussion\n(C) Radiograph\n(D) Laser Doppler flowmetry",
+    "expected_answer": "The correct answer is: (D) Laser Doppler flowmetry",
+    "difficulty": "hard",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "MED_628",
+    "domain": "Medicine",
+    "task_type": "Dental",
+    "prompt": "Majority of the syndromic craniosynosteses are associated with:\n\nChoose the correct answer from the following options:\n(A) FGFR mutations\n(B) IRFS mutations\n(C) VWS mutations\n(D) 22q 11.2 mutations",
+    "expected_answer": "The correct answer is: (A) FGFR mutations",
+    "difficulty": "hard",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "MED_632",
+    "domain": "Medicine",
+    "task_type": "Dental",
+    "prompt": "The best way to fill a bony defect will be with which of the following?\n\nChoose the correct answer from the following options:\n(A) Hydroxy apatite\n(B) Donor graft\n(C) Xenograft\n(D) Autograft",
+    "expected_answer": "The correct answer is: (D) Autograft",
+    "difficulty": "hard",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "MED_633",
+    "domain": "Medicine",
+    "task_type": "Dental",
+    "prompt": "Largest incisal embrasure seen in\n\nChoose the correct answer from the following options:\n(A) Between upper Lateral incisor and Canine\n(B) Between lower Central incisor and Lateral incisor\n(C) Between upper canine and premolar\n(D) Between lower canine and premolar",
+    "expected_answer": "The correct answer is: (A) Between upper Lateral incisor and Canine",
+    "difficulty": "hard",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "MED_634",
+    "domain": "Medicine",
+    "task_type": "Dental",
+    "prompt": "A continuum to sedation, anxiolysis is referred to:\n\nChoose the correct answer from the following options:\n(A) Conscious sedation\n(B) Deep sedation\n(C) Minimal sedation\n(D) General anaesthesia",
+    "expected_answer": "The correct answer is: (C) Minimal sedation",
+    "difficulty": "hard",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "MED_638",
+    "domain": "Medicine",
+    "task_type": "Dental",
+    "prompt": "TMJ develops at the age of\n\nChoose the correct answer from the following options:\n(A) 18 weeks\n(B) 10 weeks\n(C) 6 weeks\n(D) 29 weeks",
+    "expected_answer": "The correct answer is: (B) 10 weeks",
+    "difficulty": "hard",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "MED_640",
+    "domain": "Medicine",
+    "task_type": "Dental",
+    "prompt": "Which of the following muscle helps in depressing the mandible:\n\nChoose the correct answer from the following options:\n(A) Temporalis\n(B) Massetor\n(C) Lateral pterygoid\n(D) Medial pterygoid",
+    "expected_answer": "The correct answer is: (C) Lateral pterygoid",
+    "difficulty": "hard",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "MED_646",
+    "domain": "Medicine",
+    "task_type": "Dental",
+    "prompt": "A thinner mix of a gypsum-bonded investment will:\n\nChoose the correct answer from the following options:\n(A) Produce a smoother casting\n(B) Decrease setting expansion\n(C) Increase setting expansion\n(D) Increase thermal expansion",
+    "expected_answer": "The correct answer is: (B) Decrease setting expansion",
+    "difficulty": "hard",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "MED_648",
+    "domain": "Medicine",
+    "task_type": "Dental",
+    "prompt": "Which one of the following is not FDA approved\n\nChoose the correct answer from the following options:\n(A) GEM 215\n(B) Elyzol\n(C) Periochip\n(D) Atridox",
+    "expected_answer": "The correct answer is: (B) Elyzol",
+    "difficulty": "hard",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "MED_650",
+    "domain": "Medicine",
+    "task_type": "Dental",
+    "prompt": "According to ISO 6876-2001 ADA specifications 57 Endodontics sealer penetration is upto?\n\nChoose the correct answer from the following options:\n(A) 150 \u03bcm\n(B) 50 \u03bcm\n(C) 300 \u03bcm\n(D) 100 \u03bcm",
+    "expected_answer": "The correct answer is: (B) 50 \u03bcm",
+    "difficulty": "hard",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "MED_651",
+    "domain": "Medicine",
+    "task_type": "Dental",
+    "prompt": "The iron carbide in orthodontic wire is in the form of:\n\nChoose the correct answer from the following options:\n(A) Martensite\n(B) Ferrite\n(C) Carbide\n(D) Austenite",
+    "expected_answer": "The correct answer is: (D) Austenite",
+    "difficulty": "hard",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "MED_652",
+    "domain": "Medicine",
+    "task_type": "Dental",
+    "prompt": "Trisodium phosphate in alginate acts as:\n\nChoose the correct answer from the following options:\n(A) Retarder\n(B) Reactor\n(C) Accelerator\n(D) Plasticizer",
+    "expected_answer": "The correct answer is: (A) Retarder",
+    "difficulty": "hard",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "MED_657",
+    "domain": "Medicine",
+    "task_type": "Dental",
+    "prompt": "In case of addition silicones what should be done for better cast\n\nChoose the correct answer from the following options:\n(A) Apply ketone over tray\n(B) Apply chloroform over tray\n(C) Add flavouring agent to prevent bad odour\n(D) Delay pouring of cast",
+    "expected_answer": "The correct answer is: (D) Delay pouring of cast",
+    "difficulty": "hard",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "MED_658",
+    "domain": "Medicine",
+    "task_type": "Dental",
+    "prompt": "Minimum number of lobes require to form a tooth\n\nChoose the correct answer from the following options:\n(A) 1\n(B) 2\n(C) 3\n(D) 4",
+    "expected_answer": "The correct answer is: (A) 1",
+    "difficulty": "hard",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "MED_660",
+    "domain": "Medicine",
+    "task_type": "Dental",
+    "prompt": "According to the instrument formula given by G.V. Black, the primary cutting edge angle should be:\n\nChoose the correct answer from the following options:\n(A) >50 degree\n(B) >90 degree\n(C) <50 degree\n(D) <90 degree",
+    "expected_answer": "The correct answer is: (A) >50 degree",
+    "difficulty": "hard",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "MED_665",
+    "domain": "Medicine",
+    "task_type": "Dental",
+    "prompt": "Which of the following is most stable restoration for a G.V. Black class V unstable erosive lesion?\n\nChoose the correct answer from the following options:\n(A) Acid etch composite\n(B) GIC\n(C) Resin modified GIC\n(D) Compomer",
+    "expected_answer": "The correct answer is: (C) Resin modified GIC",
+    "difficulty": "hard",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "MED_672",
+    "domain": "Medicine",
+    "task_type": "Dental",
+    "prompt": "In a patient with acute pulpitis, it is difficult for the patient to locate the pain. This is because?\n\nChoose the correct answer from the following options:\n(A) No nociceptors are present in the pulp\n(B) Less proprioceptors are present in the pulp\n(C) Patient cannot speak\n(D) Patient is not cooperative",
+    "expected_answer": "The correct answer is: (B) Less proprioceptors are present in the pulp",
+    "difficulty": "hard",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "MED_677",
+    "domain": "Medicine",
+    "task_type": "Dental",
+    "prompt": "Most suitable pontic for maxillary posterior area\n\nChoose the correct answer from the following options:\n(A) Trupontic or long pin pontic\n(B) Sanitary pontic\n(C) Flat back pontic with porcelain facing\n(D) Pin facing pontic",
+    "expected_answer": "The correct answer is: (A) Trupontic or long pin pontic",
+    "difficulty": "hard",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "MED_678",
+    "domain": "Medicine",
+    "task_type": "Dental",
+    "prompt": "Mode is\n\nChoose the correct answer from the following options:\n(A) Value that most frequently occurs in a set of observation\n(B) When observations are arranged in ascending or descending order the value that comes in the centre\n(C) Calculated by adding up the values of a group of items and dividing the sum by the number of items\n(D) Best measure for central tendency in a highly scented distribution",
+    "expected_answer": "The correct answer is: (A) Value that most frequently occurs in a set of observation",
+    "difficulty": "hard",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "MED_681",
+    "domain": "Medicine",
+    "task_type": "Dental",
+    "prompt": "Using stopko tip irrigation which of these is used cleaning and drying of pulp chamber:\n\nChoose the correct answer from the following options:\n(A) 5.25% NaOCl + 17% EDTA\n(B) 95% alcohol+17% EDTA\n(C) 5.25 NaOCl+17% CHX\n(D) 95% ethanol + 17% EDTA",
+    "expected_answer": "The correct answer is: (D) 95% ethanol + 17% EDTA",
+    "difficulty": "hard",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "MED_682",
+    "domain": "Medicine",
+    "task_type": "Dental",
+    "prompt": "Which of the following is not characteristic feature of Binder syndrome?\n\nChoose the correct answer from the following options:\n(A) Acute naso-labial angle\n(B) Flat nasal bridge\n(C) Class III malocclusion\n(D) Class II malocclusion",
+    "expected_answer": "The correct answer is: (D) Class II malocclusion",
+    "difficulty": "hard",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "MED_685",
+    "domain": "Medicine",
+    "task_type": "Dental",
+    "prompt": "If during an application of an orthodontic force, the level declines to zero between activations then the force duration is classified as:\n\nChoose the correct answer from the following options:\n(A) Continuous force\n(B) Interrupted force\n(C) Intermittent force\n(D) Differential force",
+    "expected_answer": "The correct answer is: (B) Interrupted force",
+    "difficulty": "hard",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "MED_694",
+    "domain": "Medicine",
+    "task_type": "Dental",
+    "prompt": "Only tooth in which buccal surface is made of 2 lobes\n\nChoose the correct answer from the following options:\n(A) Upper 1st molar\n(B) Lower 1st molar\n(C) Upper 2nd molar\n(D) Lower 2nd molar",
+    "expected_answer": "The correct answer is: (A) Upper 1st molar",
+    "difficulty": "hard",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "MED_699",
+    "domain": "Medicine",
+    "task_type": "Dental",
+    "prompt": "Supragingival plaque undergoes which of the following changes with time?\n\nChoose the correct answer from the following options:\n(A) Plaque mass decreases\n(B) Plaque microflora becomes more gram positive\n(C) Plaque microflora becomes gram negative\n(D) Plaque microflora becomes predominantly spirochetal",
+    "expected_answer": "The correct answer is: (C) Plaque microflora becomes gram negative",
+    "difficulty": "hard",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "MED_700",
+    "domain": "Medicine",
+    "task_type": "Dental",
+    "prompt": "Radiograph of a periodontal ligament of a tooth which has lost its antagonist shows:\n\nChoose the correct answer from the following options:\n(A) Widening of the PDL space\n(B) Narrowing of PDL space\n(C) Increased density\n(D) Sclerotic change",
+    "expected_answer": "The correct answer is: (B) Narrowing of PDL space",
+    "difficulty": "hard",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "MED_709",
+    "domain": "Medicine",
+    "task_type": "Dental",
+    "prompt": "Latest technique by which bone graft is obtained without\ndamaging vital structure, vessels/veins is based on?\n\nChoose the correct answer from the following options:\n(A) Piezoelectric vibration\n(B) Osteotome\n(C) Ultrasonic/soft lasers\n(D) Electrocautery",
+    "expected_answer": "The correct answer is: (A) Piezoelectric vibration",
+    "difficulty": "hard",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "MED_712",
+    "domain": "Medicine",
+    "task_type": "Dental",
+    "prompt": "Difference between the size of the cranium and the cephalogram is:\n\nChoose the correct answer from the following options:\n(A) No difference\n(B) 5% reduction\n(C) 5% enlargement\n(D) 10% enlargement",
+    "expected_answer": "The correct answer is: (C) 5% enlargement",
+    "difficulty": "hard",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "MED_714",
+    "domain": "Medicine",
+    "task_type": "Dental",
+    "prompt": "In resorption of roots of the primary teeth, the\ndental pulp\n\nChoose the correct answer from the following options:\n(A) Plays a passive role\n(B) Becomes a fibrotic non\u2014vital mass\n(C) Initiates resorption from the inner surface of roots\n(D) Aids in formation of secondary dentin slowing down resorption",
+    "expected_answer": "The correct answer is: (A) Plays a passive role",
+    "difficulty": "hard",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "MED_715",
+    "domain": "Medicine",
+    "task_type": "Dental",
+    "prompt": "For which of the following, you will not perform pulpectomy?\n\nChoose the correct answer from the following options:\n(A) Primary teeth with sinus tract\n(B) Primary teeth without successor\n(C) Primary teeth with furcation pathology\n(D) Pulpless primary teeth next to the line of a palatal cleft",
+    "expected_answer": "The correct answer is: (C) Primary teeth with furcation pathology",
+    "difficulty": "hard",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "MED_720",
+    "domain": "Medicine",
+    "task_type": "Dental",
+    "prompt": "Most important factor in rapid progression of Bacteria resulting in pulpal necrosis is?\n\nChoose the correct answer from the following options:\n(A) Host resistance\n(B) Virulence of bacteria\n(C) Dentinal Fluid flow\n(D) Pulp vitality",
+    "expected_answer": "The correct answer is: (D) Pulp vitality",
+    "difficulty": "hard",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "MED_724",
+    "domain": "Medicine",
+    "task_type": "Dental",
+    "prompt": "Tooth eruption is due to\n\nChoose the correct answer from the following options:\n(A) Osteoclastic activity\n(B) Proliferation of cells at crypt\n(C) Exfoliation of primary tooth\n(D) Eruptive forces",
+    "expected_answer": "The correct answer is: (D) Eruptive forces",
+    "difficulty": "hard",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "MED_730",
+    "domain": "Medicine",
+    "task_type": "Dental",
+    "prompt": "The depth of clinical gingival sulcus is the distance between the gingival margin to the\n\nChoose the correct answer from the following options:\n(A) Cementoenamel Junction\n(B) Alveolar crest\n(C) Apical extension of junctional epithelium\n(D) Apical penetration of the probe",
+    "expected_answer": "The correct answer is: (D) Apical penetration of the probe",
+    "difficulty": "hard",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "MED_735",
+    "domain": "Medicine",
+    "task_type": "Dental",
+    "prompt": "Counter bevel in tooth should not be given in\n\nChoose the correct answer from the following options:\n(A) Facial surface of premolar\n(B) Occlusal surface of premolar\n(C) Lingual surface of premolar\n(D) Any surface of premolar",
+    "expected_answer": "The correct answer is: (A) Facial surface of premolar",
+    "difficulty": "hard",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "MED_737",
+    "domain": "Medicine",
+    "task_type": "Dental",
+    "prompt": "Electrical conductivity speed of A \u03b1 fibres ?\n\nChoose the correct answer from the following options:\n(A) 70-120\n(B) 50-70\n(C) 30-51\n(D) 20-Oct",
+    "expected_answer": "The correct answer is: (A) 70-120",
+    "difficulty": "hard",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "MED_738",
+    "domain": "Medicine",
+    "task_type": "Dental",
+    "prompt": "Cross sectional from and dimension of lingual bar major connector is:\n\nChoose the correct answer from the following options:\n(A) 4 gauge full pear shape\n(B) 6 gauge half pear shape\n(C) 6 gauge round shape\n(D) gauge flat",
+    "expected_answer": "The correct answer is: (B) 6 gauge half pear shape",
+    "difficulty": "hard",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "MED_744",
+    "domain": "Medicine",
+    "task_type": "Dental",
+    "prompt": "Creep rate decreases with:\n\nChoose the correct answer from the following options:\n(A) Increase force of condensation\n(B) Decrease force of condensation\n(C) Under or overtrituration\n(D) Dealy in time between trituration and condensation",
+    "expected_answer": "The correct answer is: (A) Increase force of condensation",
+    "difficulty": "hard",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "MED_745",
+    "domain": "Medicine",
+    "task_type": "Dental",
+    "prompt": "Water content in enamel by volume\n\nChoose the correct answer from the following options:\n(A) 2-3%\n(B) 6-7%\n(C) 20-25%\n(D) 10-12%",
+    "expected_answer": "The correct answer is: (B) 6-7%",
+    "difficulty": "hard",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "MED_746",
+    "domain": "Medicine",
+    "task_type": "Dental",
+    "prompt": "The stiffness of the bristles of a nylon toothbrush is dependent on the:\n\nChoose the correct answer from the following options:\n(A) Diameter and length of filament\n(B) Amount of polish of filament\n(C) Colour of filament\n(D) Consistency of shape of the filament",
+    "expected_answer": "The correct answer is: (A) Diameter and length of filament",
+    "difficulty": "hard",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "MED_753",
+    "domain": "Medicine",
+    "task_type": "Dental",
+    "prompt": "Which of the following is a common osseous lesion in\nperiodontitis is\n\nChoose the correct answer from the following options:\n(A) Exostosis\n(B) crater\n(C) buttressing bone\n(D) hemiseptum",
+    "expected_answer": "The correct answer is: (B) crater",
+    "difficulty": "hard",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "MED_757",
+    "domain": "Medicine",
+    "task_type": "Dental",
+    "prompt": "Placement of graft will be failure in which class of recession\n\nChoose the correct answer from the following options:\n(A) class I\n(B) Class II\n(C) Class III\n(D) Class IV",
+    "expected_answer": "The correct answer is: (D) Class IV",
+    "difficulty": "hard",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "MED_758",
+    "domain": "Medicine",
+    "task_type": "Dental",
+    "prompt": "The diameter of the tip of a periodontal probe is:\n\nChoose the correct answer from the following options:\n(A) 0.25 mm\n(B) 0.75 mm\n(C) 0.5 mm\n(D) 1 mm",
+    "expected_answer": "The correct answer is: (C) 0.5 mm",
+    "difficulty": "hard",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "MED_761",
+    "domain": "Medicine",
+    "task_type": "Dental",
+    "prompt": "Guiding planes on abutment teeth provide:\n\nChoose the correct answer from the following options:\n(A) Predictable clasp retention\n(B) Increased resistance towards horizontal movement\n(C) Transmit forces along long axis of tooth\n(D) Guides the key into the key way",
+    "expected_answer": "The correct answer is: (A) Predictable clasp retention",
+    "difficulty": "hard",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "MED_763",
+    "domain": "Medicine",
+    "task_type": "Dental",
+    "prompt": "Pregnancy gingivitis is caused by:\n\nChoose the correct answer from the following options:\n(A) Bacteriodes melaninogenicus\n(B) Actinobacillus actinomycetemcomitans\n(C) Streptococcus sanguis\n(D) Fusobacterium",
+    "expected_answer": "The correct answer is: (A) Bacteriodes melaninogenicus",
+    "difficulty": "hard",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "MED_769",
+    "domain": "Medicine",
+    "task_type": "Dental",
+    "prompt": "Decrease in creep occurs in:\n\nChoose the correct answer from the following options:\n(A) Under trituration or over trituration of amalgam\n(B) Decreases with condensation pressure\n(C) Increases with condensation pressure\n(D) Cannot be predictable",
+    "expected_answer": "The correct answer is: (C) Increases with condensation pressure",
+    "difficulty": "hard",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "MED_771",
+    "domain": "Medicine",
+    "task_type": "Dental",
+    "prompt": "The cross section of the root most prone to vertical root fracture is\n\nChoose the correct answer from the following options:\n(A) Round\n(B) Oval\n(C) Kidney shape\n(D) Elliptical",
+    "expected_answer": "The correct answer is: (B) Oval",
+    "difficulty": "hard",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "MED_772",
+    "domain": "Medicine",
+    "task_type": "Dental",
+    "prompt": "Which of the following impression material requires a hardener?\n\nChoose the correct answer from the following options:\n(A) Agar\n(B) Alginate\n(C) Elastomers\n(D) Impression compound",
+    "expected_answer": "The correct answer is: (A) Agar",
+    "difficulty": "hard",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "MED_774",
+    "domain": "Medicine",
+    "task_type": "Dental",
+    "prompt": "If resin is packed in sandy stage what will be seen in the processed denture?\n\nChoose the correct answer from the following options:\n(A) Distortion\n(B) Porosity\n(C) Inhomogeneous colour\n(D) Increased strength",
+    "expected_answer": "The correct answer is: (B) Porosity",
+    "difficulty": "hard",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "MED_784",
+    "domain": "Medicine",
+    "task_type": "Dental",
+    "prompt": "The Chamfer finish line is used in\n\nChoose the correct answer from the following options:\n(A) Lingual surface of metal ceramic crown\n(B) Facial surface of metal ceramic crown\n(C) Facial surface of porcelain jacket crown\n(D) Lingual surface of porcelain jacket crown",
+    "expected_answer": "The correct answer is: (A) Lingual surface of metal ceramic crown",
+    "difficulty": "hard",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "MED_785",
+    "domain": "Medicine",
+    "task_type": "Dental",
+    "prompt": "Optimum BMP dose for osteogenesis is:\n\nChoose the correct answer from the following options:\n(A) 50 \u03bcg/mL\n(B) 2.5 \u03bcg/mL\n(C) 100 \u03bcg/mL\n(D) 100 \u03bcg/mL",
+    "expected_answer": "The correct answer is: (A) 50 \u03bcg/mL",
+    "difficulty": "hard",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "MED_787",
+    "domain": "Medicine",
+    "task_type": "Dental",
+    "prompt": "Concentration of adrenaline in local anaesthetic solution for achieving haemostasis & vasoconstriction at surgical site?\n\nChoose the correct answer from the following options:\n(A) 1:20000\n(B) 1:50000\n(C) 1:80000\n(D) 1:100000",
+    "expected_answer": "The correct answer is: (B) 1:50000",
+    "difficulty": "hard",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "MED_791",
+    "domain": "Medicine",
+    "task_type": "Dental",
+    "prompt": "Arch perimeter can be measured with\n\nChoose the correct answer from the following options:\n(A) Cephalogram\n(B) Brass wire\n(C) Vernier calipers\n(D) Occlusal radiograph",
+    "expected_answer": "The correct answer is: (B) Brass wire",
+    "difficulty": "hard",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "MED_795",
+    "domain": "Medicine",
+    "task_type": "Dental",
+    "prompt": "Bonding agents have hydrophilic and hydrophobic groups. The hydrophobic group binds which structure?\n\nChoose the correct answer from the following options:\n(A) Calcium in enamel\n(B) Hydroxyapatite group in hard tissue\n(C) Resin in restoration\n(D) Collagen in dentin",
+    "expected_answer": "The correct answer is: (C) Resin in restoration",
+    "difficulty": "hard",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "MED_799",
+    "domain": "Medicine",
+    "task_type": "Dental",
+    "prompt": "A mucostatic impression for a prosthesis is taken for which of the following cases\n\nChoose the correct answer from the following options:\n(A) Lower RPD with Kennedy I classification\n(B) Lower RPD with Kennedy II Classification\n(C) Upper RPD with Kennedy IV classification\n(D) Full upper and lower denture",
+    "expected_answer": "The correct answer is: (C) Upper RPD with Kennedy IV classification",
+    "difficulty": "hard",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "MED_801",
+    "domain": "Medicine",
+    "task_type": "Dental",
+    "prompt": "Unattached gingiva:\n\nChoose the correct answer from the following options:\n(A) Is interdental gingiva\n(B) Is below mucogingival fold\n(C) c)\tCannot be separated by probe\n(D) d)\tIs marginal gingiva",
+    "expected_answer": "The correct answer is: (D) d)\tIs marginal gingiva",
+    "difficulty": "hard",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "MED_811",
+    "domain": "Medicine",
+    "task_type": "Dental",
+    "prompt": "Ideal depth for root end filling with MTA is?\n\nChoose the correct answer from the following options:\n(A) 3mm\n(B) 5mm\n(C) 7mm\n(D) 1mm",
+    "expected_answer": "The correct answer is: (A) 3mm",
+    "difficulty": "hard",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "MED_813",
+    "domain": "Medicine",
+    "task_type": "Dental",
+    "prompt": "A case presented with lower natural teeth and 7 maxillary implants placed,  having space of 15 mm for the restoration. What would be the ideal treatment plan  for the patient?\n\nChoose the correct answer from the following options:\n(A) Single crown and bridge screw retained\n(B) Single crown and bridge cement retained\n(C) Overdenture\n(D) Hybrid denture",
+    "expected_answer": "The correct answer is: (D) Hybrid denture",
+    "difficulty": "hard",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "MED_816",
+    "domain": "Medicine",
+    "task_type": "Dental",
+    "prompt": "The usefulness of a screening test depends upon it\n\nChoose the correct answer from the following options:\n(A) Sensitivity\n(B) Specificity\n(C) Reliability\n(D) Predictive value",
+    "expected_answer": "The correct answer is: (A) Sensitivity",
+    "difficulty": "hard",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "MED_818",
+    "domain": "Medicine",
+    "task_type": "Dental",
+    "prompt": "Which of the following type of failure may occur, if the coefficient of thermal expansion of ceramic is much lower than that of metal?\n\nChoose the correct answer from the following options:\n(A) Cohesive failure of ceramic\n(B) Adhesive failure of metal ceramic bond\n(C) Cohesive failure of metal\n(D) Cohesive failure of metal ceramic bond",
+    "expected_answer": "The correct answer is: (B) Adhesive failure of metal ceramic bond",
+    "difficulty": "hard",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "MED_821",
+    "domain": "Medicine",
+    "task_type": "Dental",
+    "prompt": "Caries status in child is most likely suggested by\n\nChoose the correct answer from the following options:\n(A) DMFT and past caries experience\n(B) Salivary flow and composition\n(C) Frequency of sugar intake\n(D) Fluoride concentration in the area",
+    "expected_answer": "The correct answer is: (A) DMFT and past caries experience",
+    "difficulty": "hard",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "MED_826",
+    "domain": "Medicine",
+    "task_type": "Dental",
+    "prompt": "8 year old child had fractured his maxillary central incisor 10 months ago. The pulp shows no response. There is no periapical lesion in the radiograph. The treatment of choice is\n\nChoose the correct answer from the following options:\n(A) Ca(OH)2 Pulp capping\n(B) Formocresol pulpotomy\n(C) Conventional root canal treatment\n(D) Complete debridement and apexification",
+    "expected_answer": "The correct answer is: (D) Complete debridement and apexification",
+    "difficulty": "hard",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "MED_829",
+    "domain": "Medicine",
+    "task_type": "Dental",
+    "prompt": "Habits are classified as Intentional and Unintentional by:\n\nChoose the correct answer from the following options:\n(A) William James\n(B) Kingsley\n(C) Earnest Klein\n(D) Finn and Sim",
+    "expected_answer": "The correct answer is: (C) Earnest Klein",
+    "difficulty": "hard",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "MED_834",
+    "domain": "Medicine",
+    "task_type": "Dental",
+    "prompt": "D1 bone found mainly in which site?\n\nChoose the correct answer from the following options:\n(A) Anterior maxilla\n(B) Anterior mandible\n(C) Posterior mandible\n(D) Posterior maxilla",
+    "expected_answer": "The correct answer is: (B) Anterior mandible",
+    "difficulty": "hard",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "MED_836",
+    "domain": "Medicine",
+    "task_type": "Dental",
+    "prompt": "In Parkinsonism patient, teeth arrangement is\n\nChoose the correct answer from the following options:\n(A) Anatomic\n(B) Non anatomic\n(C) Semi anatomic\n(D) Saucer teeth",
+    "expected_answer": "The correct answer is: (B) Non anatomic",
+    "difficulty": "hard",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "MED_839",
+    "domain": "Medicine",
+    "task_type": "Dental",
+    "prompt": "At what stage of embryonic development does initial tooth development begins:\n\nChoose the correct answer from the following options:\n(A) 3rd week\n(B) 6th week\n(C) 8th week\n(D) 4th week",
+    "expected_answer": "The correct answer is: (B) 6th week",
+    "difficulty": "hard",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "MED_840",
+    "domain": "Medicine",
+    "task_type": "Dental",
+    "prompt": "Odontoblasts are derived from ____________\n\nChoose the correct answer from the following options:\n(A) Undifferentiated mesenchymal cells\n(B) Histocytes\n(C) Macrophages\n(D) Lymphocytes",
+    "expected_answer": "The correct answer is: (A) Undifferentiated mesenchymal cells",
+    "difficulty": "hard",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "MED_842",
+    "domain": "Medicine",
+    "task_type": "Dental",
+    "prompt": "Fixation period of intrusive luxation injury is?\n\nChoose the correct answer from the following options:\n(A) 2 weeks\n(B) 4 weeks\n(C) 4 weeks, if semi-rigid & 2 weeks, if rigid\n(D) 6-8 weeks",
+    "expected_answer": "The correct answer is: (B) 4 weeks",
+    "difficulty": "hard",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "MED_845",
+    "domain": "Medicine",
+    "task_type": "Dental",
+    "prompt": "Reactive oxygen metabolite in lysosomes is released by\n\nChoose the correct answer from the following options:\n(A) Peroxidase\n(B) NADPH oxidase\n(C) Superoxide dismutase\n(D) Catalase",
+    "expected_answer": "The correct answer is: (B) NADPH oxidase",
+    "difficulty": "hard",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "MED_846",
+    "domain": "Medicine",
+    "task_type": "Dental",
+    "prompt": "Which cells are decreased in chronic periodontitis?\n\nChoose the correct answer from the following options:\n(A) B-lymphocytes\n(B) T-lymphocytes\n(C) Mast cells\n(D) Plasma cells",
+    "expected_answer": "The correct answer is: (B) T-lymphocytes",
+    "difficulty": "hard",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "MED_853",
+    "domain": "Medicine",
+    "task_type": "Dental",
+    "prompt": "In order to have balance in hand instrument:\n\nChoose the correct answer from the following options:\n(A) Blade edge should be within 2 mm of the axis of handle\n(B) Blade edge should be within 2 mm of the axis of shank\n(C) Blade edge should be within 2.5 mm of the axis of handle\n(D) Blade edge should be within 2.5 mm of the axis of shank",
+    "expected_answer": "The correct answer is: (A) Blade edge should be within 2 mm of the axis of handle",
+    "difficulty": "hard",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "MED_864",
+    "domain": "Medicine",
+    "task_type": "Dental",
+    "prompt": "White flecks yellow or brown spots on surface of teeth covering, giving papery white appearance\n\nChoose the correct answer from the following options:\n(A) Mottled enamel\n(B) Incipient caries\n(C) Dental stains\n(D) Smooth caries",
+    "expected_answer": "The correct answer is: (A) Mottled enamel",
+    "difficulty": "hard",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "MED_868",
+    "domain": "Medicine",
+    "task_type": "Dental",
+    "prompt": "Minimum number of lobes required to form a permanent tooth\n\nChoose the correct answer from the following options:\n(A) 1\n(B) 2\n(C) 3\n(D) 4",
+    "expected_answer": "The correct answer is: (D) 4",
+    "difficulty": "hard",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "MED_869",
+    "domain": "Medicine",
+    "task_type": "Dental",
+    "prompt": "In which of the following conditions is the role of microbial plaque most obscure:\n\nChoose the correct answer from the following options:\n(A) Periodontitis\n(B) Juvenile periodontitis\n(C) Desquamative gingivitis\n(D) Necrotising ulcerative gingivitis",
+    "expected_answer": "The correct answer is: (C) Desquamative gingivitis",
+    "difficulty": "hard",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "MED_874",
+    "domain": "Medicine",
+    "task_type": "Dental",
+    "prompt": "Working cusps are also known as:\n\nChoose the correct answer from the following options:\n(A) Guiding cusps.\n(B) Supporting cusps.\n(C) Holding cusps.\n(D) Balancing cusps.",
+    "expected_answer": "The correct answer is: (B) Supporting cusps.",
+    "difficulty": "hard",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "MED_893",
+    "domain": "Medicine",
+    "task_type": "Dental",
+    "prompt": "Following intracoronal bleaching immediate composite restoration required, what has to be done:\n\nChoose the correct answer from the following options:\n(A) Treat with catalase\n(B) Wait for 7 days is mandatory\n(C) Treat with H2O2 for 3 minutes\n(D) Not possible",
+    "expected_answer": "The correct answer is: (A) Treat with catalase",
+    "difficulty": "hard",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "MED_894",
+    "domain": "Medicine",
+    "task_type": "Dental",
+    "prompt": "3 weeks after insertion of distal extension partial denture, the patient reports to the dental clinic with complaint of sensitivity to chewing pressure. The most probable reason would be:\n\nChoose the correct answer from the following options:\n(A) Improper occlusion\n(B) Abrasion of tooth by clasp\n(C) Wearing off the cement base\n(D) Passive retentive arm",
+    "expected_answer": "The correct answer is: (A) Improper occlusion",
+    "difficulty": "hard",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "MED_896",
+    "domain": "Medicine",
+    "task_type": "Dental",
+    "prompt": "The appropriate force required to tip a tooth is:\n\nChoose the correct answer from the following options:\n(A) 10 - 20mg\n(B) 35 - 60mg\n(C) 50 - 70mg\n(D) 70 - 100mg",
+    "expected_answer": "The correct answer is: (B) 35 - 60mg",
+    "difficulty": "hard",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "MED_903",
+    "domain": "Medicine",
+    "task_type": "Dental",
+    "prompt": "In Mount and Hume classification, what will be the site size of the following lesion?\n\nChoose the correct answer from the following options:\n(A) 2.1\n(B) 2.2\n(C) 3.1\n(D) 3.2",
+    "expected_answer": "The correct answer is: (C) 3.1",
+    "difficulty": "hard",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "MED_905",
+    "domain": "Medicine",
+    "task_type": "Dental",
+    "prompt": "Most common morphological variation is seen in:\n\nChoose the correct answer from the following options:\n(A) Maxillary lateral incisor\n(B) Mandibular lateral incisor\n(C) Maxillary canine\n(D) Mandibular canine",
+    "expected_answer": "The correct answer is: (A) Maxillary lateral incisor",
+    "difficulty": "hard",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "MED_912",
+    "domain": "Medicine",
+    "task_type": "Dental",
+    "prompt": "Size of apical foramen\n\nChoose the correct answer from the following options:\n(A) Remain constant\n(B) Increases with age\n(C) Decreases with age\n(D) May increase or decrease with age",
+    "expected_answer": "The correct answer is: (B) Increases with age",
+    "difficulty": "hard",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "MED_913",
+    "domain": "Medicine",
+    "task_type": "Dental",
+    "prompt": "Split impedence based apex locator is:\n\nChoose the correct answer from the following options:\n(A) Generation 1\n(B) Generation 2\n(C) Generation 3\n(D) Generation 4",
+    "expected_answer": "The correct answer is: (D) Generation 4",
+    "difficulty": "hard",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "MED_914",
+    "domain": "Medicine",
+    "task_type": "Dental",
+    "prompt": "Anchoring fibres of lamina densa contains:\n\nChoose the correct answer from the following options:\n(A) Type 2 collagen.\n(B) Type 4 collagen.\n(C) Type 6 collagen.\n(D) Type 7 collagen.",
+    "expected_answer": "The correct answer is: (D) Type 7 collagen.",
+    "difficulty": "hard",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "MED_915",
+    "domain": "Medicine",
+    "task_type": "Dental",
+    "prompt": "Gycosylated Hb is done for the assessment of:\n\nChoose the correct answer from the following options:\n(A) Diabetic patient\n(B) Cushing disease\n(C) Hyperparathyroidism\n(D) Addison disease",
+    "expected_answer": "The correct answer is: (A) Diabetic patient",
+    "difficulty": "hard",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "MED_918",
+    "domain": "Medicine",
+    "task_type": "Dental",
+    "prompt": "Condensation reaction occurs in\n\nChoose the correct answer from the following options:\n(A) Agar\n(B) Alginate\n(C) Polysulfide\n(D) ZOE",
+    "expected_answer": "The correct answer is: (C) Polysulfide",
+    "difficulty": "hard",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "MED_923",
+    "domain": "Medicine",
+    "task_type": "Dental",
+    "prompt": "In constructing a fixed partial denture for a patient, the\ndentist will use a hygienic pontic. Which of the following\nwill primarily determine the faciolingual dimension of\nthe occlusal portion of this pontic?\n\nChoose the correct answer from the following options:\n(A) The length of the pontic\n(B) The masticatory, force of the patient\n(C) The position of the opposing contact areas\n(D) The width and crestaL position of the edentulous ridge",
+    "expected_answer": "The correct answer is: (C) The position of the opposing contact areas",
+    "difficulty": "hard",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "MED_929",
+    "domain": "Medicine",
+    "task_type": "Dental",
+    "prompt": "First nerve fiber present in vicinity of dental papilla in\n\nChoose the correct answer from the following options:\n(A) Bud stage\n(B) Cap stage\n(C) Bell stage\n(D) Advanced Bell stage",
+    "expected_answer": "The correct answer is: (A) Bud stage",
+    "difficulty": "hard",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "MED_932",
+    "domain": "Medicine",
+    "task_type": "Dental",
+    "prompt": "Lingual ridge is most prominent in\n\nChoose the correct answer from the following options:\n(A) Upper Canine\n(B) Lower Canine\n(C) Upper Central Incisor\n(D) Lower central incisor",
+    "expected_answer": "The correct answer is: (A) Upper Canine",
+    "difficulty": "hard",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "MED_936",
+    "domain": "Medicine",
+    "task_type": "Dental",
+    "prompt": "Anterior 2/3rd of tongue is supplied by\n\nChoose the correct answer from the following options:\n(A) Facial nerve\n(B) X nerve\n(C) IX nerve\n(D) XI nerve",
+    "expected_answer": "The correct answer is: (A) Facial nerve",
+    "difficulty": "hard",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "MED_937",
+    "domain": "Medicine",
+    "task_type": "Dental",
+    "prompt": "Which of the following tooth shows C shaped canal\n\nChoose the correct answer from the following options:\n(A) Mandibular 1st premolar\n(B) Maxillary 1st premolar\n(C) Mandibular 2nd premolar\n(D) Maxillary 2nd premolar",
+    "expected_answer": "The correct answer is: (A) Mandibular 1st premolar",
+    "difficulty": "hard",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "MED_939",
+    "domain": "Medicine",
+    "task_type": "Dental",
+    "prompt": "ADA specification of orthodontic wire:\n\nChoose the correct answer from the following options:\n(A) 29\n(B) 25\n(C) 32\n(D) 30",
+    "expected_answer": "The correct answer is: (C) 32",
+    "difficulty": "hard",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "MED_940",
+    "domain": "Medicine",
+    "task_type": "Dental",
+    "prompt": "A-alpha \ufb01bers have a speed of conduction of  ------ m/s.\n\nChoose the correct answer from the following options:\n(A) 20-Oct\n(B) 40-50\n(C) 50-70\n(D) 70-120",
+    "expected_answer": "The correct answer is: (D) 70-120",
+    "difficulty": "hard",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "MED_943",
+    "domain": "Medicine",
+    "task_type": "Dental",
+    "prompt": "Obturation with gutta-percha cones is indicated in primary teeth only when:\n\nChoose the correct answer from the following options:\n(A) Canals are too wide\n(B) Successor is missing\n(C) Canals are very long but straight\n(D) When stainless steel crown recommended",
+    "expected_answer": "The correct answer is: (A) Canals are too wide",
+    "difficulty": "hard",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "MED_944",
+    "domain": "Medicine",
+    "task_type": "Dental",
+    "prompt": "Perfect example of transition of anterior to posterior is\n\nChoose the correct answer from the following options:\n(A) Mandibular canine\n(B) Maxillary canine\n(C) Mandibular 1st premolar\n(D) Maxillary 1st premolar",
+    "expected_answer": "The correct answer is: (A) Mandibular canine",
+    "difficulty": "hard",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "MED_945",
+    "domain": "Medicine",
+    "task_type": "Dental",
+    "prompt": "Multi constricted apical constriction is seen in which type of Dummer\u2019s classification\n\nChoose the correct answer from the following options:\n(A) Type 1\n(B) Type 2\n(C) Type 3\n(D) Type 4",
+    "expected_answer": "The correct answer is: (C) Type 3",
+    "difficulty": "hard",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "MED_947",
+    "domain": "Medicine",
+    "task_type": "Dental",
+    "prompt": "In a free gingival graft, what happens to epithelium of the graft? It:\n\nChoose the correct answer from the following options:\n(A) Remains as such\n(B) Proliferates\n(C) Degenerates\n(D) Has to be removed by the surgeon",
+    "expected_answer": "The correct answer is: (C) Degenerates",
+    "difficulty": "hard",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "MED_951",
+    "domain": "Medicine",
+    "task_type": "Dental",
+    "prompt": "Stable element in Ti6Al4V in alpha phase is?\n\nChoose the correct answer from the following options:\n(A) V\n(B) Al\n(C) Ti\n(D) Al, V",
+    "expected_answer": "The correct answer is: (B) Al",
+    "difficulty": "hard",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "MED_953",
+    "domain": "Medicine",
+    "task_type": "Dental",
+    "prompt": "The advantage of metal base denture is:\n\nChoose the correct answer from the following options:\n(A) Increase in tissue tolerance\n(B) Easy laboratory procedure\n(C) Rebasing and relining are quite easy\n(D) Increase in restorative cost",
+    "expected_answer": "The correct answer is: (A) Increase in tissue tolerance",
+    "difficulty": "hard",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "MED_956",
+    "domain": "Medicine",
+    "task_type": "Dental",
+    "prompt": "Not responsible for chronic gingival inflammation?\n\nChoose the correct answer from the following options:\n(A) Neutrophil\n(B) Macrophages\n(C) T-lymphocytes\n(D) Plasma cells",
+    "expected_answer": "The correct answer is: (A) Neutrophil",
+    "difficulty": "hard",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "MED_963",
+    "domain": "Medicine",
+    "task_type": "Dental",
+    "prompt": "Statistics to check out mean of values is done by:\n\nChoose the correct answer from the following options:\n(A) Chi-square test\n(B) Student's analysis\n(C) Probability test\n(D) Horizontal studies",
+    "expected_answer": "The correct answer is: (B) Student's analysis",
+    "difficulty": "hard",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "MED_972",
+    "domain": "Medicine",
+    "task_type": "Dental",
+    "prompt": "EDTA does not cause which of the following action\n\nChoose the correct answer from the following options:\n(A) Chelating action\n(B) Irrigation\n(C) Remove smear layer\n(D) Pulp fixation",
+    "expected_answer": "The correct answer is: (D) Pulp fixation",
+    "difficulty": "hard",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "MED_973",
+    "domain": "Medicine",
+    "task_type": "Dental",
+    "prompt": "Distal palatal termination of the maxillary complete denture base is dictated by the:\n\nChoose the correct answer from the following options:\n(A) Vibrating line\n(B) Fovea palatine\n(C) Tuberosity\n(D) Maxillary torus",
+    "expected_answer": "The correct answer is: (A) Vibrating line",
+    "difficulty": "hard",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "MED_975",
+    "domain": "Medicine",
+    "task_type": "Dental",
+    "prompt": "Prevalence of pit & fissure caries is measured with:\n\nChoose the correct answer from the following options:\n(A) ICDAS\n(B) DMF\n(C) def/dmf\n(D) Transillumination",
+    "expected_answer": "The correct answer is: (D) Transillumination",
+    "difficulty": "hard",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "MED_977",
+    "domain": "Medicine",
+    "task_type": "Dental",
+    "prompt": "To prevent sensitivity caused by acid etching and to protect pulp in deep cavities which of the following should be used.\n\nChoose the correct answer from the following options:\n(A) Ca(OH)2 liner\n(B) ZOE\n(C) Light cured GIC liner\n(D) Varnish",
+    "expected_answer": "The correct answer is: (A) Ca(OH)2 liner",
+    "difficulty": "hard",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "MED_984",
+    "domain": "Medicine",
+    "task_type": "Dental",
+    "prompt": "The periodontal ligament\n\nChoose the correct answer from the following options:\n(A) Derives its blood supply primarily from the branches of vessels entering the pulp\n(B) Has a slow rate of turnover\n(C) Contains epithelial cells of malassez\n(D) Comprises primarily of type 2 collagen",
+    "expected_answer": "The correct answer is: (C) Contains epithelial cells of malassez",
+    "difficulty": "hard",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "MED_985",
+    "domain": "Medicine",
+    "task_type": "Dental",
+    "prompt": "Which muscle is responsible for translation of condyle?\n\nChoose the correct answer from the following options:\n(A) Medial pterygoid\n(B) Masseter\n(C) Superior constrictor of pharynx\n(D) Lateral pterygoid",
+    "expected_answer": "The correct answer is: (D) Lateral pterygoid",
+    "difficulty": "hard",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "MED_986",
+    "domain": "Medicine",
+    "task_type": "Dental",
+    "prompt": "For an unbounded amalgam restoration, what should be done before copal varnish is applied ?\n\nChoose the correct answer from the following options:\n(A) Dentine desensitiser is applied\n(B) Smear layer is left intact\n(C) Smear layer is modified\n(D) After removal of enamel smear layer only",
+    "expected_answer": "The correct answer is: (A) Dentine desensitiser is applied",
+    "difficulty": "hard",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "MED_987",
+    "domain": "Medicine",
+    "task_type": "Dental",
+    "prompt": "\"Multifactorial Causation\" theory was given by\n\nChoose the correct answer from the following options:\n(A) McMohan Pugh\n(B) Pettenkofer of Munich\n(C) Winslow\n(D) Robert Koch",
+    "expected_answer": "The correct answer is: (B) Pettenkofer of Munich",
+    "difficulty": "hard",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "MED_989",
+    "domain": "Medicine",
+    "task_type": "Dental",
+    "prompt": "Diagnodent uses what for detecting caries\n\nChoose the correct answer from the following options:\n(A) Sound wave\n(B) Visible light\n(C) LASER\n(D) Nanotechnology",
+    "expected_answer": "The correct answer is: (C) LASER",
+    "difficulty": "hard",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "MED_990",
+    "domain": "Medicine",
+    "task_type": "Dental",
+    "prompt": "Till what age tetracycline should not be given to prevent discoloration\n\nChoose the correct answer from the following options:\n(A) 3 year\n(B) 8 year\n(C) 12 year\n(D) 18 year",
+    "expected_answer": "The correct answer is: (B) 8 year",
+    "difficulty": "hard",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "MED_992",
+    "domain": "Medicine",
+    "task_type": "Dental",
+    "prompt": "Portion of tooth covered by calculus or altered cementum is:\n\nChoose the correct answer from the following options:\n(A) Toxic zone\n(B) Deposit zone\n(C) Instrumentation zone\n(D) Take away zone",
+    "expected_answer": "The correct answer is: (C) Instrumentation zone",
+    "difficulty": "hard",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "MED_993",
+    "domain": "Medicine",
+    "task_type": "Dental",
+    "prompt": "Indirect retainers are situated:\n\nChoose the correct answer from the following options:\n(A) As far anteriorly from the fulcrum line\n(B) As close to the fulcrum line\n(C) At the canine region\n(D) At the mesial marginal ridge of the premolars in the class I case",
+    "expected_answer": "The correct answer is: (A) As far anteriorly from the fulcrum line",
+    "difficulty": "hard",
+    "evaluation_metric": "exact_match"
+  },
+  {
+    "task_id": "MED_998",
+    "domain": "Medicine",
+    "task_type": "Dental",
+    "prompt": "CHX mouthwash daily use till 2 week for streptococcus mutanus is effective for:\n\nChoose the correct answer from the following options:\n(A) 14-18 weeks\n(B) 12-14 weeks\n(C) 12-16 weeks\n(D) 12-26 weeks",
+    "expected_answer": "The correct answer is: (D) 12-26 weeks",
+    "difficulty": "hard",
+    "evaluation_metric": "exact_match"
+  }
+]
