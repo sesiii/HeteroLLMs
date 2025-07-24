@@ -1,0 +1,24 @@
+[
+  {
+    "task_id": "MATH_013",
+    "prompt": "A bicycle is traveling at 20 feet per minute. What is the bicycle's speed expressed in inches per second?",
+    "expected": "4",
+    "predicted": "To convert the bicycle's speed from feet per minute to inches per second, we need to follow these steps:\n\n1. Convert feet to inches.\n2. Convert minutes to seconds.\n\nFirst, we know that 1 foot (ft) is equal to 12 inches (in). Therefore:\n\\[ \\text{Speed in feet per minute} = 20 \\text{ ft/min} \\]\n\nNext, we convert minutes to seconds:\n\\[ 1 \\text{ minute} = 60 \\text{ seconds} \\]\nSo,\n\\[ \\text{Speed in inches per second} = 20 \\text{ ft/min} \\times \\frac{60 \\text{ sec}}{1 \\text{ min}} \\times \\frac{1 \\text{ ft}}{12 \\text{ in}} \\]\n\nNow, let's perform the calculation:\n\\[ 20 \\times \\frac{60}{12} = 20 \\times 5 = 100 \\text{ inches/second} \\]\n\nTherefore, the bicycle's speed is \\( 100 \\) inches per second.",
+    "correct": false,
+    "score": 0.0,
+    "metric": "exact_match",
+    "latency_ms": 5790.680170059204,
+    "memory_peak_mb": 46.88671875,
+    "prompt_tokens": 53,
+    "completion_tokens": 234,
+    "total_tokens": 287,
+    "throughput_tps": 49.56239881524414,
+    "ref_prompt_tokens": 22,
+    "ref_completion_tokens": 230,
+    "ref_total_tokens": 252,
+    "ref_throughput_tps": 43.51820383777534,
+    "success": true,
+    "evaluation_reasoning": "Extracted the numeric value from the predicted answer, which is 100.",
+    "extracted_answer": 100
+  }
+]

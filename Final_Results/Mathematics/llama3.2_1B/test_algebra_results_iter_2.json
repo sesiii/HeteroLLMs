@@ -1,0 +1,22 @@
+[
+  {
+    "task_id": "MATH_013",
+    "prompt": "A bicycle is traveling at 20 feet per minute. What is the bicycle's speed expressed in inches per second?",
+    "expected": "4",
+    "predicted": "To convert the bicycle's speed from feet per minute to inches per second, we need to perform two conversions.\n\nFirst, let's convert feet to inches:\n1 foot = 12 inches\nSo, 20 feet = 20 x 12 = 240 inches\n\nNow, let's convert minutes to seconds:\n1 minute = 60 seconds\n\nTherefore, the bicycle's speed in inches per second is:\n\n240 inches/minute ÷ 60 seconds/minute = 4 inches/second",
+    "correct": false,
+    "score": 0.0,
+    "metric": "exact_match",
+    "latency_ms": 3167.203664779663,
+    "memory_peak_mb": 46.76171875,
+    "prompt_tokens": 48,
+    "completion_tokens": 100,
+    "total_tokens": 148,
+    "throughput_tps": 46.728917892400865,
+    "ref_prompt_tokens": 22,
+    "ref_completion_tokens": 99,
+    "ref_total_tokens": 121,
+    "ref_throughput_tps": 38.20404773635477,
+    "success": true
+  }
+]

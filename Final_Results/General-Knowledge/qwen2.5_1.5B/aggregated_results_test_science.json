@@ -1,0 +1,18 @@
+{
+  "model_name": "qwen2.5:1.5b",
+  "domain": "General-Knowledge",
+  "test_file": "test_science",
+  "total_iterations": 3,
+  "metrics": {
+    "accuracy_percent": 16.666666666666664,
+    "avg_latency_ms": 3762.7657651901245,
+    "avg_memory_peak_mb": 48.111545138888886,
+    "avg_throughput_tps": 57.43954392233141,
+    "total_tokens": 3458,
+    "avg_ref_throughput_tps": 45.782355865350695,
+    "total_ref_tokens": 3025,
+    "total_tasks": 18,
+    "successful_tasks": 18,
+    "correct_tasks": 3
+  }
+}

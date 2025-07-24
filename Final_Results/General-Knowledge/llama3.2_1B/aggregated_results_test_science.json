@@ -1,0 +1,18 @@
+{
+  "model_name": "llama3.2:1b",
+  "domain": "General-Knowledge",
+  "test_file": "test_science",
+  "total_iterations": 3,
+  "metrics": {
+    "accuracy_percent": 11.11111111111111,
+    "avg_latency_ms": 5768.600636058383,
+    "avg_memory_peak_mb": 48.10243055555556,
+    "avg_throughput_tps": 42.119150743789056,
+    "total_tokens": 3831,
+    "avg_ref_throughput_tps": 35.131671955794516,
+    "total_ref_tokens": 3454,
+    "total_tasks": 18,
+    "successful_tasks": 18,
+    "correct_tasks": 2
+  }
+}

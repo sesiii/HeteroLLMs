@@ -1,0 +1,18 @@
+{
+  "model_name": "qwen2.5:1.5b",
+  "domain": "Mathematics",
+  "test_file": "test_algebra",
+  "total_iterations": 3,
+  "metrics": {
+    "accuracy_percent": 33.33333333333333,
+    "avg_latency_ms": 6948.702573776245,
+    "avg_memory_peak_mb": 46.9296875,
+    "avg_throughput_tps": 47.944481132396334,
+    "total_tokens": 996,
+    "avg_ref_throughput_tps": 44.07721995598569,
+    "total_ref_tokens": 920,
+    "total_tasks": 3,
+    "successful_tasks": 3,
+    "correct_tasks": 1
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "model_name": "llama3.2:1b",
+  "domain": "Mathematics",
+  "test_file": "test_algebra",
+  "total_iterations": 3,
+  "metrics": {
+    "accuracy_percent": 100.0,
+    "avg_latency_ms": 3860.7966899871826,
+    "avg_memory_peak_mb": 46.934895833333336,
+    "avg_throughput_tps": 40.14752090961519,
+    "total_tokens": 447,
+    "avg_ref_throughput_tps": 32.873106438814865,
+    "total_ref_tokens": 366,
+    "total_tasks": 3,
+    "successful_tasks": 3,
+    "correct_tasks": 3
+  }
+}
