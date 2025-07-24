@@ -1,7 +1,3 @@
-# ()
-
-
-
 #!/usr/bin/env python3
 import tiktoken      
 REF_TOKENIZER = tiktoken.get_encoding("gpt2")   
@@ -33,10 +29,35 @@ class ISTFormatter(logging.Formatter):
         return datetime.fromtimestamp(timestamp, IST).timetuple()
 
 formatter = ISTFormatter("%(asctime)s [%(levelname)s] %(message)s")
+
+# ---------- CLI ----------
+parser = argparse.ArgumentParser(description="LLM benchmark – more metrics")
+parser.add_argument("--iteration", type=int, default=1, help="iteration number")
+parser.add_argument(
+    "--model",
+    type=str,
+    default="all",
+    help="Model to run (use 'all' to run all models)",
+)
+parser.add_argument(
+    "--domain",
+    type=str,
+    required=True,
+    help="Domain name (e.g., Mathematics)",
+)
+parser.add_argument(
+    "--test-file",
+    type=str,
+    required=True,
+    help="Test file name without extension (e.g., test_algebra)",
+)
+cli_args = parser.parse_args()
+
+# Set up logging with domain-specific log file
 logging.basicConfig(
     level=logging.INFO,
     handlers=[
-        logging.FileHandler("logs/parallel_test_script.log"),
+        logging.FileHandler(f"logs/Domain/{cli_args.domain}/parallel_test_script.log"),
         logging.StreamHandler(sys.stdout),
     ],
 )
@@ -44,31 +65,39 @@ for h in logging.getLogger().handlers:
     h.setFormatter(formatter)
 logger = logging.getLogger(__name__)
 
-# ---------- CLI ----------
-parser = argparse.ArgumentParser(description="LLM benchmark – more metrics")
-parser.add_argument("--iteration", type=int, default=1, help="iteration number")
-cli_args = parser.parse_args()
-
 # ---------- Config ----------
+ALL_MODELS = [
+    {
+        "name": "qwen2.5:1.5b",
+        "results_path": os.getenv(
+            "Qwen2_5_1_5B_RESULTS_PATH",
+            f"Final_Results/{cli_args.domain}/qwen2.5_1.5B/{cli_args.test_file}_results_iter_{cli_args.iteration}.json",
+        ),
+    },
+    {
+        "name": "llama3.2:1b",
+        "results_path": os.getenv(
+            "Llama3_2_1B_RESULTS_PATH",
+            f"Final_Results/{cli_args.domain}/llama3.2_1B/{cli_args.test_file}_results_iter_{cli_args.iteration}.json",
+        ),
+    }
+]
+
+if cli_args.model == "all":
+    selected_models = ALL_MODELS
+else:
+    selected_models = [m for m in ALL_MODELS if m["name"] == cli_args.model]
+    if not selected_models:
+        print(f"Model '{cli_args.model}' not found in config.")
+        sys.exit(1)
+
 CONFIG = {
     "OLLAMA_API": os.getenv("OLLAMA_API", "http://127.0.0.1:11434/api/generate"),
-    "MODELS": [
-        {
-            "name": "qwen2.5:1.5b",
-            "results_path": os.getenv(
-                "Qwen2_5_1_5B_RESULTS_PATH",
-                f"Results1/Mathematics/qwen2.5_1.5B/ref_results_iter_{cli_args.iteration}.json",
-            ),
-        },
-        {
-            "name": "llama3.2:1b",
-            "results_path": os.getenv(
-                "Llama3_2_1B_RESULTS_PATH",
-                f"Results1/Mathematics/llama3.2_1B/ref_results_iter_{cli_args.iteration}.json",
-            ),
-        }
-    ],
-    "DATASET_PATH": os.getenv("DATASET_PATH", "datasets/Domain/Mathematics/ref.json"),
+    "MODELS": selected_models,
+    "DATASET_PATH": os.getenv(
+        "DATASET_PATH",
+        f"datasets/Domain/{cli_args.domain}/{cli_args.test_file}.json"
+    ),
     "TIMEOUT": int(os.getenv("TIMEOUT", 60)),
     "MAX_RETRIES": int(os.getenv("MAX_RETRIES", 3)),
     "TEMPERATURE": float(os.getenv("TEMPERATURE", 0.3)),
@@ -148,16 +177,16 @@ def query_ollama(prompt: str, model_name: str) -> Dict[str, Any]:
         data = r.json()
 
         prediction = data.get("response", "").strip()
-        prompt_tokens       = int(data.get("prompt_eval_count", 0))
-        completion_tokens   = int(data.get("eval_count", 0))
-        total_tokens        = prompt_tokens + completion_tokens
-        throughput_tps      = total_tokens / (latency_ms / 1000.0) if latency_ms else 0.0
+        prompt_tokens = int(data.get("prompt_eval_count", 0))
+        completion_tokens = int(data.get("eval_count", 0))
+        total_tokens = prompt_tokens + completion_tokens
+        throughput_tps = total_tokens / (latency_ms / 1000.0) if latency_ms else 0.0
 
-        #counts with fixed reference tokenizer (cross-model comparable) ---
-        ref_prompt_tokens   = len(REF_TOKENIZER.encode(prompt))
+        # Counts with fixed reference tokenizer (cross-model comparable)
+        ref_prompt_tokens = len(REF_TOKENIZER.encode(prompt))
         ref_completion_tokens = len(REF_TOKENIZER.encode(prediction))
-        ref_total_tokens    = ref_prompt_tokens + ref_completion_tokens
-        ref_throughput_tps  = ref_total_tokens / (latency_ms / 1000.0) if latency_ms else 0.0
+        ref_total_tokens = ref_prompt_tokens + ref_completion_tokens
+        ref_throughput_tps = ref_total_tokens / (latency_ms / 1000.0) if latency_ms else 0.0
 
         return {
             "success": True,
@@ -168,13 +197,10 @@ def query_ollama(prompt: str, model_name: str) -> Dict[str, Any]:
             "completion_tokens": completion_tokens,
             "total_tokens": total_tokens,
             "throughput_tps": throughput_tps,
-
-            #(comparable) counts
             "ref_prompt_tokens": ref_prompt_tokens,
             "ref_completion_tokens": ref_completion_tokens,
             "ref_total_tokens": ref_total_tokens,
             "ref_throughput_tps": ref_throughput_tps,
-
             "raw_response": data,
         }
 
@@ -188,19 +214,17 @@ def query_ollama(prompt: str, model_name: str) -> Dict[str, Any]:
             "prediction": f"Error: {e}",
             "latency_ms": latency_ms,
             "memory_peak_mb": memory_peak_mb,
-
             "prompt_tokens": 0,
             "completion_tokens": 0,
             "total_tokens": 0,
             "throughput_tps": 0.0,
-
             "ref_prompt_tokens": 0,
             "ref_completion_tokens": 0,
             "ref_total_tokens": 0,
             "ref_throughput_tps": 0.0,
-
             "raw_response": {},
         }
+
 # ---------- Evaluation ----------
 import re
 
@@ -256,7 +280,6 @@ def process_model(args):
     logger.info("Starting %s (%d tasks)", model_name, len(dataset))
     results = []
     for task in dataset:
-        #     for task in dataset:
         task_id = task["task_id"]
         prompt = task["prompt"]
         expected = task["expected_answer"]
@@ -279,25 +302,21 @@ def process_model(args):
             {
                 "task_id": task_id,
                 "prompt": prompt,
-                "expected":expected,
+                "expected": expected,
                 "predicted": predicted,
                 "correct": correct,
                 "score": score,
                 "metric": metric,
-
                 "latency_ms": resp["latency_ms"],
                 "memory_peak_mb": resp["memory_peak_mb"],
                 "prompt_tokens": resp["prompt_tokens"],
                 "completion_tokens": resp["completion_tokens"],
                 "total_tokens": resp["total_tokens"],
                 "throughput_tps": resp["throughput_tps"],
-
-                # reference counts (comparable)
                 "ref_prompt_tokens": resp["ref_prompt_tokens"],
                 "ref_completion_tokens": resp["ref_completion_tokens"],
                 "ref_total_tokens": resp["ref_total_tokens"],
                 "ref_throughput_tps": resp["ref_throughput_tps"],
-
                 "success": resp["success"],
             }
         )

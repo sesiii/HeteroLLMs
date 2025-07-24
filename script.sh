@@ -1,82 +1,100 @@
-#!/usr/bin/env bash
-###############################################################################
-# Universal parallel benchmark runner
-# Creates     Results1/Mathematics/<model>/iter_<n>.json
-###############################################################################
+#!/bin/bash
 
-# --- configuration -----------------------------------------------------------
-ITERATIONS=${1:-5}
-SCRIPT_DIR="/home/dadi/Desktop/Ericsson/ER/agentic-ai/experiments/HeteroLLMs"
-PYTHON_SCRIPT="test_script.py"
-DATASET_PATH="datasets/Domain/Mathematics/ref.json"
-RESULTS_ROOT="Results1/Mathematics"
-LOG_FILE="logs/Mathematics/run_parallel_ref.log"
-OLLAMA_API="http://127.0.0.1:11434"
-# model list (must match Python CONFIG['MODELS'])
-MODELS=( "qwen2.5_1.5B" "llama3.2_1B" )
+if [ "$#" -lt 3 ]; then
+    echo "Usage: $0 <num_iterations> <domain_name> <test_file> [model_name]"
+    echo "Example: $0 5 Mathematics test_algebra qwen2.5:1.5b"
+    echo "Example: $0 5 Mathematics test_algebra all"
+    exit 1
+fi
 
-# --- helpers -----------------------------------------------------------------
-die() { echo "$*" >&2; exit 1; }
+NUM_ITERATIONS=$1
+DOMAIN=$2
+TEST_FILE=$3
+MODEL_NAME=${4:-all}
 
-# --- sanity checks -----------------------------------------------------------
-[[ "$ITERATIONS" =~ ^[1-9][0-9]*$ ]] || die "Need a positive integer for iterations"
-cd "$SCRIPT_DIR" || die "Directory $SCRIPT_DIR not found"
-[[ -f "$PYTHON_SCRIPT" ]]   || die "$PYTHON_SCRIPT missing"
-[[ -f "$DATASET_PATH" ]]    || die "$DATASET_PATH missing"
-
-# --- prepare filesystem ------------------------------------------------------
-mkdir -p "logs/Mathematics"
-for m in "${MODELS[@]}"; do
-    mkdir -p "$RESULTS_ROOT/$m"
+TEST_SCRIPT="test_script.py"
+EVALUATE_SCRIPT="evaluate_results.py"
+AGGREGATE_SCRIPT="aggregate_results.py"
+for SCRIPT in "$TEST_SCRIPT" "$EVALUATE_SCRIPT" "$AGGREGATE_SCRIPT"; do
+    if [ ! -f "$SCRIPT" ]; then
+        echo "Error: $SCRIPT not found"
+        exit 1
+    fi
 done
-chmod u+rwx "$RESULTS_ROOT" "logs/Mathematics"
 
-# --- start log ---------------------------------------------------------------
-echo "$(date '+%F %T') Starting $ITERATIONS iterations for ${MODELS[*]}" | tee -a "$LOG_FILE"
+mkdir -p "datasets/Domain/$DOMAIN"
+mkdir -p "Final_Results/$DOMAIN/evaluated"
+mkdir -p "logs/Domain/$DOMAIN"
 
-# --- Ollama tuning -----------------------------------------------------------
-export OLLAMA_MAX_LOADED_MODELS=2
-export OLLAMA_NUM_PARALLEL=1
+# Define available models
+MODELS=("qwen2.5:1.5b" "llama3.2:1b")
 
-# --- main loop ---------------------------------------------------------------
-for ((i=1; i<=ITERATIONS; i++)); do
-    echo "===== Iteration $i =====" | tee -a "$LOG_FILE"
+# Function to run test script for a single model
+run_test_for_model() {
+    local model=$1
+    for ((i=1; i<=NUM_ITERATIONS; i++))
+    do
+        echo "Running iteration $i of $NUM_ITERATIONS for model $model in domain $DOMAIN with test file $TEST_FILE..."
+        python3 $TEST_SCRIPT --iteration $i --model "$model" --domain "$DOMAIN" --test-file "$TEST_FILE"
+        if [ $? -ne 0 ]; then
+            echo "Error: Iteration $i failed for model $model"
+            exit 1
+        fi
+        echo "Completed iteration $i for model $model"
+    done
+}
 
-    # basic resource snapshot
-    { echo "Memory:"; free -m; echo "Top:"; top -bn1 | head -5; } >> "$LOG_FILE"
+# Function to run evaluation script for a single model
+run_evaluation_for_model() {
+    local model=$1
+    for ((i=1; i<=NUM_ITERATIONS; i++))
+    do
+        echo "Evaluating iteration $i of $NUM_ITERATIONS for model $model in domain $DOMAIN with test file $TEST_FILE..."
+        python3 $EVALUATE_SCRIPT --iteration $i --model "$model" --domain "$DOMAIN" --test-file "$TEST_FILE"
+        if [ $? -ne 0 ]; then
+            echo "Error: Evaluation failed for iteration $i of model $model"
+            exit 1
+        fi
+        echo "Completed evaluation for iteration $i of model $model"
+    done
+}
 
-    # restart Ollama cleanly
-    pkill -f ollama 2>/dev/null || true
-    rm -rf ~/.ollama/models/cache/*
-    ollama serve >/dev/null 2>&1 &
-    sleep 5
-    curl -s --connect-timeout 5 "$OLLAMA_API" >/dev/null || \
-        die "Ollama not reachable at $OLLAMA_API"
+# Function to run aggregation script for a single model
+run_aggregation_for_model() {
+    local model=$1
+    echo "Aggregating results for $NUM_ITERATIONS iterations in domain $DOMAIN with test file $TEST_FILE for model $model..."
+    python3 $AGGREGATE_SCRIPT --domain "$DOMAIN" --test-file "$TEST_FILE" --iterations "$NUM_ITERATIONS" --model "$model"
+    if [ $? -ne 0 ]; then
+        echo "Error: Aggregation failed for $model"
+        exit 1
+    fi
+    echo "Completed aggregation for $model"
+}
 
-    # run Python script once
-    python3 "$PYTHON_SCRIPT" --iteration "$i" \
-        >"logs/Mathematics/iter_${i}.stdout" \
-        2>"logs/Mathematics/iter_${i}.stderr"
-
-    # verify per-model outputs
-    for m in "${MODELS[@]}"; do
-        out_file="$RESULTS_ROOT/$m/ref_results_iter_${i}.json"
-        if [[ -f "$out_file" ]]; then
-            echo "✓ $out_file"
-        else
-            echo "✗ Missing: $out_file" | tee -a "$LOG_FILE"
-            cat "logs/Mathematics/iter_${i}.stderr" >> "$LOG_FILE"
+# Run tests, evaluation, and aggregation based on model selection
+if [ "$MODEL_NAME" = "all" ]; then
+    for MODEL in "${MODELS[@]}"; do
+        run_test_for_model "$MODEL"
+        run_evaluation_for_model "$MODEL"
+        run_aggregation_for_model "$MODEL"
+    done
+else
+    # Validate model name
+    VALID_MODEL=false
+    for MODEL in "${MODELS[@]}"; do
+        if [ "$MODEL" = "$MODEL_NAME" ]; then
+            VALID_MODEL=true
+            break
         fi
     done
+    if [ "$VALID_MODEL" = false ]; then
+        echo "Error: Invalid model name $MODEL_NAME. Available models: ${MODELS[*]}"
+        exit 1
+    fi
+    
+    run_test_for_model "$MODEL_NAME"
+    run_evaluation_for_model "$MODEL_NAME"
+    run_aggregation_for_model "$MODEL_NAME"
+fi
 
-    sleep 10   # small cooldown
-done
-
-# # --- aggregation -------------------------------------------------------------
-# echo "$(date '+%F %T') Aggregating results" | tee -a "$LOG_FILE"
-# python3 aggregate_results.py >> "$LOG_FILE" 2>&1 || \
-#     die "Aggregation failed"
-
-# --- cleanup -----------------------------------------------------------------
-rm -f logs/Mathematics/iter_{1..$ITERATIONS}.{stdout,stderr}
-echo "All iterations completed. Logs → $LOG_FILE"
+echo "All iterations, evaluations, and aggregations completed successfully"

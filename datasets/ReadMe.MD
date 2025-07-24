@@ -5,105 +5,104 @@ Below is the directory structure for the datasets used in the experiments, organ
 ```plaintext
 Domain/
 ├── Coding
-│   ├── test_data-science.json
-│   ├── test_java.json
-│   └── test_python.json
+│   ├── test_data-science.json 1000
+│   ├── test_java.json 1357
+│   └── test_python.json 1138
 ├── Finance
-│   ├── test_accounting.json
-│   ├── test_business-overview.json
-│   ├── test_corporate-finance.json
-│   ├── test_economics.json
-│   ├── test_financial-analysis.json
-│   └── test_sentiment-analysis.json
+│   ├── test_accounting.json 7
+│   ├── test_business-overview.json 1
+│   ├── test_corporate-finance.json 166
+│   ├── test_economics.json 45
+│   ├── test_financial-analysis.json 901
+│   └── test_sentiment-analysis.json 1000
 ├── General-Knowledge
-│   ├── test_current.json
-│   ├── test_general-knowledge.json
-│   ├── test_history.json
-│   ├── test_nutrition.json
-│   ├── test_science.json
-│   ├── test_sexuality.json
-│   └── test_us-history.json
+│   ├── test_current.json 10
+│   ├── test_general-knowledge.json 2865
+│   ├── test_history.json 13
+│   ├── test_nutrition.json 15
+│   ├── test_science.json 6
+│   ├── test_sexuality.json 10
 ├── Law
-│   ├── test_global-justice.json
-│   ├── test_law.json
-│   ├── test_legal-general.json
-│   ├── test_property-law.json
-│   ├── test_public-relations.json
-│   ├── test_security-studies.json
-│   └── test_torts.json
+│   ├── test_global-justice.json 2
+│   ├── test_law.json 79
+│   ├── test_legal-general.json 90
+│   ├── test_property-law.json 6
+│   ├── test_public-relations.json 3
+│   ├── test_security-studies.json 16
+│   └── test_torts.json 12
 ├── Mathematics
 │   ├── ref.json
 │   ├── sample_test.json
-│   ├── test_algebra.json
-│   ├── test_arithmetic.json
-│   ├── test_calculus.json
-│   ├── test_combinatorial-probability.json
-│   ├── test_combinatorics.json
-│   ├── test_complex-numbers.json
-│   ├── test_differential-equations.json
-│   ├── test_elementary-maths.json
-│   ├── test_geometry.json
-│   ├── test_logarithms.json
-│   ├── test_logical.json
-│   ├── test_number-theory.json
-│   ├── test_probability.json
-│   ├── test_statistics.json
-│   └── test_wp.json
+│   ├── test_algebra.json 311
+│   ├── test_arithmetic.json 1065
+│   ├── test_calculus.json 40
+│   ├── test_combinatorial-probability.json 35
+│   ├── test_combinatorics.json 12
+│   ├── test_complex-numbers.json 1
+│   ├── test_differential-equations.json 24
+│   ├── test_elementary-maths.json 36
+│   ├── test_geometry.json 46
+│   ├── test_logarithms.json 2
+│   ├── test_logical-reasoning.json 8
+│   ├── test_number-theory.json 46
+│   ├── test_probability.json 8
+│   ├── test_statistics.json 8
+│   └── test_wp.json 150
 ├── Medical
-│   ├── test_anaesthesia.json
-│   ├── test_anatomy.json
-│   ├── test_biology.json
-│   ├── test_cell-biology.json
-│   ├── test_clinical-diagnosis.json
-│   ├── test_clinical-medicine.json
-│   ├── test_dental.json
-│   ├── test_heptalogy.json
-│   ├── test_medical-general.json
-│   ├── test_microbiology.json
-│   ├── test_nephrology.json
-│   ├── test_neurology.json
-│   ├── test_obstetrics.json
-│   ├── test_oncology.json
-│   ├── test_orthopedics.json
-│   ├── test_orthopedic-surgery.json
-│   ├── test_pathophysiology.json
-│   ├── test_pediatrics.json
-│   ├── test_pharmacology.json
-│   ├── test_physiology.json
-│   ├── test_social-physcology.json
-│   └── test_surgery.json
+│   ├── test_anaesthesia.json 9
+│   ├── test_anatomy.json 43
+│   ├── test_biology.json 238
+│   ├── test_cell-biology.json 3
+│   ├── test_clinical-diagnosis.json 214
+│   ├── test_clinical-medicine.json 88
+│   ├── test_dental.json 311
+│   ├── test_heptalogy.json 1
+│   ├── test_medical-general.json 1107
+│   ├── test_microbiology.json 49
+│   ├── test_nephrology.json 1
+│   ├── test_neurology.json 31
+│   ├── test_obstetrics.json 62
+│   ├── test_oncology.json 3
+│   ├── test_orthopedics.json 7
+│   ├── test_orthopedic-surgery.json 3
+│   ├── test_pathophysiology.json 29
+│   ├── test_pediatrics.json 1
+│   ├── test_pharmacology.json 271
+│   ├── test_physiology.json 54
+│   ├── test_social-physcology.json 4
+│   └── test_surgery.json 94
 ├── Research
-│   ├── test_dataanalysis.json
-│   ├── test_ethics.json
-│   ├── test_experimental.json
-│   ├── test_literature.json
-│   ├── test_machine-learning.json
-│   ├── test_neural-networks.json
-│   └── test_statistical.json
+│   ├── test_dataanalysis.json 9
+│   ├── test_ethics.json 6
+│   ├── test_experimental.json 6
+│   ├── test_literature.json 6
+│   ├── test_machine-learning.json 8
+│   ├── test_neural-networks.json 2
+│   └── test_statistical.json 6
 └── Science
-    ├── test_astrophysics.json
-    ├── test_classical-mechanics.json
-    ├── test_condensed-matter-physics.json
-    ├── test_electrical-engineering.json
-    ├── test_electromagnetism.json
-    ├── test_electrostatistics.json
-    ├── test_general-chemistry.json
-    ├── test_general-physics.json
-    ├── test_general-science.json
-    ├── test_genetics.json
-    ├── test_mechanics.json
-    ├── test_medicinal-chemistry.json
-    ├── test_molecular-biology.json
-    ├── test_nuclear-physics.json
-    ├── test_organic-chemistry.json
-    ├── test_organic-synthesis.json
-    ├── test_physical-chemistry.json
-    ├── test_protein-biochemistry.json
-    ├── test_quantum-chemistry.json
-    ├── test_quantum-mechanics.json
-    ├── test_relativistic-mechanics.json
-    ├── test_statistical-mechanics.json
-    └── test_thermodynamics.json
+    ├── test_astrophysics.json 40
+    ├── test_classical-mechanics.json 30
+    ├── test_condensed-matter-physics.json 103
+    ├── test_electrical-engineering.json 6
+    ├── test_electromagnetism.json 1
+    ├── test_electrostatistics.json 30
+    ├── test_general-chemistry.json 486
+    ├── test_general-physics.json 247
+    ├── test_general-science.json 659
+    ├── test_genetics.json 16
+    ├── test_mechanics.json 15
+    ├── test_medicinal-chemistry.json 182
+    ├── test_molecular-biology.json 62
+    ├── test_nuclear-physics.json 1
+    ├── test_organic-chemistry.json 200
+    ├── test_organic-synthesis.json 106
+    ├── test_physical-chemistry.json 13
+    ├── test_protein-biochemistry.json 9
+    ├── test_quantum-chemistry.json 13
+    ├── test_quantum-mechanics.json 78
+    ├── test_relativistic-mechanics.json 9
+    ├── test_statistical-mechanics.json 4
+    └── test_thermodynamics.json 50
 ```
 
 ### Summary:
