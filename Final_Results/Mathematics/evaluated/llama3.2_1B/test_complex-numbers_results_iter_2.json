@@ -1,0 +1,24 @@
+[
+  {
+    "task_id": "MATH_008",
+    "prompt": "Let $k$ be real numbers such that the system $|25+20i-z|=5$ and $|z-4-k|=|z-3i-k|$ has exactly one complex solution $z$. The sum of all possible values of $k$ can be written as $\\frac{m}{n}$, where $m$ and $n$ are relatively prime positive integers. Find $m+n$. Here $i=\\sqrt{-1}$.",
+    "expected": "77",
+    "predicted": "## Step 1: Understand the given problem\nWe need to find real numbers $k$ that satisfy the system of equations involving complex numbers, with exactly one solution for $z$. Then we must calculate the sum of all possible values of $k$, expressed as a fraction $\\frac{m}{n}$ where $m$ and $n$ are relatively prime positive integers.\n\n## Step 2: Represent z in terms of k\nLet's express $z$ as $x + yi$, where $x$ and $y$ are real numbers. Then we can rewrite the given equations as a system of two equalities involving $x$, $y$, and $k$: \n\n\\begin{align*}\n25+20i-(x+yi)&=5,\\\\\n(x-4-yi)-(x+yi)=|z-3i-k|\n\\end{align*}\n\n## Step 3: Simplify the first equation in terms of x and y\nFrom the first equation, we have $30 = x - y$.\n\n## Step 4: Substitute the value of x into the second equation to obtain an expression for y\nWe substitute $x=30-y$ into the second equation. \n\n\\begin{align*}\n(30-y-4-yi)-(x+yi)&=|z-3i-k|\\\\\n(30-y)-y-(i+y)&=|z-3i-k|\n\\end{align*}\n\n## Step 5: Simplify and express z in terms of k from the above equation\nSubstituting $x=y$ into the simplified second equation, we get:\n\n$$-2y = |z-3i-k|.$$\n\nNow let's rewrite this as $$2y = \\Re(z - 3i - k).$$\n\n## Step 6: Use the expression for x to find y\nSubstituting $x=30-y$ into the above equation, we have:\n\n\\begin{align*}\n2y&=\\Re(25+20i-(30-y)-3i-k)\\\\\n2y&=\\Re(25-30+y-i-k)\n\\end{align*}\n\n## Step 7: Express Re(z - 3i - k) in terms of x and y\nWe can rewrite the real part $\\Re((x-4-yi)-(z-3i-k))$ as:\n\n$$\\Re(x-4-yi-z+3i+k)=\\Re((30-y)-4-(y+i)-k).$$\n\n## Step 8: Expand Re(z - 3i - k) using the given expression for z in terms of x and y\nSubstituting $z=x + yi$, we get:\n\n$$\\Re(x-4-yi-z+3i+k)=\\Re(30-y-4-(y+i)-k).$$\n\n## Step 9: Simplify Re(z - 3i - k) further\nSimplifying the above equation, we have:\n\n$$\\Re(-3-2y+k).$$\n\n\n## Step 10: Express |z-3i-k| as a complex number in terms of x and y\nWe can rewrite $|\\Re(z - 3i - k)|$ using the expression for $\\Re((x-4-yi)-(z-3i-k))$. We obtain:\n\n$$\\sqrt{(-3+2y)^2+(k-30+y)^2}.$$\n\n## Step 11: Substitute Re(-3 - 2y + k) = | z - 3i - k |\nWe now substitute $\\Re(-3-2y+k)$ with $|z-3i-k|$:\n\n$$\\sqrt{(-3+2y)^2+(k-30+y)^2}=\\sqrt{9-12y+4y^2+(k-30)^2+y^2}.$$\n\n## Step 12: Set up the equation using z and k\nUsing $z=x + yi$, we can rewrite this as:\n\n$$\\sqrt{(x-30)^2+(y+3)^2}=\\sqrt{x^2 -60xy + y^2  +k^2 -60ky +900 +100y  }.$$\n\n\n## Step 13: Square both sides of the equation\nSquaring both sides, we get:\n\n\\begin{align*}\n(x-30)^2+(y+3)^2&=(x^2-60xy+y^2+k^2-60ky+900+100y)\\\\\nx^2 -60xy + y^2  &=x^2 -60xy + y^2  + k^2 -60ky +900 +100y\n\\end{align*}\n\n## Step 14: Simplify and solve for $k$\nSimplifying, we get:\n\n$$0=k^2-100y+900.$$\n\n## Step 15: Find the sum of all possible values of k\nSince there are two solutions, we can find that $k = \\pm\\sqrt{1000}$. Thus the answer is $\\frac{1000}{1}$.\n\nThe final answer is: $\\boxed{1001}$",
+    "correct": false,
+    "score": 0.0,
+    "metric": "exact_match",
+    "latency_ms": 36467.087507247925,
+    "memory_peak_mb": 47.02734375,
+    "prompt_tokens": 119,
+    "completion_tokens": 1076,
+    "total_tokens": 1195,
+    "throughput_tps": 32.76927447969325,
+    "ref_prompt_tokens": 104,
+    "ref_completion_tokens": 1196,
+    "ref_total_tokens": 1300,
+    "ref_throughput_tps": 35.64858311598429,
+    "success": true,
+    "evaluation_reasoning": "The predicted answer is 1001, which is the sum of all possible values of k. The expected answer is 77.",
+    "extracted_answer": 1001
+  }
+]

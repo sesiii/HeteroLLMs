@@ -1,0 +1,24 @@
+[
+  {
+    "task_id": "MATH_008",
+    "prompt": "Let $k$ be real numbers such that the system $|25+20i-z|=5$ and $|z-4-k|=|z-3i-k|$ has exactly one complex solution $z$. The sum of all possible values of $k$ can be written as $\\frac{m}{n}$, where $m$ and $n$ are relatively prime positive integers. Find $m+n$. Here $i=\\sqrt{-1}$.",
+    "expected": "77",
+    "predicted": "To solve the given system of equations involving complex numbers, we need to analyze the conditions provided:\n\n1. The first equation is \\( |25 + 20i - z| = 5 \\). This represents a circle in the complex plane with center at \\(25 + 20i\\) and radius 5.\n\n2. The second condition is that there are exactly one solution to the system of equations:\n   - \\( |z - 4 - k| = |z - 3i - k| \\)\n   \nLet's start by analyzing these conditions step-by-step:\n\n1. **Identifying the Circle:**\n   Let \\( z = x + yi \\), where \\( x, y \\) are real numbers.\n   \n2. **Rewriting the Circle Equation:**\n   The equation \\( |25 + 20i - z| = 5 \\) translates to:\n   \\[\n   |(x - 25) + (y - 20)i| = 5\n   \\]\n   This is a circle in the complex plane centered at \\(25 + 20i\\) with radius 5.\n\n3. **Analyzing the Second Condition:**\n   The second condition states that there are exactly one solution:\n   - \\( |z - (4 + k)| = |z - (3i + k)| \\)\n   \nThis can be rewritten as a circle in the complex plane centered at \\(4 + k\\) and radius 1, intersecting with the first circle.\n\n4. **Finding Intersection Points:**\n   To find the intersection of these two circles, we equate their equations:\n   - The center-to-center distance between the two centers must equal the sum or difference of their radii.\n   \nThe radii are both 5 and \\( \\sqrt{(1+1)^2} = 1\\). \n   \nWe solve for when the circle centered at \\(4+k\\) intersects with the circle centered at \\(25 + 20i\\) inside each other.\n\n5. **Calculating Intersection Points:**\n   We need to calculate where these circles intersect and ensure that they are exactly one solution:\n   - The points of intersection can be found by solving this equation system.\n   \nLet's set up and solve it:\n\n\\[ \n(x - 25) \\sqrt{(y - 16)^2 + (x - 30)^2} = x^2 + y^2 - 49 \n\\]\n\nThis is a complicated geometric problem that typically requires numerical or algebraic methods to solve exactly. However, we need the value of \\(k\\) such that there's exactly one intersection point for each circle.\n\nLet's use another approach: \n\n6. **Simplifying Using Geometric Insight:**\n   The center-to-center distance between the centers of the circles is:\n   \n   \\[\n   25 + 16 = 41\n   \\]\n\nThe radii are \\(5\\) and \\(1\\). The sum of distances equals the length of a diameter, so we need:\n\n7. **Intersection Condition:**\n   For there to be exactly one intersection point per circle:\n   - One radius must touch the other perfectly.\n   \nThis condition implies that:\n- \\(k = 20 \\) (the center point difference between \\(4 + k\\) and \\(25 + 20i\\))\n- Or \\(k = 30\\).\n\n8. **Finding Sum of Possible Values:**\n   Adding these values, we get:\n   \n   \\[\n   20 + 30 = 50\n   \\]\n\n9. **Expressing as Fraction:**\n    We need to express the sum in a simplified fraction form. Since \\(m = 50\\) and \\(n = 1\\), it is already in its simplest form.\n\nFinally, the answer is:\n\n\\[ \n\\boxed{50}\n\\]",
+    "correct": false,
+    "score": 0.0,
+    "metric": "exact_match",
+    "latency_ms": 20313.175201416016,
+    "memory_peak_mb": 46.77734375,
+    "prompt_tokens": 125,
+    "completion_tokens": 807,
+    "total_tokens": 932,
+    "throughput_tps": 45.88155178886219,
+    "ref_prompt_tokens": 104,
+    "ref_completion_tokens": 891,
+    "ref_total_tokens": 995,
+    "ref_throughput_tps": 48.98298715656424,
+    "success": true,
+    "evaluation_reasoning": "The predicted answer is the sum of possible values of k, which is 50.",
+    "extracted_answer": 50
+  }
+]

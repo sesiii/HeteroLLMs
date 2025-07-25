@@ -1,0 +1,18 @@
+{
+  "model_name": "qwen2.5:1.5b",
+  "domain": "Mathematics",
+  "test_file": "test_complex-numbers",
+  "total_iterations": 2,
+  "metrics": {
+    "accuracy_percent": 0.0,
+    "avg_latency_ms": 19768.52285861969,
+    "avg_memory_peak_mb": 46.78125,
+    "avg_throughput_tps": 46.08907995909466,
+    "total_tokens": 1822,
+    "avg_ref_throughput_tps": 47.69181630376515,
+    "total_ref_tokens": 1887,
+    "total_tasks": 2,
+    "successful_tasks": 2,
+    "correct_tasks": 0
+  }
+}

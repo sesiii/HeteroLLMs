@@ -1,0 +1,22 @@
+[
+  {
+    "task_id": "MATH_008",
+    "prompt": "Let $k$ be real numbers such that the system $|25+20i-z|=5$ and $|z-4-k|=|z-3i-k|$ has exactly one complex solution $z$. The sum of all possible values of $k$ can be written as $\\frac{m}{n}$, where $m$ and $n$ are relatively prime positive integers. Find $m+n$. Here $i=\\sqrt{-1}$.",
+    "expected": "77",
+    "predicted": "## Step 1: Analyze the given system of equations\nThe system consists of two absolute value equations involving complex numbers.\n\n## Step 2: Write out the first equation explicitly\nWe start by writing the first equation as $25+20i-z=5$ or $z = 25 + 20i - 5 = 20 + 20i$.\n\n## Step 3: Write out the second equation explicitly\nThe second equation can be written as $|z-4-k|=|z-3i-k|$ which is equivalent to $(x+yi-(4+k)) \\cdot (x^2+y^2) = z\\bar{z}$, where $\\overline{x} + yi$ denotes the complex conjugate of $x + yi$. Therefore, we have\n\\begin{align*}\n(x+yi - 4 - k)(x^2 + y^2)&=x^2 + y^2,\n\\end{align*}\nwhich simplifies to $y^2 - x^2 = (k-4)x$.\n\n## Step 4: Solve for k\nThis equation implies that the imaginary part of $(k-4)x$ must be zero. Thus, we must have $\\frac{k-4}{x}=\\pm \\frac{1}{i}$ or $-\\frac{x}{i}-\\frac{1}{2}=0$, giving us $x = - \\frac{i}{2}, k=3+i$. We then need to check the case when $(k-4)x=0$ and solve for $y^2$.\n\n## Step 5: Solve for k (continued)\nWhen we set $k-4=x$, we have\n\\begin{align*}\nx^2 + y^2 &= x^2+y^2,\\\\\n(k-4)^2+y^2 &= k^2+8k.\n\\end{align*}\n\n## Step 6: Solve for k (continued)\nExpanding and simplifying this equation gives us $16y^2 -8kx + 64 =0$. Rearranging terms, we have $(k-4)^2+y^2=64/25$ or $|z|^2=(5/5)^2$, so $|z|=5/5=\\boxed{1}$.\n\n## Step 7: Calculate the sum of all possible values of k\nSince the equation in step 6 has only one solution for z, then we know that k = 3 and -7 are the solutions to our original system. The problem asks us to find the sum of these two solutions as $\\frac{m}{n}$.\n\n## Step 8: Calculate m + n\nThus, $m+n=3+(-7)=-4$.\n\n\nThe final answer is: $\\boxed{-4}$",
+    "correct": false,
+    "score": 0.0,
+    "metric": "exact_match",
+    "latency_ms": 23656.18634223938,
+    "memory_peak_mb": 46.8125,
+    "prompt_tokens": 119,
+    "completion_tokens": 586,
+    "total_tokens": 705,
+    "throughput_tps": 29.80192960101878,
+    "ref_prompt_tokens": 104,
+    "ref_completion_tokens": 637,
+    "ref_total_tokens": 741,
+    "ref_throughput_tps": 31.323730261496337,
+    "success": true
+  }
+]
