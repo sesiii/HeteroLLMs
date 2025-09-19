@@ -107,4 +107,4 @@ Developed as part of an AI Research Internship at **Ericsson Research**.
 
 ---
 
-**Disclaimer:** This project is a research prototype. The code and models are intended for experimental use.
+**Disclaimer:** This project is a research prototype. The code and models are intended for experimental use. Unauthorized use or reproduction is prohibited.
