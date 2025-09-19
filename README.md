@@ -1,3 +1,4 @@
+
 # Heterogeneous Multi-Agent System with Dynamic LLM Selection
 
 ![License](https://img.shields.io/badge/License-MIT-blue.svg) [![Multi-Agent Systems](https://img.shields.io/badge/Field-Multi--Agent_Systems-green)](https://github.com/topics/multi-agent-systems) [![LLM](https://img.shields.io/badge/Technology-LLM-orange)](https://github.com/topics/llm)
@@ -52,6 +53,8 @@ The **MCP server** acts as the central knowledge base for the orchestrator, host
 *   **Function:** The orchestrator agent queries the MCP server via tool calls to access the latest performance data before making a selection.
 
 ## 🚀 Architecture & Workflow
+
+![System Architecture](https://github.com/sesiii/HeteroLLMs/blob/main/architecture.png)
 
 ### High-Level Agent Workflow
 1.  **Receive Input:** The MAS receives a user query.
@@ -108,3 +111,4 @@ Developed as part of an AI Research Internship at **Ericsson Research**.
 ---
 
 **Disclaimer:** This project is a research prototype. The code and models are intended for experimental use. Unauthorized use or reproduction is prohibited.
+
