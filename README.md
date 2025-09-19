@@ -67,7 +67,6 @@ The **MCP server** acts as the central knowledge base for the orchestrator, host
 ### Integration with MAS
 The dynamic selector seamlessly integrates into existing MAS topologies (e.g., `X-MAS-Proto`), intercepting tasks and assigning the best LLM for each step in a pipeline (Planning → QA → Revision → Aggregation → Evaluation).
 
-*(Insert schematic diagrams from your report here, e.g., `Figure 3: Agent Workflow`, `Figure 4: MAS Integration`)*
 
 ## 📊 Comparative Analysis: Agentic AI vs. Multi-Armed Bandits (MAB)
 
