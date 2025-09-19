@@ -1,7 +1,3 @@
-Of course. Here is a professional and well-structured `README.md` file crafted from your report. It is designed to be clear, informative, and engaging for visitors to your GitHub repository.
-
----
-
 # Heterogeneous Multi-Agent System with Dynamic LLM Selection
 
 ![License](https://img.shields.io/badge/License-MIT-blue.svg) [![Multi-Agent Systems](https://img.shields.io/badge/Field-Multi--Agent_Systems-green)](https://github.com/topics/multi-agent-systems) [![LLM](https://img.shields.io/badge/Technology-LLM-orange)](https://github.com/topics/llm)
